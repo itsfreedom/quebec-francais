@@ -104,6 +104,8 @@ export default (() => {
             return resource
           }
         })}
+        <style dangerouslySetInnerHTML={{ __html: "a[href$='.m4a']{cursor:pointer;text-decoration:none;border-radius:4px;padding:0 2px}a[href$='.m4a']:hover{background:var(--highlight)}a.audio-playing{background:var(--textHighlight)}" }} />
+        <script dangerouslySetInnerHTML={{ __html: "(function(){var cur=null,curA=null;function stop(){if(cur){cur.pause();cur=null}if(curA){curA.classList.remove('audio-playing');curA=null}}document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a');if(!a)return;var h=a.getAttribute('href')||'';if(!/\\.(m4a|mp3|wav|ogg)(\\?|#|$)/i.test(h))return;e.preventDefault();e.stopImmediatePropagation();var same=curA===a;stop();if(same)return;var au=new Audio(a.href);cur=au;curA=a;a.classList.add('audio-playing');au.addEventListener('ended',stop);au.play().catch(stop)},true);document.addEventListener('mouseover',function(e){var a=e.target.closest&&e.target.closest('a');if(a&&/\\.(m4a|mp3|wav|ogg)(\\?|#|$)/i.test(a.getAttribute('href')||'')){a.classList.remove('internal');a.removeAttribute('data-no-popover');a.setAttribute('data-no-popover','true')}},true)})();" }} />
       </head>
     )
   }
