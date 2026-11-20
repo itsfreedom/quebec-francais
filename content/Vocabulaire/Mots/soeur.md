@@ -24,7 +24,7 @@ aliases: ["sœur"]
 
 # sœur
 
-[🔊 \[sœʁ\]](_Audio/la-sur-69571e.m4a) 쐬흐
+[🔊 sœʁ](_Audio/la-sur-69571e.m4a) 쐬흐
 
 **la sœur [sœʁ] 쐬흐** — 자매 (언니·누나·여동생)
 

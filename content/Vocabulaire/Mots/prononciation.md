@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # prononciation
 
-[🔊 \[pʁɔnɔ̃sjasjɔ̃\]](_Audio/la-prononciation-86e549.m4a) 프호농씨아씨옹
+[🔊 pʁɔnɔ̃sjasjɔ̃](_Audio/la-prononciation-86e549.m4a) 프호농씨아씨옹
 
 **la prononciation [pʁɔnɔ̃sjasjɔ̃] 프호농씨아씨옹** — 발음
 

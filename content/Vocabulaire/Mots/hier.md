@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # hier
 
-[🔊 \[jɛʁ\]](_Audio/hier-240723.m4a) 이에흐
+[🔊 jɛʁ](_Audio/hier-240723.m4a) 이에흐
 
 **hier [jɛʁ] 이에흐** — 어제
 

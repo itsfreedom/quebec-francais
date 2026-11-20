@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # faire
 
-[🔊 \[fɛʁ\]](_Audio/faire-85be86.m4a) 페흐
+[🔊 fɛʁ](_Audio/faire-85be86.m4a) 페흐
 
 **faire [fɛʁ] 페흐** — 하다, 만들다
 **il fait [il fɛ] 일 페** — 그가 하다 ← faire

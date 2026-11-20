@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # voir
 
-[🔊 \[vwaʁ\]](_Audio/voir-c2679c.m4a) 부아흐
+[🔊 vwaʁ](_Audio/voir-c2679c.m4a) 부아흐
 
 **voir [vwaʁ] 부아흐** — 보다
 **vous voyez [vu vwaje] 부 부아예** — 당신이 보다 / 보세요 ← voir

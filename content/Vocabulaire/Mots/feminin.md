@@ -24,7 +24,7 @@ aliases: ["féminin"]
 
 # féminin
 
-[🔊 \[feminɛ̃\]](_Audio/feminin-a31d54.m4a) 페미낭
+[🔊 feminɛ̃](_Audio/feminin-a31d54.m4a) 페미낭
 
 **féminin (f. féminine) [feminɛ̃] 페미낭** — 여성의
 

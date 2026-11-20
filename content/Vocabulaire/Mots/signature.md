@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # signature
 
-[🔊 \[siɲatyʁ\]](_Audio/la-signature-08256d.m4a) 씨냐뛰흐
+[🔊 siɲatyʁ](_Audio/la-signature-08256d.m4a) 씨냐뛰흐
 
 **la signature [siɲatyʁ] 씨냐뛰흐** — 서명
 

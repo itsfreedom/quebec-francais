@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # tout
 
-[🔊 \[tu\]](_Audio/tout-8fee03.m4a) 뚜
+[🔊 tu](_Audio/tout-8fee03.m4a) 뚜
 
 **tout [tu] 뚜** — 모두, 전부
 

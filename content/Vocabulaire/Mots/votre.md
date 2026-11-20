@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # votre
 
-[🔊 \[vɔtʁ\]](_Audio/votre-8982fd.m4a) 보트흐
+[🔊 vɔtʁ](_Audio/votre-8982fd.m4a) 보트흐
 
 **votre [vɔtʁ] 보트흐** — 당신의
 

@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # origine
 
-[🔊 \[ɔʁiʒin\]](_Audio/l-origine-39dc38.m4a) 오히진
+[🔊 ɔʁiʒin](_Audio/l-origine-39dc38.m4a) 오히진
 
 **l'origine (f) [ɔʁiʒin] 오히진** — 출신
 

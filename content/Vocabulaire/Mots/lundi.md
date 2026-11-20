@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # lundi
 
-[🔊 \[lœ̃di\]](_Audio/le-lundi-7499e0.m4a) 랑디
+[🔊 lœ̃di](_Audio/le-lundi-7499e0.m4a) 랑디
 
 **le lundi [lœ̃di] 랑디** — 월요일
 

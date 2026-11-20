@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # merci
 
-[🔊 \[mɛʁsi\]](_Audio/merci-8e105c.m4a) 메흐씨
+[🔊 mɛʁsi](_Audio/merci-8e105c.m4a) 메흐씨
 
 **merci [mɛʁsi] 메흐씨** — 고마워요
 

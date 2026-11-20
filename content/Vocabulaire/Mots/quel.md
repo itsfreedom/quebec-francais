@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # quel
 
-[🔊 \[kɛl\]](_Audio/quel-4e1555.m4a) 껠
+[🔊 kɛl](_Audio/quel-4e1555.m4a) 껠
 
 **quel (f. quelle) [kɛl] 껠** — 어느, 무슨
 

@@ -24,7 +24,7 @@ aliases: ["zéro"]
 
 # zéro
 
-[🔊 \[zeʁo\]](_Audio/zero-9b9a02.m4a) 제호
+[🔊 zeʁo](_Audio/zero-9b9a02.m4a) 제호
 
 **zéro [zeʁo] 제호** — 0
 

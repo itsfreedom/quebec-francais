@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # chiffre
 
-[🔊 \[ʃifʁ\]](_Audio/le-chiffre-65a851.m4a) 시프흐
+[🔊 ʃifʁ](_Audio/le-chiffre-65a851.m4a) 시프흐
 
 **le chiffre [ʃifʁ] 시프흐** — 숫자 (0~9 한 자리)
 

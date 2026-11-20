@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # nous
 
-[🔊 \[nu\]](_Audio/nous-23300e.m4a) 누
+[🔊 nu](_Audio/nous-23300e.m4a) 누
 
 **nous [nu] 누** — 우리는
 

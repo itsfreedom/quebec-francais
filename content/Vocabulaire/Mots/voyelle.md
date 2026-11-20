@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # voyelle
 
-[🔊 \[vwajɛl\]](_Audio/la-voyelle-4e750f.m4a) 부아옐
+[🔊 vwajɛl](_Audio/la-voyelle-4e750f.m4a) 부아옐
 
 **la voyelle [vwajɛl] 부아옐** — 모음
 

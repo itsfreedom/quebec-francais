@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # nombre
 
-[🔊 \[nɔ̃bʁ\]](_Audio/le-nombre-8a6be0.m4a) 농브흐
+[🔊 nɔ̃bʁ](_Audio/le-nombre-8a6be0.m4a) 농브흐
 
 **le nombre [nɔ̃bʁ] 농브흐** — 수
 

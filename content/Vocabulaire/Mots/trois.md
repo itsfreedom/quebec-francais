@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # trois
 
-[🔊 \[tʁwa\]](_Audio/trois-df8091.m4a) 트후아
+[🔊 tʁwa](_Audio/trois-df8091.m4a) 트후아
 
 **trois [tʁwa] 트후아** — 3
 

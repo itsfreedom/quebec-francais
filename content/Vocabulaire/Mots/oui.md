@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # oui
 
-[🔊 \[wi\]](_Audio/oui-b2a5ab.m4a) 위
+[🔊 wi](_Audio/oui-b2a5ab.m4a) 위
 
 **oui [wi] 위** — 네
 

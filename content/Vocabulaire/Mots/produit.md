@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # produit
 
-[🔊 \[pʁɔdɥi\]](_Audio/le-produit-a95543.m4a) 프호뒤
+[🔊 pʁɔdɥi](_Audio/le-produit-a95543.m4a) 프호뒤
 
 **le produit [pʁɔdɥi] 프호뒤** — 제품
 

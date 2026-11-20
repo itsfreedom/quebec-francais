@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # patron
 
-[🔊 \[patʁɔ̃\]](_Audio/le-patron-136d77.m4a) 빠트홍
+[🔊 patʁɔ̃](_Audio/le-patron-136d77.m4a) 빠트홍
 
 **le patron (f. patronne) [patʁɔ̃] 빠트홍** — 사장, 상사
 

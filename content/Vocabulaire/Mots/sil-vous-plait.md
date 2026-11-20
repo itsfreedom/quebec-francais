@@ -24,7 +24,7 @@ aliases: ["s'il vous plaît"]
 
 # s'il vous plaît
 
-[🔊 \[sil vu plɛ\]](_Audio/s-il-vous-plait-d3aa36.m4a) 씰 부 쁠레
+[🔊 sil vu plɛ](_Audio/s-il-vous-plait-d3aa36.m4a) 씰 부 쁠레
 
 **s'il vous plaît [sil vu plɛ] 씰 부 쁠레** — 부탁합니다, ~해 주세요
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # vendredi
 
-[🔊 \[vɑ̃dʁədi\]](_Audio/le-vendredi-a8ed86.m4a) 벙드흐디
+[🔊 vɑ̃dʁədi](_Audio/le-vendredi-a8ed86.m4a) 벙드흐디
 
 **le vendredi [vɑ̃dʁədi] 벙드흐디** — 금요일
 

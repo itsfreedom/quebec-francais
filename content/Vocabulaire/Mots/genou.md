@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # genou
 
-[🔊 \[ʒənu\]](_Audio/le-genou-665220.m4a) 즈누
+[🔊 ʒənu](_Audio/le-genou-665220.m4a) 즈누
 
 **le genou [ʒənu] 즈누** — 무릎
 

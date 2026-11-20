@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # janvier
 
-[🔊 \[ʒɑ̃vje\]](_Audio/janvier-76951e.m4a) 장비에
+[🔊 ʒɑ̃vje](_Audio/janvier-76951e.m4a) 장비에
 
 **janvier [ʒɑ̃vje] 장비에** — 1월
 

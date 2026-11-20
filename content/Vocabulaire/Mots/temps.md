@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # temps
 
-[🔊 \[tɑ̃\]](_Audio/le-temps-802f4b.m4a) 떵
+[🔊 tɑ̃](_Audio/le-temps-802f4b.m4a) 떵
 
 **le temps [tɑ̃] 떵** — 시간, 날씨
 

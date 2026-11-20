@@ -24,7 +24,7 @@ aliases: ["secrétaire"]
 
 # secrétaire
 
-[🔊 \[səkʁetɛʁ\]](_Audio/le-la-secretaire-b63979.m4a) 스크헤떼흐
+[🔊 səkʁetɛʁ](_Audio/le-la-secretaire-b63979.m4a) 스크헤떼흐
 
 **le/la secrétaire [səkʁetɛʁ] 스크헤떼흐** — 비서, 사무 직원
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # jeudi
 
-[🔊 \[ʒødi\]](_Audio/le-jeudi-602d7a.m4a) 죄디
+[🔊 ʒødi](_Audio/le-jeudi-602d7a.m4a) 죄디
 
 **le jeudi [ʒødi] 죄디** — 목요일
 

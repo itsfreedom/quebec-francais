@@ -24,7 +24,7 @@ aliases: ["identité"]
 
 # identité
 
-[🔊 \[idɑ̃tite\]](_Audio/l-identite-aa43f7.m4a) 이덩띠떼
+[🔊 idɑ̃tite](_Audio/l-identite-aa43f7.m4a) 이덩띠떼
 
 **l'identité (f) [idɑ̃tite] 이덩띠떼** — 신원, 정체
 

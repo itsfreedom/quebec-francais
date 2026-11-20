@@ -39,7 +39,7 @@ tags: [francisation, word]
 
 # venir
 
-[🔊 \[vəniʁ\]](_Audio/venir-2108a7.m4a) 브니흐
+[🔊 vəniʁ](_Audio/venir-2108a7.m4a) 브니흐
 
 **venir [vəniʁ] 브니흐** — 오다
 **je viens [ʒə vjɛ̃] 즈 비앙** — 나는 온다 ← venir

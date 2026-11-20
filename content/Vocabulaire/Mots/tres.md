@@ -26,7 +26,7 @@ aliases: ["très"]
 
 # très
 
-[🔊 \[tʁɛ\]](_Audio/tres-9a2a96.m4a) 트헤
+[🔊 tʁɛ](_Audio/tres-9a2a96.m4a) 트헤
 
 **très [tʁɛ] 트헤** — 매우, 아주
 

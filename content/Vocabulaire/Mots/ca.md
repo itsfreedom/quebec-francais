@@ -28,7 +28,7 @@ aliases: ["ça"]
 
 # ça
 
-[🔊 \[sa\]](_Audio/ca-25596d.m4a) 싸
+[🔊 sa](_Audio/ca-25596d.m4a) 싸
 
 **ça [sa] 싸** — 그것, 이것
 

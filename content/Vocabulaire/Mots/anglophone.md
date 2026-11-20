@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # anglophone
 
-[🔊 \[ɑ̃glɔfɔn\]](_Audio/anglophone-7b596d.m4a) 앙글로폰
+[🔊 ɑ̃glɔfɔn](_Audio/anglophone-7b596d.m4a) 앙글로폰
 
 **anglophone [ɑ̃glɔfɔn] 앙글로폰** — 영어를 쓰는 (사람)
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # bleu
 
-[🔊 \[blø\]](_Audio/bleu-12bbd9.m4a) 블뢰
+[🔊 blø](_Audio/bleu-12bbd9.m4a) 블뢰
 
 **bleu (f. bleue) [blø] 블뢰** — 파란
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # neuf
 
-[🔊 \[nœf\]](_Audio/neuf-dc0b8b.m4a) 뇌프
+[🔊 nœf](_Audio/neuf-dc0b8b.m4a) 뇌프
 
 **neuf [nœf] 뇌프** — 9
 

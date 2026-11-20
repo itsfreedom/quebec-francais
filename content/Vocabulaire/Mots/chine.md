@@ -24,7 +24,7 @@ aliases: ["Chine"]
 
 # Chine
 
-[🔊 \[ʃin\]](_Audio/la-chine-4b5875.m4a) 신
+[🔊 ʃin](_Audio/la-chine-4b5875.m4a) 신
 
 **la Chine [ʃin] 신** — 중국
 

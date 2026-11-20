@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # remplir
 
-[🔊 \[ʁɑ̃pliʁ\]](_Audio/remplir-8235c8.m4a) 헝쁠리흐
+[🔊 ʁɑ̃pliʁ](_Audio/remplir-8235c8.m4a) 헝쁠리흐
 
 **remplir [ʁɑ̃pliʁ] 헝쁠리흐** — 채우다, 작성하다
 **remplissez [ʁɑ̃plise] 헝쁠리쎄** — 작성하세요 ← remplir

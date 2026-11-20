@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # observer
 
-[🔊 \[ɔpsɛʁve\]](_Audio/observer-dfda0d.m4a) 옵세흐베
+[🔊 ɔpsɛʁve](_Audio/observer-dfda0d.m4a) 옵세흐베
 
 **observer [ɔpsɛʁve] 옵세흐베** — 관찰하다, 잘 보다
 **observez [ɔpsɛʁve] 옵세흐베** — 잘 보세요 ← observer

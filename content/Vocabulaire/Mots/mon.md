@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # mon
 
-[🔊 \[mɔ̃\]](_Audio/mon-197639.m4a) 몽
+[🔊 mɔ̃](_Audio/mon-197639.m4a) 몽
 
 **mon (f. ma) [mɔ̃] 몽** — 나의 (남성 명사 앞)
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # dent
 
-[🔊 \[dɑ̃\]](_Audio/la-dent-8429f2.m4a) 덩
+[🔊 dɑ̃](_Audio/la-dent-8429f2.m4a) 덩
 
 **la dent [dɑ̃] 덩** — 이, 치아
 

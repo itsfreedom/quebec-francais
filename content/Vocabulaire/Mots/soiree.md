@@ -26,7 +26,7 @@ aliases: ["soirée"]
 
 # soirée
 
-[🔊 \[swaʁe\]](_Audio/la-soiree-ca2394.m4a) 수아헤
+[🔊 swaʁe](_Audio/la-soiree-ca2394.m4a) 수아헤
 
 **la soirée [swaʁe] 수아헤** — 저녁 (시간)
 

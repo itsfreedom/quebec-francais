@@ -28,7 +28,7 @@ aliases: ["répéter"]
 
 # répéter
 
-[🔊 \[ʁepete\]](_Audio/repeter-2544d0.m4a) 헤뻬떼
+[🔊 ʁepete](_Audio/repeter-2544d0.m4a) 헤뻬떼
 
 **répéter [ʁepete] 헤뻬떼** — 따라 하다, 반복하다
 **répétez [ʁepete] 헤뻬떼** — 따라 하세요 ← répéter

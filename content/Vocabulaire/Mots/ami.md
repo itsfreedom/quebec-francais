@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # ami
 
-[🔊 \[ami\]](_Audio/l-ami-7a34fa.m4a) 아미
+[🔊 ami](_Audio/l-ami-7a34fa.m4a) 아미
 
 **l'ami (m) (f. amie) [ami] 아미** — 친구
 

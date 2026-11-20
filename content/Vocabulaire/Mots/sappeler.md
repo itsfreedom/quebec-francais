@@ -32,7 +32,7 @@ aliases: ["s'appeler"]
 
 # s'appeler
 
-[🔊 \[saple\]](_Audio/s-appeler-c5a4b3.m4a) 싸쁠레
+[🔊 saple](_Audio/s-appeler-c5a4b3.m4a) 싸쁠레
 
 **s'appeler [saple] 싸쁠레** — 이름이 ~이다
 **je m'appelle [ʒə mapɛl] 즈 마뻴** — 내 이름은 ~이다 ← s'appeler

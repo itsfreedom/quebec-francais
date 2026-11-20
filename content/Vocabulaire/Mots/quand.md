@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # quand
 
-[🔊 \[kɑ̃\]](_Audio/quand-ece202.m4a) 깡
+[🔊 kɑ̃](_Audio/quand-ece202.m4a) 깡
 
 **quand [kɑ̃] 깡** — 언제
 

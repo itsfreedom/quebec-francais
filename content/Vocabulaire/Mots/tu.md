@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # tu
 
-[🔊 \[ty\]](_Audio/tu-b6b4ce.m4a) 뛰
+[🔊 ty](_Audio/tu-b6b4ce.m4a) 뛰
 
 **tu [ty] 뛰** — 너는
 

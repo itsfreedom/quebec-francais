@@ -26,7 +26,7 @@ aliases: ["voilà"]
 
 # voilà
 
-[🔊 \[vwala\]](_Audio/voila-957c44.m4a) 부알라
+[🔊 vwala](_Audio/voila-957c44.m4a) 부알라
 
 **voilà [vwala] 부알라** — 자, 여기 있어요, 바로 그거예요
 

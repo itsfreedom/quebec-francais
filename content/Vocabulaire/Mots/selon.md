@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # selon
 
-[🔊 \[səlɔ̃\]](_Audio/selon-b0a95e.m4a) 슬롱
+[🔊 səlɔ̃](_Audio/selon-b0a95e.m4a) 슬롱
 
 **selon [səlɔ̃] 슬롱** — ~에 따라
 

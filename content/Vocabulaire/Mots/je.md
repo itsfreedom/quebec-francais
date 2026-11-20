@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # je
 
-[🔊 \[ʒə\]](_Audio/je-79563e.m4a) 즈
+[🔊 ʒə](_Audio/je-79563e.m4a) 즈
 
 **je [ʒə] 즈** — 나는
 

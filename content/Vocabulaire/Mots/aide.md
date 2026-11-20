@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # aide
 
-[🔊 \[ɛd\]](_Audio/l-aide-a2c282.m4a) 에드
+[🔊 ɛd](_Audio/l-aide-a2c282.m4a) 에드
 
 **l'aide (f) [ɛd] 에드** — 도움
 

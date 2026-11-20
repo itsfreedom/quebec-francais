@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # mot
 
-[🔊 \[mo\]](_Audio/le-mot-de22d6.m4a) 모
+[🔊 mo](_Audio/le-mot-de22d6.m4a) 모
 
 **le mot [mo] 모** — 단어, 낱말
 

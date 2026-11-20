@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # espagnol
 
-[🔊 \[ɛspaɲɔl\]](_Audio/l-espagnol-5a3fcd.m4a) 에스빠뇰
+[🔊 ɛspaɲɔl](_Audio/l-espagnol-5a3fcd.m4a) 에스빠뇰
 
 **l'espagnol (m) (f. espagnole) [ɛspaɲɔl] 에스빠뇰** — 스페인어
 

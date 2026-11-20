@@ -28,7 +28,7 @@ aliases: ["épeler"]
 
 # épeler
 
-[🔊 \[eple\]](_Audio/epeler-3c02b8.m4a) 에쁠레
+[🔊 eple](_Audio/epeler-3c02b8.m4a) 에쁠레
 
 **épeler [eple] 에쁠레** — 철자를 말하다
 **épeler votre prénom [eple vɔtʁ pʁenɔ̃] 에쁠레 보트흐 프헤농** — 이름 철자 말하기 ← épeler

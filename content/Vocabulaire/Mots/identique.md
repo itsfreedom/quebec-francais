@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # identique
 
-[🔊 \[idɑ̃tik\]](_Audio/identique-8bfc0d.m4a) 이덩띠끄
+[🔊 idɑ̃tik](_Audio/identique-8bfc0d.m4a) 이덩띠끄
 
 **identique [idɑ̃tik] 이덩띠끄** — 똑같은
 

@@ -26,7 +26,7 @@ aliases: ["Corée"]
 
 # Corée
 
-[🔊 \[kɔʁe\]](_Audio/la-coree-6b5d33.m4a) 꼬헤
+[🔊 kɔʁe](_Audio/la-coree-6b5d33.m4a) 꼬헤
 
 **la Corée [kɔʁe] 꼬헤** — 한국
 

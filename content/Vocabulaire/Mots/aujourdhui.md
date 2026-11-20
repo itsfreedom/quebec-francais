@@ -24,7 +24,7 @@ aliases: ["aujourd'hui"]
 
 # aujourd'hui
 
-[🔊 \[oʒuʁdɥi\]](_Audio/aujourd-hui-874ced.m4a) 오주흐뒤
+[🔊 oʒuʁdɥi](_Audio/aujourd-hui-874ced.m4a) 오주흐뒤
 
 **aujourd'hui [oʒuʁdɥi] 오주흐뒤** — 오늘
 

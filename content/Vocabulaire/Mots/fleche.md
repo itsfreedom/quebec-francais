@@ -24,7 +24,7 @@ aliases: ["flèche"]
 
 # flèche
 
-[🔊 \[flɛʃ\]](_Audio/la-fleche-ea3847.m4a) 플레슈
+[🔊 flɛʃ](_Audio/la-fleche-ea3847.m4a) 플레슈
 
 **la flèche [flɛʃ] 플레슈** — 화살표
 

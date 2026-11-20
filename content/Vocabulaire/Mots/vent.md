@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # vent
 
-[🔊 \[vɑ̃\]](_Audio/le-vent-447174.m4a) 벙
+[🔊 vɑ̃](_Audio/le-vent-447174.m4a) 벙
 
 **le vent [vɑ̃] 벙** — 바람
 

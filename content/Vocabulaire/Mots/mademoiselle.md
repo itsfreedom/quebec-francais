@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # mademoiselle
 
-[🔊 \[madmwazɛl\]](_Audio/mademoiselle-b7d84e.m4a) 마드무아젤
+[🔊 madmwazɛl](_Audio/mademoiselle-b7d84e.m4a) 마드무아젤
 
 **mademoiselle [madmwazɛl] 마드무아젤** — 아가씨 (젊은 여성 존칭)
 

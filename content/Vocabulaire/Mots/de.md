@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # de
 
-[🔊 \[də\]](_Audio/de-5f02f0.m4a) 드
+[🔊 də](_Audio/de-5f02f0.m4a) 드
 
 **de [də] 드** — ~에서 (출신), ~의
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # italien
 
-[🔊 \[italjɛ̃\]](_Audio/italien-19cb29.m4a) 이딸리앙
+[🔊 italjɛ̃](_Audio/italien-19cb29.m4a) 이딸리앙
 
 **italien (f. italienne) [italjɛ̃] 이딸리앙** — 이탈리아의, 이탈리아 사람
 

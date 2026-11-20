@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # vue
 
-[🔊 \[vy\]](_Audio/la-vue-797002.m4a) 뷔
+[🔊 vy](_Audio/la-vue-797002.m4a) 뷔
 
 **la vue [vy] 뷔** — 시야, 경치
 

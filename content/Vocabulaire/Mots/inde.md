@@ -24,7 +24,7 @@ aliases: ["Inde"]
 
 # Inde
 
-[🔊 \[ɛ̃d\]](_Audio/l-inde-5bbe79.m4a) 앵드
+[🔊 ɛ̃d](_Audio/l-inde-5bbe79.m4a) 앵드
 
 **l'Inde (f) [ɛ̃d] 앵드** — 인도
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # mardi
 
-[🔊 \[maʁdi\]](_Audio/le-mardi-71608d.m4a) 마흐디
+[🔊 maʁdi](_Audio/le-mardi-71608d.m4a) 마흐디
 
 **le mardi [maʁdi] 마흐디** — 화요일
 

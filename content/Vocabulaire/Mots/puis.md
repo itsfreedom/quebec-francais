@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # puis
 
-[🔊 \[pɥi\]](_Audio/puis-691937.m4a) 쀠
+[🔊 pɥi](_Audio/puis-691937.m4a) 쀠
 
 **puis [pɥi] 쀠** — 그 다음에
 

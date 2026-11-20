@@ -39,7 +39,7 @@ tags: [francisation, word]
 
 # aller
 
-[🔊 \[ale\]](_Audio/aller-299d26.m4a) 알레
+[🔊 ale](_Audio/aller-299d26.m4a) 알레
 
 **aller [ale] 알레** — 가다
 **il va [il va] 일 바** — 그가 가다 ← aller

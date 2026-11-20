@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # inscription
 
-[🔊 \[ɛ̃skʁipsjɔ̃\]](_Audio/l-inscription-0c029a.m4a) 앵스크힙씨옹
+[🔊 ɛ̃skʁipsjɔ̃](_Audio/l-inscription-0c029a.m4a) 앵스크힙씨옹
 
 **l'inscription (f) [ɛ̃skʁipsjɔ̃] 앵스크힙씨옹** — 등록
 

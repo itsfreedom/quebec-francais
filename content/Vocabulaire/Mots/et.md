@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # et
 
-[🔊 \[e\]](_Audio/et-4de1b7.m4a) 에
+[🔊 e](_Audio/et-4de1b7.m4a) 에
 
 **et [e] 에** — 그리고
 

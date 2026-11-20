@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # mercredi
 
-[🔊 \[mɛʁkʁədi\]](_Audio/le-mercredi-22b9ba.m4a) 메흐크흐디
+[🔊 mɛʁkʁədi](_Audio/le-mercredi-22b9ba.m4a) 메흐크흐디
 
 **le mercredi [mɛʁkʁədi] 메흐크흐디** — 수요일
 

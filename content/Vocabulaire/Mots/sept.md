@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # sept
 
-[🔊 \[sɛt\]](_Audio/sept-abd0df.m4a) 쎄뜨
+[🔊 sɛt](_Audio/sept-abd0df.m4a) 쎄뜨
 
 **sept [sɛt] 쎄뜨** — 7
 

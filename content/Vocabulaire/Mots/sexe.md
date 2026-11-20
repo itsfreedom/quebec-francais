@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # sexe
 
-[🔊 \[sɛks\]](_Audio/le-sexe-cf145e.m4a) 섹스
+[🔊 sɛks](_Audio/le-sexe-cf145e.m4a) 섹스
 
 **le sexe [sɛks] 섹스** — 성별
 

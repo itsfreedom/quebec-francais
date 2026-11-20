@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # huit
 
-[🔊 \[ɥit\]](_Audio/huit-0a753c.m4a) 위뜨
+[🔊 ɥit](_Audio/huit-0a753c.m4a) 위뜨
 
 **huit [ɥit] 위뜨** — 8
 

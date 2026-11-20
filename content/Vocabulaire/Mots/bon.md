@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # bon
 
-[🔊 \[bɔ̃\]](_Audio/bon-c7f86e.m4a) 봉
+[🔊 bɔ̃](_Audio/bon-c7f86e.m4a) 봉
 
 **bon (f. bonne) [bɔ̃] 봉** — 좋은, 맛있는
 

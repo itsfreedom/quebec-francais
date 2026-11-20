@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # ils
 
-[🔊 \[il\]](_Audio/ils-f86d49.m4a) 일
+[🔊 il](_Audio/ils-f86d49.m4a) 일
 
 **ils [il] 일** — 그들은
 

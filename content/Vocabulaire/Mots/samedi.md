@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # samedi
 
-[🔊 \[samdi\]](_Audio/le-samedi-d88e59.m4a) 쌈디
+[🔊 samdi](_Audio/le-samedi-d88e59.m4a) 쌈디
 
 **le samedi [samdi] 쌈디** — 토요일
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # juin
 
-[🔊 \[ʒɥɛ̃\]](_Audio/juin-2bc13d.m4a) 쥐앙
+[🔊 ʒɥɛ̃](_Audio/juin-2bc13d.m4a) 쥐앙
 
 **juin [ʒɥɛ̃] 쥐앙** — 6월
 

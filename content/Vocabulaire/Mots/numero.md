@@ -26,7 +26,7 @@ aliases: ["numéro"]
 
 # numéro
 
-[🔊 \[nymeʁo\]](_Audio/le-numero-695404.m4a) 뉘메호
+[🔊 nymeʁo](_Audio/le-numero-695404.m4a) 뉘메호
 
 **le numéro [nymeʁo] 뉘메호** — 번호
 

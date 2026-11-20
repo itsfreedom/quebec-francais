@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # lit
 
-[🔊 \[li\]](_Audio/le-lit-eb4618.m4a) 리
+[🔊 li](_Audio/le-lit-eb4618.m4a) 리
 
 **le lit [li] 리** — 침대
 

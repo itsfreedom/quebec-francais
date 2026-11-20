@@ -24,7 +24,7 @@ aliases: ["enchanté"]
 
 # enchanté
 
-[🔊 \[ɑ̃ʃɑ̃te\]](_Audio/enchante-fd4027.m4a) 앙샹떼
+[🔊 ɑ̃ʃɑ̃te](_Audio/enchante-fd4027.m4a) 앙샹떼
 
 **enchanté (f. enchantée) [ɑ̃ʃɑ̃te] 앙샹떼** — 만나서 반가워요
 

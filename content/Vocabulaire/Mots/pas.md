@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # pas
 
-[🔊 \[pɑ\]](_Audio/pas-cd0acf.m4a) 빠
+[🔊 pɑ](_Audio/pas-cd0acf.m4a) 빠
 
 **pas [pɑ] 빠** — ~아니다 (부정)
 

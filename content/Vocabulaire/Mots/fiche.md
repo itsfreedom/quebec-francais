@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # fiche
 
-[🔊 \[fiʃ\]](_Audio/la-fiche-09a801.m4a) 피슈
+[🔊 fiʃ](_Audio/la-fiche-09a801.m4a) 피슈
 
 **la fiche [fiʃ] 피슈** — 카드, 서식
 

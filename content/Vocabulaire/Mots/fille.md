@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # fille
 
-[🔊 \[fij\]](_Audio/la-fille-4f272a.m4a) 피으
+[🔊 fij](_Audio/la-fille-4f272a.m4a) 피으
 
 **la fille [fij] 피으** — 딸, 소녀
 

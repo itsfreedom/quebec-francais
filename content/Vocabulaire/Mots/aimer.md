@@ -33,7 +33,7 @@ tags: [francisation, word]
 
 # aimer
 
-[🔊 \[eme\]](_Audio/aimer-712fb4.m4a) 에메
+[🔊 eme](_Audio/aimer-712fb4.m4a) 에메
 
 **aimer [eme] 에메** — 좋아하다, 사랑하다
 **j'aime [ʒɛm] 젬** — 나는 좋아한다 ← aimer

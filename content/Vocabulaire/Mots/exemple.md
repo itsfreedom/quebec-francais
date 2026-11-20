@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # exemple
 
-[🔊 \[ɛɡzɑ̃pl\]](_Audio/l-exemple-3a059d.m4a) 에그장쁠
+[🔊 ɛɡzɑ̃pl](_Audio/l-exemple-3a059d.m4a) 에그장쁠
 
 **l'exemple (m) [ɛɡzɑ̃pl] 에그장쁠** — 예, 보기
 

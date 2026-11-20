@@ -24,7 +24,7 @@ aliases: ["Libye"]
 
 # Libye
 
-[🔊 \[libi\]](_Audio/la-libye-4d1c73.m4a) 리비
+[🔊 libi](_Audio/la-libye-4d1c73.m4a) 리비
 
 **la Libye [libi] 리비** — 리비아
 

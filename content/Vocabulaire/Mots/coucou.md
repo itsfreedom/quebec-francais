@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # coucou
 
-[🔊 \[kuku\]](_Audio/coucou-721a9b.m4a) 꾸꾸
+[🔊 kuku](_Audio/coucou-721a9b.m4a) 꾸꾸
 
 **coucou [kuku] 꾸꾸** — 안녕! (아주 친한 사이)
 

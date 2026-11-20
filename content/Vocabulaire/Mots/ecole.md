@@ -26,7 +26,7 @@ aliases: ["école"]
 
 # école
 
-[🔊 \[ekɔl\]](_Audio/l-ecole-883194.m4a) 에꼴
+[🔊 ekɔl](_Audio/l-ecole-883194.m4a) 에꼴
 
 **l'école (f) [ekɔl] 에꼴** — 학교
 

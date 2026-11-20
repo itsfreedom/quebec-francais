@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # rien
 
-[🔊 \[ʁjɛ̃\]](_Audio/rien-8dda99.m4a) 히앙
+[🔊 ʁjɛ̃](_Audio/rien-8dda99.m4a) 히앙
 
 **rien [ʁjɛ̃] 히앙** — 아무것도 (없다)
 

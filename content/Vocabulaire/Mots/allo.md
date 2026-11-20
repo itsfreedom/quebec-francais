@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # allo
 
-[🔊 \[alo\]](_Audio/allo-ce92c2.m4a) 알로
+[🔊 alo](_Audio/allo-ce92c2.m4a) 알로
 
 **allo [alo] 알로** — 여보세요, 안녕 (퀘벡 일상 인사)
 

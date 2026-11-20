@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # maquilleur
 
-[🔊 \[makijœʁ\]](_Audio/le-maquilleur-52cfb2.m4a) 마끼외흐
+[🔊 makijœʁ](_Audio/le-maquilleur-52cfb2.m4a) 마끼외흐
 
 **le maquilleur (f. maquilleuse) [makijœʁ] 마끼외흐** — 메이크업 아티스트
 

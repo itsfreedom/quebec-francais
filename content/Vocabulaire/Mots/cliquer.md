@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # cliquer
 
-[🔊 \[klike\]](_Audio/cliquer-46e9de.m4a) 끌리께
+[🔊 klike](_Audio/cliquer-46e9de.m4a) 끌리께
 
 **cliquer [klike] 끌리께** — 클릭하다
 **cliquez ici [klike isi] 끌리께 이씨** — 여기를 클릭하세요 ← cliquer

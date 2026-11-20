@@ -24,7 +24,7 @@ aliases: ["gâteau"]
 
 # gâteau
 
-[🔊 \[gɑto\]](_Audio/le-gateau-dfe669.m4a) 갸또
+[🔊 gɑto](_Audio/le-gateau-dfe669.m4a) 갸또
 
 **le gâteau [gɑto] 갸또** — 케이크
 

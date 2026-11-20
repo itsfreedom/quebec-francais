@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # adresse
 
-[🔊 \[adʁɛs\]](_Audio/l-adresse-85a4ec.m4a) 아드헤스
+[🔊 adʁɛs](_Audio/l-adresse-85a4ec.m4a) 아드헤스
 
 **l'adresse (f) [adʁɛs] 아드헤스** — 주소
 

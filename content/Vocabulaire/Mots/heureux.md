@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # heureux
 
-[🔊 \[øʁø\]](_Audio/heureux-c26042.m4a) 외회
+[🔊 øʁø](_Audio/heureux-c26042.m4a) 외회
 
 **heureux (f. heureuse) [øʁø] 외회** — 행복한
 

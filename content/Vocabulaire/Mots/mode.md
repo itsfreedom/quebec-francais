@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # mode
 
-[🔊 \[mɔd\]](_Audio/la-mode-5b933b.m4a) 모드
+[🔊 mɔd](_Audio/la-mode-5b933b.m4a) 모드
 
 **la mode [mɔd] 모드** — 패션, 유행
 

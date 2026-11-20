@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # relier
 
-[🔊 \[ʁəlje\]](_Audio/relier-e557a0.m4a) 흘리에
+[🔊 ʁəlje](_Audio/relier-e557a0.m4a) 흘리에
 
 **relier [ʁəlje] 흘리에** — 잇다, 연결하다
 **reliez [ʁəlje] 흘리에** — 이으세요 (명령) ← relier

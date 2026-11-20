@@ -39,7 +39,7 @@ tags: [francisation, word]
 
 # avoir
 
-[🔊 \[avwaʁ\]](_Audio/avoir-f6d928.m4a) 아부아흐
+[🔊 avwaʁ](_Audio/avoir-f6d928.m4a) 아부아흐
 
 **avoir [avwaʁ] 아부아흐** — 가지다, 있다
 **nous avons [nuzavɔ̃] 누자봉** — 우리는 가지고 있다 ← avoir

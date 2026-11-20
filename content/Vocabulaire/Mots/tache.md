@@ -24,7 +24,7 @@ aliases: ["tâche"]
 
 # tâche
 
-[🔊 \[tɑʃ\]](_Audio/la-tache-53f653.m4a) 따슈
+[🔊 tɑʃ](_Audio/la-tache-53f653.m4a) 따슈
 
 **la tâche [tɑʃ] 따슈** — 일, 과제
 

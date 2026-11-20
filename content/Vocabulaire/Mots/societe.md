@@ -24,7 +24,7 @@ aliases: ["société"]
 
 # société
 
-[🔊 \[sɔsjete\]](_Audio/la-societe-a977e0.m4a) 쏘시에떼
+[🔊 sɔsjete](_Audio/la-societe-a977e0.m4a) 쏘시에떼
 
 **la société [sɔsjete] 쏘시에떼** — 사회, 회사
 

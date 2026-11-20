@@ -26,7 +26,7 @@ aliases: ["s'inscrire"]
 
 # s'inscrire
 
-[🔊 \[sɛ̃skʁiʁ\]](_Audio/s-inscrire-2acd87.m4a) 쌩스크히흐
+[🔊 sɛ̃skʁiʁ](_Audio/s-inscrire-2acd87.m4a) 쌩스크히흐
 
 **s'inscrire [sɛ̃skʁiʁ] 쌩스크히흐** — 등록하다
 

@@ -26,7 +26,7 @@ aliases: ["Maroc"]
 
 # Maroc
 
-[🔊 \[maʁɔk\]](_Audio/le-maroc-7f9802.m4a) 마혹
+[🔊 maʁɔk](_Audio/le-maroc-7f9802.m4a) 마혹
 
 **le Maroc [maʁɔk] 마혹** — 모로코
 

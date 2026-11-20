@@ -24,7 +24,7 @@ aliases: ["août"]
 
 # août
 
-[🔊 \[u\]](_Audio/aout-3daa4c.m4a) 우
+[🔊 u](_Audio/aout-3daa4c.m4a) 우
 
 **août [u] 우** — 8월
 

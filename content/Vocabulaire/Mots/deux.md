@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # deux
 
-[🔊 \[dø\]](_Audio/deux-f83815.m4a) 되
+[🔊 dø](_Audio/deux-f83815.m4a) 되
 
 **deux [dø] 되** — 2
 

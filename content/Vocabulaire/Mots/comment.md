@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # comment
 
-[🔊 \[kɔmɑ̃\]](_Audio/comment-06d4cd.m4a) 꼬망
+[🔊 kɔmɑ̃](_Audio/comment-06d4cd.m4a) 꼬망
 
 **comment [kɔmɑ̃] 꼬망** — 어떻게
 

@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # bien
 
-[🔊 \[bjɛ̃\]](_Audio/bien-67d6c2.m4a) 비앙
+[🔊 bjɛ̃](_Audio/bien-67d6c2.m4a) 비앙
 
 **bien [bjɛ̃] 비앙** — 잘, 좋게
 

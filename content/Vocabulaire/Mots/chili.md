@@ -24,7 +24,7 @@ aliases: ["Chili"]
 
 # Chili
 
-[🔊 \[ʃili\]](_Audio/le-chili-2e73e8.m4a) 실리
+[🔊 ʃili](_Audio/le-chili-2e73e8.m4a) 실리
 
 **le Chili [ʃili] 실리** — 칠레
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # masculin
 
-[🔊 \[maskylɛ̃\]](_Audio/masculin-2eb8b6.m4a) 마스뀔랑
+[🔊 maskylɛ̃](_Audio/masculin-2eb8b6.m4a) 마스뀔랑
 
 **masculin (f. masculine) [maskylɛ̃] 마스뀔랑** — 남성의
 

@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # sport
 
-[🔊 \[spɔʁ\]](_Audio/le-sport-c199f5.m4a) 스뽀흐
+[🔊 spɔʁ](_Audio/le-sport-c199f5.m4a) 스뽀흐
 
 **le sport [spɔʁ] 스뽀흐** — 운동, 스포츠
 

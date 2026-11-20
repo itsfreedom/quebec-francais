@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # comprendre
 
-[🔊 \[kɔ̃pʁɑ̃dʁ\]](_Audio/comprendre-8f8f74.m4a) 꽁프헝드흐
+[🔊 kɔ̃pʁɑ̃dʁ](_Audio/comprendre-8f8f74.m4a) 꽁프헝드흐
 
 **comprendre [kɔ̃pʁɑ̃dʁ] 꽁프헝드흐** — 이해하다
 

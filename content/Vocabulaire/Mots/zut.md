@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # zut
 
-[🔊 \[zyt\]](_Audio/zut-a8cd54.m4a) 쥐뜨
+[🔊 zyt](_Audio/zut-a8cd54.m4a) 쥐뜨
 
 **zut [zyt] 쥐뜨** — 이런!, 아이참! (가벼운 감탄)
 

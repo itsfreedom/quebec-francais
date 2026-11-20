@@ -24,7 +24,7 @@ aliases: ["réponse"]
 
 # réponse
 
-[🔊 \[ʁepɔ̃s\]](_Audio/la-reponse-e83e7d.m4a) 헤뽕스
+[🔊 ʁepɔ̃s](_Audio/la-reponse-e83e7d.m4a) 헤뽕스
 
 **la réponse [ʁepɔ̃s] 헤뽕스** — 대답
 

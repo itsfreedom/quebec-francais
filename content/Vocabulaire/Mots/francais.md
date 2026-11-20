@@ -24,7 +24,7 @@ aliases: ["français"]
 
 # français
 
-[🔊 \[fʁɑ̃sɛ\]](_Audio/francais-616e89.m4a) 프항쎄
+[🔊 fʁɑ̃sɛ](_Audio/francais-616e89.m4a) 프항쎄
 
 **français (f. française) [fʁɑ̃sɛ] 프항쎄** — 프랑스어, 프랑스의
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # monsieur
 
-[🔊 \[məsjø\]](_Audio/monsieur-d8187c.m4a) 므씨외
+[🔊 məsjø](_Audio/monsieur-d8187c.m4a) 므씨외
 
 **monsieur [məsjø] 므씨외** — ~씨, 선생님 (남성 존칭)
 

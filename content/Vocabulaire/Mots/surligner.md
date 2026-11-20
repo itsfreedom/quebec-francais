@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # surligner
 
-[🔊 \[syʁliɲe\]](_Audio/surligner-926a31.m4a) 쉬흐리녜
+[🔊 syʁliɲe](_Audio/surligner-926a31.m4a) 쉬흐리녜
 
 **surligner [syʁliɲe] 쉬흐리녜** — 형광펜으로 칠하다
 **surlignez [syʁliɲe] 쉬흐리녜** — 칠하세요 ← surligner

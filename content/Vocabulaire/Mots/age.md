@@ -26,7 +26,7 @@ aliases: ["âge"]
 
 # âge
 
-[🔊 \[ɑʒ\]](_Audio/l-age-88a520.m4a) 아쥬
+[🔊 ɑʒ](_Audio/l-age-88a520.m4a) 아쥬
 
 **l'âge (m) [ɑʒ] 아쥬** — 나이
 

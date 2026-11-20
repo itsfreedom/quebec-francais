@@ -24,7 +24,7 @@ aliases: ["passé"]
 
 # passé
 
-[🔊 \[pɑse\]](_Audio/passe-764a5b.m4a) 빠쎄
+[🔊 pɑse](_Audio/passe-764a5b.m4a) 빠쎄
 
 **passé (f. passée) [pɑse] 빠쎄** — 지난, 과거의
 

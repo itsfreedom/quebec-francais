@@ -26,7 +26,7 @@ aliases: ["journée"]
 
 # journée
 
-[🔊 \[ʒuʁne\]](_Audio/la-journee-7dcfb6.m4a) 주흐네
+[🔊 ʒuʁne](_Audio/la-journee-7dcfb6.m4a) 주흐네
 
 **la journée [ʒuʁne] 주흐네** — 하루, 낮
 

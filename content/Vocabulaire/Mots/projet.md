@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # projet
 
-[🔊 \[pʁɔʒɛ\]](_Audio/le-projet-da7c0b.m4a) 프호제
+[🔊 pʁɔʒɛ](_Audio/le-projet-da7c0b.m4a) 프호제
 
 **le projet [pʁɔʒɛ] 프호제** — 프로젝트, 계획
 

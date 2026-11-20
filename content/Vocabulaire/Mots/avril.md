@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # avril
 
-[🔊 \[avʁil\]](_Audio/avril-c7e55c.m4a) 아브힐
+[🔊 avʁil](_Audio/avril-c7e55c.m4a) 아브힐
 
 **avril [avʁil] 아브힐** — 4월
 

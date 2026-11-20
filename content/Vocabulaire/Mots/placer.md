@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # placer
 
-[🔊 \[plase\]](_Audio/placer-379b73.m4a) 쁠라세
+[🔊 plase](_Audio/placer-379b73.m4a) 쁠라세
 
 **placer [plase] 쁠라세** — 놓다, 배치하다
 **placez [plase] 쁠라세** — 놓으세요 ← placer

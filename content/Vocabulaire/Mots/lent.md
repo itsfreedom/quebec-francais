@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # lent
 
-[🔊 \[lɑ̃\]](_Audio/lent-177f6b.m4a) 렁
+[🔊 lɑ̃](_Audio/lent-177f6b.m4a) 렁
 
 **lent (f. lente) [lɑ̃] 렁** — 느린
 

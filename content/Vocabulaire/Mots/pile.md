@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # pile
 
-[🔊 \[pil\]](_Audio/la-pile-a4e270.m4a) 삘
+[🔊 pil](_Audio/la-pile-a4e270.m4a) 삘
 
 **la pile [pil] 삘** — 건전지, 더미
 

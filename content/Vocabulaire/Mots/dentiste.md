@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # dentiste
 
-[🔊 \[dɑ̃tist\]](_Audio/le-la-dentiste-e9fde3.m4a) 덩띠스뜨
+[🔊 dɑ̃tist](_Audio/le-la-dentiste-e9fde3.m4a) 덩띠스뜨
 
 **le/la dentiste [dɑ̃tist] 덩띠스뜨** — 치과의사
 

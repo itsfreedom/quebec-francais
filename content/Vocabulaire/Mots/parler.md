@@ -31,7 +31,7 @@ tags: [francisation, word]
 
 # parler
 
-[🔊 \[paʁle\]](_Audio/parler-4cecc2.m4a) 빠흘레
+[🔊 paʁle](_Audio/parler-4cecc2.m4a) 빠흘레
 
 **parler [paʁle] 빠흘레** — 말하다
 **vous parlez [vu paʁle] 부 빠흘레** — 당신이 말하다 / 말하세요 ← parler

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # demain
 
-[🔊 \[dəmɛ̃\]](_Audio/demain-2fdb30.m4a) 드망
+[🔊 dəmɛ̃](_Audio/demain-2fdb30.m4a) 드망
 
 **demain [dəmɛ̃] 드망** — 내일
 

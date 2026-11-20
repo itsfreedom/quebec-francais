@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # vous
 
-[🔊 \[vu\]](_Audio/vous-593ffa.m4a) 부
+[🔊 vu](_Audio/vous-593ffa.m4a) 부
 
 **vous [vu] 부** — 당신 (존댓말), 너희
 

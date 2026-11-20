@@ -24,7 +24,7 @@ aliases: ["prénom"]
 
 # prénom
 
-[🔊 \[pʁenɔ̃\]](_Audio/le-prenom-b27c0a.m4a) 프헤농
+[🔊 pʁenɔ̃](_Audio/le-prenom-b27c0a.m4a) 프헤농
 
 **le prénom [pʁenɔ̃] 프헤농** — 이름 (성을 뺀 이름)
 

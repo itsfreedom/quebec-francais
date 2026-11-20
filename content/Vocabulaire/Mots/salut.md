@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # salut
 
-[🔊 \[saly\]](_Audio/salut-3ed7dc.m4a) 살뤼
+[🔊 saly](_Audio/salut-3ed7dc.m4a) 살뤼
 
 **salut [saly] 살뤼** — 안녕 (친한 사이, 만날 때·헤어질 때)
 

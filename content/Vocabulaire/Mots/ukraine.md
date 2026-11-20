@@ -24,7 +24,7 @@ aliases: ["Ukraine"]
 
 # Ukraine
 
-[🔊 \[ykʁɛn\]](_Audio/l-ukraine-ae4cdd.m4a) 위크헨
+[🔊 ykʁɛn](_Audio/l-ukraine-ae4cdd.m4a) 위크헨
 
 **l'Ukraine (f) [ykʁɛn] 위크헨** — 우크라이나
 

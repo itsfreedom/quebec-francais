@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # six
 
-[🔊 \[sis\]](_Audio/six-f52b5e.m4a) 씨스
+[🔊 sis](_Audio/six-f52b5e.m4a) 씨스
 
 **six [sis] 씨스** — 6
 

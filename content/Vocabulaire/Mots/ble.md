@@ -24,7 +24,7 @@ aliases: ["blé"]
 
 # blé
 
-[🔊 \[ble\]](_Audio/le-ble-e8fd5f.m4a) 블레
+[🔊 ble](_Audio/le-ble-e8fd5f.m4a) 블레
 
 **le blé [ble] 블레** — 밀
 

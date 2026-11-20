@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # novembre
 
-[🔊 \[nɔvɑ̃bʁ\]](_Audio/novembre-732cad.m4a) 노벙브흐
+[🔊 nɔvɑ̃bʁ](_Audio/novembre-732cad.m4a) 노벙브흐
 
 **novembre [nɔvɑ̃bʁ] 노벙브흐** — 11월
 

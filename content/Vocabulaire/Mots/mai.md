@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # mai
 
-[🔊 \[mɛ\]](_Audio/mai-2b2858.m4a) 메
+[🔊 mɛ](_Audio/mai-2b2858.m4a) 메
 
 **mai [mɛ] 메** — 5월
 

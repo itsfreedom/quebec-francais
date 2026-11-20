@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # pays
 
-[🔊 \[pei\]](_Audio/le-pays-dd007d.m4a) 뻬이
+[🔊 pei](_Audio/le-pays-dd007d.m4a) 뻬이
 
 **le pays [pei] 뻬이** — 나라
 

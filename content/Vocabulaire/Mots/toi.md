@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # toi
 
-[🔊 \[twa\]](_Audio/toi-501446.m4a) 뚜아
+[🔊 twa](_Audio/toi-501446.m4a) 뚜아
 
 **toi [twa] 뚜아** — 너 (강조)
 

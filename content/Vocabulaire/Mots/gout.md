@@ -24,7 +24,7 @@ aliases: ["goût"]
 
 # goût
 
-[🔊 \[gu\]](_Audio/le-gout-03d1a0.m4a) 구
+[🔊 gu](_Audio/le-gout-03d1a0.m4a) 구
 
 **le goût [gu] 구** — 맛
 

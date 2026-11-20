@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # langue
 
-[🔊 \[lɑ̃ɡ\]](_Audio/la-langue-41112b.m4a) 랑그
+[🔊 lɑ̃ɡ](_Audio/la-langue-41112b.m4a) 랑그
 
 **la langue [lɑ̃ɡ] 랑그** — 언어
 

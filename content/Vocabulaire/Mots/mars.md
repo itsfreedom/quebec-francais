@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # mars
 
-[🔊 \[maʁs\]](_Audio/mars-68834f.m4a) 마흐스
+[🔊 maʁs](_Audio/mars-68834f.m4a) 마흐스
 
 **mars [maʁs] 마흐스** — 3월
 

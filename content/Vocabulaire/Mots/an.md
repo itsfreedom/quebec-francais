@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # an
 
-[🔊 \[ɑ̃\]](_Audio/l-an-215650.m4a) 앙
+[🔊 ɑ̃](_Audio/l-an-215650.m4a) 앙
 
 **l'an (m) [ɑ̃] 앙** — 해, 살 (나이)
 

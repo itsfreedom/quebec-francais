@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # bateau
 
-[🔊 \[bato\]](_Audio/le-bateau-b4d90e.m4a) 바또
+[🔊 bato](_Audio/le-bateau-b4d90e.m4a) 바또
 
 **le bateau [bato] 바또** — 배
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # sans
 
-[🔊 \[sɑ̃\]](_Audio/sans-0ddd63.m4a) 쌍
+[🔊 sɑ̃](_Audio/sans-0ddd63.m4a) 쌍
 
 **sans [sɑ̃] 쌍** — ~없이
 

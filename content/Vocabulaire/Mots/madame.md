@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # madame
 
-[🔊 \[madam\]](_Audio/madame-43ee1d.m4a) 마담
+[🔊 madam](_Audio/madame-43ee1d.m4a) 마담
 
 **madame [madam] 마담** — ~씨, 부인 (여성 존칭)
 

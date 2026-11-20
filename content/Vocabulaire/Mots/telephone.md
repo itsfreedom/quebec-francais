@@ -24,7 +24,7 @@ aliases: ["téléphone"]
 
 # téléphone
 
-[🔊 \[telefɔn\]](_Audio/le-telephone-bfdbc2.m4a) 뗄레폰
+[🔊 telefɔn](_Audio/le-telephone-bfdbc2.m4a) 뗄레폰
 
 **le téléphone [telefɔn] 뗄레폰** — 전화
 

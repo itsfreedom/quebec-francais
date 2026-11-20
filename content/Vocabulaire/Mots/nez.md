@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # nez
 
-[🔊 \[ne\]](_Audio/le-nez-3bf9c9.m4a) 네
+[🔊 ne](_Audio/le-nez-3bf9c9.m4a) 네
 
 **le nez [ne] 네** — 코
 

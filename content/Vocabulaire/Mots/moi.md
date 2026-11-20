@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # moi
 
-[🔊 \[mwa\]](_Audio/moi-8f8ad2.m4a) 무아
+[🔊 mwa](_Audio/moi-8f8ad2.m4a) 무아
 
 **moi [mwa] 무아** — 나 (강조할 때)
 

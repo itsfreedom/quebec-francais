@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # dormir
 
-[🔊 \[dɔʁmiʁ\]](_Audio/dormir-bb3a21.m4a) 도흐미흐
+[🔊 dɔʁmiʁ](_Audio/dormir-bb3a21.m4a) 도흐미흐
 
 **dormir [dɔʁmiʁ] 도흐미흐** — 자다
 **il dort [il dɔʁ] 일 도흐** — 그가 자다 ← dormir

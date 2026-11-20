@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # matin
 
-[🔊 \[matɛ̃\]](_Audio/le-matin-0c59cb.m4a) 마땅
+[🔊 matɛ̃](_Audio/le-matin-0c59cb.m4a) 마땅
 
 **le matin [matɛ̃] 마땅** — 아침
 

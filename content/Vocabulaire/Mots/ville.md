@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # ville
 
-[🔊 \[vil\]](_Audio/la-ville-b4cf80.m4a) 빌
+[🔊 vil](_Audio/la-ville-b4cf80.m4a) 빌
 
 **la ville [vil] 빌** — 도시
 

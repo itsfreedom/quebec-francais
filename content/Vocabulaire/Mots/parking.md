@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # parking
 
-[🔊 \[paʁkiŋ\]](_Audio/le-parking-389396.m4a) 빠흐낑
+[🔊 paʁkiŋ](_Audio/le-parking-389396.m4a) 빠흐낑
 
 **le parking [paʁkiŋ] 빠흐낑** — 주차장
 

@@ -24,7 +24,7 @@ aliases: ["drôle"]
 
 # drôle
 
-[🔊 \[dʁol\]](_Audio/drole-2c3c12.m4a) 드홀
+[🔊 dʁol](_Audio/drole-2c3c12.m4a) 드홀
 
 **drôle [dʁol] 드홀** — 웃긴, 재미있는
 

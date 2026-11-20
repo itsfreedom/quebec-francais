@@ -28,7 +28,7 @@ aliases: ["répondre"]
 
 # répondre
 
-[🔊 \[ʁepɔ̃dʁ\]](_Audio/repondre-e3a81f.m4a) 헤뽕드흐
+[🔊 ʁepɔ̃dʁ](_Audio/repondre-e3a81f.m4a) 헤뽕드흐
 
 **répondre [ʁepɔ̃dʁ] 헤뽕드흐** — 대답하다
 **répondez [ʁepɔ̃de] 헤뽕데** — 대답하세요 ← répondre

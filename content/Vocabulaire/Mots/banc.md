@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # banc
 
-[🔊 \[bɑ̃\]](_Audio/le-banc-0a8511.m4a) 방
+[🔊 bɑ̃](_Audio/le-banc-0a8511.m4a) 방
 
 **le banc [bɑ̃] 방** — 벤치
 

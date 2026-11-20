@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # classer
 
-[🔊 \[klase\]](_Audio/classer-63745a.m4a) 끌라세
+[🔊 klase](_Audio/classer-63745a.m4a) 끌라세
 
 **classer [klase] 끌라세** — 분류하다, 나누다
 **classez [klase] 끌라세** — 분류하세요 (명령) ← classer

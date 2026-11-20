@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # bonsoir
 
-[🔊 \[bɔ̃swaʁ\]](_Audio/bonsoir-b9a6d0.m4a) 봉수아흐
+[🔊 bɔ̃swaʁ](_Audio/bonsoir-b9a6d0.m4a) 봉수아흐
 
 **bonsoir [bɔ̃swaʁ] 봉수아흐** — 안녕하세요 (저녁 인사)
 

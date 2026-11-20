@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # coiffure
 
-[🔊 \[kwafyʁ\]](_Audio/la-coiffure-f481b1.m4a) 꾸아퓌흐
+[🔊 kwafyʁ](_Audio/la-coiffure-f481b1.m4a) 꾸아퓌흐
 
 **la coiffure [kwafyʁ] 꾸아퓌흐** — 헤어스타일, 미용
 

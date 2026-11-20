@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # nom
 
-[🔊 \[nɔ̃\]](_Audio/le-nom-66d257.m4a) 농
+[🔊 nɔ̃](_Audio/le-nom-66d257.m4a) 농
 
 **le nom [nɔ̃] 농** — 이름
 

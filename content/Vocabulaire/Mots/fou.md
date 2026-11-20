@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # fou
 
-[🔊 \[fu\]](_Audio/fou-f4f8fa.m4a) 푸
+[🔊 fu](_Audio/fou-f4f8fa.m4a) 푸
 
 **fou (f. folle) [fu] 푸** — 미친
 

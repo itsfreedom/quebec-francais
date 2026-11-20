@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # cinq
 
-[🔊 \[sɛ̃k\]](_Audio/cinq-bfe30f.m4a) 쌩끄
+[🔊 sɛ̃k](_Audio/cinq-bfe30f.m4a) 쌩끄
 
 **cinq [sɛ̃k] 쌩끄** — 5
 

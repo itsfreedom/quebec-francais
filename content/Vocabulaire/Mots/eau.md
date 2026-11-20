@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # eau
 
-[🔊 \[o\]](_Audio/l-eau-6b33d7.m4a) 오
+[🔊 o](_Audio/l-eau-6b33d7.m4a) 오
 
 **l'eau (f) [o] 오** — 물
 

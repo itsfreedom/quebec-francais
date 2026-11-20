@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # consonne
 
-[🔊 \[kɔ̃sɔn\]](_Audio/la-consonne-31e916.m4a) 꽁쏜
+[🔊 kɔ̃sɔn](_Audio/la-consonne-31e916.m4a) 꽁쏜
 
 **la consonne [kɔ̃sɔn] 꽁쏜** — 자음
 

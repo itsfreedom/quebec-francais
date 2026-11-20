@@ -36,7 +36,7 @@ aliases: ["être"]
 
 # être
 
-[🔊 \[ɛtʁ\]](_Audio/etre-1e529d.m4a) 에트흐
+[🔊 ɛtʁ](_Audio/etre-1e529d.m4a) 에트흐
 
 **être [ɛtʁ] 에트흐** — ~이다, 있다
 **je suis [ʒə sɥi] 즈 쉬** — 나는 ~이다 ← être

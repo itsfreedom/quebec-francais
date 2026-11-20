@@ -24,7 +24,7 @@ aliases: ["Noël"]
 
 # Noël
 
-[🔊 \[nɔɛl\]](_Audio/noel-6b025d.m4a) 노엘
+[🔊 nɔɛl](_Audio/noel-6b025d.m4a) 노엘
 
 **Noël [nɔɛl] 노엘** — 크리스마스
 

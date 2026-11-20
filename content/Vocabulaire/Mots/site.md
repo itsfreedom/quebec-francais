@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # site
 
-[🔊 \[sit\]](_Audio/le-site-4e5c94.m4a) 씨뜨
+[🔊 sit](_Audio/le-site-4e5c94.m4a) 씨뜨
 
 **le site [sit] 씨뜨** — 사이트, 장소
 

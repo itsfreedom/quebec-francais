@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # bonjour
 
-[🔊 \[bɔ̃ʒuʁ\]](_Audio/bonjour-f02368.m4a) 봉주흐
+[🔊 bɔ̃ʒuʁ](_Audio/bonjour-f02368.m4a) 봉주흐
 
 **bonjour [bɔ̃ʒuʁ] 봉주흐** — 안녕하세요 (낮 인사)
 

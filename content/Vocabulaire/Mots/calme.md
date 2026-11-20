@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # calme
 
-[🔊 \[kalm\]](_Audio/calme-cb2a43.m4a) 깔므
+[🔊 kalm](_Audio/calme-cb2a43.m4a) 깔므
 
 **calme [kalm] 깔므** — 차분한, 조용한
 

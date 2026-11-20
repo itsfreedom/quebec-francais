@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # fond
 
-[🔊 \[fɔ̃\]](_Audio/le-fond-f1d527.m4a) 퐁
+[🔊 fɔ̃](_Audio/le-fond-f1d527.m4a) 퐁
 
 **le fond [fɔ̃] 퐁** — 바닥, 깊은 곳
 

@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # agneau
 
-[🔊 \[aɲo\]](_Audio/l-agneau-43c65d.m4a) 아뇨
+[🔊 aɲo](_Audio/l-agneau-43c65d.m4a) 아뇨
 
 **l'agneau (m) [aɲo] 아뇨** — 어린 양, 양고기
 

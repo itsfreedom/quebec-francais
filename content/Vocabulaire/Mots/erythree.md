@@ -24,7 +24,7 @@ aliases: ["Érythrée"]
 
 # Érythrée
 
-[🔊 \[eʁitʁe\]](_Audio/l-erythree-2e67b2.m4a) 에히트헤
+[🔊 eʁitʁe](_Audio/l-erythree-2e67b2.m4a) 에히트헤
 
 **l'Érythrée (f) [eʁitʁe] 에히트헤** — 에리트레아
 

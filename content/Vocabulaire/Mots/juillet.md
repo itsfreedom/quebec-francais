@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # juillet
 
-[🔊 \[ʒɥijɛ\]](_Audio/juillet-40df84.m4a) 쥐이예
+[🔊 ʒɥijɛ](_Audio/juillet-40df84.m4a) 쥐이예
 
 **juillet [ʒɥijɛ] 쥐이예** — 7월
 

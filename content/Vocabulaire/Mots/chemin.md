@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # chemin
 
-[🔊 \[ʃəmɛ̃\]](_Audio/le-chemin-3f6a20.m4a) 슈망
+[🔊 ʃəmɛ̃](_Audio/le-chemin-3f6a20.m4a) 슈망
 
 **le chemin [ʃəmɛ̃] 슈망** — 길, 경로
 

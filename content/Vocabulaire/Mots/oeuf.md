@@ -24,7 +24,7 @@ aliases: ["œuf"]
 
 # œuf
 
-[🔊 \[œf\]](_Audio/l-uf-ece0fa.m4a) 외프
+[🔊 œf](_Audio/l-uf-ece0fa.m4a) 외프
 
 **l'œuf (m) [œf] 외프** — 달걀
 

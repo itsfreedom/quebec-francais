@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # maman
 
-[🔊 \[mamɑ̃\]](_Audio/la-maman-c7a3d9.m4a) 마망
+[🔊 mamɑ̃](_Audio/la-maman-c7a3d9.m4a) 마망
 
 **la maman [mamɑ̃] 마망** — 엄마
 

@@ -27,7 +27,7 @@ tags: [francisation, word]
 
 # associer
 
-[🔊 \[asosje\]](_Audio/associer-af8b94.m4a) 아쏘씨에
+[🔊 asosje](_Audio/associer-af8b94.m4a) 아쏘씨에
 
 **associer [asosje] 아쏘씨에** — 연결하다, 짝짓다
 **associez [asosje] 아쏘씨에** — 연결하세요 (명령) ← associer

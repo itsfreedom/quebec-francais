@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # chocolat
 
-[🔊 \[ʃɔkɔla\]](_Audio/le-chocolat-12b976.m4a) 쇼꼴라
+[🔊 ʃɔkɔla](_Audio/le-chocolat-12b976.m4a) 쇼꼴라
 
 **le chocolat [ʃɔkɔla] 쇼꼴라** — 초콜릿
 

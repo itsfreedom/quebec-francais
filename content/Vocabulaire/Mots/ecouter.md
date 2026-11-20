@@ -28,7 +28,7 @@ aliases: ["écouter"]
 
 # écouter
 
-[🔊 \[ekute\]](_Audio/ecouter-170290.m4a) 에꾸떼
+[🔊 ekute](_Audio/ecouter-170290.m4a) 에꾸떼
 
 **écouter [ekute] 에꾸떼** — 듣다
 **écoutez [ekute] 에꾸떼** — 들으세요 ← écouter

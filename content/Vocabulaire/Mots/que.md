@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # que
 
-[🔊 \[kə\]](_Audio/que-8cfbcf.m4a) 끄
+[🔊 kə](_Audio/que-8cfbcf.m4a) 끄
 
 **que [kə] 끄** — ~라는 것, 무엇
 

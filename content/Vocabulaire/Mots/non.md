@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # non
 
-[🔊 \[nɔ̃\]](_Audio/non-14b8f0.m4a) 농
+[🔊 nɔ̃](_Audio/non-14b8f0.m4a) 농
 
 **non [nɔ̃] 농** — 아니요
 

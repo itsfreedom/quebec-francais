@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # lettre
 
-[🔊 \[lɛtʁ\]](_Audio/la-lettre-c3200a.m4a) 레트흐
+[🔊 lɛtʁ](_Audio/la-lettre-c3200a.m4a) 레트흐
 
 **la lettre [lɛtʁ] 레트흐** — 글자, 편지
 

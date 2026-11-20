@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # question
 
-[🔊 \[kɛstjɔ̃\]](_Audio/la-question-06c1f0.m4a) 께스띠옹
+[🔊 kɛstjɔ̃](_Audio/la-question-06c1f0.m4a) 께스띠옹
 
 **la question [kɛstjɔ̃] 께스띠옹** — 질문
 

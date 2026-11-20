@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # un
 
-[🔊 \[œ̃\]](_Audio/un-067427.m4a) 앙
+[🔊 œ̃](_Audio/un-067427.m4a) 앙
 
 **un [œ̃] 앙** — 1
 

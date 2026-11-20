@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # dix
 
-[🔊 \[dis\]](_Audio/dix-569c81.m4a) 디스
+[🔊 dis](_Audio/dix-569c81.m4a) 디스
 
 **dix [dis] 디스** — 10
 

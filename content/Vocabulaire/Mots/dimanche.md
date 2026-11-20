@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # dimanche
 
-[🔊 \[dimɑ̃ʃ\]](_Audio/le-dimanche-699482.m4a) 디망슈
+[🔊 dimɑ̃ʃ](_Audio/le-dimanche-699482.m4a) 디망슈
 
 **le dimanche [dimɑ̃ʃ] 디망슈** — 일요일
 

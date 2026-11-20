@@ -24,7 +24,7 @@ aliases: ["présent"]
 
 # présent
 
-[🔊 \[pʁezɑ̃\]](_Audio/present-ac6660.m4a) 프헤정
+[🔊 pʁezɑ̃](_Audio/present-ac6660.m4a) 프헤정
 
 **présent (f. présente) [pʁezɑ̃] 프헤정** — 출석한, 있는, 현재의
 

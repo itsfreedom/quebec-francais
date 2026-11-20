@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # quatre
 
-[🔊 \[katʁ\]](_Audio/quatre-2c862e.m4a) 까트흐
+[🔊 katʁ](_Audio/quatre-2c862e.m4a) 까트흐
 
 **quatre [katʁ] 까트흐** — 4
 

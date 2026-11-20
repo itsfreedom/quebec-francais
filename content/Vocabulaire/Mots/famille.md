@@ -25,7 +25,7 @@ tags: [francisation, word]
 
 # famille
 
-[🔊 \[famij\]](_Audio/la-famille-f4c078.m4a) 파미으
+[🔊 famij](_Audio/la-famille-f4c078.m4a) 파미으
 
 **la famille [famij] 파미으** — 가족
 

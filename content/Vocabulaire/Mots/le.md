@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # le
 
-[🔊 \[lə\]](_Audio/le-d91805.m4a) 르
+[🔊 lə](_Audio/le-d91805.m4a) 르
 
 **le (f. la) [lə] 르** — 그 (남성 정관사)
 

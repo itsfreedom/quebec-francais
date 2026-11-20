@@ -23,7 +23,7 @@ tags: [francisation, word]
 
 # rue
 
-[🔊 \[ʁy\]](_Audio/la-rue-4759c6.m4a) 휘
+[🔊 ʁy](_Audio/la-rue-4759c6.m4a) 휘
 
 **la rue [ʁy] 휘** — 길, 거리
 
