@@ -1,0 +1,47 @@
+---
+type: word
+id: "indien"
+lang: "fr"
+native: "ko"
+text: "indien"
+article: ""
+gender: "m"
+pos: "adjective"
+feminine: "indienne"
+ipa: "ɛ̃djɛ̃"
+pron_native: "앵디앙"
+meaning: ["인도 사람"]
+forms:
+  - text: "indienne"
+    meaning: "여성형"
+    ipa: "ɛ̃djɛn"
+    pron_native: "앵디엔"
+examples: []
+theme: "Nationalités et langues"
+lessons: ["20261120"]
+origin: "class"
+created: 2026-11-19
+tags: [francisation, word]
+aliases: []
+---
+
+# indien
+
+[🔊 ɛ̃djɛ̃](_Audio/indien-3d39fd.m4a) 앵디앙
+
+**indien** · *형용사 · 남성* · 여성형 **indienne**
+
+## 뜻
+1. 인도 사람
+
+## 형태
+| 형태 | 발음 | 뜻 |
+|---|---|---|
+| indienne | [🔊 ɛ̃djɛn](_Audio/indienne-53f627.m4a) 앵디엔 | 여성형 |
+
+## 발음 · 쓰임
+국적 남성형 → 여성형 규칙: [[Nationalites]]
+
+---
+📂 주제: [[Nationalités et langues]] · 🔤 [[Dictionnaire#I|사전 I]]
+📅 나온 수업: [[2026-11-20|11/20]]

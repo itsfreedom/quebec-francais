@@ -5,20 +5,18 @@ tags: [francisation, dialogues, moc]
 aliases: [다이얼로그, 대화문]
 ---
 
-# 🗣 Dialogues (다이얼로그)
+# 🗣 Dialogues (대화문)
 
-← [[Francisation]]
+← [[Francisation]] · 상황별 문장: [[Expressions]]
 
-> [!info] 정리 방식
-> - 수업에서 배운 대화문 하나 = 노트 하나 (예: `Se presenter.md` 자기소개)
-> - 대화문 안의 핵심 단어는 [[bonjour]]처럼 단어 노트로 링크해요
-> - 문법 포인트는 [[Grammaire]] 노트로 링크해요
-> - 수업 노트에는 대화문의 핵심 한두 줄만 발췌하고 이 노트로 링크해요
+> [!info] 보는 법
+> - 맨 위에 대화 전체가 있어요. **문장을 누르면 그 문장 소리**가 나와요.
+> - 아래 **포인트**를 읽고, 번역 · 발음 · 단어는 펼쳐서 확인해요.
+> - 같은 상황의 짧은 문장 카드는 [[Expressions]]에 있어요.
 
-## 대화문 목록
 | 대화문 | 상황 | 처음 나온 수업 |
 |---|---|---|
-| [[Se presenter]] | 인사 · 이름 · 출신 | [[2026-11-18]] |
-| [[Quel jour sommes-nous]] | 오늘 · 어제 · 내일 요일 | [[2026-11-18]] |
-| [[Au secretariat]] | 어학원 등록 · 신상 질문 | [[2026-11-19]] |
-| [[Saluer et prendre conge]] | 인사 · 안부 · 작별 인사 | [[2026-11-19]] |
+| [[Se présenter]] | 자기소개 | [[2026-11-18]] |
+| [[Quel jour sommes-nous]] | 오늘 무슨 요일이에요? | [[2026-11-18]] |
+| [[Au secrétariat]] | 어학원 등록 | [[2026-11-19]] |
+| [[Au centre sportif]] | 헬스장 등록 | [[2026-11-20]] |

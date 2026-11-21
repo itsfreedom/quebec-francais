@@ -1,0 +1,26 @@
+---
+type: sentence
+id: "a-plus"
+lang: "fr"
+native: "ko"
+text: "À plus !"
+meaning: "이따 봐! (반말)"
+words: []
+situation: "Saluer et prendre congé"
+dialogue: ""
+lessons: ["20261119"]
+origin: "class"
+created: 2026-11-19
+tags: [francisation, sentence]
+aliases: ["a-plus"]
+---
+
+# À plus !
+
+[🔊 듣기](_Audio/a-plus-988fce.m4a) · 👉 이따 봐! (반말)
+
+**단어**: —
+
+---
+💬 상황: [[Saluer et prendre congé]]
+📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
