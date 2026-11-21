@@ -1,0 +1,31 @@
+---
+type: theme
+section: vocabulaire
+tags: [francisation, vocabulaire, theme]
+aliases: [음식]
+---
+
+# Nourriture (음식)
+
+← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+
+| 단어 | 발음 | 뜻 |
+|---|---|---|
+| [[agneau\|l'agneau]] | [🔊 aɲo](_Audio/l-agneau-43c65d.m4a) 아뇨 | 어린 양, 양고기 |
+| [[blé\|le blé]] | [🔊 ble](_Audio/le-ble-e8fd5f.m4a) 블레 | 밀 |
+| [[chocolat\|le chocolat]] | [🔊 ʃɔkɔla](_Audio/le-chocolat-12b976.m4a) 쇼꼴라 | 초콜릿 |
+| [[eau\|l'eau]] | [🔊 o](_Audio/l-eau-6b33d7.m4a) 오 | 물 |
+| [[gâteau\|le gâteau]] | [🔊 gɑto](_Audio/le-gateau-dfe669.m4a) 갸또 | 케이크 |
+| [[goût\|le goût]] | [🔊 gu](_Audio/le-gout-03d1a0.m4a) 구 | 맛 |
+| [[œuf\|l'œuf]] | [🔊 œf](_Audio/l-uf-ece0fa.m4a) 외프 | 달걀 |
+
+## 🃏 플래시카드
+
+
+**[[agneau|l'agneau]]** — 어린 양, 양고기 · 아뇨
+**[[blé|le blé]]** — 밀 · 블레
+**[[chocolat|le chocolat]]** — 초콜릿 · 쇼꼴라
+**[[eau|l'eau]]** — 물 · 오
+**[[gâteau|le gâteau]]** — 케이크 · 갸또
+**[[goût|le goût]]** — 맛 · 구
+**[[œuf|l'œuf]]** — 달걀 · 외프
