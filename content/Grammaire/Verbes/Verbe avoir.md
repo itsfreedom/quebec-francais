@@ -11,7 +11,7 @@ aliases: [Verbe avoir, avoir 동사, être ou avoir]
 
 # Verbe avoir (가지다, 있다)
 
-← [[Grammaire]] · 처음 배운 수업: [[2026-11-20]]
+← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-20]]
 
 [[Verbe etre|être]]와 함께 가장 중요한 불규칙 동사예요.
 

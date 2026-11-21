@@ -11,7 +11,7 @@ aliases: [tu vous, 반말 존댓말, informel formel]
 
 # Tu et vous (반말과 존댓말)
 
-← [[Grammaire]] · 처음 배운 수업: [[2026-11-19]]
+← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-19]]
 
 - **[[tu]] = informel (반말)**: 친구, 가족, 아이에게
 - **[[vous]] = formel (존댓말)**: 처음 보는 사람, 직원, 선생님에게
@@ -45,4 +45,4 @@ aliases: [tu vous, 반말 존댓말, informel formel]
 ## 인사에서
 같은 구분이 인사에도 있어요: Comment **vas-tu** ? (반말) / Comment **allez-vous** ? (존댓말) → [[Saluer et prendre congé]]
 
-관련: [[Pronoms sujets]] · [[Quel et quelle]] · 대화문: [[Au secrétariat]]
+관련: [[Pronoms sujets]] · [[Quel et quelle]] · 대화문: [[02 Au secrétariat]]

@@ -11,7 +11,7 @@ aliases: [명사의 성, 남성 여성]
 
 # Genre des noms (명사의 성)
 
-← [[Grammaire]] · 처음 나온 수업: [[2026-11-18]]
+← [[00 Grammaire]] · 처음 나온 수업: [[2026-11-18]]
 
 > [!example] 상태: 기초 정리 (수업에서 본격적으로 배우기 전). 수업에서 배우면 내용을 보충해요.
 
@@ -39,3 +39,5 @@ aliases: [명사의 성, 남성 여성]
 출석 부를 때: 남자는 **Présent !**, 여자는 **Présente !**
 
 관련: [[Articles definis]] · [[Adjectifs possessifs]] · 단어: [[Vocabulaire]]
+
+형용사도 명사의 성을 따라 바뀌어요 → [[Nationalites]] (canadien → canadienne)

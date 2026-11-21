@@ -7,7 +7,7 @@ text: "Ça va très bien, merci."
 meaning: "아주 잘 지내요, 고마워요."
 words: ["ca", "aller", "tres", "bien", "merci"]
 situation: "Saluer et prendre congé"
-dialogue: "Se présenter"
+dialogue: "01 Se présenter"
 lessons: ["20261118"]
 origin: "class"
 created: 2026-11-19
@@ -22,5 +22,5 @@ aliases: ["ca-va-tres-bien-merci"]
 **단어**: [[ça]] · [[aller]] · [[très]] · [[bien]] · [[merci]]
 
 ---
-💬 상황: [[Saluer et prendre congé]] · 🗣 대화문: [[Se présenter]]
+💬 상황: [[Saluer et prendre congé]] · 🗣 대화문: [[01 Se présenter]]
 📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]

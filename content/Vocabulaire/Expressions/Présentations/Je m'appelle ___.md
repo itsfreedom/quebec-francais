@@ -7,7 +7,7 @@ text: "Je m'appelle ___."
 meaning: "내 이름은 ___예요."
 words: ["je", "sappeler"]
 situation: "Présentations"
-dialogue: "Se présenter"
+dialogue: "01 Se présenter"
 lessons: ["20261118"]
 origin: "class"
 created: 2026-11-19
@@ -22,5 +22,5 @@ aliases: ["je-mappelle"]
 **단어**: [[je]] · [[s'appeler]]
 
 ---
-💬 상황: [[Présentations]] · 🗣 대화문: [[Se présenter]]
+💬 상황: [[Présentations]] · 🗣 대화문: [[01 Se présenter]]
 📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]

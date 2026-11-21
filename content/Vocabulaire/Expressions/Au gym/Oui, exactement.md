@@ -7,7 +7,7 @@ text: "Oui, exactement."
 meaning: "네, 맞아요."
 words: ["oui", "exactement"]
 situation: "Au gym"
-dialogue: "Au centre sportif"
+dialogue: "03 Au centre sportif"
 lessons: ["20261120"]
 origin: "class"
 created: 2026-11-19
@@ -22,5 +22,5 @@ aliases: ["oui-exactement"]
 **단어**: [[oui]] · [[exactement]]
 
 ---
-💬 상황: [[Au gym]] · 🗣 대화문: [[Au centre sportif]]
+💬 상황: [[Au gym]] · 🗣 대화문: [[03 Au centre sportif]]
 📅 나온 수업: [[2026-11-20|11/20]]

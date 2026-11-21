@@ -12,5 +12,5 @@ title: 퀘벡 불어 노트
 ## 📚 모아보기
 - [[Vocabulaire|단어·표현]]
 - [[Phonetique|발음]]
-- [[Grammaire|문법]]
-- [[Dialogues|대화문]]
+- [[00 Grammaire|문법]]
+- [[00 Dialogues|대화문]]

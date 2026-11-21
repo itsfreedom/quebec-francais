@@ -13,7 +13,7 @@ aliases: ["어학원 등록"]
 
 # Au secrétariat (어학원 등록)
 
-← [[Dialogues]] · 수업: [[2026-11-19]] · 💬 표현: [[Renseignements personnels]]
+← [[00 Dialogues]] · 수업: [[2026-11-19]] · 💬 표현: [[Renseignements personnels]]
 
 [🔊 대화 전체 듣기](_Audio/dialogue-au-secretariat-e15726.m4a) · 문장을 누르면 그 문장만 들려요
 

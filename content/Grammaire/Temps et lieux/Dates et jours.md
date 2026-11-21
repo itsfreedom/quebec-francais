@@ -11,7 +11,7 @@ aliases: [날짜, 요일, Date]
 
 # Dates et jours (날짜 · 요일)
 
-← [[Grammaire]] · 처음 배운 수업: [[2026-11-18]]
+← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-18]]
 
 ## 날짜 쓰는 순서
 **요일 + 날짜 + 월 + 연도** → **mercredi 18 novembre 2026**
@@ -61,4 +61,4 @@ aliases: [날짜, 요일, Date]
 
 연습: 프린트물 10쪽(요일) · 11쪽(달) → [[20261118_Isabelle_digne_dattention_1_p8-12.pdf]]
 
-대화문: [[Quel jour sommes-nous]]
+표현: [[Le jour et la date]]

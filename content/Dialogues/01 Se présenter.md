@@ -13,7 +13,7 @@ aliases: ["자기소개"]
 
 # Se présenter (자기소개)
 
-← [[Dialogues]] · 수업: [[2026-11-18]] · 💬 표현: [[Présentations]]
+← [[00 Dialogues]] · 수업: [[2026-11-18]] · 💬 표현: [[Présentations]]
 
 [🔊 대화 전체 듣기](_Audio/dialogue-se-presenter-08fcb1.m4a) · 문장을 누르면 그 문장만 들려요
 

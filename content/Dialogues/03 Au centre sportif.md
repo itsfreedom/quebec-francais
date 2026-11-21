@@ -13,7 +13,7 @@ aliases: ["헬스장 등록"]
 
 # Au centre sportif (헬스장 등록)
 
-← [[Dialogues]] · 수업: [[2026-11-20]] · 💬 표현: [[Au gym]]
+← [[00 Dialogues]] · 수업: [[2026-11-20]] · 💬 표현: [[Au gym]]
 
 [🔊 대화 전체 듣기](_Audio/dialogue-au-centre-sportif-ac1478.m4a) · 문장을 누르면 그 문장만 들려요
 

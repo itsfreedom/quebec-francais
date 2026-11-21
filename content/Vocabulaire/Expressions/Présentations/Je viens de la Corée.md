@@ -7,7 +7,7 @@ text: "Je viens de la Corée."
 meaning: "나는 한국에서 왔어요."
 words: ["je", "venir", "de", "coree"]
 situation: "Présentations"
-dialogue: "Se présenter"
+dialogue: "01 Se présenter"
 lessons: ["20261118"]
 origin: "class"
 created: 2026-11-19
@@ -22,5 +22,5 @@ aliases: ["je-viens-de-la-coree"]
 **단어**: [[je]] · [[venir]] · [[de]] · [[Corée|la Corée]]
 
 ---
-💬 상황: [[Présentations]] · 🗣 대화문: [[Se présenter]]
+💬 상황: [[Présentations]] · 🗣 대화문: [[01 Se présenter]]
 📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]

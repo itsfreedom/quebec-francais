@@ -11,7 +11,7 @@ aliases: [Adjectifs interrogatifs, 의문형용사, quel quelle]
 
 # Quel, quelle (의문형용사: 어느, 무슨)
 
-← [[Grammaire]] · 처음 배운 수업: [[2026-11-19]]
+← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-19]]
 
 뒤에 오는 **명사의 성**에 맞춰요.
 

@@ -7,7 +7,7 @@ text: "Quel est votre nom ?"
 meaning: "이름이 어떻게 되세요?"
 words: ["quel", "etre", "votre", "nom"]
 situation: "Renseignements personnels"
-dialogue: "Au secrétariat"
+dialogue: "02 Au secrétariat"
 lessons: ["20261119"]
 origin: "class"
 created: 2026-11-19
@@ -22,5 +22,5 @@ aliases: ["quel-est-votre-nom"]
 **단어**: [[quel]] · [[être]] · [[votre]] · [[nom|le nom]]
 
 ---
-💬 상황: [[Renseignements personnels]] · 🗣 대화문: [[Au secrétariat]]
+💬 상황: [[Renseignements personnels]] · 🗣 대화문: [[02 Au secrétariat]]
 📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]

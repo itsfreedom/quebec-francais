@@ -7,9 +7,9 @@ text: "Demain, nous allons être jeudi."
 meaning: "내일은 목요일일 거예요."
 words: ["demain", "nous", "aller", "etre", "jeudi"]
 situation: "Le jour et la date"
-dialogue: "Quel jour sommes-nous"
+dialogue: ""
 lessons: ["20261118"]
-origin: "class"
+origin: "generated"
 created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["demain-nous-allons-etre-jeudi"]
@@ -22,5 +22,5 @@ aliases: ["demain-nous-allons-etre-jeudi"]
 **단어**: [[demain]] · [[nous]] · [[aller]] · [[être]] · [[jeudi|le jeudi]]
 
 ---
-💬 상황: [[Le jour et la date]] · 🗣 대화문: [[Quel jour sommes-nous]]
+💬 상황: [[Le jour et la date]]
 📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]

@@ -7,7 +7,7 @@ aliases: [헬스장 등록 · 가격 묻기]
 
 # Au gym (헬스장 등록 · 가격 묻기)
 
-← [[Expressions]] · [[Vocabulaire]]  · 🗣 대화문: [[Au centre sportif]]
+← [[Expressions]] · [[Vocabulaire]]  · 🗣 대화문: [[03 Au centre sportif]]
 
 | 문장 | 🔊 | 뜻 |
 |---|---|---|

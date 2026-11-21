@@ -7,7 +7,7 @@ aliases: [개인 정보 묻고 답하기 (서류·사무실)]
 
 # Renseignements personnels (개인 정보 묻고 답하기 (서류·사무실))
 
-← [[Expressions]] · [[Vocabulaire]]  · 🗣 대화문: [[Au secrétariat]]
+← [[Expressions]] · [[Vocabulaire]]  · 🗣 대화문: [[02 Au secrétariat]]
 
 | 문장 | 🔊 | 뜻 |
 |---|---|---|

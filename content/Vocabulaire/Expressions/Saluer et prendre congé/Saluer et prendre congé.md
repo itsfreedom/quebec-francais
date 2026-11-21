@@ -7,7 +7,7 @@ aliases: [인사와 작별 인사]
 
 # Saluer et prendre congé (인사와 작별 인사)
 
-← [[Expressions]] · [[Vocabulaire]]  · 🗣 대화문: [[Se présenter]]
+← [[Expressions]] · [[Vocabulaire]]  · 🗣 대화문: [[01 Se présenter]]
 
 ## 만날 때
 | 존댓말 (formel +) | 반말 (informel –) |

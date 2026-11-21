@@ -11,7 +11,7 @@ aliases: [공손한 조건법, je voudrais]
 
 # Conditionnel de politesse (공손하게 말하기)
 
-← [[Grammaire]] · 처음 나온 수업: [[2026-11-18]]
+← [[00 Grammaire]] · 처음 나온 수업: [[2026-11-18]]
 
 > [!example] 상태: 수업에서 이름만 나왔어요. 본격적으로 배우면 보충해요.
 

@@ -7,7 +7,7 @@ aliases: [오늘 · 어제 · 내일]
 
 # Le jour et la date (오늘 · 어제 · 내일)
 
-← [[Expressions]] · [[Vocabulaire]]  · 🗣 대화문: [[Quel jour sommes-nous]]
+← [[Expressions]] · [[Vocabulaire]]
 
 | 문장 | 🔊 | 뜻 |
 |---|---|---|

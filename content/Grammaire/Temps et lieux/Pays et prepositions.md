@@ -11,7 +11,7 @@ aliases: [나라 전치사, venir de]
 
 # Pays et prépositions (나라 + 전치사)
 
-← [[Grammaire]] · 처음 배운 수업: [[2026-11-18]]
+← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-18]]
 
 **출신 말하기**: [[venir]] **de** + 나라
 

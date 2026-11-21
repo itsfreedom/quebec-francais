@@ -7,7 +7,7 @@ text: "Quel est votre numéro de téléphone ?"
 meaning: "전화번호가 어떻게 되세요?"
 words: ["quel", "etre", "votre", "numero", "telephone"]
 situation: "Renseignements personnels"
-dialogue: "Au secrétariat"
+dialogue: "02 Au secrétariat"
 lessons: ["20261119"]
 origin: "class"
 created: 2026-11-19
@@ -22,5 +22,5 @@ aliases: ["quel-est-votre-numero"]
 **단어**: [[quel]] · [[être]] · [[votre]] · [[numéro|le numéro]] · [[téléphone|le téléphone]]
 
 ---
-💬 상황: [[Renseignements personnels]] · 🗣 대화문: [[Au secrétariat]]
+💬 상황: [[Renseignements personnels]] · 🗣 대화문: [[02 Au secrétariat]]
 📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]

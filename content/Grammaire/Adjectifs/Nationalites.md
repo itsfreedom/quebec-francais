@@ -11,7 +11,7 @@ aliases: [Nationalités, 국적, 국적 형용사]
 
 # Nationalités (국적 말하기)
 
-← [[Grammaire]] · 처음 배운 수업: [[2026-11-20]]
+← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-20]]
 
 **Je suis + 국적** ([[Verbe etre|être]]) → Je suis Coréen. / Je suis Coréenne.
 

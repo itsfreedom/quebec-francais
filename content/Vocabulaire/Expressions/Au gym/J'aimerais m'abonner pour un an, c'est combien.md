@@ -7,7 +7,7 @@ text: "J'aimerais m'abonner pour un an, c'est combien ?"
 meaning: "1년 가입하고 싶어요, 얼마예요?"
 words: ["aimer", "sabonner", "un", "an", "combien"]
 situation: "Au gym"
-dialogue: "Au centre sportif"
+dialogue: "03 Au centre sportif"
 lessons: ["20261120"]
 origin: "class"
 created: 2026-11-19
@@ -22,5 +22,5 @@ aliases: ["jaimerais-mabonner-pour-un-an"]
 **단어**: [[aimer]] · [[s'abonner]] · [[un]] · [[an|l'an]] · [[combien]]
 
 ---
-💬 상황: [[Au gym]] · 🗣 대화문: [[Au centre sportif]]
+💬 상황: [[Au gym]] · 🗣 대화문: [[03 Au centre sportif]]
 📅 나온 수업: [[2026-11-20|11/20]]

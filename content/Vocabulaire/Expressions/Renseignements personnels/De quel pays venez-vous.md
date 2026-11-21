@@ -7,7 +7,7 @@ text: "De quel pays venez-vous ?"
 meaning: "어느 나라에서 오셨어요?"
 words: ["de", "quel", "pays", "venir", "vous"]
 situation: "Renseignements personnels"
-dialogue: "Au secrétariat"
+dialogue: "02 Au secrétariat"
 lessons: ["20261119"]
 origin: "class"
 created: 2026-11-19
@@ -22,5 +22,5 @@ aliases: ["de-quel-pays-venez-vous"]
 **단어**: [[de]] · [[quel]] · [[pays|le pays]] · [[venir]] · [[vous]]
 
 ---
-💬 상황: [[Renseignements personnels]] · 🗣 대화문: [[Au secrétariat]]
+💬 상황: [[Renseignements personnels]] · 🗣 대화문: [[02 Au secrétariat]]
 📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]

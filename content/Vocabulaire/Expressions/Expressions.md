@@ -7,7 +7,7 @@ aliases: [표현, 문장, 상황별 표현]
 
 # 💬 Expressions (상황별 표현)
 
-← [[Vocabulaire]] · 대화문: [[Dialogues]]
+← [[Vocabulaire]] · 대화문: [[00 Dialogues]]
 
 > [!info] 문장은 **상황별 폴더**에 들어 있어요. 상황 노트에 문장 목록과 플래시카드가 있어요.
 

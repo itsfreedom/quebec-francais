@@ -7,7 +7,7 @@ text: "250 dollars pour un an ? Ça veut dire que j'ai deux mois gratuits ?"
 meaning: "1년에 250달러요? 그럼 두 달이 무료라는 뜻이에요?"
 words: ["dollar", "an", "ca", "vouloir", "dire", "avoir", "deux", "mois", "gratuit"]
 situation: "Au gym"
-dialogue: "Au centre sportif"
+dialogue: "03 Au centre sportif"
 lessons: ["20261120"]
 origin: "class"
 created: 2026-11-19
@@ -22,5 +22,5 @@ aliases: ["deux-mois-gratuits"]
 **단어**: [[dollar|le dollar]] · [[an|l'an]] · [[ça]] · [[vouloir]] · [[dire]] · [[avoir]] · [[deux]] · [[mois|le mois]] · [[gratuit]]
 
 ---
-💬 상황: [[Au gym]] · 🗣 대화문: [[Au centre sportif]]
+💬 상황: [[Au gym]] · 🗣 대화문: [[03 Au centre sportif]]
 📅 나온 수업: [[2026-11-20|11/20]]

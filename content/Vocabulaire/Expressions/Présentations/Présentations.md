@@ -7,7 +7,7 @@ aliases: [자기소개 · 이름 · 출신]
 
 # Présentations (자기소개 · 이름 · 출신)
 
-← [[Expressions]] · [[Vocabulaire]]  · 🗣 대화문: [[Se présenter]]
+← [[Expressions]] · [[Vocabulaire]]  · 🗣 대화문: [[01 Se présenter]]
 
 | 문장 | 🔊 | 뜻 |
 |---|---|---|

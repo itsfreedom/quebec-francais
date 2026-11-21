@@ -11,7 +11,7 @@ aliases: [Articles définis, 정관사, le la les]
 
 # Articles définis (정관사)
 
-← [[Grammaire]] · 처음 나온 수업: [[2026-11-18]]
+← [[00 Grammaire]] · 처음 나온 수업: [[2026-11-18]]
 
 > [!example] 상태: 기초 정리 (수업에서 본격적으로 배우기 전). 수업에서 배우면 내용을 보충해요.
 
