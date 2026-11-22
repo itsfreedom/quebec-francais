@@ -32,5 +32,3 @@ aliases: [Grammaire, 문법, 문법 색인, 문법 목차]
 ## [[1 Grammaire/2 La phrase/index|La phrase (문장)]]
 1. [[01 Négation|부정문: ne … pas]]
 
-## Le temps et la date (시간 표현)
-1. [[01 Dates et jours|날짜 · 요일 · 생년월일]]

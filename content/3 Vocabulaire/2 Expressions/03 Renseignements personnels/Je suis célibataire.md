@@ -13,7 +13,9 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-suis-celibataire"]
 ---
-[🔊 듣기](_Audio/je-suis-celibataire-9d1f98.m4a) · 👉 나는 미혼이에요.
+**[Je](_Audio/je-79563e.m4a "나는") [suis](_Audio/etre-1e529d.m4a "être · ~이다, 있다") [célibataire](_Audio/celibataire-f1bc64.m4a "미혼의, 싱글").** [🔊](_Audio/je-suis-celibataire-9d1f98.m4a)
+
+👉 나는 미혼이에요.
 
 **단어**: [[je]] · [[être]] · [[célibataire]]
 

@@ -38,7 +38,7 @@ aliases: []
 | 형태 | 발음 | 뜻 |
 |---|---|---|
 | je peux | [🔊 ʒə pø](_Audio/je-peux-755f76.m4a) 즈 뾔 | 나는 할 수 있다 |
-| pouvez-vous ? | [🔊 puve vu](_Audio/pouvez-vous-f918cc.m4a) 뿌베 부 | 해 주실 수 있어요? |
+| [pouvez-vous](_Audio/pouvoir-a7675d.m4a "pouvoir · ~할 수 있다") ? [🔊](_Audio/pouvez-vous-f918cc.m4a) | [puve vu] 뿌베 부 | 해 주실 수 있어요? |
 
 ---
 📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

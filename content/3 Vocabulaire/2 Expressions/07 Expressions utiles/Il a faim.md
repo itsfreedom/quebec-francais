@@ -13,7 +13,9 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["il-a-faim"]
 ---
-[🔊 듣기](_Audio/il-a-faim-517662.m4a) · 👉 그는 배고파요.
+**Il [a](_Audio/avoir-f6d928.m4a "avoir · 가지다, 있다") [faim](_Audio/la-faim-78b9a5.m4a "배고픔").** [🔊](_Audio/il-a-faim-517662.m4a)
+
+👉 그는 배고파요.
 
 **단어**: [[avoir]] · [[faim|la faim]]
 

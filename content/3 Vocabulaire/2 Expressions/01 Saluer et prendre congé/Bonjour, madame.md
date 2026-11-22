@@ -13,7 +13,9 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["bonjour-madame"]
 ---
-[🔊 듣기](_Audio/bonjour-madame-303851.m4a) · 👉 안녕하세요 (여성에게)
+**[Bonjour](_Audio/bonjour-f02368.m4a "안녕하세요 (낮 인사)"), [madame](_Audio/madame-43ee1d.m4a "~씨, 부인 (여성 존칭)") !** [🔊](_Audio/bonjour-madame-303851.m4a)
+
+👉 안녕하세요 (여성에게)
 
 **단어**: [[bonjour]]
 

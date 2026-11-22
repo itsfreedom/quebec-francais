@@ -27,7 +27,7 @@ aliases: []
 1. 11월
 
 ## 발음 · 쓰임
-달 이름은 소문자로 써요 ([[01 Dates et jours|Dates et jours]])
+달 이름은 소문자로 써요 ([[06 Temps et jours#📌 날짜 말하는 법|날짜 말하는 법]])
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

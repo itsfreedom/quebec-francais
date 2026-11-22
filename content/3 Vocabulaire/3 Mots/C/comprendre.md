@@ -35,7 +35,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| je ne comprends pas | [🔊 ʒə nə kɔ̃pʁɑ̃ pa](_Audio/je-ne-comprends-pas-966cc1.m4a) 즈 느 꽁프헝 빠 | 이해가 안 돼요 |
+| [je](_Audio/je-79563e.m4a "나는") ne [comprends](_Audio/comprendre-8f8f74.m4a "comprendre · 이해하다") [pas](_Audio/pas-cd0acf.m4a "~아니다 (부정)") [🔊](_Audio/je-ne-comprends-pas-966cc1.m4a) | [ʒə nə kɔ̃pʁɑ̃ pa] 즈 느 꽁프헝 빠 | 이해가 안 돼요 |
 
 ## 예문
 - **Je peux comprendre les questions.** — 나는 질문을 이해할 수 있어요.

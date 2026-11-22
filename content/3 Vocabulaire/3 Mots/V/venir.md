@@ -47,8 +47,8 @@ aliases: []
 |---|---|---|
 | je viens | [🔊 ʒə vjɛ̃](_Audio/je-viens-2c61d6.m4a) 즈 비앙 | 나는 온다 |
 | tu viens | [🔊 ty vjɛ̃](_Audio/tu-viens-5ae7dd.m4a) 뛰 비앙 | 너는 온다 |
-| viens-tu ? | [🔊 vjɛ̃ ty](_Audio/viens-tu-9ec33a.m4a) 비앙 뛰 | 너는 오니? |
-| venez-vous ? | [🔊 vəne vu](_Audio/venez-vous-340fc6.m4a) 브네 부 | 당신은 오나요? |
+| [viens](_Audio/venir-2108a7.m4a "venir · 오다")-[tu](_Audio/tu-b6b4ce.m4a "너는") ? [🔊](_Audio/viens-tu-9ec33a.m4a) | [vjɛ̃ ty] 비앙 뛰 | 너는 오니? |
+| [venez-vous](_Audio/venir-2108a7.m4a "venir · 오다") ? [🔊](_Audio/venez-vous-340fc6.m4a) | [vəne vu] 브네 부 | 당신은 오나요? |
 
 ## 발음 · 쓰임
 출신 말하기: venir de + 나라 ([[01 Pays et prépositions|Pays et prépositions]])

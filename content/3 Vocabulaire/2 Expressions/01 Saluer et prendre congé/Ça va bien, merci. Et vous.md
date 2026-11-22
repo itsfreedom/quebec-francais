@@ -13,7 +13,9 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["ca-va-bien-merci-et-vous"]
 ---
-[🔊 듣기](_Audio/ca-va-bien-merci-et-vous-1ba319.m4a) · 👉 잘 지내요, 고마워요. 당신은요?
+**[Ça](_Audio/ca-25596d.m4a "그것, 이것") [va](_Audio/aller-299d26.m4a "aller · 가다") [bien](_Audio/bien-67d6c2.m4a "잘, 좋게"), [merci](_Audio/merci-8e105c.m4a "고마워요"). [Et](_Audio/et-4de1b7.m4a "그리고") [vous](_Audio/vous-593ffa.m4a "당신 (존댓말), 너희") ?** [🔊](_Audio/ca-va-bien-merci-et-vous-1ba319.m4a)
+
+👉 잘 지내요, 고마워요. 당신은요?
 
 **단어**: [[ça]] · [[aller]] · [[bien]] · [[merci]] · [[et]] · [[vous]]
 

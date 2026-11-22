@@ -15,7 +15,9 @@ aliases: ["comment-on-dit-en-francais"]
 ---
 # Comment on dit … en français ?
 
-[🔊 듣기](_Audio/comment-on-dit-en-francais-9fc0d3.m4a) · 👉 …를 불어로 어떻게 말해요?
+**[Comment](_Audio/comment-06d4cd.m4a "어떻게") on [dit](_Audio/dire-2fca68.m4a "dire · 말하다") … en [français](_Audio/francais-616e89.m4a "프랑스어, 프랑스의") ?** [🔊](_Audio/comment-on-dit-en-francais-9fc0d3.m4a)
+
+👉 …를 불어로 어떻게 말해요?
 
 **단어**: [[comment]] · [[dire]] · [[français]]
 

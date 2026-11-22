@@ -13,7 +13,9 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["voila-votre-cafe"]
 ---
-[🔊 듣기](_Audio/voila-votre-cafe-877c4f.m4a) · 👉 여기 커피 나왔어요!
+**[Voilà](_Audio/voila-957c44.m4a "자, 여기 있어요, 바로 그거예요") [votre](_Audio/votre-8982fd.m4a "당신의") café !** [🔊](_Audio/voila-votre-cafe-877c4f.m4a)
+
+👉 여기 커피 나왔어요!
 
 **단어**: [[voilà]] · [[votre]]
 

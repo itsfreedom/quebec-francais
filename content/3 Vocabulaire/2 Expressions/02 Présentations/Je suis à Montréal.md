@@ -13,7 +13,9 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["je-suis-a-montreal"]
 ---
-[🔊 듣기](_Audio/je-suis-a-montreal-49fd96.m4a) · 👉 나는 몬트리올에 있어요.
+**[Je](_Audio/je-79563e.m4a "나는") [suis](_Audio/etre-1e529d.m4a "être · ~이다, 있다") à Montréal.** [🔊](_Audio/je-suis-a-montreal-49fd96.m4a)
+
+👉 나는 몬트리올에 있어요.
 
 **단어**: [[je]] · [[être]]
 

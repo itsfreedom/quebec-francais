@@ -13,7 +13,9 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["bye"]
 ---
-[🔊 듣기](_Audio/bye-2e326a.m4a) · 👉 안녕! (헤어질 때, 구어)
+**Bye !** [🔊](_Audio/bye-2e326a.m4a)
+
+👉 안녕! (헤어질 때, 구어)
 
 ---
 💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

@@ -13,7 +13,9 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-viens-du-maroc"]
 ---
-[🔊 듣기](_Audio/je-viens-du-maroc-b66b2e.m4a) · 👉 나는 모로코에서 왔어요.
+**[Je](_Audio/je-79563e.m4a "나는") [viens](_Audio/venir-2108a7.m4a "venir · 오다") du [Maroc](_Audio/le-maroc-7f9802.m4a "모로코").** [🔊](_Audio/je-viens-du-maroc-b66b2e.m4a)
+
+👉 나는 모로코에서 왔어요.
 
 **단어**: [[je]] · [[venir]] · [[de]] · [[Maroc|le Maroc]]
 

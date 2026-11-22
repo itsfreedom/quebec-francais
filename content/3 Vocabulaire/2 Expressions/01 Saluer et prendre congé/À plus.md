@@ -13,7 +13,9 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-plus"]
 ---
-[🔊 듣기](_Audio/a-plus-988fce.m4a) · 👉 이따 봐! (반말)
+**À plus !** [🔊](_Audio/a-plus-988fce.m4a)
+
+👉 이따 봐! (반말)
 
 ---
 💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

@@ -3,9 +3,31 @@ title: "Temps et jours"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
-aliases: [시간·날]
+aliases: [시간·날, 날짜 말하는 법, Dates et jours, 날짜, 요일, 생년월일]
 ---
-문법: [[01 Dates et jours|Dates et jours]] · [[03 Temps verbaux|Temps verbaux]]
+## 📌 날짜 말하는 법
+
+1. 순서는 **요일 + 날짜 + 월 + 연도** → **mercredi 18 novembre 2026**
+2. 날짜 앞에는 **le**: Nous sommes **le** 18 novembre.
+3. 1일만 **premier** (1er): le **1er** décembre · 나머지는 그냥 숫자 (le 2, le 18 …)
+4. 요일과 달은 **소문자**로 쓰고, 모두 **남성 명사**예요: **le** lundi, novembre
+5. "~월에" = **en** + 달: **en** janvier, **en** août
+
+### 생년월일 (la date de naissance)
+말할 때와 서류에 쓸 때 순서가 반대예요.
+
+| | 순서 | 예 |
+|---|---|---|
+| 📢 말할 때 | 일 · 월 · 연도 | le 27 novembre 1974 |
+| ✍ 서류에 쓸 때 | 연도-월-일 (AAAA-MM-JJ) | 1974-11-27 |
+
+- 태어났다: **Je suis né** (남) / **Je suis née** (여) le 27 novembre 1974. 발음은 같아요 [ne] 네.
+- AAAA = [[année|année]](연) · MM = [[mois]](월) · JJ = [[jour]](일)
+- 연도 읽기: 1974 = **mille neuf cent soixante-quatorze** → [[05 Nombres|Nombres]]
+
+## 단어
+
+관련: [[03 Temps verbaux|Temps verbaux]] (오늘·어제·내일의 시제) · 표현: [[05 Le jour et la date|Le jour et la date]]
 
 | 단어 | 발음 | 뜻 |
 |---|---|---|

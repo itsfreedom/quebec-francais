@@ -20,4 +20,4 @@ aliases: [Temps verbaux, 시제, 과거 현재 미래]
 > [!tip] 가까운 미래가 제일 쉬워요
 > aller만 활용하고 뒤에 동사원형을 붙이면 돼요: Je vais parler. (말할 거예요)
 
-관련: [[01 Verbe être|Verbe être]] · [[01 Dates et jours|Dates et jours]]
+관련: [[01 Verbe être|Verbe être]] · [[06 Temps et jours#📌 날짜 말하는 법|날짜 말하는 법]]

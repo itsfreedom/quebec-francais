@@ -13,7 +13,9 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["bon-week-end"]
 ---
-[🔊 듣기](_Audio/bon-week-end-2154f1.m4a) · 👉 주말 잘 보내세요!
+**[Bon](_Audio/bon-c7f86e.m4a "좋은, 맛있는") week-end !** [🔊](_Audio/bon-week-end-2154f1.m4a)
+
+👉 주말 잘 보내세요!
 
 **단어**: [[bon]]
 

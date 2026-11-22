@@ -13,7 +13,9 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["salut-ca-va"]
 ---
-[🔊 듣기](_Audio/salut-ca-va-ed97a1.m4a) · 👉 안녕, 잘 지내?
+**[Salut](_Audio/salut-3ed7dc.m4a "안녕 (친한 사이, 만날 때·헤어질 때)"), [ça](_Audio/ca-25596d.m4a "그것, 이것") [va](_Audio/aller-299d26.m4a "aller · 가다") ?** [🔊](_Audio/salut-ca-va-ed97a1.m4a)
+
+👉 안녕, 잘 지내?
 
 **단어**: [[salut]] · [[ça]] · [[aller]]
 

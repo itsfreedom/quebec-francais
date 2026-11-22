@@ -33,7 +33,7 @@ aliases: ["la naissance"]
 - **la date de naissance** — 생년월일
 
 ## 발음 · 쓰임
-ss = [s], an = [ɑ̃] ([[02 Voyelles nasales|Voyelles nasales]]) · 날짜 쓰는 법 → [[01 Dates et jours|Dates et jours]]
+ss = [s], an = [ɑ̃] ([[02 Voyelles nasales|Voyelles nasales]]) · 날짜 쓰는 법 → [[06 Temps et jours#📌 날짜 말하는 법|날짜 말하는 법]]
 
 ---
 📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

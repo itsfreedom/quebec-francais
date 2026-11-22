@@ -13,7 +13,9 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-ne-sais-pas"]
 ---
-[🔊 듣기](_Audio/je-ne-sais-pas-688d3e.m4a) · 👉 모르겠어요.
+**[Je](_Audio/je-79563e.m4a "나는") ne [sais](_Audio/savoir-68cdd2.m4a "savoir · 알다") [pas](_Audio/pas-cd0acf.m4a "~아니다 (부정)").** [🔊](_Audio/je-ne-sais-pas-688d3e.m4a)
+
+👉 모르겠어요.
 
 **단어**: [[je]] · [[savoir]] · [[pas]]
 

@@ -13,7 +13,9 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["au-revoir"]
 ---
-[🔊 듣기](_Audio/au-revoir-46fab5.m4a) · 👉 안녕히 가세요 / 안녕히 계세요
+**Au revoir !** [🔊](_Audio/au-revoir-46fab5.m4a)
+
+👉 안녕히 가세요 / 안녕히 계세요
 
 ---
 💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

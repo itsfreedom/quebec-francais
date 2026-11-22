@@ -64,8 +64,8 @@ aliases: []
 |---|---|---|
 | nous avons | [🔊 nuzavɔ̃](_Audio/nous-avons-097f11.m4a) 누자봉 | 우리는 가지고 있다 |
 | j'ai | [🔊 ʒe](_Audio/j-ai-552d0b.m4a) 제 | 나는 가지고 있다 / (나이) ~살이다 |
-| as-tu ? | [🔊 a ty](_Audio/as-tu-1389f0.m4a) 아 뛰 | 너는 가지고 있니? |
-| avez-vous ? | [🔊 ave vu](_Audio/avez-vous-1009f5.m4a) 아베 부 | 당신은 가지고 있나요? |
+| [as](_Audio/avoir-f6d928.m4a "avoir · 가지다, 있다")-[tu](_Audio/tu-b6b4ce.m4a "너는") ? [🔊](_Audio/as-tu-1389f0.m4a) | [a ty] 아 뛰 | 너는 가지고 있니? |
+| [avez-vous](_Audio/avoir-f6d928.m4a "avoir · 가지다, 있다") ? [🔊](_Audio/avez-vous-1009f5.m4a) | [ave vu] 아베 부 | 당신은 가지고 있나요? |
 | tu as | [🔊 ty a](_Audio/tu-as-1e54f1.m4a) 뛰 아 | 너는 가지고 있다 |
 | il a | [🔊 il a](_Audio/il-a-3bc667.m4a) 일 라 | 그는 가지고 있다 |
 | vous avez | [🔊 vuzave](_Audio/vous-avez-2d7f88.m4a) 부자베 | 당신은 가지고 있다 |
