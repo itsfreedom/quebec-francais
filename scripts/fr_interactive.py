@@ -24,6 +24,21 @@ def fname(text):   # 볼트 audio.py 의 이름 규칙과 같음
 def norm(t):
     return unicodedata.normalize('NFC', t.replace('’', "'")).lower()
 
+# ---------- 한글 발음 빼기 ----------
+PV=re.compile(r'[aeiouyøœɛɔɑəɥ]')
+HANG=re.compile(r'[가-힣]')
+PIPA=r'(?:\[🔊 [^\]]+\]\(_Audio/[^)\s]+\)|\[\[_Audio/[^\]|]+\\?\|🔊 [^\]]+\]\]|`?\[(?![^\]]*[가-힣])[^\]\n]+\]`?(?![(\[]))'
+PPRON=r'[가-힣][가-힣 ·,.?!…~\-]*?'
+PEND=r'(?=[ \t]*(?:\||≠|$|\)|\(|→|\.\s|\.$|,|;))'
+def _ok(ipa,pron):
+    v=len(PV.findall(ipa)); h=len(HANG.findall(pron))
+    return v>0 and h<=v*2+1
+def strip_hangul(t):
+    t=re.sub(r'('+PIPA+r')[ \t]+('+PPRON+r')'+PEND,lambda m:m.group(1) if _ok(m.group(1),m.group(2)) else m.group(0),t,flags=re.M)
+    # 대화 발음 줄: "> **A** : 봉주흐!  `[bɔ̃ʒuʁ]`" → "> **A** : `[bɔ̃ʒuʁ]`"
+    t=re.sub(r'(?m)^(>\s*(?:\*\*[^*\n]+\*\* : )?)([가-힣][^`\n]*?)\s+(`\[[^\]]+\]`)\s*$',lambda m:m.group(1)+m.group(3) if _ok(m.group(3),m.group(2)) else m.group(0),t)
+    return t
+
 # ---------- 단어 노트 읽기 ----------
 def frontmatter(t):
     m = re.match(r'^---\n(.*?)\n---\n?', t, re.S)
@@ -178,6 +193,8 @@ def transform(t):
         if not cands or m.group(2) in cands: return m.group(0)
         return f'[{m.group(1)}](_Audio/{cands[0]} "{m.group(3)}")'
     body = re.sub(r'\[([^\[\]\n]+)\]\(_Audio/([^)\s]+\.m4a) "([^"]*)"\)', up, body)
+    # 8) 한글 발음 표기 빼기 (소리로 들으니까 · 발음기호는 그대로)
+    body = strip_hangul(body)
     return head + body
 
 if __name__ == '__main__':
