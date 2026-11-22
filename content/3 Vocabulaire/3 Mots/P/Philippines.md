@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["philippines", "les Philippines"]
 ---
-
-# Philippines
-
 [🔊 filipin](_Audio/les-philippines-b91ff0.m4a) 필리삔
 
 **les Philippines** · *명사 · 여성*

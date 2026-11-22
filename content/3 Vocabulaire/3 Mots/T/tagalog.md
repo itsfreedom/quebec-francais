@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le tagalog"]
 ---
-
-# tagalog
-
 [🔊 taɡalɔɡ](_Audio/le-tagalog-ea3014.m4a) 따갈로그
 
 **le tagalog** · *명사 · 남성*

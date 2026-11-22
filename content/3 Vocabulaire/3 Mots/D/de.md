@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# de
-
 [🔊 də](_Audio/de-5f02f0.m4a) 드
 
 **de** · *전치사*

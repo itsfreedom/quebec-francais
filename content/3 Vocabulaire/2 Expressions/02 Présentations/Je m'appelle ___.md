@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-mappelle"]
 ---
-
-# Je m'appelle ___.
-
 [🔊 듣기](_Audio/je-m-appelle-68073a.m4a) · 👉 내 이름은 ___예요.
 
 **단어**: [[je]] · [[s'appeler]]

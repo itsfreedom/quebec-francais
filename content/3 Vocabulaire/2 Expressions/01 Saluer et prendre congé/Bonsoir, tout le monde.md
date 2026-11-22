@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["bonsoir-tout-le-monde"]
 ---
-
-# Bonsoir, tout le monde !
-
 [🔊 듣기](_Audio/bonsoir-tout-le-monde-265209.m4a) · 👉 모두들 안녕하세요 (저녁)
 
 **단어**: [[bonsoir]] · [[tout]] · [[le]]

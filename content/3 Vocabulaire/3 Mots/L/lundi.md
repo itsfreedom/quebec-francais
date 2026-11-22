@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le lundi"]
 ---
-
-# lundi
-
 [🔊 lœ̃di](_Audio/le-lundi-7499e0.m4a) 랑디
 
 **le lundi** · *명사 · 남성*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le chemin"]
 ---
-
-# chemin
-
 [🔊 ʃəmɛ̃](_Audio/le-chemin-3f6a20.m4a) 슈망
 
 **le chemin** · *명사 · 남성*

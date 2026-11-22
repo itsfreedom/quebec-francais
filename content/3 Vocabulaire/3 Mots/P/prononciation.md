@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la prononciation"]
 ---
-
-# prononciation
-
 [🔊 pʁɔnɔ̃sjasjɔ̃](_Audio/la-prononciation-86e549.m4a) 프호농씨아씨옹
 
 **la prononciation** · *명사 · 여성*

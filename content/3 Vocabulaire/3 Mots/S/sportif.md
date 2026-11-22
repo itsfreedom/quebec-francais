@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# sportif
-
 [🔊 spɔʁtif](_Audio/sportif-0381e3.m4a) 스뽀흐띠프
 
 **sportif** · *형용사 · 남성* · 여성형 **sportive**

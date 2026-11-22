@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'auto"]
 ---
-
-# auto
-
 [🔊 oto](_Audio/l-auto-e473b1.m4a) 오또
 
 **l'auto** · *명사 · 여성*

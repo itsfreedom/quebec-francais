@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# avril
-
 [🔊 avʁil](_Audio/avril-c7e55c.m4a) 아브힐
 
 **avril** · *명사 · 남성*

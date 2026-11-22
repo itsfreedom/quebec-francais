@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le anglais"]
 ---
-
-# anglais
-
 [🔊 ɑ̃ɡlɛ](_Audio/le-anglais-fbe94a.m4a) 엉글레
 
 **le anglais** · *명사 · 남성*

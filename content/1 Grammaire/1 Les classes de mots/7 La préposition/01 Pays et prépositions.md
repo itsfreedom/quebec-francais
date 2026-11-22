@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Pays et prepositions, 나라 전치사, venir de]
 ---
-
-# Pays et prépositions (나라 + 전치사)
-
-← [[1 Grammaire/index|Grammaire]] · 처음 배운
-
 **출신 말하기**: [[venir]] **de** + 나라
 
 | 나라 | 관사 | "~에서 왔어요" | 예 |

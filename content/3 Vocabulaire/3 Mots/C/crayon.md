@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le crayon"]
 ---
-
-# crayon
-
 [🔊 kʁɛjɔ̃](_Audio/le-crayon-193244.m4a) 크헤이옹
 
 **le crayon** · *명사 · 남성*

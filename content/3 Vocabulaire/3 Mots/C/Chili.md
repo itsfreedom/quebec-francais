@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["chili", "le Chili"]
 ---
-
-# Chili
-
 [🔊 ʃili](_Audio/le-chili-2e73e8.m4a) 실리
 
 **le Chili** · *명사 · 남성*

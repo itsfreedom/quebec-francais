@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["enchante"]
 ---
-
-# enchanté
-
 [🔊 ɑ̃ʃɑ̃te](_Audio/enchante-fd4027.m4a) 앙샹떼
 
 **enchanté** · *형용사 · 남성* · 여성형 **enchantée**

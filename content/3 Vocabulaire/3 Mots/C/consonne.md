@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la consonne"]
 ---
-
-# consonne
-
 [🔊 kɔ̃sɔn](_Audio/la-consonne-31e916.m4a) 꽁쏜
 
 **la consonne** · *명사 · 여성*

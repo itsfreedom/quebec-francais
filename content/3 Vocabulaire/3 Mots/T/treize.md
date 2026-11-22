@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# treize
-
 [🔊 tʁɛz](_Audio/treize-c26f75.m4a) 트헤즈
 
 **treize** · *숫자*

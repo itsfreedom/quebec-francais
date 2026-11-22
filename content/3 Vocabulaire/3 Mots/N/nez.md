@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le nez"]
 ---
-
-# nez
-
 [🔊 ne](_Audio/le-nez-3bf9c9.m4a) 네
 
 **le nez** · *명사 · 남성*

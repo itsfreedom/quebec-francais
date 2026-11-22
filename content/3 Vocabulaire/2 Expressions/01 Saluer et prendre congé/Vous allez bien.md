@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["vous-allez-bien"]
 ---
-
-# Vous allez bien ?
-
 [🔊 듣기](_Audio/vous-allez-bien-0cb789.m4a) · 👉 잘 지내세요?
 
 **단어**: [[vous]] · [[aller]] · [[bien]]

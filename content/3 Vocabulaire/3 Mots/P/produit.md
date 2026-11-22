@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le produit"]
 ---
-
-# produit
-
 [🔊 pʁɔdɥi](_Audio/le-produit-a95543.m4a) 프호뒤
 
 **le produit** · *명사 · 남성*

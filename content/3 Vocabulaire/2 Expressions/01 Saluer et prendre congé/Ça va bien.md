@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["ca-va-bien"]
 ---
-
-# Ça va bien.
-
 [🔊 듣기](_Audio/ca-va-bien-2a0a34.m4a) · 👉 잘 지내요.
 
 **단어**: [[ça]] · [[aller]] · [[bien]]

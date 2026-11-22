@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["noel"]
 ---
-
-# Noël
-
 [🔊 nɔɛl](_Audio/noel-6b025d.m4a) 노엘
 
 **Noël** · *명사 · 남성*

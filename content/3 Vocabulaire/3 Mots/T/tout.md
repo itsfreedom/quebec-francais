@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# tout
-
 [🔊 tu](_Audio/tout-8fee03.m4a) 뚜
 
 **tout** · *대명사*

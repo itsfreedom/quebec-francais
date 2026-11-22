@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# quatre-vingt-dix
-
 [🔊 katʁə vɛ̃ dis](_Audio/quatre-vingt-dix-4e532d.m4a) 까트흐 뱅 디스
 
 **quatre-vingt-dix** · *숫자*

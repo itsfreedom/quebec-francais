@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le mardi"]
 ---
-
-# mardi
-
 [🔊 maʁdi](_Audio/le-mardi-71608d.m4a) 마흐디
 
 **le mardi** · *명사 · 남성*

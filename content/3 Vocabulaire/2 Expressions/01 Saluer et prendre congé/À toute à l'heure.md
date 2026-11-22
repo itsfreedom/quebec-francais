@@ -13,12 +13,7 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-toute-a-lheure"]
 ---
-
-# À toute à l'heure !
-
 [🔊 듣기](_Audio/a-toute-a-l-heure-2a2be2.m4a) · 👉 조금 이따 봐요!
-
-**단어**: —
 
 ---
 💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

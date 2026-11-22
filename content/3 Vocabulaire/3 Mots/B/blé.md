@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ble", "le blé"]
 ---
-
-# blé
-
 [🔊 ble](_Audio/le-ble-e8fd5f.m4a) 블레
 
 **le blé** · *명사 · 남성*

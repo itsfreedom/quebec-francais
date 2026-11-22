@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["coree", "la Corée"]
 ---
-
-# Corée
-
 [🔊 kɔʁe](_Audio/la-coree-6b5d33.m4a) 꼬헤
 
 **la Corée** · *명사 · 여성*

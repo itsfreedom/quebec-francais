@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [국적·언어]
 ---
-
-# Nationalités et langues (국적·언어)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 문법: [[01 Nationalités|Nationalités]] (canadien → canadienne) · 나라 이름: [[09 Pays du monde|Pays du monde]]
 
 | 단어 | 발음 | 뜻 |
@@ -35,27 +30,3 @@ aliases: [국적·언어]
 | [[tagalog\|le tagalog]] | [🔊 taɡalɔɡ](_Audio/le-tagalog-ea3014.m4a) 따갈로그 | 타갈로그어 (필리핀) |
 | [[tamoul\|le tamoul]] | [🔊 tamul](_Audio/le-tamoul-8d0461.m4a) 따물 | 타밀어 |
 | [[vietnamien]] · vietnamienne | [🔊 vjɛtnamjɛ̃](_Audio/vietnamien-866466.m4a) 비엣나미앙 | 베트남 사람, 베트남어 |
-
-## 🃏 플래시카드
-
-**[[américain]] · américaine** — 미국 사람
-**[[anglais|le anglais]]** — 영어, 영국 사람
-**[[bengali|le bengali]]** — 벵골어
-**[[Canada|le Canada]]** — 캐나다
-**[[canadien]] · canadienne** — 캐나다 사람, 캐나다의
-**[[chinois]] · chinoise** — 중국 사람, 중국어
-**[[colombien]] · colombienne** — 콜롬비아 사람
-**[[coréen]] · coréenne** — 한국 사람, 한국어
-**[[hindi|le hindi]]** — 힌디어
-**[[indien]] · indienne** — 인도 사람
-**[[iranien]] · iranienne** — 이란 사람
-**[[libanais]] · libanaise** — 레바논 사람
-**[[pakistanais]] · pakistanaise** — 파키스탄 사람
-**[[persan|le persan]]** — 페르시아어 (이란어)
-**[[philippin]] · philippine** — 필리핀 사람
-**[[Philippines|les Philippines]]** — 필리핀
-**[[québécois]] · québécoise** — 퀘벡 사람, 퀘벡의
-**[[syrien]] · syrienne** — 시리아 사람
-**[[tagalog|le tagalog]]** — 타갈로그어 (필리핀)
-**[[tamoul|le tamoul]]** — 타밀어
-**[[vietnamien]] · vietnamienne** — 베트남 사람, 베트남어

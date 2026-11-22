@@ -27,9 +27,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# vouloir
-
 [🔊 vulwaʁ](_Audio/vouloir-b126ec.m4a) 불루아흐
 
 **vouloir** · *동사*

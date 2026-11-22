@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["completer"]
 ---
-
-# compléter
-
 [🔊 kɔ̃plete](_Audio/completer-211691.m4a) 꽁쁠레떼
 
 **compléter** · *동사*

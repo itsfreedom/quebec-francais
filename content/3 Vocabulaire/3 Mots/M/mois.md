@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le mois"]
 ---
-
-# mois
-
 [🔊 mwa](_Audio/le-mois-98a60d.m4a) 무아
 
 **le mois** · *명사 · 남성*

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# dormir
-
 [🔊 dɔʁmiʁ](_Audio/dormir-bb3a21.m4a) 도흐미흐
 
 **dormir** · *동사*

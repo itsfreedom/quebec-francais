@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le/la dentiste"]
 ---
-
-# dentiste
-
 [🔊 dɑ̃tist](_Audio/le-la-dentiste-e9fde3.m4a) 덩띠스뜨
 
 **le/la dentiste** · *명사 · 남녀 공통*

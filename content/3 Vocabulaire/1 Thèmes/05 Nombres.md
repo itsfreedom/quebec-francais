@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [숫자]
 ---
-
-# Nombres (숫자)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 > [!warning] six, sept, huit, dix는 끝 자음을 읽어요 → [[02 Lettres muettes|Lettres muettes]]
 > 뒤에 모음이 오면 이어 읽어요: deux‿ans [døzɑ̃] → [[01 Liaison|Liaison]]
 
@@ -45,36 +40,3 @@ aliases: [숫자]
 | [[million]] | [🔊 miljɔ̃](_Audio/million-bafd00.m4a) 밀리옹 | 1 000 000 |
 | [[chiffre\|le chiffre]] | [🔊 ʃifʁ](_Audio/le-chiffre-65a851.m4a) 시프흐 | 숫자 (0~9 한 자리) |
 | [[nombre\|le nombre]] | [🔊 nɔ̃bʁ](_Audio/le-nombre-8a6be0.m4a) 농브흐 | 수 |
-
-## 🃏 플래시카드
-
-**[[zéro]]** — 0
-**[[un]]** — 1
-**[[deux]]** — 2
-**[[trois]]** — 3
-**[[quatre]]** — 4
-**[[cinq]]** — 5
-**[[six]]** — 6
-**[[sept]]** — 7
-**[[huit]]** — 8
-**[[neuf]]** — 9
-**[[dix]]** — 10
-**[[onze]]** — 11
-**[[douze]]** — 12
-**[[treize]]** — 13
-**[[quatorze]]** — 14
-**[[quinze]]** — 15
-**[[seize]]** — 16
-**[[vingt]]** — 20
-**[[trente]]** — 30
-**[[quarante]]** — 40
-**[[cinquante]]** — 50
-**[[soixante]]** — 60
-**[[soixante-dix]]** — 70
-**[[quatre-vingts]]** — 80
-**[[quatre-vingt-dix]]** — 90
-**[[cent]]** — 100
-**[[mille]]** — 1000
-**[[million]]** — 1 000 000
-**[[chiffre|le chiffre]]** — 숫자 (0~9 한 자리)
-**[[nombre|le nombre]]** — 수

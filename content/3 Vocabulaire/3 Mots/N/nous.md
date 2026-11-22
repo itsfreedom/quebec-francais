@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# nous
-
 [🔊 nu](_Audio/nous-23300e.m4a) 누
 
 **nous** · *대명사*

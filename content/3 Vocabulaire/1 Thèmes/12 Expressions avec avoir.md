@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [avoir 표현]
 ---
-
-# Expressions avec avoir (avoir 표현)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 불어는 배고픔·목마름·무서움·추위·나이를 **avoir**(가지다)로 말해요 → [[02 Verbe avoir|Verbe avoir]]
 
 | 단어 | 발음 | 뜻 |
@@ -19,11 +14,3 @@ aliases: [avoir 표현]
 | [[heure\|l'heure]] | [🔊 œʁ](_Audio/l-heure-fb1db1.m4a) 외흐 | 시간, ~시 |
 | [[peur\|la peur]] | [🔊 pœʁ](_Audio/la-peur-2ea03d.m4a) 뾔흐 | 두려움 |
 | [[soif\|la soif]] | [🔊 swaf](_Audio/la-soif-379d1d.m4a) 수아프 | 목마름 |
-
-## 🃏 플래시카드
-
-**[[faim|la faim]]** — 배고픔
-**[[froid|le froid]]** — 추위
-**[[heure|l'heure]]** — 시간, ~시
-**[[peur|la peur]]** — 두려움
-**[[soif|la soif]]** — 목마름

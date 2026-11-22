@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# devoir
-
 [🔊 dəvwaʁ](_Audio/devoir-4d4bcb.m4a) 드부아흐
 
 **devoir** · *동사*

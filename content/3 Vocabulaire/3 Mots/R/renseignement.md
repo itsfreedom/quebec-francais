@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le renseignement"]
 ---
-
-# renseignement
-
 [🔊 ʁɑ̃sɛɲmɑ̃](_Audio/le-renseignement-9cdf8f.m4a) 헝센느멍
 
 **le renseignement** · *명사 · 남성*

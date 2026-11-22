@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# vingt
-
 [🔊 vɛ̃](_Audio/vingt-254fe2.m4a) 뱅
 
 **vingt** · *숫자*

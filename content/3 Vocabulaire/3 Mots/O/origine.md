@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'origine"]
 ---
-
-# origine
-
 [🔊 ɔʁiʒin](_Audio/l-origine-39dc38.m4a) 오히진
 
 **l'origine** · *명사 · 여성*

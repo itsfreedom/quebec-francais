@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'inscription"]
 ---
-
-# inscription
-
 [🔊 ɛ̃skʁipsjɔ̃](_Audio/l-inscription-0c029a.m4a) 앵스크힙씨옹
 
 **l'inscription** · *명사 · 여성*

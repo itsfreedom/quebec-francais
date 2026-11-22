@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["prenom", "le prénom"]
 ---
-
-# prénom
-
 [🔊 pʁenɔ̃](_Audio/le-prenom-b27c0a.m4a) 프헤농
 
 **le prénom** · *명사 · 남성*

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# faire
-
 [🔊 fɛʁ](_Audio/faire-85be86.m4a) 페흐
 
 **faire** · *동사*

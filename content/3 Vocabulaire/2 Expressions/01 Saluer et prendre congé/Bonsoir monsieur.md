@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["bonsoir-monsieur"]
 ---
-
-# Bonsoir monsieur !
-
 [🔊 듣기](_Audio/bonsoir-monsieur-18fe38.m4a) · 👉 안녕하세요, 선생님 (저녁, 남성에게)
 
 **단어**: [[bonsoir]] · [[monsieur]]

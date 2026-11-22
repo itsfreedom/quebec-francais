@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["soeur", "la sœur"]
 ---
-
-# sœur
-
 [🔊 sœʁ](_Audio/la-sur-69571e.m4a) 쐬흐
 
 **la sœur** · *명사 · 여성*

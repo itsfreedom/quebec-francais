@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# informel
-
 [🔊 ɛ̃fɔʁmɛl](_Audio/informel-f116ba.m4a) 앵포흐멜
 
 **informel** · *형용사 · 남성* · 여성형 **informelle**

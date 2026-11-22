@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# prononcer
-
 [🔊 pʁɔnɔ̃se](_Audio/prononcer-2734cd.m4a) 프호농쎄
 
 **prononcer** · *동사*

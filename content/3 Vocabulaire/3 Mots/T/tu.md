@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# tu
-
 [🔊 ty](_Audio/tu-b6b4ce.m4a) 뛰
 
 **tu** · *대명사*

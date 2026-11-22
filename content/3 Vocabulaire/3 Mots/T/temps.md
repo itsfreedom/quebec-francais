@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le temps"]
 ---
-
-# temps
-
 [🔊 tɑ̃](_Audio/le-temps-802f4b.m4a) 떵
 
 **le temps** · *명사 · 남성*

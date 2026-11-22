@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["cest-pour-linscription"]
 ---
-
-# Bonjour, c'est pour l'inscription ?
-
 [🔊 듣기](_Audio/bonjour-c-est-pour-l-inscription-c181e1.m4a) · 👉 안녕하세요, 등록하러 오셨어요?
 
 **단어**: [[bonjour]] · [[être]] · [[inscription|l'inscription]]

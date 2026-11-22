@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["separe"]
 ---
-
-# séparé
-
 [🔊 sepaʁe](_Audio/separe-faa761.m4a) 쎄빠헤
 
 **séparé** · *형용사 · 남성* · 여성형 **séparée**

@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la voix"]
 ---
-
-# voix
-
 [🔊 vwa](_Audio/la-voix-f44fb6.m4a) 부아
 
 **la voix** · *명사 · 여성*

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# regarder
-
 [🔊 ʁəɡaʁde](_Audio/regarder-d9ea0d.m4a) 흐가흐데
 
 **regarder** · *동사*

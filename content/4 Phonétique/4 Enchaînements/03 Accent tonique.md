@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique]
 aliases: [Accent tonique, 강세]
 ---
-
-# Accent tonique (강세)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 영어처럼 단어마다 강세 위치가 다르지 않아요. 모든 음절을 **고르게** 읽고 **마지막 음절만 살짝 길게** 읽어요.
 
 - Montréal → mon-tré-**al**

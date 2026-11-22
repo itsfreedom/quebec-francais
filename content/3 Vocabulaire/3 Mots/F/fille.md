@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la fille"]
 ---
-
-# fille
-
 [🔊 fij](_Audio/la-fille-4f272a.m4a) 피으
 
 **la fille** · *명사 · 여성*

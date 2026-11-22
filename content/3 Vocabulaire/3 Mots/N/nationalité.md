@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["nationalite", "la nationalité"]
 ---
-
-# nationalité
-
 [🔊 nasjɔnalite](_Audio/la-nationalite-600e87.m4a) 나씨오날리떼
 
 **la nationalité** · *명사 · 여성*

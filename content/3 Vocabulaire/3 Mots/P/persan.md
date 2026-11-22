@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le persan"]
 ---
-
-# persan
-
 [🔊 pɛʁsɑ̃](_Audio/le-persan-36be45.m4a) 뻬흐썽
 
 **le persan** · *명사 · 남성*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# oui
-
 [🔊 wi](_Audio/oui-b2a5ab.m4a) 위
 
 **oui** · *부사*

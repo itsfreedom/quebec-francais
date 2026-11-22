@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# cliquer
-
 [🔊 klike](_Audio/cliquer-46e9de.m4a) 끌리께
 
 **cliquer** · *동사*

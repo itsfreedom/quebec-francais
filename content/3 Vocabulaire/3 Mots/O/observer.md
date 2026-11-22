@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# observer
-
 [🔊 ɔpsɛʁve](_Audio/observer-dfda0d.m4a) 옵세흐베
 
 **observer** · *동사*

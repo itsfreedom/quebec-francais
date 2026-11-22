@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le samedi"]
 ---
-
-# samedi
-
 [🔊 samdi](_Audio/le-samedi-d88e59.m4a) 쌈디
 
 **le samedi** · *명사 · 남성*

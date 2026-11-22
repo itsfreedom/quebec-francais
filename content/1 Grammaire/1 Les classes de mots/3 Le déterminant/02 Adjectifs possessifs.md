@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Adjectifs possessifs, 소유형용사, mon ma mes]
 ---
-
-# Adjectifs possessifs (소유형용사)
-
-← [[1 Grammaire/index|Grammaire]]
-
 **가지고 있는 물건의 성과 수**에 맞춰요 (주인의 성이 아니에요).
 
 | 주인 | 남성 단수 | 여성 단수 | 복수 |

@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["journee", "la journée"]
 ---
-
-# journée
-
 [🔊 ʒuʁne](_Audio/la-journee-7dcfb6.m4a) 주흐네
 
 **la journée** · *명사 · 여성*

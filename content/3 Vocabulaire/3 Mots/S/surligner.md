@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# surligner
-
 [🔊 syʁliɲe](_Audio/surligner-926a31.m4a) 쉬흐리녜
 
 **surligner** · *동사*

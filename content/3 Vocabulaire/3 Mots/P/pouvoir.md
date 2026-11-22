@@ -27,9 +27,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# pouvoir
-
 [🔊 puvwaʁ](_Audio/pouvoir-a7675d.m4a) 뿌부아흐
 
 **pouvoir** · *동사*

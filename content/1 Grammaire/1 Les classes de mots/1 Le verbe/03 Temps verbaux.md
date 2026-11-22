@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Temps verbaux, 시제, 과거 현재 미래]
 ---
-
-# Temps verbaux (시제 기초)
-
-← [[1 Grammaire/index|Grammaire]] · 처음 배운
-
 | 시제 | 만드는 법 | 예 |
 |---|---|---|
 | **과거** (passé composé) | [[avoir]] / [[être|être]] 현재형 + 과거분사 | Hier, nous **avons été** mardi. |

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["aujourdhui"]
 ---
-
-# aujourd'hui
-
 [🔊 oʒuʁdɥi](_Audio/aujourd-hui-874ced.m4a) 오주흐뒤
 
 **aujourd'hui** · *부사*

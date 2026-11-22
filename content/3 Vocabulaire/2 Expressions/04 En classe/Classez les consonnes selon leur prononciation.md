@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["classez-les-consonnes"]
 ---
-
-# Classez les consonnes selon leur prononciation.
-
 [🔊 듣기](_Audio/classez-les-consonnes-selon-leur-prononc-b5501a.m4a) · 👉 자음을 발음에 따라 분류하세요.
 
 **단어**: [[classer]] · [[le]] · [[consonne|la consonne]] · [[selon]] · [[prononciation|la prononciation]]

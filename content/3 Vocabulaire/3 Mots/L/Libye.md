@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["libye", "la Libye"]
 ---
-
-# Libye
-
 [🔊 libi](_Audio/la-libye-4d1c73.m4a) 리비
 
 **la Libye** · *명사 · 여성*

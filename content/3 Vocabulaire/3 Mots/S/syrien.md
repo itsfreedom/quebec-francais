@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# syrien
-
 [🔊 siʁjɛ̃](_Audio/syrien-32212f.m4a) 씨히앙
 
 **syrien** · *형용사 · 남성* · 여성형 **syrienne**

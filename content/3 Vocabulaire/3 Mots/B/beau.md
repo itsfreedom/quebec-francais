@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# beau
-
 [🔊 bo](_Audio/beau-08880d.m4a) 보
 
 **beau** · *형용사 · 남성* · 여성형 **belle**

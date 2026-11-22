@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, moc]
 aliases: [표현, 문장, 상황별 표현]
 ---
-
-# 💬 Expressions (상황별 표현)
-
-← [[3 Vocabulaire/index|단어 목차]] · 대화문: [[2 Dialogues/index|대화]]
-
 1. [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]] — 인사와 작별 인사 (29개)
 2. [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]] — 자기소개 · 이름 · 출신 (10개)
 3. [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]] — 개인 정보 묻고 답하기 (서류·사무실) (20개)

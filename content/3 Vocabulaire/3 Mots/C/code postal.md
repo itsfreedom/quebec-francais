@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["code-postal", "le code postal"]
 ---
-
-# code postal
-
 [🔊 kɔd pɔstal](_Audio/le-code-postal-7b95b7.m4a) 꼬드 뽀스딸
 
 **le code postal** · *명사 · 남성*

@@ -51,9 +51,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# avoir
-
 [🔊 avwaʁ](_Audio/avoir-f6d928.m4a) 아부아흐
 
 **avoir** · *동사*

@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le quartier"]
 ---
-
-# quartier
-
 [🔊 kaʁtje](_Audio/le-quartier-6de6aa.m4a) 까흐띠에
 
 **le quartier** · *명사 · 남성*

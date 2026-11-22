@@ -13,7 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["deux-mois-gratuits"]
 ---
-
 # 250 dollars pour un an ? Ça veut dire que j'ai deux mois gratuits ?
 
 [🔊 듣기](_Audio/250-dollars-pour-un-an-ca-veut-dire-que--3a59c7.m4a) · 👉 1년에 250달러요? 그럼 두 달이 무료라는 뜻이에요?

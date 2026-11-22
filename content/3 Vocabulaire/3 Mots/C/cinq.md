@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# cinq
-
 [🔊 sɛ̃k](_Audio/cinq-bfe30f.m4a) 쌩끄
 
 **cinq** · *숫자*

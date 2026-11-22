@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [인사]
 ---
-
-# Salutations (인사)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 | 단어 | 발음 | 뜻 |
 |---|---|---|
 | [[allo]] | [🔊 alo](_Audio/allo-ce92c2.m4a) 알로 | 여보세요, 안녕 (퀘벡 일상 인사) |
@@ -33,27 +28,3 @@ aliases: [인사]
 | [[toi]] | [🔊 twa](_Audio/toi-501446.m4a) 뚜아 | 너 (강조) |
 | [[voilà]] | [🔊 vwala](_Audio/voila-957c44.m4a) 부알라 | 자, 여기 있어요, 바로 그거예요 |
 | [[zut]] | [🔊 zyt](_Audio/zut-a8cd54.m4a) 쥐뜨 | 이런!, 아이참! (가벼운 감탄) |
-
-## 🃏 플래시카드
-
-**[[allo]]** — 여보세요, 안녕 (퀘벡 일상 인사)
-**[[bien]]** — 잘, 좋게
-**[[bien sûr]]** — 물론이죠
-**[[bonjour]]** — 안녕하세요 (낮 인사)
-**[[bonsoir]]** — 안녕하세요 (저녁 인사)
-**[[comment]]** — 어떻게
-**[[coucou]]** — 안녕! (아주 친한 사이)
-**[[enchanté]] · enchantée** — 만나서 반가워요
-**[[journée|la journée]]** — 하루, 낮
-**[[madame]]** — ~씨, 부인 (여성 존칭)
-**[[mademoiselle]]** — 아가씨 (젊은 여성 존칭)
-**[[merci]]** — 고마워요
-**[[monsieur]]** — ~씨, 선생님 (남성 존칭)
-**[[non]]** — 아니요
-**[[oui]]** — 네
-**[[s'il vous plaît]]** — 부탁합니다, ~해 주세요
-**[[salut]]** — 안녕 (친한 사이, 만날 때·헤어질 때)
-**[[soirée|la soirée]]** — 저녁 (시간)
-**[[toi]]** — 너 (강조)
-**[[voilà]]** — 자, 여기 있어요, 바로 그거예요
-**[[zut]]** — 이런!, 아이참! (가벼운 감탄)

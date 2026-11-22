@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# quinze
-
 [🔊 kɛ̃z](_Audio/quinze-c56148.m4a) 깽즈
 
 **quinze** · *숫자*

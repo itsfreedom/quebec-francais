@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique]
 aliases: [Accents, Caractères spéciaux, 특수문자, 악센트]
 ---
-
-# Accents (특수문자 · 악센트)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 ## 이름과 철자 말하기
 | 기호 | 이름 | 발음 | 철자 말하기 예시 |
 |---|---|---|---|

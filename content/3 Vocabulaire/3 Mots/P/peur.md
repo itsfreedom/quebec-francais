@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la peur"]
 ---
-
-# peur
-
 [🔊 pœʁ](_Audio/la-peur-2ea03d.m4a) 뾔흐
 
 **la peur** · *명사 · 여성*

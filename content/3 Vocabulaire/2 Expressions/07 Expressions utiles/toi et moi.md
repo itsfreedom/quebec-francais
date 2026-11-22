@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["toi-et-moi"]
 ---
-
-# toi et moi
-
 [🔊 듣기](_Audio/toi-et-moi-1faf7b.m4a) · 👉 너와 나
 
 **단어**: [[et]] · [[moi]]

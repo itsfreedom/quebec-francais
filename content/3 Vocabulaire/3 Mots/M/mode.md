@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la mode"]
 ---
-
-# mode
-
 [🔊 mɔd](_Audio/la-mode-5b933b.m4a) 모드
 
 **la mode** · *명사 · 여성*

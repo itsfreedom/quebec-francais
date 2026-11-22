@@ -8,11 +8,6 @@ status: overview
 tags: [francisation, grammaire, overview]
 aliases: [대명사]
 ---
-
-# Le pronom (대명사)
-
-← [[1 Grammaire/1 Les classes de mots/index|품사]] · [[1 Grammaire/index|문법 색인]]
-
 > [!abstract] 핵심
 > 명사를 대신해요. 문장의 주어가 되는 **주어 대명사**(je, tu, il …)가 가장 먼저예요. 상대를 부를 때 **tu**(반말)와 **vous**(존댓말)를 구분해요.
 

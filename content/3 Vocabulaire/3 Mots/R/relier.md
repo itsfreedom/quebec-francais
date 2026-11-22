@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# relier
-
 [🔊 ʁəlje](_Audio/relier-e557a0.m4a) 흘리에
 
 **relier** · *동사*

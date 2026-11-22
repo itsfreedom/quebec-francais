@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# quand
-
 [🔊 kɑ̃](_Audio/quand-ece202.m4a) 깡
 
 **quand** · *부사*

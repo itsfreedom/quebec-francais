@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la maman"]
 ---
-
-# maman
-
 [🔊 mamɑ̃](_Audio/la-maman-c7a3d9.m4a) 마망
 
 **la maman** · *명사 · 여성*

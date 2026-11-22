@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la femme"]
 ---
-
-# femme
-
 [🔊 fam](_Audio/la-femme-6fc338.m4a) 팜
 
 **la femme** · *명사 · 여성*

@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["comment-allez-vous"]
 ---
-
-# Comment allez-vous ?
-
 [🔊 듣기](_Audio/comment-allez-vous-f63146.m4a) · 👉 어떻게 지내세요? (존댓말)
 
 **단어**: [[comment]] · [[aller]] · [[vous]]

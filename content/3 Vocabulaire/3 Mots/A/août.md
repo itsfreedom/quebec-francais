@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["aout"]
 ---
-
-# août
-
 [🔊 u](_Audio/aout-3daa4c.m4a) 우
 
 **août** · *명사 · 남성*

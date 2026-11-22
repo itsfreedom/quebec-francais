@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# madame
-
 [🔊 madam](_Audio/madame-43ee1d.m4a) 마담
 
 **madame** · *명사 · 여성*

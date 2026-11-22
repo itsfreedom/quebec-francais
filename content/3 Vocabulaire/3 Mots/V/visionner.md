@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# visionner
-
 [🔊 vizjɔne](_Audio/visionner-d24736.m4a) 비지오네
 
 **visionner** · *동사*

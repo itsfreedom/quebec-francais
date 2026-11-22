@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'heure"]
 ---
-
-# heure
-
 [🔊 œʁ](_Audio/l-heure-fb1db1.m4a) 외흐
 
 **l'heure** · *명사 · 여성*

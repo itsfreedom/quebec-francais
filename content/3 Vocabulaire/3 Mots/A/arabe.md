@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'arabe"]
 ---
-
-# arabe
-
 [🔊 aʁab](_Audio/l-arabe-2d4c68.m4a) 아합
 
 **l'arabe** · *명사 · 남성*

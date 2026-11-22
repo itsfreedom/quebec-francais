@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'appartement"]
 ---
-
-# appartement
-
 [🔊 apaʁtəmɑ̃](_Audio/l-appartement-1c91e0.m4a) 아빠흐뜨멍
 
 **l'appartement** · *명사 · 남성*

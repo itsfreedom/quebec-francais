@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# bleu
-
 [🔊 blø](_Audio/bleu-12bbd9.m4a) 블뢰
 
 **bleu** · *형용사 · 남성* · 여성형 **bleue**

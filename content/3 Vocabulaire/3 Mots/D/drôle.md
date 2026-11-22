@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["drole"]
 ---
-
-# drôle
-
 [🔊 dʁol](_Audio/drole-2c3c12.m4a) 드홀
 
 **drôle** · *형용사 · 남녀 공통*

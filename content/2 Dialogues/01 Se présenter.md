@@ -9,11 +9,6 @@ origin: "class"
 tags: [francisation, dialogue]
 aliases: ["자기소개"]
 ---
-
-# Se présenter (자기소개)
-
-← [[2 Dialogues/index|Dialogues]] · 💬 표현: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]]
-
 [▶ 이어서 듣기 (문장 사이 3초)](_Audio/dialogue-se-presenter-08fcb1.m4a) · 문장을 누르면 그 문장만 들려요
 
 > **A** : [Bonjour !](_Audio/bonjour-ab5579.m4a)

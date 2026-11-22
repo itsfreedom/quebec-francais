@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["etudiant", "l'étudiant"]
 ---
-
-# étudiant
-
 [🔊 etydjɑ̃](_Audio/l-etudiant-c2d9e8.m4a) 에뛰디엉
 
 **l'étudiant** · *명사 · 남성* · 여성형 **étudiante**

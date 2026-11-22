@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le fond"]
 ---
-
-# fond
-
 [🔊 fɔ̃](_Audio/le-fond-f1d527.m4a) 퐁
 
 **le fond** · *명사 · 남성*

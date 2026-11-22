@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["quebecois"]
 ---
-
-# québécois
-
 [🔊 kebekwa](_Audio/quebecois-262dba.m4a) 께벡꾸아
 
 **québécois** · *형용사 · 남성* · 여성형 **québécoise**

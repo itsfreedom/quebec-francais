@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire, verbe]
 aliases: [Verbe etre, Verbe être, être 동사]
 ---
-
-# Verbe être (~이다, 있다)
-
-← [[1 Grammaire/index|Grammaire]]
-
 가장 중요한 불규칙 동사예요.
 
 | 주어 | être | 발음 |

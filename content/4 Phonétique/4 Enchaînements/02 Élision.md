@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique, grammaire]
 aliases: [Elision, Élision, 엘리지옹, 모음 탈락]
 ---
-
-# Élision (엘리지옹)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 모음이나 h 앞에서 **e나 a가 빠지고 아포스트로피(')**가 붙어요.
 
 | 원래 | 엘리지옹 | 뜻 |

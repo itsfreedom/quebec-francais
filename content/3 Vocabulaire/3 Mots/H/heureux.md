@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# heureux
-
 [🔊 øʁø](_Audio/heureux-c26042.m4a) 외회
 
 **heureux** · *형용사 · 남성* · 여성형 **heureuse**

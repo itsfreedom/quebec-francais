@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'an"]
 ---
-
-# an
-
 [🔊 ɑ̃](_Audio/l-an-215650.m4a) 앙
 
 **l'an** · *명사 · 남성*

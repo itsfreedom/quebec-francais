@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# un
-
 [🔊 œ̃](_Audio/un-067427.m4a) 앙
 
 **un** · *숫자*

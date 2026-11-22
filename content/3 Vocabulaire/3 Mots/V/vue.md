@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la vue"]
 ---
-
-# vue
-
 [🔊 vy](_Audio/la-vue-797002.m4a) 뷔
 
 **la vue** · *명사 · 여성*

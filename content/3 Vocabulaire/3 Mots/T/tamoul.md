@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le tamoul"]
 ---
-
-# tamoul
-
 [🔊 tamul](_Audio/le-tamoul-8d0461.m4a) 따물
 
 **le tamoul** · *명사 · 남성*

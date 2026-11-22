@@ -25,9 +25,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# comprendre
-
 [🔊 kɔ̃pʁɑ̃dʁ](_Audio/comprendre-8f8f74.m4a) 꽁프헝드흐
 
 **comprendre** · *동사*

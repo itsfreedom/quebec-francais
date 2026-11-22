@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# douze
-
 [🔊 duz](_Audio/douze-e3ca7f.m4a) 두즈
 
 **douze** · *숫자*

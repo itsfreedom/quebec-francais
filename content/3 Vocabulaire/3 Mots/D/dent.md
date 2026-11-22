@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la dent"]
 ---
-
-# dent
-
 [🔊 dɑ̃](_Audio/la-dent-8429f2.m4a) 덩
 
 **la dent** · *명사 · 여성*

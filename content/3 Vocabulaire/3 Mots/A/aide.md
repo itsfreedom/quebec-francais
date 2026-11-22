@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'aide"]
 ---
-
-# aide
-
 [🔊 ɛd](_Audio/l-aide-a2c282.m4a) 에드
 
 **l'aide** · *명사 · 여성*

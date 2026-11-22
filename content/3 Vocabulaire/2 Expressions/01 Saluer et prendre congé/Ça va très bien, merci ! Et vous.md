@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["ca-va-tres-bien-merci-et-vous"]
 ---
-
-# Ça va très bien, merci ! Et vous ?
-
 [🔊 듣기](_Audio/ca-va-tres-bien-merci-et-vous-a18de9.m4a) · 👉 아주 잘 지내요, 고마워요! 당신은요?
 
 **단어**: [[ça]] · [[aller]] · [[très]] · [[bien]] · [[merci]] · [[et]] · [[vous]]

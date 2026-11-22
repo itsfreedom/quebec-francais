@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["quelle-langue-vous-parlez"]
 ---
-
-# Quelle langue vous parlez ?
-
 [🔊 듣기](_Audio/quelle-langue-vous-parlez-90f42e.m4a) · 👉 어떤 언어를 하세요?
 
 **단어**: [[quel]] · [[langue|la langue]] · [[vous]] · [[parler]]

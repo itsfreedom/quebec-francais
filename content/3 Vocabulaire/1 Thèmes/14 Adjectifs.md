@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [형용사]
 ---
-
-# Adjectifs (형용사)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 | 단어 | 발음 | 뜻 |
 |---|---|---|
 | [[bleu]] · bleue | [🔊 blø](_Audio/bleu-12bbd9.m4a) 블뢰 | 파란 |
@@ -20,14 +15,3 @@ aliases: [형용사]
 | [[heureux]] · heureuse | [🔊 øʁø](_Audio/heureux-c26042.m4a) 외회 | 행복한 |
 | [[lent]] · lente | [🔊 lɑ̃](_Audio/lent-177f6b.m4a) 렁 | 느린 |
 | [[passé]] · passée | [🔊 pɑse](_Audio/passe-764a5b.m4a) 빠쎄 | 지난, 과거의 |
-
-## 🃏 플래시카드
-
-**[[bleu]] · bleue** — 파란
-**[[bon]] · bonne** — 좋은, 맛있는
-**[[calme]]** — 차분한, 조용한
-**[[drôle]]** — 웃긴, 재미있는
-**[[fou]] · folle** — 미친
-**[[heureux]] · heureuse** — 행복한
-**[[lent]] · lente** — 느린
-**[[passé]] · passée** — 지난, 과거의

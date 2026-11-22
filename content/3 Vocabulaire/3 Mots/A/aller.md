@@ -35,9 +35,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# aller
-
 [🔊 ale](_Audio/aller-299d26.m4a) 알레
 
 **aller** · *동사*

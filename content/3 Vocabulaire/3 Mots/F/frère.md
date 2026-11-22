@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["frere", "le frère"]
 ---
-
-# frère
-
 [🔊 fʁɛʁ](_Audio/le-frere-f17d46.m4a) 프헤흐
 
 **le frère** · *명사 · 남성*

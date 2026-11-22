@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["sinscrire"]
 ---
-
-# s'inscrire
-
 [🔊 sɛ̃skʁiʁ](_Audio/s-inscrire-2acd87.m4a) 쌩스크히흐
 
 **s'inscrire** · *동사*

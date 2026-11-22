@@ -8,11 +8,6 @@ status: overview
 tags: [francisation, grammaire, overview]
 aliases: [전치사]
 ---
-
-# La préposition (전치사)
-
-← [[1 Grammaire/1 Les classes de mots/index|품사]] · [[1 Grammaire/index|문법 색인]]
-
 > [!abstract] 핵심
 > 명사 앞에서 **장소 · 출신 · 방향 · 수단**을 말해요. 모양은 안 바뀌지만, 뒤에 오는 관사와 합쳐져요: de + le = **du**, à + le = **au**.
 

@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["quel-age-as-tu"]
 ---
-
-# Quel âge as-tu ?
-
 [🔊 듣기](_Audio/quel-age-as-tu-04c0fd.m4a) · 👉 몇 살이야?
 
 **단어**: [[quel]] · [[âge|l'âge]] · [[avoir]] · [[tu]]

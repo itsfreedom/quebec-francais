@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique]
 aliases: [Semi-consonnes, 반자음, Semi-voyelles, 반모음]
 ---
-
-# Semi-consonnes (반자음)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 | 소리 | 철자 | 예시 |
 |---|---|---|
 | [ɥ] | ui | huit, je suis, produit, puis |

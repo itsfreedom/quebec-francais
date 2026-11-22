@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# allo
-
 [🔊 alo](_Audio/allo-ce92c2.m4a) 알로
 
 **allo** · *감탄사*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["societe", "la société"]
 ---
-
-# société
-
 [🔊 sɔsjete](_Audio/la-societe-a977e0.m4a) 쏘시에떼
 
 **la société** · *명사 · 여성*

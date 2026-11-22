@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# chinois
-
 [🔊 ʃinwa](_Audio/chinois-237864.m4a) 시누아
 
 **chinois** · *형용사 · 남성* · 여성형 **chinoise**

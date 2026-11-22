@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["chine", "la Chine"]
 ---
-
-# Chine
-
 [🔊 ʃin](_Audio/la-chine-4b5875.m4a) 신
 
 **la Chine** · *명사 · 여성*

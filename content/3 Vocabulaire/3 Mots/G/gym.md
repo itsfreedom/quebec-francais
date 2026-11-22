@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le gym"]
 ---
-
-# gym
-
 [🔊 dʒim](_Audio/le-gym-c3b734.m4a) 짐
 
 **le gym** · *명사 · 남성*

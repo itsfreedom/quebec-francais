@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# voir
-
 [🔊 vwaʁ](_Audio/voir-c2679c.m4a) 부아흐
 
 **voir** · *동사*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la lettre"]
 ---
-
-# lettre
-
 [🔊 lɛtʁ](_Audio/la-lettre-c3200a.m4a) 레트흐
 
 **la lettre** · *명사 · 여성*

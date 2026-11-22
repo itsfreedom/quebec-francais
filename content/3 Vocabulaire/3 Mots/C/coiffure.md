@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la coiffure"]
 ---
-
-# coiffure
-
 [🔊 kwafyʁ](_Audio/la-coiffure-f481b1.m4a) 꾸아퓌흐
 
 **la coiffure** · *명사 · 여성*

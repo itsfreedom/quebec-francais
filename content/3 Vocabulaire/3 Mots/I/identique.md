@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# identique
-
 [🔊 idɑ̃tik](_Audio/identique-8bfc0d.m4a) 이덩띠끄
 
 **identique** · *형용사 · 남녀 공통*

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["coreen"]
 ---
-
-# coréen
-
 [🔊 kɔʁeɛ̃](_Audio/coreen-9c306a.m4a) 꼬헤앙
 
 **coréen** · *형용사 · 남성* · 여성형 **coréenne**

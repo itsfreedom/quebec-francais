@@ -13,12 +13,7 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-plus-tard"]
 ---
-
-# À plus tard !
-
 [🔊 듣기](_Audio/a-plus-tard-8bf46e.m4a) · 👉 나중에 봐요!
-
-**단어**: —
 
 ---
 💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

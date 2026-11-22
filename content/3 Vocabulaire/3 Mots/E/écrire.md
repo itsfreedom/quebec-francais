@@ -29,9 +29,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ecrire"]
 ---
-
-# écrire
-
 [🔊 ekʁiʁ](_Audio/ecrire-91ceb2.m4a) 에크히흐
 
 **écrire** · *동사*

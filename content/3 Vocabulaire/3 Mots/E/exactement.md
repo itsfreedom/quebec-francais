@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# exactement
-
 [🔊 ɛɡzaktəmɑ̃](_Audio/exactement-38e584.m4a) 에그작뜨멍
 
 **exactement** · *부사*

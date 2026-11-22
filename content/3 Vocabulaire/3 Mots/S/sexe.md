@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le sexe"]
 ---
-
-# sexe
-
 [🔊 sɛks](_Audio/le-sexe-cf145e.m4a) 섹스
 
 **le sexe** · *명사 · 남성*

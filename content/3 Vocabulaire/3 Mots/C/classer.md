@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# classer
-
 [🔊 klase](_Audio/classer-63745a.m4a) 끌라세
 
 **classer** · *동사*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# annuel
-
 [🔊 anɥɛl](_Audio/annuel-0f9e41.m4a) 아뉘엘
 
 **annuel** · *형용사 · 남성* · 여성형 **annuelle**

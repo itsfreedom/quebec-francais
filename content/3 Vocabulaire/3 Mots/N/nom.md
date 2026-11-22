@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le nom"]
 ---
-
-# nom
-
 [🔊 nɔ̃](_Audio/le-nom-66d257.m4a) 농
 
 **le nom** · *명사 · 남성*

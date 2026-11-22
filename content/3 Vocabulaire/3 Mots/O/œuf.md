@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["oeuf", "l'œuf"]
 ---
-
-# œuf
-
 [🔊 œf](_Audio/l-uf-ece0fa.m4a) 외프
 
 **l'œuf** · *명사 · 남성*

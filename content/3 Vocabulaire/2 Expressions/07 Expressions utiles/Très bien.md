@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["tres-bien"]
 ---
-
-# Très bien !
-
 [🔊 듣기](_Audio/tres-bien-50a91b.m4a) · 👉 아주 좋아요!
 
 **단어**: [[bien]]

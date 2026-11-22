@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# cent
-
 [🔊 sɑ̃](_Audio/cent-2d95b1.m4a) 썽
 
 **cent** · *숫자*

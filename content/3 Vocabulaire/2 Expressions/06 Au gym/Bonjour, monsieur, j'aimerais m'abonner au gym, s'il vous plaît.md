@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["jaimerais-mabonner-au-gym"]
 ---
-
-# Bonjour, monsieur, j'aimerais m'abonner au gym, s'il vous plaît.
-
 [🔊 듣기](_Audio/bonjour-monsieur-j-aimerais-m-abonner-au-f1818b.m4a) · 👉 안녕하세요, 헬스장에 가입하고 싶어요.
 
 **단어**: [[bonjour]] · [[monsieur]] · [[aimer]] · [[s'abonner]] · [[gym|le gym]] · [[s'il vous plaît]]

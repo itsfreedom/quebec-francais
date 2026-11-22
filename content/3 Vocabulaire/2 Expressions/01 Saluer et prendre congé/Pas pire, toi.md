@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["pas-pire-toi"]
 ---
-
-# Pas pire, toi ?
-
 [🔊 듣기](_Audio/pas-pire-toi-bfb47c.m4a) · 👉 나쁘지 않아(괜찮아), 너는? (퀘벡 구어)
 
 **단어**: [[pas]] · [[toi]]

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la voyelle"]
 ---
-
-# voyelle
-
 [🔊 vwajɛl](_Audio/la-voyelle-4e750f.m4a) 부아옐
 
 **la voyelle** · *명사 · 여성*

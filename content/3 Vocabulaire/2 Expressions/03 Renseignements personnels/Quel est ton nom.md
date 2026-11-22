@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["quel-est-ton-nom"]
 ---
-
-# Quel est ton nom ?
-
 [🔊 듣기](_Audio/quel-est-ton-nom-3f3e99.m4a) · 👉 이름이 뭐야?
 
 **단어**: [[quel]] · [[être]] · [[nom|le nom]]

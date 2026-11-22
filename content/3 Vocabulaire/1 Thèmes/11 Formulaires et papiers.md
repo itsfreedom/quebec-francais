@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [서류 작성]
 ---
-
-# Formulaires et papiers (서류 작성)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 서류를 쓸 때 나오는 말이에요.
 
 | 단어 | 발음 | 뜻 |
@@ -49,41 +44,3 @@ aliases: [서류 작성]
 | [[signature\|la signature]] | [🔊 siɲatyʁ](_Audio/la-signature-08256d.m4a) 씨냐뛰흐 | 서명 |
 | [[téléphone\|le téléphone]] | [🔊 telefɔn](_Audio/le-telephone-bfdbc2.m4a) 뗄레폰 | 전화 |
 | [[ville\|la ville]] | [🔊 vil](_Audio/la-ville-b4cf80.m4a) 빌 | 도시 |
-
-## 🃏 플래시카드
-
-**[[abonnement|l'abonnement]]** — 정기 회원권, 구독
-**[[actuel]] · actuelle** — 현재의
-**[[adresse|l'adresse]]** — 주소
-**[[âge|l'âge]]** — 나이
-**[[an|l'an]]** — 해, 살 (나이)
-**[[appartement|l'appartement]]** — 아파트 (한 세대), 집 호수
-**[[avenue|l'avenue]]** — 대로, ~가(街)
-**[[boulevard|le boulevard]]** — 대로, 큰길
-**[[cellulaire|le cellulaire]]** — 휴대전화
-**[[citoyenneté|la citoyenneté]]** — 시민권
-**[[code postal|le code postal]]** — 우편번호
-**[[courriel|le courriel]]** — 이메일
-**[[date|la date]]** — 날짜
-**[[domicile|le domicile]]** — 집, 주거지
-**[[école|l'école]]** — 학교
-**[[élève|l'élève]]** — 학생 (수업 듣는 사람)
-**[[état civil|l'état civil]]** — 혼인 상태 (결혼 여부)
-**[[famille|la famille]]** — 가족
-**[[fiche|la fiche]]** — 카드, 서식
-**[[formulaire|le formulaire]]** — 서식, 신청서
-**[[identité|l'identité]]** — 신원, 정체
-**[[inscription|l'inscription]]** — 등록
-**[[langue|la langue]]** — 언어
-**[[naissance|la naissance]]** — 출생, 탄생
-**[[nationalité|la nationalité]]** — 국적
-**[[numéro|le numéro]]** — 번호
-**[[origine|l'origine]]** — 출신
-**[[prénom|le prénom]]** — 이름 (성을 뺀 이름)
-**[[renseignement|le renseignement]]** — 정보, 안내
-**[[s'inscrire]]** — 등록하다
-**[[secrétaire|le/la secrétaire]]** — 비서, 사무 직원
-**[[sexe|le sexe]]** — 성별
-**[[signature|la signature]]** — 서명
-**[[téléphone|le téléphone]]** — 전화
-**[[ville|la ville]]** — 도시

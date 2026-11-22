@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["quel-sport-tu-aimes"]
 ---
-
-# Quel sport tu aimes ?
-
 [🔊 듣기](_Audio/quel-sport-tu-aimes-e4cf16.m4a) · 👉 무슨 운동 좋아해?
 
 **단어**: [[quel]] · [[sport|le sport]] · [[tu]] · [[aimer]]

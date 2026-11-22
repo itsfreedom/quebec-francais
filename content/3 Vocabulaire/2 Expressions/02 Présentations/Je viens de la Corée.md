@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-viens-de-la-coree"]
 ---
-
-# Je viens de la Corée.
-
 [🔊 듣기](_Audio/je-viens-de-la-coree-a6277e.m4a) · 👉 나는 한국에서 왔어요.
 
 **단어**: [[je]] · [[venir]] · [[de]] · [[Corée|la Corée]]

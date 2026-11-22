@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le cellulaire"]
 ---
-
-# cellulaire
-
 [🔊 selylɛʁ](_Audio/le-cellulaire-43994c.m4a) 쎌륄레흐
 
 **le cellulaire** · *명사 · 남성*

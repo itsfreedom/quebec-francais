@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# quatorze
-
 [🔊 katɔʁz](_Audio/quatorze-6cf540.m4a) 까또흐즈
 
 **quatorze** · *숫자*

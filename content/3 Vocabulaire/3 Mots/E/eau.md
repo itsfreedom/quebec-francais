@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'eau"]
 ---
-
-# eau
-
 [🔊 o](_Audio/l-eau-6b33d7.m4a) 오
 
 **l'eau** · *명사 · 여성*

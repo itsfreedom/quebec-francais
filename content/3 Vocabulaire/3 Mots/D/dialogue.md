@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le dialogue"]
 ---
-
-# dialogue
-
 [🔊 djalɔɡ](_Audio/le-dialogue-1ff197.m4a) 디알로그
 
 **le dialogue** · *명사 · 남성*

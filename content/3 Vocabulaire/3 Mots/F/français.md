@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["francais"]
 ---
-
-# français
-
 [🔊 fʁɑ̃sɛ](_Audio/francais-616e89.m4a) 프항쎄
 
 **français** · *형용사 · 남성* · 여성형 **française**

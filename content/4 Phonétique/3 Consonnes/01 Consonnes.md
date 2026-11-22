@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique]
 aliases: [Consonnes, 자음]
 ---
-
-# Consonnes (자음)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 | 소리 | 예시 | 소리 | 예시 |
 |---|---|---|---|
 | [p] | pile | [b] | bateau |

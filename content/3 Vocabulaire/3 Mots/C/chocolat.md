@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le chocolat"]
 ---
-
-# chocolat
-
 [🔊 ʃɔkɔla](_Audio/le-chocolat-12b976.m4a) 쇼꼴라
 
 **le chocolat** · *명사 · 남성*

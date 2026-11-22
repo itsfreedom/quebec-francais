@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["non-merci"]
 ---
-
-# Non, merci.
-
 [🔊 듣기](_Audio/non-merci-c8e99b.m4a) · 👉 아니요, 괜찮아요.
 
 **단어**: [[non]]

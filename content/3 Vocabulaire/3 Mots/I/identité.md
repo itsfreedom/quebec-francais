@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["identite", "l'identité"]
 ---
-
-# identité
-
 [🔊 idɑ̃tite](_Audio/l-identite-aa43f7.m4a) 이덩띠떼
 
 **l'identité** · *명사 · 여성*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'avenue"]
 ---
-
-# avenue
-
 [🔊 avny](_Audio/l-avenue-2e4cb4.m4a) 아브뉘
 
 **l'avenue** · *명사 · 여성*

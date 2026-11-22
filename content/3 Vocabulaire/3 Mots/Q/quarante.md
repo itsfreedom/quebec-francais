@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# quarante
-
 [🔊 kaʁɑ̃t](_Audio/quarante-3b3131.m4a) 까헝뜨
 
 **quarante** · *숫자*

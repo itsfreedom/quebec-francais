@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["gateau", "le gâteau"]
 ---
-
-# gâteau
-
 [🔊 gɑto](_Audio/le-gateau-dfe669.m4a) 갸또
 
 **le gâteau** · *명사 · 남성*

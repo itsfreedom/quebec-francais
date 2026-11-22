@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# mensuel
-
 [🔊 mɑ̃sɥɛl](_Audio/mensuel-7e7565.m4a) 멍쒸엘
 
 **mensuel** · *형용사 · 남성* · 여성형 **mensuelle**

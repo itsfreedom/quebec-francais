@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le vent"]
 ---
-
-# vent
-
 [🔊 vɑ̃](_Audio/le-vent-447174.m4a) 벙
 
 **le vent** · *명사 · 남성*

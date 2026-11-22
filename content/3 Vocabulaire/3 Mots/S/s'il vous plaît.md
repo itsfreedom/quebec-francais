@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["sil-vous-plait"]
 ---
-
-# s'il vous plaît
-
 [🔊 sil vu plɛ](_Audio/s-il-vous-plait-d3aa36.m4a) 씰 부 쁠레
 
 **s'il vous plaît** · *감탄사*

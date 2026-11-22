@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le nombre"]
 ---
-
-# nombre
-
 [🔊 nɔ̃bʁ](_Audio/le-nombre-8a6be0.m4a) 농브흐
 
 **le nombre** · *명사 · 남성*

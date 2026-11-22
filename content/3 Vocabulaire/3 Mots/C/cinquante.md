@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# cinquante
-
 [🔊 sɛ̃kɑ̃t](_Audio/cinquante-f58059.m4a) 쌩껑뜨
 
 **cinquante** · *숫자*

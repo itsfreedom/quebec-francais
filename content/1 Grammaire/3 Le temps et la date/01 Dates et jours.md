@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Dates et jours, 날짜, 요일, Date]
 ---
-
-# Dates et jours (날짜 · 요일)
-
-← [[1 Grammaire/index|Grammaire]] · 처음 배운
-
 ## 날짜 쓰는 순서
 **요일 + 날짜 + 월 + 연도** → **mercredi 18 novembre 2026**
 

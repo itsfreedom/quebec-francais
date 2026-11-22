@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le chum"]
 ---
-
-# chum
-
 [🔊 tʃɔm](_Audio/le-chum-25354e.m4a) 쫌
 
 **le chum** · *명사 · 남성*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# sans
-
 [🔊 sɑ̃](_Audio/sans-0ddd63.m4a) 쌍
 
 **sans** · *전치사*

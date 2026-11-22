@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Articles definis, Articles définis, 정관사, le la les]
 ---
-
-# Articles définis (정관사)
-
-← [[1 Grammaire/index|Grammaire]]
-
 | | 단수 | 복수 |
 |---|---|---|
 | 남성 | **le** lit | **les** lits |

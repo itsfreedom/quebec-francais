@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [지시문]
 ---
-
-# Consignes (지시문)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 프린트물 문제 지시문에 나오는 말이에요. 명령형 → [[04 Impératif|Impératif]]
 
 | 단어 | 발음 | 뜻 |
@@ -52,44 +47,3 @@ aliases: [지시문]
 | [[transcrire]] | [🔊 tʁɑ̃skʁiʁ](_Audio/transcrire-b8203e.m4a) 트헝스크히흐 | 옮겨 적다 |
 | [[visionner]] | [🔊 vizjɔne](_Audio/visionner-d24736.m4a) 비지오네 | (영상을) 보다 |
 | [[voix\|la voix]] | [🔊 vwa](_Audio/la-voix-f44fb6.m4a) 부아 | 목소리 |
-
-## 🃏 플래시카드
-
-**[[aide|l'aide]]** — 도움
-**[[associer]]** — 연결하다, 짝짓다
-**[[choisir]]** — 고르다
-**[[classer]]** — 분류하다, 나누다
-**[[cliquer]]** — 클릭하다
-**[[compléter]]** — 채우다, 완성하다
-**[[comprendre]]** — 이해하다
-**[[dialogue|le dialogue]]** — 대화, 대화문
-**[[écouter]]** — 듣다
-**[[enregistrer]]** — 녹음하다, 저장하다
-**[[envoyer]]** — 보내다
-**[[épeler]]** — 철자를 말하다
-**[[équipe|l'équipe]]** — 팀, 조
-**[[exemple|l'exemple]]** — 예, 보기
-**[[flèche|la flèche]]** — 화살표
-**[[formel]] · formelle** — 격식 있는 (존댓말)
-**[[identique]]** — 똑같은
-**[[informel]] · informelle** — 편한 (반말)
-**[[lire]]** — 읽다
-**[[mot|le mot]]** — 단어, 낱말
-**[[observer]]** — 관찰하다, 잘 보다
-**[[partenaire|le/la partenaire]]** — 짝, 파트너
-**[[placer]]** — 놓다, 배치하다
-**[[pratiquer]]** — 연습하다
-**[[prononcer]]** — 발음하다
-**[[prononciation|la prononciation]]** — 발음
-**[[question|la question]]** — 질문
-**[[regarder]]** — 보다
-**[[relier]]** — 잇다, 연결하다
-**[[remplir]]** — 채우다, 작성하다
-**[[répéter]]** — 따라 하다, 반복하다
-**[[répondre]]** — 대답하다
-**[[réponse|la réponse]]** — 대답
-**[[selon]]** — ~에 따라
-**[[surligner]]** — 형광펜으로 칠하다
-**[[transcrire]]** — 옮겨 적다
-**[[visionner]]** — (영상을) 보다
-**[[voix|la voix]]** — 목소리

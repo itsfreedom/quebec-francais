@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# deux
-
 [🔊 dø](_Audio/deux-f83815.m4a) 되
 
 **deux** · *숫자*

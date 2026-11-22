@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["reliez-les-mots-identiques"]
 ---
-
-# Reliez les mots identiques par une flèche.
-
 [🔊 듣기](_Audio/reliez-les-mots-identiques-par-une-flech-dc6168.m4a) · 👉 같은 단어끼리 화살표로 이으세요.
 
 **단어**: [[relier]] · [[le]] · [[mot|le mot]] · [[identique]] · [[flèche|la flèche]]

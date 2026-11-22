@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le hindi"]
 ---
-
-# hindi
-
 [🔊 indi](_Audio/le-hindi-d5e085.m4a) 인디
 
 **le hindi** · *명사 · 남성*

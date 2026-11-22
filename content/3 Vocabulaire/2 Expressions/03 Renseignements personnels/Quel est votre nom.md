@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["quel-est-votre-nom"]
 ---
-
-# Quel est votre nom ?
-
 [🔊 듣기](_Audio/quel-est-votre-nom-f6fa8f.m4a) · 👉 이름이 어떻게 되세요?
 
 **단어**: [[quel]] · [[être]] · [[votre]] · [[nom|le nom]]

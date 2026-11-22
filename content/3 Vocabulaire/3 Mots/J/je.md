@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# je
-
 [🔊 ʒə](_Audio/je-79563e.m4a) 즈
 
 **je** · *대명사*

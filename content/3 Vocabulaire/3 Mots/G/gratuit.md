@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# gratuit
-
 [🔊 ɡʁatɥi](_Audio/gratuit-59a8c7.m4a) 그하뛰
 
 **gratuit** · *형용사 · 남성* · 여성형 **gratuite**

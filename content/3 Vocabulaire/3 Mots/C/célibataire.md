@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["celibataire"]
 ---
-
-# célibataire
-
 [🔊 selibatɛʁ](_Audio/celibataire-f1bc64.m4a) 쎌리바떼흐
 
 **célibataire** · *형용사 · 남녀 공통*

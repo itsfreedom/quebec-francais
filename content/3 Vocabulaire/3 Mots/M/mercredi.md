@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le mercredi"]
 ---
-
-# mercredi
-
 [🔊 mɛʁkʁədi](_Audio/le-mercredi-22b9ba.m4a) 메흐크흐디
 
 **le mercredi** · *명사 · 남성*

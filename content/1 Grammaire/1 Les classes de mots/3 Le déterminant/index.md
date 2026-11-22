@@ -8,11 +8,6 @@ status: overview
 tags: [francisation, grammaire, overview]
 aliases: [한정사, 관사]
 ---
-
-# Le déterminant (한정사)
-
-← [[1 Grammaire/1 Les classes de mots/index|품사]] · [[1 Grammaire/index|문법 색인]]
-
 > [!abstract] 핵심
 > 명사 앞에 붙어서 **어떤 것인지** 정해요. 명사의 **성과 수에 맞춰** 골라요: le (남성) · la (여성) · l' (모음 앞) · les (복수).
 

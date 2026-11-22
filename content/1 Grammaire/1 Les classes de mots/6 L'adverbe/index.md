@@ -8,11 +8,6 @@ status: overview
 tags: [francisation, grammaire, overview]
 aliases: [부사]
 ---
-
-# L'adverbe (부사)
-
-← [[1 Grammaire/1 Les classes de mots/index|품사]] · [[1 Grammaire/index|문법 색인]]
-
 > [!abstract] 핵심
 > 동사 · 형용사 · 다른 부사를 꾸며요. **모양이 바뀌지 않아요.**
 

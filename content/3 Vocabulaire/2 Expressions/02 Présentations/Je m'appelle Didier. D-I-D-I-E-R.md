@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-mappelle-didier"]
 ---
-
-# Je m'appelle Didier. D-I-D-I-E-R.
-
 [🔊 듣기](_Audio/je-m-appelle-didier-d-i-d-i-e-r-efc244.m4a) · 👉 내 이름은 디디에예요. D-I-D-I-E-R.
 
 **단어**: [[je]] · [[s'appeler]] · [[épeler]]

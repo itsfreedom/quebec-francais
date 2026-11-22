@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# janvier
-
 [🔊 ʒɑ̃vje](_Audio/janvier-76951e.m4a) 장비에
 
 **janvier** · *명사 · 남성*

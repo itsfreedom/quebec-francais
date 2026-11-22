@@ -8,11 +8,6 @@ status: overview
 tags: [francisation, grammaire, overview]
 aliases: [형용사]
 ---
-
-# L'adjectif (형용사)
-
-← [[1 Grammaire/1 Les classes de mots/index|품사]] · [[1 Grammaire/index|문법 색인]]
-
 > [!abstract] 핵심
 > 명사를 꾸며요. **꾸미는 명사의 성 · 수를 따라** 모양이 바뀌어요: 여성이면 보통 **-e**를 붙여요.
 

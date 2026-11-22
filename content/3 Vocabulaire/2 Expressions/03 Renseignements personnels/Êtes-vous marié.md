@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["etes-vous-marie"]
 ---
-
-# Êtes-vous marié ?
-
 [🔊 듣기](_Audio/etes-vous-marie-b4863b.m4a) · 👉 결혼하셨어요?
 
 **단어**: [[être]] · [[vous]] · [[marié]]

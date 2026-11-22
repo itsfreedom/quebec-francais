@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# par
-
 [🔊 paʁ](_Audio/par-d01826.m4a) 빠흐
 
 **par** · *전치사*

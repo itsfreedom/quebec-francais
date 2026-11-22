@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [사람]
 ---
-
-# Personnes (사람)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 문법: [[01 Genre des noms|Genre des noms]]
 
 | 단어 | 발음 | 뜻 |
@@ -24,16 +19,3 @@ aliases: [사람]
 | [[maquilleur\|le maquilleur]] · maquilleuse | [🔊 makijœʁ](_Audio/le-maquilleur-52cfb2.m4a) 마끼외흐 | 메이크업 아티스트 |
 | [[patron\|le patron]] · patronne | [🔊 patʁɔ̃](_Audio/le-patron-136d77.m4a) 빠트홍 | 사장, 상사 |
 | [[sœur\|la sœur]] | [🔊 sœʁ](_Audio/la-sur-69571e.m4a) 쐬흐 | 자매 (언니·누나·여동생) |
-
-## 🃏 플래시카드
-
-**[[ami|l'ami]] · amie** — 친구
-**[[anglophone]]** — 영어를 쓰는 (사람)
-**[[dentiste|le/la dentiste]]** — 치과의사
-**[[fille|la fille]]** — 딸, 소녀
-**[[français]] · française** — 프랑스어, 프랑스의
-**[[italien]] · italienne** — 이탈리아의, 이탈리아 사람
-**[[maman|la maman]]** — 엄마
-**[[maquilleur|le maquilleur]] · maquilleuse** — 메이크업 아티스트
-**[[patron|le patron]] · patronne** — 사장, 상사
-**[[sœur|la sœur]]** — 자매 (언니·누나·여동생)

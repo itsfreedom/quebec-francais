@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, situation]
 aliases: [개인 정보 묻고 답하기 (서류·사무실)]
 ---
-
-# Renseignements personnels (개인 정보 묻고 답하기 (서류·사무실))
-
-← [[3 Vocabulaire/2 Expressions/index|상황 목록]] · [[3 Vocabulaire/index|단어 목차]]  · 🗣 대화문: [[02 Au secrétariat|Au secrétariat]]
-
 | 문장 | 🔊 | 뜻 |
 |---|---|---|
 | [[Bonjour, c'est pour l'inscription\|Bonjour, c'est pour l'inscription ?]] | [🔊](_Audio/bonjour-c-est-pour-l-inscription-c181e1.m4a) | 안녕하세요, 등록하러 오셨어요? |
@@ -32,26 +27,3 @@ aliases: [개인 정보 묻고 답하기 (서류·사무실)]
 | [[Je suis né le 27 novembre 1974\|Je suis né le 27 novembre 1974.]] | [🔊](_Audio/je-suis-ne-le-27-novembre-1974-c33cd5.m4a) | 나는 1974년 11월 27일에 태어났어요. |
 | [[J'ai la citoyenneté canadienne\|J'ai la citoyenneté canadienne.]] | [🔊](_Audio/j-ai-la-citoyennete-canadienne-3c67cd.m4a) | 나는 캐나다 시민권이 있어요. |
 | [[Quel sport tu aimes\|Quel sport tu aimes ?]] | [🔊](_Audio/quel-sport-tu-aimes-e4cf16.m4a) | 무슨 운동 좋아해? |
-
-## 🃏 플래시카드
-
-**Bonjour, c'est pour l'inscription ?** — 안녕하세요, 등록하러 오셨어요?
-**Quel est votre nom ?** — 이름이 어떻게 되세요?
-**Quel est ton nom ?** — 이름이 뭐야?
-**C'est quoi ton nom ?** — 이름이 뭐야? (구어)
-**De quel pays venez-vous ?** — 어느 나라에서 오셨어요?
-**Quel âge avez-vous ?** — 나이가 어떻게 되세요?
-**Quel âge as-tu ?** — 몇 살이야?
-**J'ai 7 ans.** — 나는 7살이에요.
-**Quelle est votre adresse ?** — 주소가 어떻게 되세요?
-**Quel est votre numéro de téléphone ?** — 전화번호가 어떻게 되세요?
-**Quelle est votre nationalité ?** — 국적이 어떻게 되세요?
-**Êtes-vous marié ?** — 결혼하셨어요?
-**Je suis célibataire.** — 나는 미혼이에요.
-**Vous avez des enfants ?** — 자녀가 있으세요?
-**Quelle langue vous parlez ?** — 어떤 언어를 하세요?
-**Je parle français.** — 나는 불어를 해요.
-**Tu parles français ?** — 너 불어 할 줄 알아?
-**Je suis né le 27 novembre 1974.** — 나는 1974년 11월 27일에 태어났어요.
-**J'ai la citoyenneté canadienne.** — 나는 캐나다 시민권이 있어요.
-**Quel sport tu aimes ?** — 무슨 운동 좋아해?

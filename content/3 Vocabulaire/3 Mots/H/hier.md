@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# hier
-
 [🔊 jɛʁ](_Audio/hier-240723.m4a) 이에흐
 
 **hier** · *부사*

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# choisir
-
 [🔊 ʃwaziʁ](_Audio/choisir-1ed980.m4a) 슈아지흐
 
 **choisir** · *동사*

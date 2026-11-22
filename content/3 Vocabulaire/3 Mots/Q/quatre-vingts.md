@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# quatre-vingts
-
 [🔊 katʁə vɛ̃](_Audio/quatre-vingts-3f2199.m4a) 까트흐 뱅
 
 **quatre-vingts** · *숫자*

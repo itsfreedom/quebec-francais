@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# seize
-
 [🔊 sɛz](_Audio/seize-859446.m4a) 쎄즈
 
 **seize** · *숫자*

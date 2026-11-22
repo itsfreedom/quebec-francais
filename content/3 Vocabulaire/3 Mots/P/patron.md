@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le patron"]
 ---
-
-# patron
-
 [🔊 patʁɔ̃](_Audio/le-patron-136d77.m4a) 빠트홍
 
 **le patron** · *명사 · 남성* · 여성형 **patronne**

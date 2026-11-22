@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'ordinateur"]
 ---
-
-# ordinateur
-
 [🔊 ɔʁdinatœʁ](_Audio/l-ordinateur-c12ec3.m4a) 오흐디나뙤흐
 
 **l'ordinateur** · *명사 · 남성*

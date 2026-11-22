@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["jaimerais-mabonner-pour-un-an"]
 ---
-
-# J'aimerais m'abonner pour un an, c'est combien ?
-
 [🔊 듣기](_Audio/j-aimerais-m-abonner-pour-un-an-c-est-co-dfa046.m4a) · 👉 1년 가입하고 싶어요, 얼마예요?
 
 **단어**: [[aimer]] · [[s'abonner]] · [[un]] · [[an|l'an]] · [[combien]]

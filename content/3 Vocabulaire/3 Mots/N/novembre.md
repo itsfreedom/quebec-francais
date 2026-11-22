@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# novembre
-
 [🔊 nɔvɑ̃bʁ](_Audio/novembre-732cad.m4a) 노벙브흐
 
 **novembre** · *명사 · 남성*

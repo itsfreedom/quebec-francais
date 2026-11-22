@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le parking"]
 ---
-
-# parking
-
 [🔊 paʁkiŋ](_Audio/le-parking-389396.m4a) 빠흐낑
 
 **le parking** · *명사 · 남성*

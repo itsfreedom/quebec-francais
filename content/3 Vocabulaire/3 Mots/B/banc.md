@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le banc"]
 ---
-
-# banc
-
 [🔊 bɑ̃](_Audio/le-banc-0a8511.m4a) 방
 
 **le banc** · *명사 · 남성*

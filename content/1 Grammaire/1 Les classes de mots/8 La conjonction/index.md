@@ -8,11 +8,6 @@ status: overview
 tags: [francisation, grammaire, overview]
 aliases: [접속사]
 ---
-
-# La conjonction (접속사)
-
-← [[1 Grammaire/1 Les classes de mots/index|품사]] · [[1 Grammaire/index|문법 색인]]
-
 > [!abstract] 핵심
 > 단어와 단어, 문장과 문장을 이어요. 모양이 안 바뀌어요.
 

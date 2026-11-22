@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["demain-nous-allons-etre-jeudi"]
 ---
-
-# Demain, nous allons être jeudi.
-
 [🔊 듣기](_Audio/demain-nous-allons-etre-jeudi-8432f1.m4a) · 👉 내일은 목요일일 거예요.
 
 **단어**: [[demain]] · [[nous]] · [[aller]] · [[être]] · [[jeudi|le jeudi]]

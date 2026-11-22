@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [음식]
 ---
-
-# Nourriture (음식)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 | 단어 | 발음 | 뜻 |
 |---|---|---|
 | [[agneau\|l'agneau]] | [🔊 aɲo](_Audio/l-agneau-43c65d.m4a) 아뇨 | 어린 양, 양고기 |
@@ -19,13 +14,3 @@ aliases: [음식]
 | [[gâteau\|le gâteau]] | [🔊 gɑto](_Audio/le-gateau-dfe669.m4a) 갸또 | 케이크 |
 | [[goût\|le goût]] | [🔊 gu](_Audio/le-gout-03d1a0.m4a) 구 | 맛 |
 | [[œuf\|l'œuf]] | [🔊 œf](_Audio/l-uf-ece0fa.m4a) 외프 | 달걀 |
-
-## 🃏 플래시카드
-
-**[[agneau|l'agneau]]** — 어린 양, 양고기
-**[[blé|le blé]]** — 밀
-**[[chocolat|le chocolat]]** — 초콜릿
-**[[eau|l'eau]]** — 물
-**[[gâteau|le gâteau]]** — 케이크
-**[[goût|le goût]]** — 맛
-**[[œuf|l'œuf]]** — 달걀

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# soixante
-
 [🔊 swasɑ̃t](_Audio/soixante-101866.m4a) 수아썽뜨
 
 **soixante** · *숫자*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["fleche", "la flèche"]
 ---
-
-# flèche
-
 [🔊 flɛʃ](_Audio/la-fleche-ea3847.m4a) 플레슈
 
 **la flèche** · *명사 · 여성*

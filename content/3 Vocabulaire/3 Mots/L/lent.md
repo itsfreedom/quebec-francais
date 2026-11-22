@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# lent
-
 [🔊 lɑ̃](_Audio/lent-177f6b.m4a) 렁
 
 **lent** · *형용사 · 남성* · 여성형 **lente**

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# six
-
 [🔊 sis](_Audio/six-f52b5e.m4a) 씨스
 
 **six** · *숫자*

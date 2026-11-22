@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# mars
-
 [🔊 maʁs](_Audio/mars-68834f.m4a) 마흐스
 
 **mars** · *명사 · 남성*

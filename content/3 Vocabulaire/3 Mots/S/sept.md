@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# sept
-
 [🔊 sɛt](_Audio/sept-abd0df.m4a) 쎄뜨
 
 **sept** · *숫자*

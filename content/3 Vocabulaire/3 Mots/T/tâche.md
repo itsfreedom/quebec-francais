@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["tache", "la tâche"]
 ---
-
-# tâche
-
 [🔊 tɑʃ](_Audio/la-tache-53f653.m4a) 따슈
 
 **la tâche** · *명사 · 여성*

@@ -1,3 +1,18 @@
 ---
 title: "F"
 ---
+- [[3 Vocabulaire/3 Mots/F/faim|faim]]
+- [[3 Vocabulaire/3 Mots/F/faire|faire]]
+- [[3 Vocabulaire/3 Mots/F/famille|famille]]
+- [[3 Vocabulaire/3 Mots/F/femme|femme]]
+- [[3 Vocabulaire/3 Mots/F/fiche|fiche]]
+- [[3 Vocabulaire/3 Mots/F/fille|fille]]
+- [[3 Vocabulaire/3 Mots/F/flèche|flèche]]
+- [[3 Vocabulaire/3 Mots/F/fond|fond]]
+- [[3 Vocabulaire/3 Mots/F/formel|formel]]
+- [[3 Vocabulaire/3 Mots/F/formulaire|formulaire]]
+- [[3 Vocabulaire/3 Mots/F/fou|fou]]
+- [[3 Vocabulaire/3 Mots/F/français|français]]
+- [[3 Vocabulaire/3 Mots/F/froid|froid]]
+- [[3 Vocabulaire/3 Mots/F/frère|frère]]
+- [[3 Vocabulaire/3 Mots/F/féminin|féminin]]

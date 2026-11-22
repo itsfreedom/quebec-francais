@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la question"]
 ---
-
-# question
-
 [🔊 kɛstjɔ̃](_Audio/la-question-06c1f0.m4a) 께스띠옹
 
 **la question** · *명사 · 여성*

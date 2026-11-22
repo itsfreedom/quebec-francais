@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Tu et vous, tu vous, 반말 존댓말, informel formel]
 ---
-
-# Tu et vous (반말과 존댓말)
-
-← [[1 Grammaire/index|Grammaire]] · 처음 배운
-
 - **[[tu]] = informel (반말)**: 친구, 가족, 아이에게
 - **[[vous]] = formel (존댓말)**: 처음 보는 사람, 직원, 선생님에게
 - 관공서나 학교 사무실에서는 항상 **vous**를 써요.

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ecouter"]
 ---
-
-# écouter
-
 [🔊 ekute](_Audio/ecouter-170290.m4a) 에꾸떼
 
 **écouter** · *동사*

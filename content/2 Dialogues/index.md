@@ -5,9 +5,6 @@ section: dialogues
 tags: [francisation, dialogues, moc]
 aliases: [Dialogues, 다이얼로그, 대화문]
 ---
-
-# 🗣 Dialogues (대화 · 목차)
-
 상황별 짧은 문장: [[3 Vocabulaire/2 Expressions/index|💬 표현]]
 
 | 대화문 | 상황 |

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# canadien
-
 [🔊 kanadjɛ̃](_Audio/canadien-0e2c27.m4a) 까나디앙
 
 **canadien** · *형용사 · 남성* · 여성형 **canadienne**

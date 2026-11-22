@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# soixante-dix
-
 [🔊 swasɑ̃t dis](_Audio/soixante-dix-bd3259.m4a) 수아썽뜨 디스
 
 **soixante-dix** · *숫자*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["annee", "l'année"]
 ---
-
-# année
-
 [🔊 ane](_Audio/l-annee-12e824.m4a) 아네
 
 **l'année** · *명사 · 여성*

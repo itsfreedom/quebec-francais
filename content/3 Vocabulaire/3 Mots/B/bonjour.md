@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# bonjour
-
 [🔊 bɔ̃ʒuʁ](_Audio/bonjour-f02368.m4a) 봉주흐
 
 **bonjour** · *감탄사*

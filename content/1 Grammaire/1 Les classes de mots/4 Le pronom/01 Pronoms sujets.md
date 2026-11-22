@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Pronoms sujets, 주어 대명사, 인칭대명사]
 ---
-
-# Pronoms sujets (주어 대명사)
-
-← [[1 Grammaire/index|Grammaire]]
-
 | | 단수 | 복수 |
 |---|---|---|
 | 1인칭 | **je** 나 | **nous** 우리 |

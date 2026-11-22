@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["soiree", "la soirée"]
 ---
-
-# soirée
-
 [🔊 swaʁe](_Audio/la-soiree-ca2394.m4a) 수아헤
 
 **la soirée** · *명사 · 여성*

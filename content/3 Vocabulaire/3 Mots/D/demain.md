@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# demain
-
 [🔊 dəmɛ̃](_Audio/demain-2fdb30.m4a) 드망
 
 **demain** · *부사*

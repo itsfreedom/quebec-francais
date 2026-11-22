@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique]
 aliases: [Voyelles orales, 구강 모음, 모음]
 ---
-
-# Voyelles orales (구강 모음)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 | 소리 | 예시 | 메모 |
 |---|---|---|
 | [i] | six, lit, ils | 입을 옆으로 벌림 |

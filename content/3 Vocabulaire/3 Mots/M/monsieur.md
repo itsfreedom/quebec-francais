@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# monsieur
-
 [🔊 məsjø](_Audio/monsieur-d8187c.m4a) 므씨외
 
 **monsieur** · *명사 · 남성*

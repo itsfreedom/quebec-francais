@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Imperatif, Impératif, 명령법]
 ---
-
-# Impératif (명령법)
-
-← [[1 Grammaire/index|Grammaire]]
-
 부탁하거나 지시할 때 써요. **주어 없이** 동사만 말해요.
 
 | 대상 | 예 | 뜻 |

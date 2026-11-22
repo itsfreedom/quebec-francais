@@ -35,9 +35,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# venir
-
 [🔊 vəniʁ](_Audio/venir-2108a7.m4a) 브니흐
 
 **venir** · *동사*

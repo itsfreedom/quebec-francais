@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# non
-
 [🔊 nɔ̃](_Audio/non-14b8f0.m4a) 농
 
 **non** · *부사*

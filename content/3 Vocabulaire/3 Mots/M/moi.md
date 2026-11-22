@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# moi
-
 [🔊 mwa](_Audio/moi-8f8ad2.m4a) 무아
 
 **moi** · *대명사*

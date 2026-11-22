@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# philippin
-
 [🔊 filipɛ̃](_Audio/philippin-5839bf.m4a) 필리빵
 
 **philippin** · *형용사 · 남성* · 여성형 **philippine**

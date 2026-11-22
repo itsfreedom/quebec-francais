@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# libanais
-
 [🔊 libanɛ](_Audio/libanais-d5c054.m4a) 리바네
 
 **libanais** · *형용사 · 남성* · 여성형 **libanaise**

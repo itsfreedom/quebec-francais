@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# combien
-
 [🔊 kɔ̃bjɛ̃](_Audio/combien-71d769.m4a) 꽁비앙
 
 **combien** · *부사*

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# colombien
-
 [🔊 kɔlɔ̃bjɛ̃](_Audio/colombien-bdf5b3.m4a) 꼴롱비앙
 
 **colombien** · *형용사 · 남성* · 여성형 **colombienne**

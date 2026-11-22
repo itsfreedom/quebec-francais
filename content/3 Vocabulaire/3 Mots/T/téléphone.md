@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["telephone", "le téléphone"]
 ---
-
-# téléphone
-
 [🔊 telefɔn](_Audio/le-telephone-bfdbc2.m4a) 뗄레폰
 
 **le téléphone** · *명사 · 남성*

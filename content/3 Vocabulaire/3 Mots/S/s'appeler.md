@@ -27,9 +27,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["sappeler"]
 ---
-
-# s'appeler
-
 [🔊 saple](_Audio/s-appeler-c5a4b3.m4a) 싸쁠레
 
 **s'appeler** · *동사*

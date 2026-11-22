@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [장소·물건]
 ---
-
-# Lieux et objets (장소·물건)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 | 단어 | 발음 | 뜻 |
 |---|---|---|
 | [[auto\|l'auto]] | [🔊 oto](_Audio/l-auto-e473b1.m4a) 오또 | 자동차 |
@@ -42,36 +37,3 @@ aliases: [장소·물건]
 | [[tâche\|la tâche]] | [🔊 tɑʃ](_Audio/la-tache-53f653.m4a) 따슈 | 일, 과제 |
 | [[vent\|le vent]] | [🔊 vɑ̃](_Audio/le-vent-447174.m4a) 벙 | 바람 |
 | [[vue\|la vue]] | [🔊 vy](_Audio/la-vue-797002.m4a) 뷔 | 시야, 경치 |
-
-## 🃏 플래시카드
-
-**[[auto|l'auto]]** — 자동차
-**[[banc|le banc]]** — 벤치
-**[[bateau|le bateau]]** — 배
-**[[beau]] · belle** — 아름다운, 멋진
-**[[centre|le centre]]** — 센터, 중심
-**[[chemin|le chemin]]** — 길, 경로
-**[[coiffure|la coiffure]]** — 헤어스타일, 미용
-**[[crayon|le crayon]]** — 연필
-**[[dollar|le dollar]]** — 달러
-**[[fond|le fond]]** — 바닥, 깊은 곳
-**[[gratuit]] · gratuite** — 무료의
-**[[gym|le gym]]** — 헬스장
-**[[lit|le lit]]** — 침대
-**[[maison|la maison]]** — 집
-**[[mode|la mode]]** — 패션, 유행
-**[[nom|le nom]]** — 이름
-**[[ordinateur|l'ordinateur]]** — 컴퓨터
-**[[parking|le parking]]** — 주차장
-**[[pile|la pile]]** — 건전지, 더미
-**[[produit|le produit]]** — 제품
-**[[projet|le projet]]** — 프로젝트, 계획
-**[[quartier|le quartier]]** — 동네
-**[[rue|la rue]]** — 길, 거리
-**[[site|le site]]** — 사이트, 장소
-**[[société|la société]]** — 사회, 회사
-**[[sport|le sport]]** — 운동, 스포츠
-**[[sportif]] · sportive** — 운동의, 운동을 좋아하는
-**[[tâche|la tâche]]** — 일, 과제
-**[[vent|le vent]]** — 바람
-**[[vue|la vue]]** — 시야, 경치

@@ -9,11 +9,6 @@ origin: "class"
 tags: [francisation, dialogue]
 aliases: ["어학원 등록"]
 ---
-
-# Au secrétariat (어학원 등록)
-
-← [[2 Dialogues/index|Dialogues]] · 💬 표현: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]
-
 [▶ 이어서 듣기 (문장 사이 3초)](_Audio/dialogue-au-secretariat-e15726.m4a) · 문장을 누르면 그 문장만 들려요
 
 > **La secrétaire** : [Bonjour, c'est pour l'inscription ?](_Audio/bonjour-c-est-pour-l-inscription-c181e1.m4a)

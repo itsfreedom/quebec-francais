@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le matin"]
 ---
-
-# matin
-
 [🔊 matɛ̃](_Audio/le-matin-0c59cb.m4a) 마땅
 
 **le matin** · *명사 · 남성*

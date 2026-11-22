@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# calme
-
 [🔊 kalm](_Audio/calme-cb2a43.m4a) 깔므
 
 **calme** · *형용사 · 남녀 공통*

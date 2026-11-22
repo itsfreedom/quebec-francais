@@ -5,10 +5,7 @@ section: grammaire
 tags: [francisation, grammaire, moc]
 aliases: [Grammaire, 문법, 문법 색인, 문법 목차]
 ---
-
-# 📐 Grammaire (문법 · 목차)
-
-## 1부 · [[1 Grammaire/1 Les classes de mots/index|Les classes de mots (품사)]]
+## [[1 Grammaire/1 Les classes de mots/index|Les classes de mots (품사)]]
 1. [[1 Grammaire/1 Les classes de mots/1 Le verbe/index|동사 · Le verbe]]
    1. [[01 Verbe être|être (~이다, 있다)]]
    2. [[02 Verbe avoir|avoir (가지다) · être와 avoir 구분]]
@@ -32,11 +29,8 @@ aliases: [Grammaire, 문법, 문법 색인, 문법 목차]
 8. [[1 Grammaire/1 Les classes de mots/8 La conjonction/index|접속사 · La conjonction]]
 9. [[1 Grammaire/1 Les classes de mots/9 L'interjection/index|감탄사 · L'interjection]]
 
-## 2부 · [[1 Grammaire/2 La phrase/index|La phrase (문장)]]
+## [[1 Grammaire/2 La phrase/index|La phrase (문장)]]
 1. [[01 Négation|부정문: ne … pas]]
 
-## 3부 · Le temps et la date (시간 표현)
+## Le temps et la date (시간 표현)
 1. [[01 Dates et jours|날짜 · 요일 · 생년월일]]
-
----
-다른 책: [[2 Dialogues/index|🗣 대화]] · [[3 Vocabulaire/index|📚 단어]] · [[4 Phonétique/index|🔤 발음]]

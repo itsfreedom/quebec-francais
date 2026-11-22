@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# toi
-
 [🔊 twa](_Audio/toi-501446.m4a) 뚜아
 
 **toi** · *대명사*

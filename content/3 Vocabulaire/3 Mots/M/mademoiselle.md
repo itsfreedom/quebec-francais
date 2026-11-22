@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# mademoiselle
-
 [🔊 madmwazɛl](_Audio/mademoiselle-b7d84e.m4a) 마드무아젤
 
 **mademoiselle** · *명사 · 여성*

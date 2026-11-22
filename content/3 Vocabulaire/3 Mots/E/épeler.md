@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["epeler"]
 ---
-
-# épeler
-
 [🔊 eple](_Audio/epeler-3c02b8.m4a) 에쁠레
 
 **épeler** · *동사*

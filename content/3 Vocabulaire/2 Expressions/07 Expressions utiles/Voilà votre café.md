@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["voila-votre-cafe"]
 ---
-
-# Voilà votre café !
-
 [🔊 듣기](_Audio/voila-votre-cafe-877c4f.m4a) · 👉 여기 커피 나왔어요!
 
 **단어**: [[voilà]] · [[votre]]

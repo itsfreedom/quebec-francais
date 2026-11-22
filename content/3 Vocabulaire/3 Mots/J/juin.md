@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# juin
-
 [🔊 ʒɥɛ̃](_Audio/juin-2bc13d.m4a) 쥐앙
 
 **juin** · *명사 · 남성*

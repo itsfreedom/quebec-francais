@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la pile"]
 ---
-
-# pile
-
 [🔊 pil](_Audio/la-pile-a4e270.m4a) 삘
 
 **la pile** · *명사 · 여성*

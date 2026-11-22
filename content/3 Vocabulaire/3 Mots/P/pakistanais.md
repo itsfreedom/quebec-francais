@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# pakistanais
-
 [🔊 pakistanɛ](_Audio/pakistanais-4f8130.m4a) 빠끼스따네
 
 **pakistanais** · *형용사 · 남성* · 여성형 **pakistanaise**

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["feminin"]
 ---
-
-# féminin
-
 [🔊 feminɛ̃](_Audio/feminin-a31d54.m4a) 페미낭
 
 **féminin** · *형용사 · 남성* · 여성형 **féminine**

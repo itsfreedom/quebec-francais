@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["comment-tu-tappelles"]
 ---
-
-# Comment tu t'appelles ?
-
 [🔊 듣기](_Audio/comment-tu-t-appelles-4b6584.m4a) · 👉 이름이 뭐야?
 
 **단어**: [[comment]] · [[tu]] · [[s'appeler]]

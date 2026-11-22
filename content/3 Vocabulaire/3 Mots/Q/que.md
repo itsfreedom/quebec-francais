@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# que
-
 [🔊 kə](_Audio/que-8cfbcf.m4a) 끄
 
 **que** · *접속사*

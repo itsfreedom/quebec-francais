@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# million
-
 [🔊 miljɔ̃](_Audio/million-bafd00.m4a) 밀리옹
 
 **million** · *숫자*

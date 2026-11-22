@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique, quebec]
 aliases: [Accent quebecois, 퀘벡 발음, Accent québécois]
 ---
-
-# 🍁 Accent québécois (퀘벡 발음)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 몬트리올에서 실제로 듣게 될 소리예요.
 
 - **t, d + i/u** → "츠, 즈" 소리가 나요

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["repondre"]
 ---
-
-# répondre
-
 [🔊 ʁepɔ̃dʁ](_Audio/repondre-e3a81f.m4a) 헤뽕드흐
 
 **répondre** · *동사*

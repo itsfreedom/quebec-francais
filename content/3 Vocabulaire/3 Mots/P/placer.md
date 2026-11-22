@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# placer
-
 [🔊 plase](_Audio/placer-379b73.m4a) 쁠라세
 
 **placer** · *동사*

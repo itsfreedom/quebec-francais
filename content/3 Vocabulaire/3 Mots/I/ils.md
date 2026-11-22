@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# ils
-
 [🔊 il](_Audio/ils-f86d49.m4a) 일
 
 **ils** · *대명사*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la dame"]
 ---
-
-# dame
-
 [🔊 dam](_Audio/la-dame-48c1c2.m4a) 담
 
 **la dame** · *명사 · 여성*

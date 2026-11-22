@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Genre des noms, 명사의 성, 남성 여성]
 ---
-
-# Genre des noms (명사의 성)
-
-← [[1 Grammaire/index|Grammaire]]
-
 프랑스어 명사는 모두 **남성(masculin)** 아니면 **여성(féminin)**이에요. 규칙이 완벽하지 않아서 **단어를 외울 때 관사와 함께** 외워요.
 
 | 남성 | 여성 |

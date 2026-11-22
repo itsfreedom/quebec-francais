@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le dimanche"]
 ---
-
-# dimanche
-
 [🔊 dimɑ̃ʃ](_Audio/le-dimanche-699482.m4a) 디망슈
 
 **le dimanche** · *명사 · 남성*

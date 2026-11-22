@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# formel
-
 [🔊 fɔʁmɛl](_Audio/formel-c2cfe0.m4a) 포흐멜
 
 **formel** · *형용사 · 남성* · 여성형 **formelle**

@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["est-ce-que-je-peux-avoir-le-formulaire"]
 ---
-
-# C'est bon ! Est-ce que je peux avoir le formulaire d'inscription ?
-
 [🔊 듣기](_Audio/c-est-bon-est-ce-que-je-peux-avoir-le-fo-4df1bd.m4a) · 👉 좋아요! 등록 신청서를 받을 수 있을까요?
 
 **단어**: [[bon]] · [[je]] · [[pouvoir]] · [[avoir]] · [[formulaire|le formulaire]] · [[inscription|l'inscription]]

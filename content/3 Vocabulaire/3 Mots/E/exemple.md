@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'exemple"]
 ---
-
-# exemple
-
 [🔊 ɛɡzɑ̃pl](_Audio/l-exemple-3a059d.m4a) 에그장쁠
 
 **l'exemple** · *명사 · 남성*

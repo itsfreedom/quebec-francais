@@ -8,11 +8,6 @@ status: overview
 tags: [francisation, grammaire, overview]
 aliases: [동사, verbe]
 ---
-
-# Le verbe (동사)
-
-← [[1 Grammaire/1 Les classes de mots/index|품사]] · [[1 Grammaire/index|문법 색인]]
-
 > [!abstract] 핵심
 > 동사는 **주어에 따라 모양이 바뀌어요** (활용, conjugaison). 가장 중요한 두 동사 **être**(~이다)와 **avoir**(가지다)부터 외워요.
 

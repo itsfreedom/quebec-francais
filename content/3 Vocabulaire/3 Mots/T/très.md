@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["tres"]
 ---
-
-# très
-
 [🔊 tʁɛ](_Audio/tres-9a2a96.m4a) 트헤
 
 **très** · *부사*

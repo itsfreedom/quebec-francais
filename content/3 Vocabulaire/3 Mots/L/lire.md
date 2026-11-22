@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# lire
-
 [🔊 liʁ](_Audio/lire-62db9e.m4a) 리흐
 
 **lire** · *동사*

@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [시간·날]
 ---
-
-# Temps et jours (시간·날)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 문법: [[01 Dates et jours|Dates et jours]] · [[03 Temps verbaux|Temps verbaux]]
 
 | 단어 | 발음 | 뜻 |
@@ -40,32 +35,3 @@ aliases: [시간·날]
 | [[samedi\|le samedi]] | [🔊 samdi](_Audio/le-samedi-d88e59.m4a) 쌈디 | 토요일 |
 | [[temps\|le temps]] | [🔊 tɑ̃](_Audio/le-temps-802f4b.m4a) 떵 | 시간, 날씨 |
 | [[vendredi\|le vendredi]] | [🔊 vɑ̃dʁədi](_Audio/le-vendredi-a8ed86.m4a) 벙드흐디 | 금요일 |
-
-## 🃏 플래시카드
-
-**[[année|l'année]]** — 해, 년
-**[[annuel]] · annuelle** — 매년의, 연간
-**[[août]]** — 8월
-**[[aujourd'hui]]** — 오늘
-**[[avril]]** — 4월
-**[[demain]]** — 내일
-**[[dimanche|le dimanche]]** — 일요일
-**[[hier]]** — 어제
-**[[janvier]]** — 1월
-**[[jeudi|le jeudi]]** — 목요일
-**[[jour|le jour]]** — 날, 일
-**[[juillet]]** — 7월
-**[[juin]]** — 6월
-**[[lundi|le lundi]]** — 월요일
-**[[mai]]** — 5월
-**[[mardi|le mardi]]** — 화요일
-**[[mars]]** — 3월
-**[[matin|le matin]]** — 아침
-**[[mensuel]] · mensuelle** — 매달의, 월간
-**[[mercredi|le mercredi]]** — 수요일
-**[[mois|le mois]]** — 달, 월
-**[[Noël]]** — 크리스마스
-**[[novembre]]** — 11월
-**[[samedi|le samedi]]** — 토요일
-**[[temps|le temps]]** — 시간, 날씨
-**[[vendredi|le vendredi]]** — 금요일

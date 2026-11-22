@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# le
-
 [🔊 lə](_Audio/le-d91805.m4a) 르
 
 **le** · *관사* · 여성형 **la**

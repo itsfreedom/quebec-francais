@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le chiffre"]
 ---
-
-# chiffre
-
 [🔊 ʃifʁ](_Audio/le-chiffre-65a851.m4a) 시프흐
 
 **le chiffre** · *명사 · 남성*

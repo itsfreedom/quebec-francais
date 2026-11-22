@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le/la partenaire"]
 ---
-
-# partenaire
-
 [🔊 paʁtənɛʁ](_Audio/le-la-partenaire-f5a1f7.m4a) 빠흐뜨네흐
 
 **le/la partenaire** · *명사 · 남녀 공통*

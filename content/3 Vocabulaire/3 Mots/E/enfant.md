@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'enfant"]
 ---
-
-# enfant
-
 [🔊 ɑ̃fɑ̃](_Audio/l-enfant-6e5b94.m4a) 엉펑
 
 **l'enfant** · *명사 · 남녀 공통*

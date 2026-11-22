@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["divorce"]
 ---
-
-# divorcé
-
 [🔊 divɔʁse](_Audio/divorce-4332d5.m4a) 디보흐쎄
 
 **divorcé** · *형용사 · 남성* · 여성형 **divorcée**

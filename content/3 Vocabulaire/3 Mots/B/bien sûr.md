@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["bien-sur"]
 ---
-
-# bien sûr
-
 [🔊 bjɛ̃ syʁ](_Audio/bien-sur-5793f5.m4a) 비앙 쒸흐
 
 **bien sûr** · *부사*

@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["eleve", "l'élève"]
 ---
-
-# élève
-
 [🔊 elɛv](_Audio/l-eleve-bef501.m4a) 엘레브
 
 **l'élève** · *명사 · 남녀 공통*

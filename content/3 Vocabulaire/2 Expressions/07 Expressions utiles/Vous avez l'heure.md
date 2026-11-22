@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["vous-avez-lheure"]
 ---
-
-# Vous avez l'heure ?
-
 [🔊 듣기](_Audio/vous-avez-l-heure-841bfb.m4a) · 👉 지금 몇 시인지 아세요?
 
 **단어**: [[vous]] · [[avoir]] · [[heure|l'heure]]

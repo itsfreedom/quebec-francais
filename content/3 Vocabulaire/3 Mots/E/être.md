@@ -47,9 +47,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["etre"]
 ---
-
-# être
-
 [🔊 ɛtʁ](_Audio/etre-1e529d.m4a) 에트흐
 
 **être** · *동사*

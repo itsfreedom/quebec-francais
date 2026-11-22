@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["numero", "le numéro"]
 ---
-
-# numéro
-
 [🔊 nymeʁo](_Audio/le-numero-695404.m4a) 뉘메호
 
 **le numéro** · *명사 · 남성*

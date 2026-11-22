@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le parent"]
 ---
-
-# parent
-
 [🔊 paʁɑ̃](_Audio/le-parent-68d790.m4a) 빠헝
 
 **le parent** · *명사 · 남성*

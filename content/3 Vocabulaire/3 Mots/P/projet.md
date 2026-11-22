@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le projet"]
 ---
-
-# projet
-
 [🔊 pʁɔʒɛ](_Audio/le-projet-da7c0b.m4a) 프호제
 
 **le projet** · *명사 · 남성*

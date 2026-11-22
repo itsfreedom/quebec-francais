@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# coucou
-
 [🔊 kuku](_Audio/coucou-721a9b.m4a) 꾸꾸
 
 **coucou** · *감탄사*

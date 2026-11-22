@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# selon
-
 [🔊 səlɔ̃](_Audio/selon-b0a95e.m4a) 슬롱
 
 **selon** · *전치사*

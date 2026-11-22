@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# bonsoir
-
 [🔊 bɔ̃swaʁ](_Audio/bonsoir-b9a6d0.m4a) 봉수아흐
 
 **bonsoir** · *감탄사*

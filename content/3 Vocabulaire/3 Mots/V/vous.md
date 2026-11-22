@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# vous
-
 [🔊 vu](_Audio/vous-593ffa.m4a) 부
 
 **vous** · *대명사*

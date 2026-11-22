@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["vous-avez-des-enfants"]
 ---
-
-# Vous avez des enfants ?
-
 [🔊 듣기](_Audio/vous-avez-des-enfants-1a3fa2.m4a) · 👉 자녀가 있으세요?
 
 **단어**: [[vous]] · [[avoir]] · [[enfant|l'enfant]]

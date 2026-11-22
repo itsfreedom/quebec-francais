@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# quatre
-
 [🔊 katʁ](_Audio/quatre-2c862e.m4a) 까트흐
 
 **quatre** · *숫자*

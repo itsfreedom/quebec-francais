@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-parle-francais"]
 ---
-
-# Je parle français.
-
 [🔊 듣기](_Audio/je-parle-francais-c6faec.m4a) · 👉 나는 불어를 해요.
 
 **단어**: [[je]] · [[parler]] · [[français]]

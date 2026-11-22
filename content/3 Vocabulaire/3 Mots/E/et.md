@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# et
-
 [🔊 e](_Audio/et-4de1b7.m4a) 에
 
 **et** · *접속사*

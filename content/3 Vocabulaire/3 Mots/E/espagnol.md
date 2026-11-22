@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'espagnol"]
 ---
-
-# espagnol
-
 [🔊 ɛspaɲɔl](_Audio/l-espagnol-5a3fcd.m4a) 에스빠뇰
 
 **l'espagnol** · *명사 · 남성* · 여성형 **espagnole**

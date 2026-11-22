@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ingenieur", "l'ingénieur"]
 ---
-
-# ingénieur
-
 [🔊 ɛ̃ʒenjœʁ](_Audio/l-ingenieur-2370d6.m4a) 앵제니외흐
 
 **l'ingénieur** · *명사 · 남성* · 여성형 **ingénieure**

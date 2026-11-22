@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'ami"]
 ---
-
-# ami
-
 [🔊 ami](_Audio/l-ami-7a34fa.m4a) 아미
 
 **l'ami** · *명사 · 남성* · 여성형 **amie**

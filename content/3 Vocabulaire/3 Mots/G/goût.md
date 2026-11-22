@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["gout", "le goût"]
 ---
-
-# goût
-
 [🔊 gu](_Audio/le-gout-03d1a0.m4a) 구
 
 **le goût** · *명사 · 남성*

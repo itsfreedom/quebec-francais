@@ -33,9 +33,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# aimer
-
 [🔊 eme](_Audio/aimer-712fb4.m4a) 에메
 
 **aimer** · *동사*

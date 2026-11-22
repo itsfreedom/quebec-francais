@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["voila"]
 ---
-
-# voilà
-
 [🔊 vwala](_Audio/voila-957c44.m4a) 부알라
 
 **voilà** · *부사*

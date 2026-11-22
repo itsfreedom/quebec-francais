@@ -8,11 +8,6 @@ status: overview
 tags: [francisation, grammaire, overview]
 aliases: [명사, nom (품사)]
 ---
-
-# Le nom (명사)
-
-← [[1 Grammaire/1 Les classes de mots/index|품사]] · [[1 Grammaire/index|문법 색인]]
-
 > [!abstract] 핵심
 > 모든 명사는 **남성 아니면 여성**이에요. 성은 앞에 붙는 한정사(le / la)로 알 수 있어서, 명사는 **관사와 함께** 외워요.
 

@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["citoyennete", "la citoyenneté"]
 ---
-
-# citoyenneté
-
 [🔊 sitwajɛnte](_Audio/la-citoyennete-103ecd.m4a) 씨뚜아옌떼
 
 **la citoyenneté** · *명사 · 여성*

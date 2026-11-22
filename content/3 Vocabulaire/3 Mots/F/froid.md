@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le froid"]
 ---
-
-# froid
-
 [🔊 fʁwa](_Audio/le-froid-d9bdf9.m4a) 프후아
 
 **le froid** · *명사 · 남성*

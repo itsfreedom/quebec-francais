@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["hier-nous-avons-ete-mardi"]
 ---
-
-# Hier, nous avons été mardi.
-
 [🔊 듣기](_Audio/hier-nous-avons-ete-mardi-d93891.m4a) · 👉 어제는 화요일이었어요.
 
 **단어**: [[hier]] · [[nous]] · [[avoir]] · [[être]] · [[mardi|le mardi]]

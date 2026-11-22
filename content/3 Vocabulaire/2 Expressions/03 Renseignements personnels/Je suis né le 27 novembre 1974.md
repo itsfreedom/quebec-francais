@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-suis-ne-le-27-novembre-1974"]
 ---
-
-# Je suis né le 27 novembre 1974.
-
 [🔊 듣기](_Audio/je-suis-ne-le-27-novembre-1974-c33cd5.m4a) · 👉 나는 1974년 11월 27일에 태어났어요.
 
 **단어**: [[je]] · [[être]] · [[novembre]] · [[naissance|la naissance]]

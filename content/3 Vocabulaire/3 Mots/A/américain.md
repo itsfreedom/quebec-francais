@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["americain"]
 ---
-
-# américain
-
 [🔊 ameʁikɛ̃](_Audio/americain-7540fa.m4a) 아메히깽
 
 **américain** · *형용사 · 남성* · 여성형 **américaine**

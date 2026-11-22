@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le lit"]
 ---
-
-# lit
-
 [🔊 li](_Audio/le-lit-eb4618.m4a) 리
 
 **le lit** · *명사 · 남성*

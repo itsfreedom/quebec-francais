@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["etat-civil", "l'état civil"]
 ---
-
-# état civil
-
 [🔊 eta sivil](_Audio/l-etat-civil-a2c0f9.m4a) 에따 씨빌
 
 **l'état civil** · *명사 · 남성*

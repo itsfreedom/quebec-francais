@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["bien-toi"]
 ---
-
-# Bien ! Toi ?
-
 [🔊 듣기](_Audio/bien-toi-b3e083.m4a) · 👉 잘 지내! 너는?
 
 **단어**: [[bien]] · [[toi]]

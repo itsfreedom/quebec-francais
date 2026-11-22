@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# mille
-
 [🔊 mil](_Audio/mille-cd827c.m4a) 밀
 
 **mille** · *숫자*

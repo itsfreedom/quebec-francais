@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le professeur"]
 ---
-
-# professeur
-
 [🔊 pʁɔfesœʁ](_Audio/le-professeur-85dced.m4a) 프호페쐬흐
 
 **le professeur** · *명사 · 남성* · 여성형 **professeure**

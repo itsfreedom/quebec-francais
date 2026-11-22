@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# transcrire
-
 [🔊 tʁɑ̃skʁiʁ](_Audio/transcrire-b8203e.m4a) 트헝스크히흐
 
 **transcrire** · *동사*

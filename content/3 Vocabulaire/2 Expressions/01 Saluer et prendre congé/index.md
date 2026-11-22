@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, situation]
 aliases: [인사와 작별 인사]
 ---
-
-# Saluer et prendre congé (인사와 작별 인사)
-
-← [[3 Vocabulaire/2 Expressions/index|상황 목록]] · [[3 Vocabulaire/index|단어 목차]]  · 🗣 대화문: [[01 Se présenter|Se présenter]]
-
 ## 만날 때
 | 존댓말 (formel +) | 반말 (informel –) |
 |---|---|
@@ -74,35 +69,3 @@ aliases: [인사와 작별 인사]
 | [[Ça va bien\|Ça va bien.]] | [🔊](_Audio/ca-va-bien-2a0a34.m4a) | 잘 지내요. |
 | [[Ça va bien, merci. Et vous\|Ça va bien, merci. Et vous ?]] | [🔊](_Audio/ca-va-bien-merci-et-vous-1ba319.m4a) | 잘 지내요, 고마워요. 당신은요? |
 | [[Ça va très bien, merci\|Ça va très bien, merci.]] | [🔊](_Audio/ca-va-tres-bien-merci-dad0f0.m4a) | 아주 잘 지내요, 고마워요. |
-
-## 🃏 플래시카드
-
-**Comment vas-tu ?** — 어떻게 지내? (반말)
-**Comment allez-vous ?** — 어떻게 지내세요? (존댓말)
-**Vous allez bien ?** — 잘 지내세요?
-**Tu vas bien ? Et toi ?** — 잘 지내? 너는?
-**Bien ! Toi ?** — 잘 지내! 너는?
-**Pas pire, toi ?** — 나쁘지 않아(괜찮아), 너는? (퀘벡 구어)
-**Ça va très bien, merci ! Et vous ?** — 아주 잘 지내요, 고마워요! 당신은요?
-**Très bien, et toi ?** — 아주 잘 지내, 너는?
-**Bonsoir monsieur !** — 안녕하세요, 선생님 (저녁, 남성에게)
-**Bonne journée !** — 좋은 하루 보내세요!
-**Bonne soirée !** — 좋은 저녁 보내세요!
-**Bon week-end !** — 주말 잘 보내세요!
-**À la prochaine !** — 다음에 봐요!
-**À plus tard !** — 나중에 봐요!
-**À plus !** — 이따 봐! (반말)
-**À toute à l'heure !** — 조금 이따 봐요!
-**À demain !** — 내일 봐요!
-**À lundi !** — 월요일에 봐요!
-**À ce soir !** — 오늘 저녁에 봐요!
-**Au revoir !** — 안녕히 가세요 / 안녕히 계세요
-**À bientôt !** — 곧 봐요!
-**Bye !** — 안녕! (헤어질 때, 구어)
-**Bonjour, madame !** — 안녕하세요 (여성에게)
-**Bonsoir, tout le monde !** — 모두들 안녕하세요 (저녁)
-**Salut, ça va ?** — 안녕, 잘 지내?
-**Comment ça va ?** — 어떻게 지내요?
-**Ça va bien.** — 잘 지내요.
-**Ça va bien, merci. Et vous ?** — 잘 지내요, 고마워요. 당신은요?
-**Ça va très bien, merci.** — 아주 잘 지내요, 고마워요.

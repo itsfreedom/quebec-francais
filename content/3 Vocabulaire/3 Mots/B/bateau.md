@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le bateau"]
 ---
-
-# bateau
-
 [🔊 bato](_Audio/le-bateau-b4d90e.m4a) 바또
 
 **le bateau** · *명사 · 남성*

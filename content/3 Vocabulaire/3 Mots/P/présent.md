@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["present"]
 ---
-
-# présent
-
 [🔊 pʁezɑ̃](_Audio/present-ac6660.m4a) 프헤정
 
 **présent** · *형용사 · 남성* · 여성형 **présente**

@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique]
 aliases: [Voyelles nasales, 비모음, nasales]
 ---
-
-# Voyelles nasales (비모음)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 코로 내는 모음 4개예요. 철자를 보면 어떤 소리인지 알 수 있어요.
 
 | 소리 | 철자 | 예시 |

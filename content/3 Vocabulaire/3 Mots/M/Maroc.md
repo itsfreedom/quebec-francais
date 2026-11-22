@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["maroc", "le Maroc"]
 ---
-
-# Maroc
-
 [🔊 maʁɔk](_Audio/le-maroc-7f9802.m4a) 마혹
 
 **le Maroc** · *명사 · 남성*

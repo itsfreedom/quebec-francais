@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# actuel
-
 [🔊 aktɥɛl](_Audio/actuel-d04fe4.m4a) 악뛰엘
 
 **actuel** · *형용사 · 남성* · 여성형 **actuelle**

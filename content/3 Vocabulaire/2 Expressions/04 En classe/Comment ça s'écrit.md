@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["comment-ca-secrit"]
 ---
-
-# Comment ça s'écrit ?
-
 [🔊 듣기](_Audio/comment-ca-s-ecrit-d513c5.m4a) · 👉 그거 어떻게 써요?
 
 **단어**: [[comment]] · [[ça]] · [[écrire]]

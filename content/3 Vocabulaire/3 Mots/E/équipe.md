@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["equipe", "l'équipe"]
 ---
-
-# équipe
-
 [🔊 ekip](_Audio/l-equipe-ad6655.m4a) 에끼쁘
 
 **l'équipe** · *명사 · 여성*

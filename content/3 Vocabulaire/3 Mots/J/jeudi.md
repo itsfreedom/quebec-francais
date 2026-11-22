@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le jeudi"]
 ---
-
-# jeudi
-
 [🔊 ʒødi](_Audio/le-jeudi-602d7a.m4a) 죄디
 
 **le jeudi** · *명사 · 남성*

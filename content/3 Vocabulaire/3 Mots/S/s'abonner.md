@@ -25,9 +25,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["sabonner"]
 ---
-
-# s'abonner
-
 [🔊 sabɔne](_Audio/s-abonner-72e617.m4a) 싸보네
 
 **s'abonner** · *동사*

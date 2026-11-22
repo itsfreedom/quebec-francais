@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le vendredi"]
 ---
-
-# vendredi
-
 [🔊 vɑ̃dʁədi](_Audio/le-vendredi-a8ed86.m4a) 벙드흐디
 
 **le vendredi** · *명사 · 남성*

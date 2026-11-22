@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# trois
-
 [🔊 tʁwa](_Audio/trois-df8091.m4a) 트후아
 
 **trois** · *숫자*

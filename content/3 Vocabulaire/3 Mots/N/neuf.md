@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# neuf
-
 [🔊 nœf](_Audio/neuf-dc0b8b.m4a) 뇌프
 
 **neuf** · *숫자*

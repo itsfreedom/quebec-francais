@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# puis
-
 [🔊 pɥi](_Audio/puis-691937.m4a) 쀠
 
 **puis** · *부사*

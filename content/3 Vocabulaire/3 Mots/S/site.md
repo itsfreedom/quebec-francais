@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le site"]
 ---
-
-# site
-
 [🔊 sit](_Audio/le-site-4e5c94.m4a) 씨뜨
 
 **le site** · *명사 · 남성*

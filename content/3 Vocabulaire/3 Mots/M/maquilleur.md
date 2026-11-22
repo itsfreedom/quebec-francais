@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le maquilleur"]
 ---
-
-# maquilleur
-
 [🔊 makijœʁ](_Audio/le-maquilleur-52cfb2.m4a) 마끼외흐
 
 **le maquilleur** · *명사 · 남성* · 여성형 **maquilleuse**

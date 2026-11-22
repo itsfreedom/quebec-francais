@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# enregistrer
-
 [🔊 ɑ̃ʁəʒistʁe](_Audio/enregistrer-2aa6f9.m4a) 엉흐지스트헤
 
 **enregistrer** · *동사*

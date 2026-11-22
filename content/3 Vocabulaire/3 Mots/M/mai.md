@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# mai
-
 [🔊 mɛ](_Audio/mai-2b2858.m4a) 메
 
 **mai** · *명사 · 남성*

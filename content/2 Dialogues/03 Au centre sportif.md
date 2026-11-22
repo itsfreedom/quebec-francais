@@ -9,11 +9,6 @@ origin: "class"
 tags: [francisation, dialogue]
 aliases: ["헬스장 등록"]
 ---
-
-# Au centre sportif (헬스장 등록)
-
-← [[2 Dialogues/index|Dialogues]] · 💬 표현: [[3 Vocabulaire/2 Expressions/06 Au gym/index|Au gym]]
-
 [▶ 이어서 듣기 (문장 사이 3초)](_Audio/dialogue-au-centre-sportif-ac1478.m4a) · 문장을 누르면 그 문장만 들려요
 
 > **La dame** : [Bonjour, monsieur, j'aimerais m'abonner au gym, s'il vous plaît.](_Audio/bonjour-monsieur-j-aimerais-m-abonner-au-f1818b.m4a)

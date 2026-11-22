@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# iranien
-
 [🔊 iʁanjɛ̃](_Audio/iranien-add134.m4a) 이하니앙
 
 **iranien** · *형용사 · 남성* · 여성형 **iranienne**

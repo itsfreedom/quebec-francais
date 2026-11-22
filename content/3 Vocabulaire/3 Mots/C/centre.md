@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le centre"]
 ---
-
-# centre
-
 [🔊 sɑ̃tʁ](_Audio/le-centre-f02460.m4a) 썽트흐
 
 **le centre** · *명사 · 남성*

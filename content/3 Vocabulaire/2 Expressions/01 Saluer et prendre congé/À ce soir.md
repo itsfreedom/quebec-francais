@@ -13,12 +13,7 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-ce-soir"]
 ---
-
-# À ce soir !
-
 [🔊 듣기](_Audio/a-ce-soir-3c3bb2.m4a) · 👉 오늘 저녁에 봐요!
-
-**단어**: —
 
 ---
 💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

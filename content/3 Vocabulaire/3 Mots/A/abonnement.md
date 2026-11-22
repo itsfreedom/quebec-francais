@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'abonnement"]
 ---
-
-# abonnement
-
 [🔊 abɔnmɑ̃](_Audio/l-abonnement-0653b0.m4a) 아본느멍
 
 **l'abonnement** · *명사 · 남성*

@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["comment-vas-tu"]
 ---
-
-# Comment vas-tu ?
-
 [🔊 듣기](_Audio/comment-vas-tu-f8ca96.m4a) · 👉 어떻게 지내? (반말)
 
 **단어**: [[comment]] · [[aller]] · [[tu]]

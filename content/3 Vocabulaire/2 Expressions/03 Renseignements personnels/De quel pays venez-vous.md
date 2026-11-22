@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["de-quel-pays-venez-vous"]
 ---
-
-# De quel pays venez-vous ?
-
 [🔊 듣기](_Audio/de-quel-pays-venez-vous-0db8cf.m4a) · 👉 어느 나라에서 오셨어요?
 
 **단어**: [[de]] · [[quel]] · [[pays|le pays]] · [[venir]] · [[vous]]

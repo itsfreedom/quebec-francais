@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["salut-ca-va"]
 ---
-
-# Salut, ça va ?
-
 [🔊 듣기](_Audio/salut-ca-va-ed97a1.m4a) · 👉 안녕, 잘 지내?
 
 **단어**: [[salut]] · [[ça]] · [[aller]]

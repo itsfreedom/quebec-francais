@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# merci
-
 [🔊 mɛʁsi](_Audio/merci-8e105c.m4a) 메흐씨
 
 **merci** · *감탄사*

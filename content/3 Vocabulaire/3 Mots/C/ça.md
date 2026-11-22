@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ca"]
 ---
-
-# ça
-
 [🔊 sa](_Audio/ca-25596d.m4a) 싸
 
 **ça** · *대명사*

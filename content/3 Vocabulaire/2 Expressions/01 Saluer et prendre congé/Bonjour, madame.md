@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["bonjour-madame"]
 ---
-
-# Bonjour, madame !
-
 [🔊 듣기](_Audio/bonjour-madame-303851.m4a) · 👉 안녕하세요 (여성에게)
 
 **단어**: [[bonjour]]

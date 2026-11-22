@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le mot"]
 ---
-
-# mot
-
 [🔊 mo](_Audio/le-mot-de22d6.m4a) 모
 
 **le mot** · *명사 · 남성*

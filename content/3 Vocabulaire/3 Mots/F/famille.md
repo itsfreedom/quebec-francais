@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la famille"]
 ---
-
-# famille
-
 [🔊 famij](_Audio/la-famille-f4c078.m4a) 파미으
 
 **la famille** · *명사 · 여성*

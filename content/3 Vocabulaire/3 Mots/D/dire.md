@@ -29,9 +29,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# dire
-
 [🔊 diʁ](_Audio/dire-2fca68.m4a) 디흐
 
 **dire** · *동사*

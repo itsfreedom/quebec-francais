@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# pas
-
 [🔊 pɑ](_Audio/pas-cd0acf.m4a) 빠
 
 **pas** · *부사*

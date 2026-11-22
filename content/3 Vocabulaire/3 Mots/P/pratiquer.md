@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# pratiquer
-
 [🔊 pʁatike](_Audio/pratiquer-dece4b.m4a) 프하띠께
 
 **pratiquer** · *동사*

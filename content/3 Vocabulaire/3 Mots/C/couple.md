@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le couple"]
 ---
-
-# couple
-
 [🔊 kupl](_Audio/le-couple-e6a655.m4a) 꾸쁠
 
 **le couple** · *명사 · 남성*

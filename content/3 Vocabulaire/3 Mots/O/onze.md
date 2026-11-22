@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# onze
-
 [🔊 ɔ̃z](_Audio/onze-0a077f.m4a) 옹즈
 
 **onze** · *숫자*

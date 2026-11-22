@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["repeter"]
 ---
-
-# répéter
-
 [🔊 ʁepete](_Audio/repeter-2544d0.m4a) 헤뻬떼
 
 **répéter** · *동사*

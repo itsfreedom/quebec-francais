@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le boulevard"]
 ---
-
-# boulevard
-
 [🔊 bulvaʁ](_Audio/le-boulevard-3743b7.m4a) 불바흐
 
 **le boulevard** · *명사 · 남성*

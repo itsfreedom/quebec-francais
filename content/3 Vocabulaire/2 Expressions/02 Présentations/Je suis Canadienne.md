@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-suis-canadienne"]
 ---
-
-# Je suis Canadienne.
-
 [🔊 듣기](_Audio/je-suis-canadienne-bff15f.m4a) · 👉 나는 캐나다 사람이에요. (여성)
 
 **단어**: [[je]] · [[être]] · [[canadien]]

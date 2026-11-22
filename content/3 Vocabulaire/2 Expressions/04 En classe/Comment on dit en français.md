@@ -13,7 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["comment-on-dit-en-francais"]
 ---
-
 # Comment on dit … en français ?
 
 [🔊 듣기](_Audio/comment-on-dit-en-francais-9fc0d3.m4a) · 👉 …를 불어로 어떻게 말해요?

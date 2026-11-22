@@ -1,3 +1,16 @@
 ---
 title: "T"
 ---
+- [[3 Vocabulaire/3 Mots/T/tagalog|tagalog]]
+- [[3 Vocabulaire/3 Mots/T/tamoul|tamoul]]
+- [[3 Vocabulaire/3 Mots/T/temps|temps]]
+- [[3 Vocabulaire/3 Mots/T/toi|toi]]
+- [[3 Vocabulaire/3 Mots/T/tout|tout]]
+- [[3 Vocabulaire/3 Mots/T/transcrire|transcrire]]
+- [[3 Vocabulaire/3 Mots/T/treize|treize]]
+- [[3 Vocabulaire/3 Mots/T/trente|trente]]
+- [[3 Vocabulaire/3 Mots/T/trois|trois]]
+- [[3 Vocabulaire/3 Mots/T/très|très]]
+- [[3 Vocabulaire/3 Mots/T/tu|tu]]
+- [[3 Vocabulaire/3 Mots/T/tâche|tâche]]
+- [[3 Vocabulaire/3 Mots/T/téléphone|téléphone]]

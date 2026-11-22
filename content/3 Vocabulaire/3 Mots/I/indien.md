@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# indien
-
 [🔊 ɛ̃djɛ̃](_Audio/indien-3d39fd.m4a) 앵디앙
 
 **indien** · *형용사 · 남성* · 여성형 **indienne**

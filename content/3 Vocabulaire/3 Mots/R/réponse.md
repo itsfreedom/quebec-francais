@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["reponse", "la réponse"]
 ---
-
-# réponse
-
 [🔊 ʁepɔ̃s](_Audio/la-reponse-e83e7d.m4a) 헤뽕스
 
 **la réponse** · *명사 · 여성*

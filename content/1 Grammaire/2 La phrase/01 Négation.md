@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Negation, Négation, 부정문, ne pas]
 ---
-
-# Négation (부정문)
-
-← [[1 Grammaire/index|Grammaire]]
-
 동사를 **ne … pas**로 감싸요.
 
 - Je suis canadien. → Je **ne** suis **pas** canadien.

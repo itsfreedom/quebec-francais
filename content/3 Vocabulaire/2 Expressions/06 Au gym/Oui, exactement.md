@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["oui-exactement"]
 ---
-
-# Oui, exactement.
-
 [🔊 듣기](_Audio/oui-exactement-780c32.m4a) · 👉 네, 맞아요.
 
 **단어**: [[oui]] · [[exactement]]

@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le dollar"]
 ---
-
-# dollar
-
 [🔊 dɔlaʁ](_Audio/le-dollar-24ddc9.m4a) 돌라흐
 
 **le dollar** · *명사 · 남성*

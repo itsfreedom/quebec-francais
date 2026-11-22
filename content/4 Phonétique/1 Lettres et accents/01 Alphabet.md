@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique]
 aliases: [Alphabet, 알파벳]
 ---
-
-# Alphabet (알파벳)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 **26글자 = 자음 20개 + 모음 6개 (a, e, i, o, u, y)**
 
 대문자 · 소문자 · 필기체 모양: 프린트물 8쪽 → 단어: [[lettre]] · [[consonne]] · [[voyelle]]

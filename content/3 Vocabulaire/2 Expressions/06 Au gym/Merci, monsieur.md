@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["merci-monsieur"]
 ---
-
-# Merci, monsieur !
-
 [🔊 듣기](_Audio/merci-monsieur-a96740.m4a) · 👉 고맙습니다!
 
 **단어**: [[merci]] · [[monsieur]]

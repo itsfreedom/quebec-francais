@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# italien
-
 [🔊 italjɛ̃](_Audio/italien-19cb29.m4a) 이딸리앙
 
 **italien** · *형용사 · 남성* · 여성형 **italienne**

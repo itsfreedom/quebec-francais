@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["aujourdhui-nous-sommes-mercredi"]
 ---
-
-# Aujourd'hui, nous sommes mercredi.
-
 [🔊 듣기](_Audio/aujourd-hui-nous-sommes-mercredi-cd23a6.m4a) · 👉 오늘은 수요일이에요.
 
 **단어**: [[aujourd'hui]] · [[nous]] · [[être]] · [[mercredi|le mercredi]]

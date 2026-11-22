@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la maison"]
 ---
-
-# maison
-
 [🔊 mɛzɔ̃](_Audio/la-maison-4af588.m4a) 메종
 
 **la maison** · *명사 · 여성*

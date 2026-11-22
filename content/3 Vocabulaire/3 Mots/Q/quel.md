@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# quel
-
 [🔊 kɛl](_Audio/quel-4e1555.m4a) 껠
 
 **quel** · *한정사 · 남성* · 여성형 **quelle**

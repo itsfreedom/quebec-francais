@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# bien
-
 [🔊 bjɛ̃](_Audio/bien-67d6c2.m4a) 비앙
 
 **bien** · *부사*

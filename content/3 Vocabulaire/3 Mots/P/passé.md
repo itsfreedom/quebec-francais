@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["passe"]
 ---
-
-# passé
-
 [🔊 pɑse](_Audio/passe-764a5b.m4a) 빠쎄
 
 **passé** · *형용사 · 남성* · 여성형 **passée**

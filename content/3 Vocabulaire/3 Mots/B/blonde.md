@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la blonde"]
 ---
-
-# blonde
-
 [🔊 blɔ̃d](_Audio/la-blonde-bb1481.m4a) 블롱드
 
 **la blonde** · *명사 · 여성*

@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le plaisir"]
 ---
-
-# plaisir
-
 [🔊 plɛziʁ](_Audio/le-plaisir-a31afe.m4a) 쁠레지흐
 
 **le plaisir** · *명사 · 남성*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# fou
-
 [🔊 fu](_Audio/fou-f4f8fa.m4a) 푸
 
 **fou** · *형용사 · 남성* · 여성형 **folle**

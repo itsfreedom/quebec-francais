@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la faim"]
 ---
-
-# faim
-
 [🔊 fɛ̃](_Audio/la-faim-78b9a5.m4a) 팽
 
 **la faim** · *명사 · 여성*

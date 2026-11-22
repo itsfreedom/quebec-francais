@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le pays"]
 ---
-
-# pays
-
 [🔊 pei](_Audio/le-pays-dd007d.m4a) 뻬이
 
 **le pays** · *명사 · 남성*

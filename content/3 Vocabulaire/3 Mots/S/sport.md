@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le sport"]
 ---
-
-# sport
-
 [🔊 spɔʁ](_Audio/le-sport-c199f5.m4a) 스뽀흐
 
 **le sport** · *명사 · 남성*

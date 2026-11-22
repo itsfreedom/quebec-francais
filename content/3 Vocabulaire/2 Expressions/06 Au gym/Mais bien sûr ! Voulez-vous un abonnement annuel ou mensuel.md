@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["voulez-vous-un-abonnement-annuel"]
 ---
-
-# Mais bien sûr ! Voulez-vous un abonnement annuel ou mensuel ?
-
 [🔊 듣기](_Audio/mais-bien-sur-voulez-vous-un-abonnement--18edfe.m4a) · 👉 물론이죠! 연간 회원권을 원하세요, 월간 회원권을 원하세요?
 
 **단어**: [[bien sûr]] · [[vouloir]] · [[vous]] · [[abonnement|l'abonnement]] · [[annuel]] · [[mensuel]]

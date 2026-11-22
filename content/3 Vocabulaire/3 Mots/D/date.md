@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la date"]
 ---
-
-# date
-
 [🔊 dat](_Audio/la-date-53a318.m4a) 다뜨
 
 **la date** · *명사 · 여성*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# anglophone
-
 [🔊 ɑ̃glɔfɔn](_Audio/anglophone-7b596d.m4a) 앙글로폰
 
 **anglophone** · *형용사 · 남녀 공통*

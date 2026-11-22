@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["marie"]
 ---
-
-# marié
-
 [🔊 maʁje](_Audio/marie-e49c65.m4a) 마히에
 
 **marié** · *형용사 · 남성* · 여성형 **mariée**

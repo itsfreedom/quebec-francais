@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["zero"]
 ---
-
-# zéro
-
 [🔊 zeʁo](_Audio/zero-9b9a02.m4a) 제호
 
 **zéro** · *숫자*

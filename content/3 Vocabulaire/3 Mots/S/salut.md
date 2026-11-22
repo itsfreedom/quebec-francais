@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# salut
-
 [🔊 saly](_Audio/salut-3ed7dc.m4a) 살뤼
 
 **salut** · *감탄사*

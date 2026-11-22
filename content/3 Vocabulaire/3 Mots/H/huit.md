@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# huit
-
 [🔊 ɥit](_Audio/huit-0a753c.m4a) 위뜨
 
 **huit** · *숫자*

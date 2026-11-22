@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la signature"]
 ---
-
-# signature
-
 [🔊 siɲatyʁ](_Audio/la-signature-08256d.m4a) 씨냐뛰흐
 
 **la signature** · *명사 · 여성*

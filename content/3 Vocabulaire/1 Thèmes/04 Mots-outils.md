@@ -5,11 +5,6 @@ section: vocabulaire
 tags: [francisation, vocabulaire, theme]
 aliases: [작은 단어]
 ---
-
-# Mots-outils (작은 단어)
-
-← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
-
 문법: [[01 Articles définis|Articles définis]] · [[01 Négation|Négation]]
 
 | 단어 | 발음 | 뜻 |
@@ -30,22 +25,3 @@ aliases: [작은 단어]
 | [[sans]] | [🔊 sɑ̃](_Audio/sans-0ddd63.m4a) 쌍 | ~없이 |
 | [[tout]] | [🔊 tu](_Audio/tout-8fee03.m4a) 뚜 | 모두, 전부 |
 | [[très]] | [🔊 tʁɛ](_Audio/tres-9a2a96.m4a) 트헤 | 매우, 아주 |
-
-## 🃏 플래시카드
-
-**[[combien]]** — 얼마, 몇
-**[[de]]** — ~에서 (출신), ~의
-**[[et]]** — 그리고
-**[[exactement]]** — 정확히, 맞아요
-**[[le]] · la** — 그 (남성 정관사)
-**[[par]]** — ~마다, ~으로
-**[[pas]]** — ~아니다 (부정)
-**[[plaisir|le plaisir]]** — 기쁨
-**[[puis]]** — 그 다음에
-**[[quand]]** — 언제
-**[[que]]** — ~라는 것, 무엇
-**[[quel]] · quelle** — 어느, 무슨
-**[[rien]]** — 아무것도 (없다)
-**[[sans]]** — ~없이
-**[[tout]]** — 모두, 전부
-**[[très]]** — 매우, 아주

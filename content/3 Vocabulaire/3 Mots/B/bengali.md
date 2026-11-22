@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le bengali"]
 ---
-
-# bengali
-
 [🔊 bɛ̃ɡali](_Audio/le-bengali-e0de4e.m4a) 뱅갈리
 
 **le bengali** · *명사 · 남성*

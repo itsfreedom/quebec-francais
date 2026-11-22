@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# mon
-
 [🔊 mɔ̃](_Audio/mon-197639.m4a) 몽
 
 **mon** · *한정사 · 남성* · 여성형 **ma**

@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["ca-va-tres-bien-merci"]
 ---
-
-# Ça va très bien, merci.
-
 [🔊 듣기](_Audio/ca-va-tres-bien-merci-dad0f0.m4a) · 👉 아주 잘 지내요, 고마워요.
 
 **단어**: [[ça]] · [[aller]] · [[très]] · [[bien]] · [[merci]]

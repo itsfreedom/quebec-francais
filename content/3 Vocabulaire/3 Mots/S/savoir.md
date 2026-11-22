@@ -25,9 +25,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# savoir
-
 [🔊 savwaʁ](_Audio/savoir-68cdd2.m4a) 싸부아흐
 
 **savoir** · *동사*

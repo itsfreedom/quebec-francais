@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["age", "l'âge"]
 ---
-
-# âge
-
 [🔊 ɑʒ](_Audio/l-age-88a520.m4a) 아쥬
 
 **l'âge** · *명사 · 남성*

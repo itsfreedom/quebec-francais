@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["mon-nom-est-hiba"]
 ---
-
-# Mon nom est Hiba, H-i-b-a.
-
 [🔊 듣기](_Audio/mon-nom-est-hiba-h-i-b-a-d683bf.m4a) · 👉 내 이름은 히바예요, H-i-b-a.
 
 **단어**: [[mon]] · [[nom|le nom]] · [[être]] · [[épeler]]

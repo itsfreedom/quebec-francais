@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la rue"]
 ---
-
-# rue
-
 [🔊 ʁy](_Audio/la-rue-4759c6.m4a) 휘
 
 **la rue** · *명사 · 여성*

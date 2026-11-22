@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le courriel"]
 ---
-
-# courriel
-
 [🔊 kuʁjɛl](_Audio/le-courriel-41f315.m4a) 꾸히엘
 
 **le courriel** · *명사 · 남성*

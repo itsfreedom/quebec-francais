@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la fiche"]
 ---
-
-# fiche
-
 [🔊 fiʃ](_Audio/la-fiche-09a801.m4a) 피슈
 
 **la fiche** · *명사 · 여성*

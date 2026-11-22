@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["comment-ca-va"]
 ---
-
-# Comment ça va ?
-
 [🔊 듣기](_Audio/comment-ca-va-0b1616.m4a) · 👉 어떻게 지내요?
 
 **단어**: [[comment]] · [[ça]] · [[aller]]

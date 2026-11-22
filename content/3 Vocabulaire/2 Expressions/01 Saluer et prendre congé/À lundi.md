@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-lundi"]
 ---
-
-# À lundi !
-
 [🔊 듣기](_Audio/a-lundi-f626be.m4a) · 👉 월요일에 봐요!
 
 **단어**: [[lundi|le lundi]]

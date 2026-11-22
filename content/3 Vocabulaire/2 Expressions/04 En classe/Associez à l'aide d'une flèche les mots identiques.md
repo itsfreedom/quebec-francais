@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["associez-a-laide-dune-fleche"]
 ---
-
-# Associez à l'aide d'une flèche les mots identiques.
-
 [🔊 듣기](_Audio/associez-a-l-aide-d-une-fleche-les-mots--c5bab7.m4a) · 👉 화살표로 같은 단어끼리 연결하세요.
 
 **단어**: [[associer]] · [[aide|l'aide]] · [[de]] · [[flèche|la flèche]] · [[le]] · [[mot|le mot]] · [[identique]]

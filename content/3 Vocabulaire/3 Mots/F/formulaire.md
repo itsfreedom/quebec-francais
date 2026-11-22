@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le formulaire"]
 ---
-
-# formulaire
-
 [🔊 fɔʁmylɛʁ](_Audio/le-formulaire-0f6ad6.m4a) 포흐뮐레흐
 
 **le formulaire** · *명사 · 남성*

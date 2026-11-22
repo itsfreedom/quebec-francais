@@ -13,7 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["tu-vas-bien-et-toi"]
 ---
-
 # Tu vas bien ? Et toi ?
 
 [🔊 듣기](_Audio/tu-vas-bien-et-toi-d8828c.m4a) · 👉 잘 지내? 너는?

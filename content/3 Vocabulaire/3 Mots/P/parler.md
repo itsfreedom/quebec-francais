@@ -31,9 +31,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# parler
-
 [🔊 paʁle](_Audio/parler-4cecc2.m4a) 빠흘레
 
 **parler** · *동사*

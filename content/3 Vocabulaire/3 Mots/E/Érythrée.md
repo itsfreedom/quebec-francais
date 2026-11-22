@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["erythree", "l'Érythrée"]
 ---
-
-# Érythrée
-
 [🔊 eʁitʁe](_Audio/l-erythree-2e67b2.m4a) 에히트헤
 
 **l'Érythrée** · *명사 · 여성*

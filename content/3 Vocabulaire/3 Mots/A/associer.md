@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# associer
-
 [🔊 asosje](_Audio/associer-af8b94.m4a) 아쏘씨에
 
 **associer** · *동사*

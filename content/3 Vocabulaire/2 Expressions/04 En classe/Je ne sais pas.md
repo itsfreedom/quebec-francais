@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-ne-sais-pas"]
 ---
-
-# Je ne sais pas.
-
 [🔊 듣기](_Audio/je-ne-sais-pas-688d3e.m4a) · 👉 모르겠어요.
 
 **단어**: [[je]] · [[savoir]] · [[pas]]

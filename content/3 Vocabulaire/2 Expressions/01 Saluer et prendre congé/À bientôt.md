@@ -13,12 +13,7 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-bientot"]
 ---
-
-# À bientôt !
-
 [🔊 듣기](_Audio/a-bientot-bf476e.m4a) · 👉 곧 봐요!
-
-**단어**: —
 
 ---
 💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

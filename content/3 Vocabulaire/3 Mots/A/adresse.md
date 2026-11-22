@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'adresse"]
 ---
-
-# adresse
-
 [🔊 adʁɛs](_Audio/l-adresse-85a4ec.m4a) 아드헤스
 
 **l'adresse** · *명사 · 여성*

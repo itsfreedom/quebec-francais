@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la soif"]
 ---
-
-# soif
-
 [🔊 swaf](_Audio/la-soif-379d1d.m4a) 수아프
 
 **la soif** · *명사 · 여성*

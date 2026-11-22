@@ -8,11 +8,6 @@ section: grammaire
 tags: [francisation, grammaire]
 aliases: [Nationalites, Nationalités, 국적, 국적 형용사]
 ---
-
-# Nationalités (국적 말하기)
-
-← [[1 Grammaire/index|Grammaire]] · 처음 배운
-
 **Je suis + 국적** ([[01 Verbe être|être]]) → Je suis Coréen. / Je suis Coréenne.
 
 ## 남성형 → 여성형

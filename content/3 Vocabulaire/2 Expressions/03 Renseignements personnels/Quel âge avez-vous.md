@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["quel-age-avez-vous"]
 ---
-
-# Quel âge avez-vous ?
-
 [🔊 듣기](_Audio/quel-age-avez-vous-0b5cb9.m4a) · 👉 나이가 어떻게 되세요?
 
 **단어**: [[quel]] · [[âge|l'âge]] · [[avoir]] · [[vous]]

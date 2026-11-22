@@ -13,9 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["pouvez-vous-repeter"]
 ---
-
-# Pouvez-vous répéter, s'il vous plaît ?
-
 [🔊 듣기](_Audio/pouvez-vous-repeter-s-il-vous-plait-08e232.m4a) · 👉 다시 말해 주실 수 있어요?
 
 **단어**: [[pouvoir]] · [[vous]] · [[répéter]] · [[s'il vous plaît]]

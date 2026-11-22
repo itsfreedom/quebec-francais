@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# envoyer
-
 [🔊 ɑ̃vwaje](_Audio/envoyer-ce0b7d.m4a) 엉부아이예
 
 **envoyer** · *동사*

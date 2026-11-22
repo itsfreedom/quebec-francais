@@ -13,9 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["je-suis-coreen"]
 ---
-
-# Je suis Coréen.
-
 [🔊 듣기](_Audio/je-suis-coreen-f990f2.m4a) · 👉 나는 한국 사람이에요. (남성)
 
 **단어**: [[je]] · [[être]] · [[coréen]]

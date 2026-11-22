@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'agneau"]
 ---
-
-# agneau
-
 [🔊 aɲo](_Audio/l-agneau-43c65d.m4a) 아뇨
 
 **l'agneau** · *명사 · 남성*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# veuf
-
 [🔊 vœf](_Audio/veuf-f90b2f.m4a) 뵈프
 
 **veuf** · *형용사 · 남성* · 여성형 **veuve**

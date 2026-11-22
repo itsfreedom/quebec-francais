@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# zut
-
 [🔊 zyt](_Audio/zut-a8cd54.m4a) 쥐뜨
 
 **zut** · *감탄사*

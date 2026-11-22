@@ -8,11 +8,6 @@ section: phonetique
 tags: [francisation, phonetique]
 aliases: [Voyelles composees, Voyelles composées, 복합 모음]
 ---
-
-# Voyelles composées (복합 모음)
-
-← [[4 Phonétique/index|Phonétique]] · 처음 배운
-
 모음 두세 개가 모이면 소리 하나가 돼요.
 
 | 철자 | 소리 | 예시 |

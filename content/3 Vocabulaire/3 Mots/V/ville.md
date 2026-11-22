@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la ville"]
 ---
-
-# ville
-
 [🔊 vil](_Audio/la-ville-b4cf80.m4a) 빌
 
 **la ville** · *명사 · 여성*

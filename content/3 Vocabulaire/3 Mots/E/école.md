@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ecole", "l'école"]
 ---
-
-# école
-
 [🔊 ekɔl](_Audio/l-ecole-883194.m4a) 에꼴
 
 **l'école** · *명사 · 여성*

@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["inde", "l'Inde"]
 ---
-
-# Inde
-
 [🔊 ɛ̃d](_Audio/l-inde-5bbe79.m4a) 앵드
 
 **l'Inde** · *명사 · 여성*

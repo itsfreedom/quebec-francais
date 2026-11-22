@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# vietnamien
-
 [🔊 vjɛtnamjɛ̃](_Audio/vietnamien-866466.m4a) 비엣나미앙
 
 **vietnamien** · *형용사 · 남성* · 여성형 **vietnamienne**

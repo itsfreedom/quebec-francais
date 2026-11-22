@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la naissance"]
 ---
-
-# naissance
-
 [🔊 nɛsɑ̃s](_Audio/la-naissance-8493f9.m4a) 네쌍스
 
 **la naissance** · *명사 · 여성*

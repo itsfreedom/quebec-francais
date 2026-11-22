@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# juillet
-
 [🔊 ʒɥijɛ](_Audio/juillet-40df84.m4a) 쥐이예
 
 **juillet** · *명사 · 남성*

@@ -23,9 +23,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# comment
-
 [🔊 kɔmɑ̃](_Audio/comment-06d4cd.m4a) 꼬망
 
 **comment** · *부사*

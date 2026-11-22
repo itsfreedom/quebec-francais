@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["secretaire", "le/la secrétaire"]
 ---
-
-# secrétaire
-
 [🔊 səkʁetɛʁ](_Audio/le-la-secretaire-b63979.m4a) 스크헤떼흐
 
 **le/la secrétaire** · *명사 · 남녀 공통*

@@ -21,9 +21,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["canada", "le Canada"]
 ---
-
-# Canada
-
 [🔊 kanada](_Audio/le-canada-003914.m4a) 까나다
 
 **le Canada** · *명사 · 남성*

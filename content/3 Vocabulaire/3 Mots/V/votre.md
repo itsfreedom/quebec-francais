@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# votre
-
 [🔊 vɔtʁ](_Audio/votre-8982fd.m4a) 보트흐
 
 **votre** · *한정사 · 남녀 공통*

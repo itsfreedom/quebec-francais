@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ukraine", "l'Ukraine"]
 ---
-
-# Ukraine
-
 [🔊 ykʁɛn](_Audio/l-ukraine-ae4cdd.m4a) 위크헨
 
 **l'Ukraine** · *명사 · 여성*

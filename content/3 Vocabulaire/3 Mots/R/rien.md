@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# rien
-
 [🔊 ʁjɛ̃](_Audio/rien-8dda99.m4a) 히앙
 
 **rien** · *대명사*

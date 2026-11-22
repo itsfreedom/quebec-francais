@@ -19,9 +19,6 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-
-# dix
-
 [🔊 dis](_Audio/dix-569c81.m4a) 디스
 
 **dix** · *숫자*
