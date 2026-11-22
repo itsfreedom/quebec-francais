@@ -172,6 +172,12 @@ def transform(t):
     # 6) 이미 "문장 🔊" 모양 (볼트 새 형식): 앞의 문장을 단어로
     body = re.sub(r'(?m)^((?:# )?(?:> )?(?:\*\*[^*\n]+\*\* : )?(?:\| )?)(\*\*)?(' + PLAIN + r')(\*\*)? \[🔊\]' + LINK,
                   lambda m: f"{m.group(1)}{m.group(2) or ''}{words(m.group(3), hints) if re.search('[A-Za-zÀ-ÿ]', m.group(3)) else m.group(3)}{m.group(4) or ''} [🔊](_Audio/{m.group(5)})", body)
+    # 7) 이미 단어 링크가 된 곳: 나중에 그 모양 그대로의 소리(allez …)가 생기면 그 소리로 바꾸기
+    def up(m):
+        cands = [c for c in (fname(m.group(1)), fname(norm(m.group(1)))) if c in HAVE]
+        if not cands or m.group(2) in cands: return m.group(0)
+        return f'[{m.group(1)}](_Audio/{cands[0]} "{m.group(3)}")'
+    body = re.sub(r'\[([^\[\]\n]+)\]\(_Audio/([^)\s]+\.m4a) "([^"]*)"\)', up, body)
     return head + body
 
 if __name__ == '__main__':
