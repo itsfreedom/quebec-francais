@@ -20,25 +20,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#45484e"
+        lightgray: "#5a5e65"
+        gray: "#a3a8b0"
+        darkgray: "#e4e6e9"
+        dark: "#f5f6f7"
+        secondary: "#9cc7f0"
+        tertiary: "#b9d7a8"
+        highlight: rgba(255, 255, 255, 0.07)
+        textHighlight: "#e8c65a55"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#45484e"
+        lightgray: "#5a5e65"
+        gray: "#a3a8b0"
+        darkgray: "#e4e6e9"
+        dark: "#f5f6f7"
+        secondary: "#9cc7f0"
+        tertiary: "#b9d7a8"
+        highlight: rgba(255, 255, 255, 0.07)
+        textHighlight: "#e8c65a55"
   links:
     markdownLinkResolution: shortest
   contentIndex:
@@ -72,7 +72,7 @@ plugins:
       enableCheckbox: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -121,11 +121,13 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      title: 목차
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -138,7 +140,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -163,13 +165,13 @@ plugins:
       position: left
       priority: 10
   - source: "@quartz-community/darkmode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
       group: toolbar
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
@@ -189,7 +191,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz

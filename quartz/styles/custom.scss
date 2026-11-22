@@ -1,3 +1,61 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// 단순한 2단 화면: 왼쪽 목차(조금 더 어두운 회색) + 오른쪽 내용(중간 회색)
+:root {
+  --sidebar: #383b40;
+}
+
+.page {
+  max-width: none;
+}
+
+@media all and not ($mobile) {
+  .page > #quartz-body {
+    grid-template-columns: 300px minmax(0, 1fr);
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-footer";
+    column-gap: 0;
+    padding: 0;
+
+    & .sidebar.left {
+      background: var(--sidebar);
+      padding: 2.5rem 1.5rem 2rem 1.5rem;
+    }
+    & .sidebar.right {
+      display: none;
+    }
+    & > .page-header,
+    & > .center,
+    & > footer {
+      box-sizing: border-box;
+      width: 100%;
+      max-width: 860px;
+      min-width: 0;
+      margin: 0;
+      padding-left: 3rem;
+      padding-right: 3rem;
+    }
+  }
+}
+
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left {
+    background: var(--sidebar);
+    padding: 1rem;
+  }
+  .page > #quartz-body .sidebar.right {
+    display: none;
+  }
+}
+
+// 군더더기 줄이기: 링크 뒤 배경색 없애고 글자색만, 내용 끝 구분선 숨김
+a.internal {
+  background-color: transparent !important;
+  padding: 0 !important;
+}
+.center > hr:last-of-type,
+.page .center > hr {
+  display: none;
+}
