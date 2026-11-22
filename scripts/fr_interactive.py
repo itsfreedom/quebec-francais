@@ -58,7 +58,7 @@ for p in glob.glob(os.path.join(ROOT, '3 Vocabulaire', '3 Mots', '**', '*.md'), 
     sid = fval(fm, 'id')
     if not sid: continue
     a = re.search(r'\]\(_Audio/([^)\s]+\.m4a)\)', body)
-    WORDS[sid] = {'pos': fval(fm, 'pos') or '', 'text': fval(fm, 'text') or '', 'fem': fval(fm, 'feminine') or '', 'meaning': fval(fm, 'meaning') or [],
+    WORDS[sid] = {'path': os.path.relpath(p, ROOT).replace(os.sep, '/'), 'pos': fval(fm, 'pos') or '', 'text': fval(fm, 'text') or '', 'fem': fval(fm, 'feminine') or '', 'meaning': fval(fm, 'meaning') or [],
                   'forms': re.findall(r'^\s+- text: "?(.*?)"?$', fm, re.M), 'audio': a.group(1) if a else None}
 
 LEMMA, PHRASE = {}, {}
@@ -145,14 +145,17 @@ def segments(s, hints=()):
             out[k] = (seg, out[k+1][1], out[k+1][2])
     return out
 
+def wlink(seg, sid, f, t):
+    """단어 링크: 마우스 올리면 단어 노트 팝업, 누르면 그 모양 그대로의 소리 (#snd-파일)"""
+    return f'[{seg}](<{WORDS[sid]["path"]}#snd-{f[:-4]}> "{t}")'
 def words(text, hints=()):
-    """문장 → [단어](_Audio/소리 "뜻") …  (뜻을 모르는 단어는 글자 그대로)"""
+    """문장 → [단어](<단어 노트#snd-소리> "뜻") …  (뜻을 모르는 단어는 글자 그대로)"""
     if NAME.search(text): return text
     res = []
     for seg, sid, f in segments(text, hints):
         if sid and f:
             t = tip(sid, seg).replace('"', '”').replace('|', '/').replace(']', ')').replace('[', '(')
-            res.append(f'[{seg}](_Audio/{f} "{t}")')
+            res.append(wlink(seg, sid, f, t))
         else: res.append(seg)
     return ''.join(res)
 
@@ -187,12 +190,24 @@ def transform(t):
     # 6) 이미 "문장 🔊" 모양 (볼트 새 형식): 앞의 문장을 단어로
     body = re.sub(r'(?m)^((?:# )?(?:> )?(?:\*\*[^*\n]+\*\* : )?(?:\| )?)(\*\*)?(' + PLAIN + r')(\*\*)? \[🔊\]' + LINK,
                   lambda m: f"{m.group(1)}{m.group(2) or ''}{words(m.group(3), hints) if re.search('[A-Za-zÀ-ÿ]', m.group(3)) else m.group(3)}{m.group(4) or ''} [🔊](_Audio/{m.group(5)})", body)
-    # 7) 이미 단어 링크가 된 곳: 나중에 그 모양 그대로의 소리(allez …)가 생기면 그 소리로 바꾸기
+    # 7) 예전 모양 [단어](_Audio/소리 "뜻") → 단어 노트 링크 (마우스 올리면 단어 팝업)
+    def old(m):
+        sid = PHRASE.get(norm(m.group(1))) or lookup(m.group(1), hints)
+        if sid and norm(m.group(1)) in ("m'", "t'", "s'") and norm(WORDS[sid]['text']).startswith("s'"): return m.group(0)   # 7-1에서 동사와 합침
+        return wlink(m.group(1), sid, m.group(2), m.group(3)) if sid else m.group(0)
+    body = re.sub(r'\[([^\[\]\n]+)\]\(_Audio/([^)\s]+\.m4a) "([^"]*)"\)', old, body)
+    # 7-1) m' t' s' + 동사 → 한 단어로 (t'appelles 를 누르면 "t'appelles" 소리)
+    def eli(m):
+        text = m.group(1) + m.group(2)
+        f = next((c for c in (fname(text), fname(norm(text))) if c in HAVE), m.group(4) + '.m4a')
+        return f'[{text}](<{m.group(3)}#snd-{f[:-4]}> "{m.group(5)}")'
+    body = re.sub(r"\[([MmTtSs]')\]\((?:_Audio/[^)\s]+|<[^>]+>)(?: \"[^\"]*\")?\)\[([^\[\]\n]+)\]\(<([^>#]+\.md)#snd-([^>]+)> \"([^\"]*)\"\)", eli, body)
+    # 7-2) 나중에 그 모양 그대로의 소리(allez …)가 생기면 그 소리로
     def up(m):
         cands = [c for c in (fname(m.group(1)), fname(norm(m.group(1)))) if c in HAVE]
-        if not cands or m.group(2) in cands: return m.group(0)
-        return f'[{m.group(1)}](_Audio/{cands[0]} "{m.group(3)}")'
-    body = re.sub(r'\[([^\[\]\n]+)\]\(_Audio/([^)\s]+\.m4a) "([^"]*)"\)', up, body)
+        if not cands or m.group(3) + '.m4a' in cands: return m.group(0)
+        return f'[{m.group(1)}](<{m.group(2)}#snd-{cands[0][:-4]}> "{m.group(4)}")'
+    body = re.sub(r'\[([^\[\]\n]+)\]\(<([^>#]+\.md)#snd-([^>]+)> "([^"]*)"\)', up, body)
     # 8) 한글 발음 표기 빼기 (소리로 들으니까 · 발음기호는 그대로)
     body = strip_hangul(body)
     return head + body
