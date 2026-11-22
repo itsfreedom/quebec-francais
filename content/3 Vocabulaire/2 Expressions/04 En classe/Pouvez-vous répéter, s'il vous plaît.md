@@ -1,4 +1,5 @@
 ---
+title: "Pouvez-vous répéter, s'il vous plaît"
 type: sentence
 id: "pouvez-vous-repeter"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "다시 말해 주실 수 있어요?"
 words: ["pouvoir", "vous", "repeter", "sil-vous-plait"]
 situation: "En classe"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["pouvez-vous-repeter"]
 ---
@@ -22,5 +21,4 @@ aliases: ["pouvez-vous-repeter"]
 **단어**: [[pouvoir]] · [[vous]] · [[répéter]] · [[s'il vous plaît]]
 
 ---
-💬 상황: [[04 En classe|En classe]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/04 En classe/index|En classe]]

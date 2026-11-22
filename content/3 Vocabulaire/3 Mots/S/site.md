@@ -1,4 +1,5 @@
 ---
+title: "site"
 type: word
 id: "site"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["사이트", "장소"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le site"]
 ---
@@ -32,5 +31,4 @@ aliases: ["le site"]
 2. 장소
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

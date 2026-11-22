@@ -1,4 +1,5 @@
 ---
+title: "Consignes"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [지시문]
 
 # Consignes (지시문)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 프린트물 문제 지시문에 나오는 말이에요. 명령형 → [[04 Impératif|Impératif]]
 
@@ -53,9 +54,6 @@ aliases: [지시문]
 | [[voix\|la voix]] | [🔊 vwa](_Audio/la-voix-f44fb6.m4a) 부아 | 목소리 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[aide|l'aide]]** — 도움
 **[[associer]]** — 연결하다, 짝짓다

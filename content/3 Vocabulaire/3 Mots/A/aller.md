@@ -1,4 +1,5 @@
 ---
+title: "aller"
 type: word
 id: "aller"
 lang: "fr"
@@ -30,9 +31,7 @@ forms:
     pron_native: "부잘레"
 examples: []
 theme: "Verbes"
-lessons: ["20261118", "20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -58,5 +57,4 @@ aliases: []
 nous‿allons은 이어 읽어요 ([[01 Liaison|Liaison]]). aller + 동사원형 = 가까운 미래 ([[03 Temps verbaux|Temps verbaux]])
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

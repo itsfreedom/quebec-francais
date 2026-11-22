@@ -1,4 +1,5 @@
 ---
+title: "million"
 type: word
 id: "million"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["1 000 000"]
 forms: []
 examples: []
 theme: "Nombres"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 un million
 
 ---
-📂 주제: [[05 Nombres|Nombres]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

@@ -1,4 +1,5 @@
 ---
+title: "chocolat"
 type: word
 id: "chocolat"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["초콜릿"]
 forms: []
 examples: []
 theme: "Nourriture"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le chocolat"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le chocolat"]
 1. 초콜릿
 
 ---
-📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

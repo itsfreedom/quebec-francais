@@ -1,4 +1,5 @@
 ---
+title: "parler"
 type: word
 id: "parler"
 lang: "fr"
@@ -26,9 +27,7 @@ forms:
     pron_native: "즈 빠흘"
 examples: []
 theme: "Verbes"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -53,5 +52,4 @@ aliases: []
 -er 동사의 r은 읽지 않아요 ([[02 Lettres muettes|Lettres muettes]])
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

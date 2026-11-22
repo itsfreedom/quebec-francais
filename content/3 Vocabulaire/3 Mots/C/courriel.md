@@ -1,4 +1,5 @@
 ---
+title: "courriel"
 type: word
 id: "courriel"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["이메일"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le courriel"]
 ---
@@ -34,5 +33,4 @@ aliases: ["le courriel"]
 🍁 퀘벡에서 e-mail 대신 쓰는 말
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

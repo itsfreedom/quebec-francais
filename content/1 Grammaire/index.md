@@ -1,0 +1,42 @@
+---
+title: "Grammaire"
+type: moc
+section: grammaire
+tags: [francisation, grammaire, moc]
+aliases: [Grammaire, 문법, 문법 색인, 문법 목차]
+---
+
+# 📐 Grammaire (문법 · 목차)
+
+## 1부 · [[1 Grammaire/1 Les classes de mots/index|Les classes de mots (품사)]]
+1. [[1 Grammaire/1 Les classes de mots/1 Le verbe/index|동사 · Le verbe]]
+   1. [[01 Verbe être|être (~이다, 있다)]]
+   2. [[02 Verbe avoir|avoir (가지다) · être와 avoir 구분]]
+   3. [[03 Temps verbaux|시제: 과거 · 현재 · 가까운 미래]]
+   4. [[04 Impératif|명령법]]
+   5. [[05 Conditionnel de politesse|공손하게 말하기 (je voudrais, j'aimerais)]]
+2. [[1 Grammaire/1 Les classes de mots/2 Le nom/index|명사 · Le nom]]
+   1. [[01 Genre des noms|명사의 성 (남성 · 여성)]]
+3. [[1 Grammaire/1 Les classes de mots/3 Le déterminant/index|한정사 · Le déterminant]]
+   1. [[01 Articles définis|정관사: le, la, l', les]]
+   2. [[02 Adjectifs possessifs|소유: mon, ma, votre …]]
+   3. [[03 Quel et quelle|의문: quel, quelle]]
+4. [[1 Grammaire/1 Les classes de mots/4 Le pronom/index|대명사 · Le pronom]]
+   1. [[01 Pronoms sujets|주어 대명사: je, tu, il …]]
+   2. [[02 Tu et vous|tu와 vous: 반말 · 존댓말]]
+5. [[1 Grammaire/1 Les classes de mots/5 L'adjectif/index|형용사 · L'adjectif]]
+   1. [[01 Nationalités|국적 형용사: canadien → canadienne]]
+6. [[1 Grammaire/1 Les classes de mots/6 L'adverbe/index|부사 · L'adverbe]]
+7. [[1 Grammaire/1 Les classes de mots/7 La préposition/index|전치사 · La préposition]]
+   1. [[01 Pays et prépositions|나라와 전치사: de la Corée, du Canada]]
+8. [[1 Grammaire/1 Les classes de mots/8 La conjonction/index|접속사 · La conjonction]]
+9. [[1 Grammaire/1 Les classes de mots/9 L'interjection/index|감탄사 · L'interjection]]
+
+## 2부 · [[1 Grammaire/2 La phrase/index|La phrase (문장)]]
+1. [[01 Négation|부정문: ne … pas]]
+
+## 3부 · Le temps et la date (시간 표현)
+1. [[01 Dates et jours|날짜 · 요일 · 생년월일]]
+
+---
+다른 책: [[2 Dialogues/index|🗣 대화]] · [[3 Vocabulaire/index|📚 단어]] · [[4 Phonétique/index|🔤 발음]]

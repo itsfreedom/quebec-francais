@@ -1,4 +1,5 @@
 ---
+title: "Je suis né le 27 novembre 1974"
 type: sentence
 id: "je-suis-ne-le-27-novembre-1974"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "나는 1974년 11월 27일에 태어났어요."
 words: ["je", "etre", "novembre", "naissance"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["je-suis-ne-le-27-novembre-1974"]
 ---
@@ -22,5 +21,4 @@ aliases: ["je-suis-ne-le-27-novembre-1974"]
 **단어**: [[je]] · [[être]] · [[novembre]] · [[naissance|la naissance]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

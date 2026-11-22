@@ -1,4 +1,5 @@
 ---
+title: "Quel est votre numéro de téléphone"
 type: sentence
 id: "quel-est-votre-numero"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "전화번호가 어떻게 되세요?"
 words: ["quel", "etre", "votre", "numero", "telephone"]
 situation: "Renseignements personnels"
 dialogue: "02 Au secrétariat"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["quel-est-votre-numero"]
 ---
@@ -22,5 +21,4 @@ aliases: ["quel-est-votre-numero"]
 **단어**: [[quel]] · [[être]] · [[votre]] · [[numéro|le numéro]] · [[téléphone|le téléphone]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]] · 🗣 대화문: [[02 Au secrétariat]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]] · 🗣 대화문: [[02 Au secrétariat|Au secrétariat]]

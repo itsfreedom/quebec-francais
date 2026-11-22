@@ -1,4 +1,5 @@
 ---
+title: "Nationalités et langues"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [국적·언어]
 
 # Nationalités et langues (국적·언어)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 문법: [[01 Nationalités|Nationalités]] (canadien → canadienne) · 나라 이름: [[09 Pays du monde|Pays du monde]]
 
@@ -36,9 +37,6 @@ aliases: [국적·언어]
 | [[vietnamien]] · vietnamienne | [🔊 vjɛtnamjɛ̃](_Audio/vietnamien-866466.m4a) 비엣나미앙 | 베트남 사람, 베트남어 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[américain]] · américaine** — 미국 사람
 **[[anglais|le anglais]]** — 영어, 영국 사람

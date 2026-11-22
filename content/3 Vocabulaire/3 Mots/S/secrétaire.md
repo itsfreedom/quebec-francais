@@ -1,4 +1,5 @@
 ---
+title: "secrétaire"
 type: word
 id: "secretaire"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["비서", "사무 직원"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["secretaire", "le/la secrétaire"]
 ---
@@ -32,5 +31,4 @@ aliases: ["secretaire", "le/la secrétaire"]
 2. 사무 직원
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

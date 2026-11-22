@@ -1,17 +1,17 @@
 ---
+title: "Verbe avoir"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: grammaire
-first: "[[2026-11-20]]"
 tags: [francisation, grammaire, verbe]
 aliases: [Verbe avoir, avoir 동사, être ou avoir]
 ---
 
 # Verbe avoir (가지다, 있다)
 
-← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-20]]
+← [[1 Grammaire/index|Grammaire]] · 처음 배운
 
 [[01 Verbe être|être]]와 함께 가장 중요한 불규칙 동사예요.
 

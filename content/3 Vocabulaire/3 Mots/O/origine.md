@@ -1,4 +1,5 @@
 ---
+title: "origine"
 type: word
 id: "origine"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "le pays d'origine"
     meaning: "출신 국가"
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'origine"]
 ---
@@ -36,5 +35,4 @@ aliases: ["l'origine"]
 - **le pays d'origine** — 출신 국가
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#O|사전 O]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

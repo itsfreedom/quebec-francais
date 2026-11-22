@@ -1,4 +1,5 @@
 ---
+title: "Bon week-end"
 type: sentence
 id: "bon-week-end"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "주말 잘 보내세요!"
 words: ["bon"]
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["bon-week-end"]
 ---
@@ -22,5 +21,4 @@ aliases: ["bon-week-end"]
 **단어**: [[bon]]
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

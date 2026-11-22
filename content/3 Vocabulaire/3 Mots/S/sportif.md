@@ -1,4 +1,5 @@
 ---
+title: "sportif"
 type: word
 id: "sportif"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["운동의", "운동을 좋아하는"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -32,5 +31,4 @@ aliases: []
 2. 운동을 좋아하는
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

@@ -1,4 +1,5 @@
 ---
+title: "samedi"
 type: word
 id: "samedi"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["토요일"]
 forms: []
 examples: []
 theme: "Temps et jours"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le samedi"]
 ---
@@ -34,5 +33,4 @@ aliases: ["le samedi"]
 e는 소리 내지 않아요 ([[02 Lettres muettes|Lettres muettes]])
 
 ---
-📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

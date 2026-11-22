@@ -1,4 +1,5 @@
 ---
+title: "pile"
 type: word
 id: "pile"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["건전지", "더미"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la pile"]
 ---
@@ -32,5 +31,4 @@ aliases: ["la pile"]
 2. 더미
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

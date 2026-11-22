@@ -1,4 +1,5 @@
 ---
+title: "Bonjour, c'est pour l'inscription"
 type: sentence
 id: "cest-pour-linscription"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "안녕하세요, 등록하러 오셨어요?"
 words: ["bonjour", "etre", "inscription"]
 situation: "Renseignements personnels"
 dialogue: "02 Au secrétariat"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["cest-pour-linscription"]
 ---
@@ -22,5 +21,4 @@ aliases: ["cest-pour-linscription"]
 **단어**: [[bonjour]] · [[être]] · [[inscription|l'inscription]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]] · 🗣 대화문: [[02 Au secrétariat]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]] · 🗣 대화문: [[02 Au secrétariat|Au secrétariat]]

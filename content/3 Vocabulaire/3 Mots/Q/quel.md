@@ -1,4 +1,5 @@
 ---
+title: "quel"
 type: word
 id: "quel"
 lang: "fr"
@@ -18,9 +19,7 @@ examples:
   - text: "Quelle est votre adresse ?"
     meaning: "주소가 어떻게 되세요?"
 theme: "Mots-outils"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -40,5 +39,4 @@ aliases: []
 - **Quelle est votre adresse ?** — 주소가 어떻게 되세요?
 
 ---
-📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[00 Dictionnaire#Q|사전 Q]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#Q|사전 Q]]

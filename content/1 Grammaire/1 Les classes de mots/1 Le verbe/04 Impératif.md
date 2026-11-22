@@ -1,19 +1,17 @@
 ---
+title: "Impératif"
 type: concept
 lang: "fr"
 native: "ko"
 status: draft
 section: grammaire
-first: "[[2026-11-18]]"
 tags: [francisation, grammaire]
 aliases: [Imperatif, Impératif, 명령법]
 ---
 
 # Impératif (명령법)
 
-← [[00 Grammaire]] · 처음 나온 수업: [[2026-11-18]]
-
-> [!example] 상태: 수업에서 이름만 나왔어요. 본격적으로 배우면 보충해요.
+← [[1 Grammaire/index|Grammaire]]
 
 부탁하거나 지시할 때 써요. **주어 없이** 동사만 말해요.
 

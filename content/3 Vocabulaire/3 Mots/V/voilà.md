@@ -1,4 +1,5 @@
 ---
+title: "voilà"
 type: word
 id: "voila"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Voilà votre café !"
     meaning: "여기 커피 나왔어요!"
 theme: "Salutations"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["voila"]
 ---
@@ -40,5 +39,4 @@ aliases: ["voila"]
 oi = [wa] ([[04 Semi-consonnes|Semi-consonnes]])
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

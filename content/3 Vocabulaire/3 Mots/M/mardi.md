@@ -1,4 +1,5 @@
 ---
+title: "mardi"
 type: word
 id: "mardi"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["화요일"]
 forms: []
 examples: []
 theme: "Temps et jours"
-lessons: ["20261118", "20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le mardi"]
 ---
@@ -34,5 +33,4 @@ aliases: ["le mardi"]
 🍁 퀘벡에서는 '마르지' ([[05 Accent québécois|Accent québécois]])
 
 ---
-📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

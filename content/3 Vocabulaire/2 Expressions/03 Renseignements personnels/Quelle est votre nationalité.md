@@ -1,4 +1,5 @@
 ---
+title: "Quelle est votre nationalité"
 type: sentence
 id: "quelle-est-votre-nationalite"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "국적이 어떻게 되세요?"
 words: ["quel", "etre", "votre", "nationalite"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["quelle-est-votre-nationalite"]
 ---
@@ -22,5 +21,4 @@ aliases: ["quelle-est-votre-nationalite"]
 **단어**: [[quel]] · [[être]] · [[votre]] · [[nationalité|la nationalité]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

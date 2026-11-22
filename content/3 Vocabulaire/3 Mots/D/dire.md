@@ -1,4 +1,5 @@
 ---
+title: "dire"
 type: word
 id: "dire"
 lang: "fr"
@@ -24,9 +25,7 @@ examples:
   - text: "Comment on dit … en français ?"
     meaning: "…를 불어로 어떻게 말해요?"
 theme: "Verbes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -50,5 +49,4 @@ aliases: []
 - **Comment on dit … en français ?** — …를 불어로 어떻게 말해요?
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#D|사전 D]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

@@ -1,4 +1,5 @@
 ---
+title: "combien"
 type: word
 id: "combien"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "C'est combien ?"
     meaning: "얼마예요?"
 theme: "Mots-outils"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -37,5 +36,4 @@ aliases: []
 - **C'est combien ?** — 얼마예요?
 
 ---
-📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

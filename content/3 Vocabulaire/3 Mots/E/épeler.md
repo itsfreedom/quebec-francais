@@ -1,4 +1,5 @@
 ---
+title: "épeler"
 type: word
 id: "epeler"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "에쁠레 보트흐 프헤농"
 examples: []
 theme: "Consignes"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["epeler"]
 ---
@@ -43,5 +42,4 @@ aliases: ["epeler"]
 글자를 하나씩 불러요: H-i-b-a ([[01 Alphabet|Alphabet]])
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

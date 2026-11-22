@@ -1,4 +1,5 @@
 ---
+title: "identité"
 type: word
 id: "identite"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["신원", "정체"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["identite", "l'identité"]
 ---
@@ -32,5 +31,4 @@ aliases: ["identite", "l'identité"]
 2. 정체
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#I|사전 I]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

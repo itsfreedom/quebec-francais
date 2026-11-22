@@ -1,4 +1,5 @@
 ---
+title: "tâche"
 type: word
 id: "tache"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["일", "과제"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["tache", "la tâche"]
 ---
@@ -32,5 +31,4 @@ aliases: ["tache", "la tâche"]
 2. 과제
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#T|사전 T]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#T|사전 T]]

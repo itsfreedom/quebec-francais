@@ -1,4 +1,5 @@
 ---
+title: "tout"
 type: word
 id: "tout"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["모두", "전부"]
 forms: []
 examples: []
 theme: "Mots-outils"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -32,5 +31,4 @@ aliases: []
 2. 전부
 
 ---
-📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[00 Dictionnaire#T|사전 T]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#T|사전 T]]

@@ -1,4 +1,5 @@
 ---
+title: "Associez à l'aide d'une flèche les mots identiques"
 type: sentence
 id: "associez-a-laide-dune-fleche"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "화살표로 같은 단어끼리 연결하세요."
 words: ["associer", "aide", "de", "fleche", "le", "mot", "identique"]
 situation: "En classe"
 dialogue: ""
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["associez-a-laide-dune-fleche"]
 ---
@@ -22,5 +21,4 @@ aliases: ["associez-a-laide-dune-fleche"]
 **단어**: [[associer]] · [[aide|l'aide]] · [[de]] · [[flèche|la flèche]] · [[le]] · [[mot|le mot]] · [[identique]]
 
 ---
-💬 상황: [[04 En classe|En classe]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/04 En classe/index|En classe]]

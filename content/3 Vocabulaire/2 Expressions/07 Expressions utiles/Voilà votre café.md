@@ -1,4 +1,5 @@
 ---
+title: "Voilà votre café"
 type: sentence
 id: "voila-votre-cafe"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "여기 커피 나왔어요!"
 words: ["voila", "votre"]
 situation: "Expressions utiles"
 dialogue: ""
-lessons: ["20261118"]
 origin: "generated"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["voila-votre-cafe"]
 ---
@@ -22,5 +21,4 @@ aliases: ["voila-votre-cafe"]
 **단어**: [[voilà]] · [[votre]]
 
 ---
-💬 상황: [[07 Expressions utiles|Expressions utiles]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/07 Expressions utiles/index|Expressions utiles]]

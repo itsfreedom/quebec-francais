@@ -1,4 +1,5 @@
 ---
+title: "rue"
 type: word
 id: "rue"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["길", "거리"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261118", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la rue"]
 ---
@@ -32,5 +31,4 @@ aliases: ["la rue"]
 2. 거리
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#R|사전 R]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#R|사전 R]]

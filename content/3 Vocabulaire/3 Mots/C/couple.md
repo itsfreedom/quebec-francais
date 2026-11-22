@@ -1,4 +1,5 @@
 ---
+title: "couple"
 type: word
 id: "couple"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Je suis en couple."
     meaning: "나는 사귀는 사람이 있어요."
 theme: "État civil et famille"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le couple"]
 ---
@@ -37,5 +36,4 @@ aliases: ["le couple"]
 - **Je suis en couple.** — 나는 사귀는 사람이 있어요.
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

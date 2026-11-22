@@ -1,4 +1,5 @@
 ---
+title: "ingénieur"
 type: word
 id: "ingenieur"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["엔지니어"]
 forms: []
 examples: []
 theme: "État civil et famille"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["ingenieur", "l'ingénieur"]
 ---
@@ -31,5 +30,4 @@ aliases: ["ingenieur", "l'ingénieur"]
 1. 엔지니어
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[00 Dictionnaire#I|사전 I]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

@@ -1,4 +1,5 @@
 ---
+title: "Au revoir"
 type: sentence
 id: "au-revoir"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "안녕히 가세요 / 안녕히 계세요"
 words: []
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["au-revoir"]
 ---
@@ -22,5 +21,4 @@ aliases: ["au-revoir"]
 **단어**: —
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

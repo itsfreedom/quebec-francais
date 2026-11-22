@@ -1,4 +1,5 @@
 ---
+title: "Maroc"
 type: word
 id: "maroc"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Je viens du Maroc."
     meaning: "나는 모로코에서 왔어요."
 theme: "Pays du monde"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["maroc", "le Maroc"]
 ---
@@ -39,5 +38,4 @@ aliases: ["maroc", "le Maroc"]
 남성 국가 → du Maroc ([[01 Pays et prépositions|Pays et prépositions]])
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

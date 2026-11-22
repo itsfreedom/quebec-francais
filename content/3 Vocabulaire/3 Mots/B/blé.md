@@ -1,4 +1,5 @@
 ---
+title: "blé"
 type: word
 id: "ble"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["밀"]
 forms: []
 examples: []
 theme: "Nourriture"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["ble", "le blé"]
 ---
@@ -31,5 +30,4 @@ aliases: ["ble", "le blé"]
 1. 밀
 
 ---
-📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[00 Dictionnaire#B|사전 B]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

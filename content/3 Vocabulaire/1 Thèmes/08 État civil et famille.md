@@ -1,4 +1,5 @@
 ---
+title: "État civil et famille"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [결혼 상태·가족·직업]
 
 # État civil et famille (결혼 상태·가족·직업)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 서류의 état civil(혼인 상태) 칸에 쓰는 말과 가족·직업이에요. 남성형/여성형 → [[01 Genre des noms|Genre des noms]]
 
@@ -31,9 +32,6 @@ aliases: [결혼 상태·가족·직업]
 | [[veuf]] · veuve | [🔊 vœf](_Audio/veuf-f90b2f.m4a) 뵈프 | 배우자를 잃은 (사별한) |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[blonde|la blonde]]** — 여자친구 (퀘벡)
 **[[célibataire]]** — 미혼의, 싱글

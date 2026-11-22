@@ -1,4 +1,5 @@
 ---
+title: "anglophone"
 type: word
 id: "anglophone"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["영어를 쓰는 (사람)"]
 forms: []
 examples: []
 theme: "Personnes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -31,5 +30,4 @@ aliases: []
 1. 영어를 쓰는 (사람)
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

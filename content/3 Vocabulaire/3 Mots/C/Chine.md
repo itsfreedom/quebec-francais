@@ -1,4 +1,5 @@
 ---
+title: "Chine"
 type: word
 id: "chine"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["중국"]
 forms: []
 examples: []
 theme: "Pays du monde"
-lessons: ["20261118", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["chine", "la Chine"]
 ---
@@ -34,5 +33,4 @@ aliases: ["chine", "la Chine"]
 여성 국가라서 **de la Chine** ([[01 Pays et prépositions|Pays et prépositions]])
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

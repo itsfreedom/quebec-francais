@@ -1,4 +1,5 @@
 ---
+title: "patron"
 type: word
 id: "patron"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["사장", "상사"]
 forms: []
 examples: []
 theme: "Personnes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le patron"]
 ---
@@ -32,5 +31,4 @@ aliases: ["le patron"]
 2. 상사
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

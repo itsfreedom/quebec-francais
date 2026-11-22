@@ -1,4 +1,5 @@
 ---
+title: "espagnol"
 type: word
 id: "espagnol"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["스페인어"]
 forms: []
 examples: []
 theme: "Pays du monde"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'espagnol"]
 ---
@@ -31,5 +30,4 @@ aliases: ["l'espagnol"]
 1. 스페인어
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

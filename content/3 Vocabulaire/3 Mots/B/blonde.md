@@ -1,4 +1,5 @@
 ---
+title: "blonde"
 type: word
 id: "blonde"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "J'ai une blonde."
     meaning: "나는 여자친구가 있어요."
 theme: "État civil et famille"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la blonde"]
 ---
@@ -39,5 +38,4 @@ aliases: ["la blonde"]
 🍁 퀘벡 구어. 머리색과 상관없어요
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[00 Dictionnaire#B|사전 B]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

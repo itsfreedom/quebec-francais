@@ -1,4 +1,5 @@
 ---
+title: "dormir"
 type: word
 id: "dormir"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "일 도흐"
 examples: []
 theme: "Verbes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -40,5 +39,4 @@ aliases: []
 | il dort | [🔊 il dɔʁ](_Audio/il-dort-1258f0.m4a) 일 도흐 | 그가 자다 |
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#D|사전 D]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

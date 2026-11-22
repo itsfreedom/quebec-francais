@@ -1,4 +1,5 @@
 ---
+title: "surligner"
 type: word
 id: "surligner"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "쉬흐리녜"
 examples: []
 theme: "Consignes"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -43,5 +42,4 @@ aliases: []
 gn = [ɲ]
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

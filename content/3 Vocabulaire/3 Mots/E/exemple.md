@@ -1,4 +1,5 @@
 ---
+title: "exemple"
 type: word
 id: "exemple"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["예", "보기"]
 forms: []
 examples: []
 theme: "Consignes"
-lessons: ["20261118", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'exemple"]
 ---
@@ -35,5 +34,4 @@ aliases: ["l'exemple"]
 ex = [ɛɡz], em = [ɑ̃]
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

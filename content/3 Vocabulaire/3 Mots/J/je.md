@@ -1,4 +1,5 @@
 ---
+title: "je"
 type: word
 id: "je"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["나는"]
 forms: []
 examples: []
 theme: "Pronoms"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 모음 앞에서 j' ([[02 Élision|Élision]])
 
 ---
-📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[00 Dictionnaire#J|사전 J]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[3 Vocabulaire/3 Mots/index#J|사전 J]]

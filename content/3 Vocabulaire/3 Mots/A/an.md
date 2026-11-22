@@ -1,4 +1,5 @@
 ---
+title: "an"
 type: word
 id: "an"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "J'ai 7 ans."
     meaning: "나는 7살이에요."
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'an"]
 ---
@@ -40,5 +39,4 @@ aliases: ["l'an"]
 an = [ɑ̃] 비모음 ([[02 Voyelles nasales|Voyelles nasales]]). ans는 année(해)와 같은 뜻
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

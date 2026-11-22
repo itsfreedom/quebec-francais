@@ -1,4 +1,5 @@
 ---
+title: "Mots-outils"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [작은 단어]
 
 # Mots-outils (작은 단어)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 문법: [[01 Articles définis|Articles définis]] · [[01 Négation|Négation]]
 
@@ -31,9 +32,6 @@ aliases: [작은 단어]
 | [[très]] | [🔊 tʁɛ](_Audio/tres-9a2a96.m4a) 트헤 | 매우, 아주 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[combien]]** — 얼마, 몇
 **[[de]]** — ~에서 (출신), ~의

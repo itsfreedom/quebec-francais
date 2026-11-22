@@ -1,4 +1,5 @@
 ---
+title: "soirée"
 type: word
 id: "soiree"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Bonne soirée !"
     meaning: "좋은 저녁 보내세요!"
 theme: "Salutations"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["soiree", "la soirée"]
 ---
@@ -36,5 +35,4 @@ aliases: ["soiree", "la soirée"]
 - **Bonne soirée !** — 좋은 저녁 보내세요!
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

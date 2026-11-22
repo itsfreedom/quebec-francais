@@ -1,4 +1,5 @@
 ---
+title: "gratuit"
 type: word
 id: "gratuit"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "deux mois gratuits"
     meaning: "두 달 무료"
 theme: "Lieux et objets"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -36,5 +35,4 @@ aliases: []
 - **deux mois gratuits** — 두 달 무료
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#G|사전 G]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#G|사전 G]]

@@ -1,4 +1,5 @@
 ---
+title: "abonnement"
 type: word
 id: "abonnement"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "un abonnement annuel"
     meaning: "연간 회원권"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'abonnement"]
 ---
@@ -37,5 +36,4 @@ aliases: ["l'abonnement"]
 - **un abonnement annuel** — 연간 회원권
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

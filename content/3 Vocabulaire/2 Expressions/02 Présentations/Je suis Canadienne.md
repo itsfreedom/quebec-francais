@@ -1,4 +1,5 @@
 ---
+title: "Je suis Canadienne"
 type: sentence
 id: "je-suis-canadienne"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "나는 캐나다 사람이에요. (여성)"
 words: ["je", "etre", "canadien"]
 situation: "Présentations"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["je-suis-canadienne"]
 ---
@@ -22,5 +21,4 @@ aliases: ["je-suis-canadienne"]
 **단어**: [[je]] · [[être]] · [[canadien]]
 
 ---
-💬 상황: [[02 Présentations|Présentations]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]]

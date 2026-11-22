@@ -1,17 +1,17 @@
 ---
+title: "Liaison"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique]
 aliases: [Liaison, 리에종, 연음]
 ---
 
 # Liaison (리에종)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 [[02 Lettres muettes|원래 안 읽는 끝 자음]]도 **다음 단어가 모음이나 h로 시작하면** 이어서 읽어요.
 

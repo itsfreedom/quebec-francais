@@ -1,4 +1,5 @@
 ---
+title: "question"
 type: word
 id: "question"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["질문"]
 forms: []
 examples: []
 theme: "Consignes"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la question"]
 ---
@@ -31,5 +30,4 @@ aliases: ["la question"]
 1. 질문
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#Q|사전 Q]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#Q|사전 Q]]

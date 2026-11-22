@@ -1,4 +1,5 @@
 ---
+title: "Personnes"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [사람]
 
 # Personnes (사람)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 문법: [[01 Genre des noms|Genre des noms]]
 
@@ -25,9 +26,6 @@ aliases: [사람]
 | [[sœur\|la sœur]] | [🔊 sœʁ](_Audio/la-sur-69571e.m4a) 쐬흐 | 자매 (언니·누나·여동생) |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[ami|l'ami]] · amie** — 친구
 **[[anglophone]]** — 영어를 쓰는 (사람)

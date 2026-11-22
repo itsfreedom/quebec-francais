@@ -1,4 +1,5 @@
 ---
+title: "Pronoms"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [대명사·소유]
 
 # Pronoms (대명사·소유)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 문법: [[01 Pronoms sujets|Pronoms sujets]] · [[02 Adjectifs possessifs|Adjectifs possessifs]]
 
@@ -24,9 +25,6 @@ aliases: [대명사·소유]
 | [[vous]] | [🔊 vu](_Audio/vous-593ffa.m4a) 부 | 당신 (존댓말), 너희 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[ça]]** — 그것, 이것
 **[[ils]]** — 그들은

@@ -1,4 +1,5 @@
 ---
+title: "s'il vous plaît"
 type: word
 id: "sil-vous-plait"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["부탁합니다", "~해 주세요"]
 forms: []
 examples: []
 theme: "Salutations"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["sil-vous-plait"]
 ---
@@ -35,5 +34,4 @@ aliases: ["sil-vous-plait"]
 친한 사이에는 s'il te plaît
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

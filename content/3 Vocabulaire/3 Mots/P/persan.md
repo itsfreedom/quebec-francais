@@ -1,4 +1,5 @@
 ---
+title: "persan"
 type: word
 id: "persan"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["페르시아어 (이란어)"]
 forms: []
 examples: []
 theme: "Nationalités et langues"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le persan"]
 ---
@@ -34,5 +33,4 @@ aliases: ["le persan"]
 언어 이름은 남성 명사, 소문자: Je parle persan.
 
 ---
-📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

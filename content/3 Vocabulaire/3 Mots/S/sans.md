@@ -1,4 +1,5 @@
 ---
+title: "sans"
 type: word
 id: "sans"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["~없이"]
 forms: []
 examples: []
 theme: "Mots-outils"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -31,5 +30,4 @@ aliases: []
 1. ~없이
 
 ---
-📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

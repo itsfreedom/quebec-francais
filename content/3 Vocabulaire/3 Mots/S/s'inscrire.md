@@ -1,4 +1,5 @@
 ---
+title: "s'inscrire"
 type: word
 id: "sinscrire"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Vous souhaitez vous inscrire à un cours."
     meaning: "당신은 수업에 등록하고 싶어요."
 theme: "Formulaires et papiers"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["sinscrire"]
 ---
@@ -36,5 +35,4 @@ aliases: ["sinscrire"]
 - **Vous souhaitez vous inscrire à un cours.** — 당신은 수업에 등록하고 싶어요.
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

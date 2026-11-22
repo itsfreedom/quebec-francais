@@ -1,4 +1,5 @@
 ---
+title: "jeudi"
 type: word
 id: "jeudi"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["목요일"]
 forms: []
 examples: []
 theme: "Temps et jours"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le jeudi"]
 ---
@@ -34,5 +33,4 @@ aliases: ["le jeudi"]
 eu = [ø] ([[03 Voyelles composées|Voyelles composées]])
 
 ---
-📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[00 Dictionnaire#J|사전 J]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#J|사전 J]]

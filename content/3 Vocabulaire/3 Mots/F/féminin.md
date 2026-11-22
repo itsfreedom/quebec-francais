@@ -1,4 +1,5 @@
 ---
+title: "féminin"
 type: word
 id: "feminin"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["여성의"]
 forms: []
 examples: []
 theme: "Classe"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["feminin"]
 ---
@@ -31,5 +30,4 @@ aliases: ["feminin"]
 1. 여성의
 
 ---
-📂 주제: [[17 Classe|Classe]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[17 Classe|Classe]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

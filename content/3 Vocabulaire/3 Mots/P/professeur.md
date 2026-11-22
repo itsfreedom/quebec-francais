@@ -1,4 +1,5 @@
 ---
+title: "professeur"
 type: word
 id: "professeur"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["선생님", "교수"]
 forms: []
 examples: []
 theme: "État civil et famille"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le professeur"]
 ---
@@ -35,5 +34,4 @@ aliases: ["le professeur"]
 🍁 퀘벡에서는 여성형 professeure를 써요. 발음은 같아요
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

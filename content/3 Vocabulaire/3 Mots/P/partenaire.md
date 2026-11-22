@@ -1,4 +1,5 @@
 ---
+title: "partenaire"
 type: word
 id: "partenaire"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Demandez à votre partenaire."
     meaning: "짝에게 물어보세요."
 theme: "Consignes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le/la partenaire"]
 ---
@@ -37,5 +36,4 @@ aliases: ["le/la partenaire"]
 - **Demandez à votre partenaire.** — 짝에게 물어보세요.
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

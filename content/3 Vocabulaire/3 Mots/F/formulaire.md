@@ -1,4 +1,5 @@
 ---
+title: "formulaire"
 type: word
 id: "formulaire"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "le formulaire d'inscription"
     meaning: "등록 신청서"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le formulaire"]
 ---
@@ -37,5 +36,4 @@ aliases: ["le formulaire"]
 - **le formulaire d'inscription** — 등록 신청서
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

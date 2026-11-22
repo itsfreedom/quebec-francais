@@ -1,4 +1,5 @@
 ---
+title: "appartement"
 type: word
 id: "appartement"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["아파트 (한 세대)", "집 호수"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'appartement"]
 ---
@@ -35,5 +34,4 @@ aliases: ["l'appartement"]
 줄임말 **app.**
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

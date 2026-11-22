@@ -1,4 +1,5 @@
 ---
+title: "annuel"
 type: word
 id: "annuel"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["매년의", "연간"]
 forms: []
 examples: []
 theme: "Temps et jours"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -32,5 +31,4 @@ aliases: []
 2. 연간
 
 ---
-📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

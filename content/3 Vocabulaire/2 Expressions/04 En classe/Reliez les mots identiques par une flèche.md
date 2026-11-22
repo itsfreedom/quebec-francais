@@ -1,4 +1,5 @@
 ---
+title: "Reliez les mots identiques par une flèche"
 type: sentence
 id: "reliez-les-mots-identiques"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "같은 단어끼리 화살표로 이으세요."
 words: ["relier", "le", "mot", "identique", "fleche"]
 situation: "En classe"
 dialogue: ""
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["reliez-les-mots-identiques"]
 ---
@@ -22,5 +21,4 @@ aliases: ["reliez-les-mots-identiques"]
 **단어**: [[relier]] · [[le]] · [[mot|le mot]] · [[identique]] · [[flèche|la flèche]]
 
 ---
-💬 상황: [[04 En classe|En classe]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/04 En classe/index|En classe]]

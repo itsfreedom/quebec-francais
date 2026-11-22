@@ -1,17 +1,17 @@
 ---
+title: "Quel et quelle"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: grammaire
-first: "[[2026-11-19]]"
 tags: [francisation, grammaire]
 aliases: [Quel et quelle, Adjectifs interrogatifs, 의문형용사, quel quelle]
 ---
 
 # Quel, quelle (의문형용사: 어느, 무슨)
 
-← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-19]]
+← [[1 Grammaire/index|Grammaire]] · 처음 배운
 
 뒤에 오는 **명사의 성**에 맞춰요.
 

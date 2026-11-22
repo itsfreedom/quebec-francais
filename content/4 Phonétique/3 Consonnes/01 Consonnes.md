@@ -1,17 +1,17 @@
 ---
+title: "Consonnes"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique]
 aliases: [Consonnes, 자음]
 ---
 
 # Consonnes (자음)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 | 소리 | 예시 | 소리 | 예시 |
 |---|---|---|---|

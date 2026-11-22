@@ -1,4 +1,5 @@
 ---
+title: "ça"
 type: word
 id: "ca"
 lang: "fr"
@@ -18,9 +19,7 @@ examples:
   - text: "C'est ça !"
     meaning: "바로 그거야!"
 theme: "Pronoms"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["ca"]
 ---
@@ -43,5 +42,4 @@ aliases: ["ca"]
 ç = 항상 [s] ([[02 Accents|C cédille]])
 
 ---
-📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

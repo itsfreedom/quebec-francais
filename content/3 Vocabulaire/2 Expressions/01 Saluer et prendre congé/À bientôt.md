@@ -1,4 +1,5 @@
 ---
+title: "À bientôt"
 type: sentence
 id: "a-bientot"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "곧 봐요!"
 words: []
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["a-bientot"]
 ---
@@ -22,5 +21,4 @@ aliases: ["a-bientot"]
 **단어**: —
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

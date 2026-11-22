@@ -1,4 +1,5 @@
 ---
+title: "Je suis Coréen"
 type: sentence
 id: "je-suis-coreen"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "나는 한국 사람이에요. (남성)"
 words: ["je", "etre", "coreen"]
 situation: "Présentations"
 dialogue: ""
-lessons: ["20261120"]
 origin: "generated"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["je-suis-coreen"]
 ---
@@ -22,5 +21,4 @@ aliases: ["je-suis-coreen"]
 **단어**: [[je]] · [[être]] · [[coréen]]
 
 ---
-💬 상황: [[02 Présentations|Présentations]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]]

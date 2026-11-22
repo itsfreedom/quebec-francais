@@ -1,4 +1,5 @@
 ---
+title: "drôle"
 type: word
 id: "drole"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["웃긴", "재미있는"]
 forms: []
 examples: []
 theme: "Adjectifs"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["drole"]
 ---
@@ -32,5 +31,4 @@ aliases: ["drole"]
 2. 재미있는
 
 ---
-📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[00 Dictionnaire#D|사전 D]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

@@ -1,17 +1,17 @@
 ---
+title: "Tu et vous"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: grammaire
-first: "[[2026-11-19]]"
 tags: [francisation, grammaire]
 aliases: [Tu et vous, tu vous, 반말 존댓말, informel formel]
 ---
 
 # Tu et vous (반말과 존댓말)
 
-← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-19]]
+← [[1 Grammaire/index|Grammaire]] · 처음 배운
 
 - **[[tu]] = informel (반말)**: 친구, 가족, 아이에게
 - **[[vous]] = formel (존댓말)**: 처음 보는 사람, 직원, 선생님에게
@@ -31,7 +31,7 @@ aliases: [Tu et vous, tu vous, 반말 존댓말, informel formel]
 2. 동사 형태: viens → **venez**, as → **avez** ([[venir]], [[avoir]])
 
 ## 존댓말 단계 (formel → informel)
-같은 질문도 만드는 방법에 따라 격식이 달라요. ([[2026-11-20]])
+같은 질문도 만드는 방법에 따라 격식이 달라요.
 
 | 단계 | 모양 | 예 |
 |---|---|---|
@@ -43,6 +43,6 @@ aliases: [Tu et vous, tu vous, 반말 존댓말, informel formel]
 > [!tip] 사무실·서류 작성처럼 격식 있는 자리에서는 **Quel est votre … ?**, **Êtes-vous … ?** 형태가 가장 안전해요.
 
 ## 인사에서
-같은 구분이 인사에도 있어요: Comment **vas-tu** ? (반말) / Comment **allez-vous** ? (존댓말) → [[01 Saluer et prendre congé|Saluer et prendre congé]]
+같은 구분이 인사에도 있어요: Comment **vas-tu** ? (반말) / Comment **allez-vous** ? (존댓말) → [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]
 
-관련: [[01 Pronoms sujets|Pronoms sujets]] · [[03 Quel et quelle|Quel et quelle]] · 대화문: [[02 Au secrétariat]]
+관련: [[01 Pronoms sujets|Pronoms sujets]] · [[03 Quel et quelle|Quel et quelle]] · 대화문: [[02 Au secrétariat|Au secrétariat]]

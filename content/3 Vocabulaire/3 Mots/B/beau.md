@@ -1,4 +1,5 @@
 ---
+title: "beau"
 type: word
 id: "beau"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "une belle maison"
     meaning: "예쁜 집"
 theme: "Lieux et objets"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -40,5 +39,4 @@ aliases: []
 여성형 belle [bɛl] 벨
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#B|사전 B]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

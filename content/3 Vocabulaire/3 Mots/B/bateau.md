@@ -1,4 +1,5 @@
 ---
+title: "bateau"
 type: word
 id: "bateau"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["배"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le bateau"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le bateau"]
 1. 배
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#B|사전 B]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

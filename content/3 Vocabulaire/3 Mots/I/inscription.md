@@ -1,4 +1,5 @@
 ---
+title: "inscription"
 type: word
 id: "inscription"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "C'est pour l'inscription ?"
     meaning: "등록하러 오셨어요?"
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'inscription"]
 ---
@@ -36,5 +35,4 @@ aliases: ["l'inscription"]
 - **C'est pour l'inscription ?** — 등록하러 오셨어요?
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#I|사전 I]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

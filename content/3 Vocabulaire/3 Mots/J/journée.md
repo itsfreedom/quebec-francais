@@ -1,4 +1,5 @@
 ---
+title: "journée"
 type: word
 id: "journee"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Bonne journée !"
     meaning: "좋은 하루 보내세요!"
 theme: "Salutations"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["journee", "la journée"]
 ---
@@ -37,5 +36,4 @@ aliases: ["journee", "la journée"]
 - **Bonne journée !** — 좋은 하루 보내세요!
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#J|사전 J]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#J|사전 J]]

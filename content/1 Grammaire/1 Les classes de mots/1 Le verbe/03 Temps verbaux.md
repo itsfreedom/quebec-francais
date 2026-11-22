@@ -1,17 +1,17 @@
 ---
+title: "Temps verbaux"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: grammaire
-first: "[[2026-11-18]]"
 tags: [francisation, grammaire]
 aliases: [Temps verbaux, 시제, 과거 현재 미래]
 ---
 
 # Temps verbaux (시제 기초)
 
-← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-18]]
+← [[1 Grammaire/index|Grammaire]] · 처음 배운
 
 | 시제 | 만드는 법 | 예 |
 |---|---|---|

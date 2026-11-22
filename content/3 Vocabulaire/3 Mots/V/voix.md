@@ -1,4 +1,5 @@
 ---
+title: "voix"
 type: word
 id: "voix"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "à voix haute"
     meaning: "소리 내어"
 theme: "Consignes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la voix"]
 ---
@@ -39,5 +38,4 @@ aliases: ["la voix"]
 끝 x 묵음 ([[02 Lettres muettes|Lettres muettes]])
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

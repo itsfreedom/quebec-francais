@@ -1,4 +1,5 @@
 ---
+title: "Corée"
 type: word
 id: "coree"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Je viens de la Corée."
     meaning: "나는 한국에서 왔어요."
 theme: "Pays du monde"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["coree", "la Corée"]
 ---
@@ -36,5 +35,4 @@ aliases: ["coree", "la Corée"]
 - **Je viens de la Corée.** — 나는 한국에서 왔어요.
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

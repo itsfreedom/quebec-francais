@@ -1,4 +1,5 @@
 ---
+title: "nous"
 type: word
 id: "nous"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["우리는"]
 forms: []
 examples: []
 theme: "Pronoms"
-lessons: ["20261118", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 끝 s 묵음, 모음 앞에서 [z] 리에종 ([[01 Liaison|Liaison]])
 
 ---
-📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[00 Dictionnaire#N|사전 N]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

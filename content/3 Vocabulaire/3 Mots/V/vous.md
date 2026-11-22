@@ -1,4 +1,5 @@
 ---
+title: "vous"
 type: word
 id: "vous"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Et vous ?"
     meaning: "당신은요?"
 theme: "Pronoms"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -40,5 +39,4 @@ aliases: []
 모음 앞에서 [z] 리에종: vous‿avez ([[01 Liaison|Liaison]])
 
 ---
-📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

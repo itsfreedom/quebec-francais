@@ -1,4 +1,5 @@
 ---
+title: "œuf"
 type: word
 id: "oeuf"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["달걀"]
 forms: []
 examples: []
 theme: "Nourriture"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["oeuf", "l'œuf"]
 ---
@@ -31,5 +30,4 @@ aliases: ["oeuf", "l'œuf"]
 1. 달걀
 
 ---
-📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[00 Dictionnaire#O|사전 O]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

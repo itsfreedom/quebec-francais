@@ -1,4 +1,5 @@
 ---
+title: "Je suis à Montréal"
 type: sentence
 id: "je-suis-a-montreal"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "나는 몬트리올에 있어요."
 words: ["je", "etre"]
 situation: "Présentations"
 dialogue: ""
-lessons: ["20261118"]
 origin: "generated"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["je-suis-a-montreal"]
 ---
@@ -22,5 +21,4 @@ aliases: ["je-suis-a-montreal"]
 **단어**: [[je]] · [[être]]
 
 ---
-💬 상황: [[02 Présentations|Présentations]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]]

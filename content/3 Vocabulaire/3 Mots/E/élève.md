@@ -1,4 +1,5 @@
 ---
+title: "élève"
 type: word
 id: "eleve"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Nom de l'élève"
     meaning: "학생 이름"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["eleve", "l'élève"]
 ---
@@ -36,5 +35,4 @@ aliases: ["eleve", "l'élève"]
 - **Nom de l'élève** — 학생 이름
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

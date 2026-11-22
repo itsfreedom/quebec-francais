@@ -1,4 +1,5 @@
 ---
+title: "Non, merci"
 type: sentence
 id: "non-merci"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "아니요, 괜찮아요."
 words: ["non"]
 situation: "Expressions utiles"
 dialogue: ""
-lessons: ["20261118"]
 origin: "generated"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["non-merci"]
 ---
@@ -22,5 +21,4 @@ aliases: ["non-merci"]
 **단어**: [[non]]
 
 ---
-💬 상황: [[07 Expressions utiles|Expressions utiles]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/07 Expressions utiles/index|Expressions utiles]]

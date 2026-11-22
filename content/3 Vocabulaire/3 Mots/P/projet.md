@@ -1,4 +1,5 @@
 ---
+title: "projet"
 type: word
 id: "projet"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["프로젝트", "계획"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le projet"]
 ---
@@ -32,5 +31,4 @@ aliases: ["le projet"]
 2. 계획
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

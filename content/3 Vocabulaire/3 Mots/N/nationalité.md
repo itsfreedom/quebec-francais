@@ -1,4 +1,5 @@
 ---
+title: "nationalité"
 type: word
 id: "nationalite"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Quelle est votre nationalité ?"
     meaning: "국적이 어떻게 되세요?"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["nationalite", "la nationalité"]
 ---
@@ -39,5 +38,4 @@ aliases: ["nationalite", "la nationalité"]
 -tion·-tio의 t = [s] → [[01 Nationalités|Nationalités]]
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#N|사전 N]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

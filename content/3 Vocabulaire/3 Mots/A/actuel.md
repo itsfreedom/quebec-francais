@@ -1,4 +1,5 @@
 ---
+title: "actuel"
 type: word
 id: "actuel"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "l'adresse actuelle"
     meaning: "현재 주소"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -39,5 +38,4 @@ aliases: []
 '실제의'가 아니라 '지금의'라는 뜻
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

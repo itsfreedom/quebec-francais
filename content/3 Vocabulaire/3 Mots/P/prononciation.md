@@ -1,4 +1,5 @@
 ---
+title: "prononciation"
 type: word
 id: "prononciation"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["발음"]
 forms: []
 examples: []
 theme: "Consignes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la prononciation"]
 ---
@@ -34,5 +33,4 @@ aliases: ["la prononciation"]
 -tion = [sjɔ̃]
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

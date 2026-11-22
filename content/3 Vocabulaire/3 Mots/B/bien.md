@@ -1,4 +1,5 @@
 ---
+title: "bien"
 type: word
 id: "bien"
 lang: "fr"
@@ -18,9 +19,7 @@ examples:
   - text: "Très bien !"
     meaning: "아주 좋아요!"
 theme: "Salutations"
-lessons: ["20261118", "20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -43,5 +42,4 @@ aliases: []
 i = [j] ([[04 Semi-consonnes|반자음]]), -ien = [ɛ̃] ([[02 Voyelles nasales|Voyelles nasales]])
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#B|사전 B]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

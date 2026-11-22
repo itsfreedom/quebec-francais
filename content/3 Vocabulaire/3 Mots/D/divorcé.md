@@ -1,4 +1,5 @@
 ---
+title: "divorcé"
 type: word
 id: "divorce"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["이혼한"]
 forms: []
 examples: []
 theme: "État civil et famille"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["divorce"]
 ---
@@ -31,5 +30,4 @@ aliases: ["divorce"]
 1. 이혼한
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[00 Dictionnaire#D|사전 D]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

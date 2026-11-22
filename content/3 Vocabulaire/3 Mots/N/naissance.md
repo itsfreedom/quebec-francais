@@ -1,4 +1,5 @@
 ---
+title: "naissance"
 type: word
 id: "naissance"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "la date de naissance"
     meaning: "생년월일"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la naissance"]
 ---
@@ -40,5 +39,4 @@ aliases: ["la naissance"]
 ss = [s], an = [ɑ̃] ([[02 Voyelles nasales|Voyelles nasales]]) · 날짜 쓰는 법 → [[01 Dates et jours|Dates et jours]]
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#N|사전 N]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

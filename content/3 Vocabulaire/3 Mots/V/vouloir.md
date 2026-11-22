@@ -1,4 +1,5 @@
 ---
+title: "vouloir"
 type: word
 id: "vouloir"
 lang: "fr"
@@ -22,9 +23,7 @@ forms:
     pron_native: "싸 뵈 디흐"
 examples: []
 theme: "Verbes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -45,5 +44,4 @@ aliases: []
 | ça veut dire | [🔊 sa vø diʁ](_Audio/ca-veut-dire-8add37.m4a) 싸 뵈 디흐 | 그건 ~라는 뜻이다 |
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

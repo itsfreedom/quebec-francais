@@ -1,4 +1,5 @@
 ---
+title: "Comment vas-tu"
 type: sentence
 id: "comment-vas-tu"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "어떻게 지내? (반말)"
 words: ["comment", "aller", "tu"]
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["comment-vas-tu"]
 ---
@@ -22,5 +21,4 @@ aliases: ["comment-vas-tu"]
 **단어**: [[comment]] · [[aller]] · [[tu]]
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

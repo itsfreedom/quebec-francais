@@ -1,4 +1,5 @@
 ---
+title: "identique"
 type: word
 id: "identique"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["똑같은"]
 forms: []
 examples: []
 theme: "Consignes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 en = [ɑ̃] ([[02 Voyelles nasales|Voyelles nasales]]), qu = [k]
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#I|사전 I]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

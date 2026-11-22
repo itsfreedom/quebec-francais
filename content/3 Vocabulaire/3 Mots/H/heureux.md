@@ -1,4 +1,5 @@
 ---
+title: "heureux"
 type: word
 id: "heureux"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["행복한"]
 forms: []
 examples: []
 theme: "Adjectifs"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -31,5 +30,4 @@ aliases: []
 1. 행복한
 
 ---
-📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[00 Dictionnaire#H|사전 H]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#H|사전 H]]

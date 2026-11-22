@@ -1,4 +1,5 @@
 ---
+title: "plaisir"
 type: word
 id: "plaisir"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Avec plaisir !"
     meaning: "기꺼이요!"
 theme: "Mots-outils"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le plaisir"]
 ---
@@ -36,5 +35,4 @@ aliases: ["le plaisir"]
 - **Avec plaisir !** — 기꺼이요!
 
 ---
-📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

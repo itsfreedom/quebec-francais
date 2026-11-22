@@ -1,4 +1,5 @@
 ---
+title: "Quel âge as-tu"
 type: sentence
 id: "quel-age-as-tu"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "몇 살이야?"
 words: ["quel", "age", "avoir", "tu"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["quel-age-as-tu"]
 ---
@@ -22,5 +21,4 @@ aliases: ["quel-age-as-tu"]
 **단어**: [[quel]] · [[âge|l'âge]] · [[avoir]] · [[tu]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

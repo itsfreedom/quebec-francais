@@ -1,4 +1,5 @@
 ---
+title: "Quel est votre nom"
 type: sentence
 id: "quel-est-votre-nom"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "이름이 어떻게 되세요?"
 words: ["quel", "etre", "votre", "nom"]
 situation: "Renseignements personnels"
 dialogue: "02 Au secrétariat"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["quel-est-votre-nom"]
 ---
@@ -22,5 +21,4 @@ aliases: ["quel-est-votre-nom"]
 **단어**: [[quel]] · [[être]] · [[votre]] · [[nom|le nom]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]] · 🗣 대화문: [[02 Au secrétariat]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]] · 🗣 대화문: [[02 Au secrétariat|Au secrétariat]]

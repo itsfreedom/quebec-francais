@@ -1,4 +1,5 @@
 ---
+title: "signature"
 type: word
 id: "signature"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["서명"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la signature"]
 ---
@@ -34,5 +33,4 @@ aliases: ["la signature"]
 gn = [ɲ] ([[01 Consonnes|Consonnes]])
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

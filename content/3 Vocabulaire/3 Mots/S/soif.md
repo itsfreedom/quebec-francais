@@ -1,4 +1,5 @@
 ---
+title: "soif"
 type: word
 id: "soif"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Tu as soif ?"
     meaning: "목말라?"
 theme: "Expressions avec avoir"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la soif"]
 ---
@@ -39,5 +38,4 @@ aliases: ["la soif"]
 avoir soif = 목마르다 ([[02 Verbe avoir|Verbe avoir]])
 
 ---
-📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

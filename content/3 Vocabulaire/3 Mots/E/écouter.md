@@ -1,4 +1,5 @@
 ---
+title: "écouter"
 type: word
 id: "ecouter"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "에꾸떼"
 examples: []
 theme: "Consignes"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["ecouter"]
 ---
@@ -43,5 +42,4 @@ aliases: ["ecouter"]
 명령형 → [[04 Impératif|Impératif]]
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

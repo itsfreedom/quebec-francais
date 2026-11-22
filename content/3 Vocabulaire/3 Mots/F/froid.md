@@ -1,4 +1,5 @@
 ---
+title: "froid"
 type: word
 id: "froid"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Tu as froid ?"
     meaning: "추워?"
 theme: "Expressions avec avoir"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le froid"]
 ---
@@ -39,5 +38,4 @@ aliases: ["le froid"]
 avoir froid = 춥다 ([[02 Verbe avoir|Verbe avoir]]) · 끝 d 묵음
 
 ---
-📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

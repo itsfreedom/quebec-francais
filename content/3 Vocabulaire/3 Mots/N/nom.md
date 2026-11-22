@@ -1,4 +1,5 @@
 ---
+title: "nom"
 type: word
 id: "nom"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["이름"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le nom"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le nom"]
 1. 이름
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#N|사전 N]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

@@ -1,4 +1,5 @@
 ---
+title: "rien"
 type: word
 id: "rien"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["아무것도 (없다)"]
 forms: []
 examples: []
 theme: "Mots-outils"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -31,5 +30,4 @@ aliases: []
 1. 아무것도 (없다)
 
 ---
-📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[00 Dictionnaire#R|사전 R]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#R|사전 R]]

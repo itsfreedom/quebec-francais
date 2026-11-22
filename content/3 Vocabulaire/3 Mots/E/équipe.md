@@ -1,4 +1,5 @@
 ---
+title: "équipe"
 type: word
 id: "equipe"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "en équipe de deux"
     meaning: "두 명씩 짝지어"
 theme: "Consignes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["equipe", "l'équipe"]
 ---
@@ -37,5 +36,4 @@ aliases: ["equipe", "l'équipe"]
 - **en équipe de deux** — 두 명씩 짝지어
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

@@ -1,4 +1,5 @@
 ---
+title: "venir"
 type: word
 id: "venir"
 lang: "fr"
@@ -30,9 +31,7 @@ forms:
     pron_native: "브네 부"
 examples: []
 theme: "Verbes"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -58,5 +57,4 @@ aliases: []
 출신 말하기: venir de + 나라 ([[01 Pays et prépositions|Pays et prépositions]])
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

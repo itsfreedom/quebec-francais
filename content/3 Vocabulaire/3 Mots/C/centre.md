@@ -1,4 +1,5 @@
 ---
+title: "centre"
 type: word
 id: "centre"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "le centre sportif"
     meaning: "스포츠 센터"
 theme: "Lieux et objets"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le centre"]
 ---
@@ -37,5 +36,4 @@ aliases: ["le centre"]
 - **le centre sportif** — 스포츠 센터
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

@@ -1,4 +1,5 @@
 ---
+title: "toi"
 type: word
 id: "toi"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Et toi ?"
     meaning: "너는?"
 theme: "Salutations"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -39,5 +38,4 @@ aliases: []
 🍁 구어에서 '또에'로 들리기도 해요 ([[05 Accent québécois|Accent québécois]])
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#T|사전 T]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#T|사전 T]]

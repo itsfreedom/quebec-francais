@@ -1,4 +1,5 @@
 ---
+title: "Je ne comprends pas"
 type: sentence
 id: "je-ne-comprends-pas"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "이해가 안 돼요."
 words: ["je", "comprendre", "pas"]
 situation: "En classe"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["je-ne-comprends-pas"]
 ---
@@ -22,5 +21,4 @@ aliases: ["je-ne-comprends-pas"]
 **단어**: [[je]] · [[comprendre]] · [[pas]]
 
 ---
-💬 상황: [[04 En classe|En classe]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/04 En classe/index|En classe]]

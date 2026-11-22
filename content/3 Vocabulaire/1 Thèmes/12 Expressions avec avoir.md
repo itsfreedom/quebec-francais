@@ -1,4 +1,5 @@
 ---
+title: "Expressions avec avoir"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [avoir 표현]
 
 # Expressions avec avoir (avoir 표현)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 불어는 배고픔·목마름·무서움·추위·나이를 **avoir**(가지다)로 말해요 → [[02 Verbe avoir|Verbe avoir]]
 
@@ -20,9 +21,6 @@ aliases: [avoir 표현]
 | [[soif\|la soif]] | [🔊 swaf](_Audio/la-soif-379d1d.m4a) 수아프 | 목마름 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[faim|la faim]]** — 배고픔
 **[[froid|le froid]]** — 추위

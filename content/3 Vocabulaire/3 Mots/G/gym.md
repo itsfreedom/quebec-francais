@@ -1,4 +1,5 @@
 ---
+title: "gym"
 type: word
 id: "gym"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "m'abonner au gym"
     meaning: "헬스장 등록하기"
 theme: "Lieux et objets"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le gym"]
 ---
@@ -39,5 +38,4 @@ aliases: ["le gym"]
 🍁 퀘벡에서는 le gym
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#G|사전 G]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#G|사전 G]]

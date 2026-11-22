@@ -1,4 +1,5 @@
 ---
+title: "nombre"
 type: word
 id: "nombre"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["수"]
 forms: []
 examples: []
 theme: "Nombres"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le nombre"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le nombre"]
 1. 수
 
 ---
-📂 주제: [[05 Nombres|Nombres]] · 🔤 [[00 Dictionnaire#N|사전 N]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

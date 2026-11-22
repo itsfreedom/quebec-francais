@@ -1,4 +1,5 @@
 ---
+title: "Quelle langue vous parlez"
 type: sentence
 id: "quelle-langue-vous-parlez"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "어떤 언어를 하세요?"
 words: ["quel", "langue", "vous", "parler"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["quelle-langue-vous-parlez"]
 ---
@@ -22,5 +21,4 @@ aliases: ["quelle-langue-vous-parlez"]
 **단어**: [[quel]] · [[langue|la langue]] · [[vous]] · [[parler]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

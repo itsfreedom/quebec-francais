@@ -1,4 +1,5 @@
 ---
+title: "arabe"
 type: word
 id: "arabe"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["아랍어"]
 forms: []
 examples: []
 theme: "Pays du monde"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'arabe"]
 ---
@@ -31,5 +30,4 @@ aliases: ["l'arabe"]
 1. 아랍어
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

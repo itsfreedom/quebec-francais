@@ -1,4 +1,5 @@
 ---
+title: "avenue"
 type: word
 id: "avenue"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["대로", "~가(街)"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'avenue"]
 ---
@@ -35,5 +34,4 @@ aliases: ["l'avenue"]
 줄임말 **av.**
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

@@ -1,4 +1,5 @@
 ---
+title: "pouvoir"
 type: word
 id: "pouvoir"
 lang: "fr"
@@ -22,9 +23,7 @@ forms:
     pron_native: "뿌베 부"
 examples: []
 theme: "Verbes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -45,5 +44,4 @@ aliases: []
 | pouvez-vous ? | [🔊 puve vu](_Audio/pouvez-vous-f918cc.m4a) 뿌베 부 | 해 주실 수 있어요? |
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

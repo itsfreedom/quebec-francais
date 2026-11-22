@@ -1,4 +1,5 @@
 ---
+title: "Pays du monde"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [나라]
 
 # Pays du monde (나라)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 문법: [[01 Pays et prépositions|Pays et prépositions]] (de la Corée, du Canada, de l'Inde)
 
@@ -26,9 +27,6 @@ aliases: [나라]
 | [[Ukraine\|l'Ukraine]] | [🔊 ykʁɛn](_Audio/l-ukraine-ae4cdd.m4a) 위크헨 | 우크라이나 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[arabe|l'arabe]]** — 아랍어
 **[[Chili|le Chili]]** — 칠레

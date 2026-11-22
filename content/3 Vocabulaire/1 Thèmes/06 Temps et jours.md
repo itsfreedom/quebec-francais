@@ -1,4 +1,5 @@
 ---
+title: "Temps et jours"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [시간·날]
 
 # Temps et jours (시간·날)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 문법: [[01 Dates et jours|Dates et jours]] · [[03 Temps verbaux|Temps verbaux]]
 
@@ -41,9 +42,6 @@ aliases: [시간·날]
 | [[vendredi\|le vendredi]] | [🔊 vɑ̃dʁədi](_Audio/le-vendredi-a8ed86.m4a) 벙드흐디 | 금요일 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[année|l'année]]** — 해, 년
 **[[annuel]] · annuelle** — 매년의, 연간

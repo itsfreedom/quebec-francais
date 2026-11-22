@@ -1,4 +1,5 @@
 ---
+title: "âge"
 type: word
 id: "age"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Quel âge avez-vous ?"
     meaning: "몇 살이에요?"
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["age", "l'âge"]
 ---
@@ -39,5 +38,4 @@ aliases: ["age", "l'âge"]
 나이는 avoir로 말해요: J'ai 54 ans ([[avoir]])
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

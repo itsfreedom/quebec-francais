@@ -1,4 +1,5 @@
 ---
+title: "À toute à l'heure"
 type: sentence
 id: "a-toute-a-lheure"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "조금 이따 봐요!"
 words: []
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["a-toute-a-lheure"]
 ---
@@ -22,5 +21,4 @@ aliases: ["a-toute-a-lheure"]
 **단어**: —
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

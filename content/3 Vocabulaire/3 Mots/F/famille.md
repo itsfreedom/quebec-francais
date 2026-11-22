@@ -1,4 +1,5 @@
 ---
+title: "famille"
 type: word
 id: "famille"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "le nom de famille"
     meaning: "성"
 theme: "Formulaires et papiers"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la famille"]
 ---
@@ -39,5 +38,4 @@ aliases: ["la famille"]
 ille = [ij] ([[03 Voyelles composées|Voyelles composées]])
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

@@ -1,4 +1,5 @@
 ---
+title: "que"
 type: word
 id: "que"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["~라는 것", "무엇"]
 forms: []
 examples: []
 theme: "Mots-outils"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -35,5 +34,4 @@ aliases: []
 모음 앞에서 qu' ([[02 Élision|Élision]])
 
 ---
-📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[00 Dictionnaire#Q|사전 Q]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#Q|사전 Q]]

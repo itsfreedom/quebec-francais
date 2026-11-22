@@ -1,4 +1,5 @@
 ---
+title: "école"
 type: word
 id: "ecole"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "une école de langue"
     meaning: "어학원"
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["ecole", "l'école"]
 ---
@@ -36,5 +35,4 @@ aliases: ["ecole", "l'école"]
 - **une école de langue** — 어학원
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

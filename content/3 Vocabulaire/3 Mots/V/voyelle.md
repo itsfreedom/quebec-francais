@@ -1,4 +1,5 @@
 ---
+title: "voyelle"
 type: word
 id: "voyelle"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["모음"]
 forms: []
 examples: []
 theme: "Classe"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la voyelle"]
 ---
@@ -31,5 +30,4 @@ aliases: ["la voyelle"]
 1. 모음
 
 ---
-📂 주제: [[17 Classe|Classe]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[17 Classe|Classe]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

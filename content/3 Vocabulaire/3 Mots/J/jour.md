@@ -1,4 +1,5 @@
 ---
+title: "jour"
 type: word
 id: "jour"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["날", "일"]
 forms: []
 examples: []
 theme: "Temps et jours"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le jour"]
 ---
@@ -32,5 +31,4 @@ aliases: ["le jour"]
 2. 일
 
 ---
-📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[00 Dictionnaire#J|사전 J]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#J|사전 J]]

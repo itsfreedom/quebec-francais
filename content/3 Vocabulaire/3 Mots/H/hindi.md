@@ -1,4 +1,5 @@
 ---
+title: "hindi"
 type: word
 id: "hindi"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["힌디어"]
 forms: []
 examples: []
 theme: "Nationalités et langues"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le hindi"]
 ---
@@ -34,5 +33,4 @@ aliases: ["le hindi"]
 언어 이름은 남성 명사, 소문자: Je parle hindi.
 
 ---
-📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[00 Dictionnaire#H|사전 H]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[3 Vocabulaire/3 Mots/index#H|사전 H]]

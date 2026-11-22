@@ -1,4 +1,5 @@
 ---
+title: "Salut, ça va"
 type: sentence
 id: "salut-ca-va"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "안녕, 잘 지내?"
 words: ["salut", "ca", "aller"]
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261118"]
 origin: "generated"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["salut-ca-va"]
 ---
@@ -22,5 +21,4 @@ aliases: ["salut-ca-va"]
 **단어**: [[salut]] · [[ça]] · [[aller]]
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

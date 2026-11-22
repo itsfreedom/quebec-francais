@@ -1,4 +1,5 @@
 ---
+title: "Canada"
 type: word
 id: "canada"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Je viens du Canada."
     meaning: "나는 캐나다에서 왔어요."
 theme: "Nationalités et langues"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["canada", "le Canada"]
 ---
@@ -39,5 +38,4 @@ aliases: ["canada", "le Canada"]
 남성 국가 → du Canada ([[01 Pays et prépositions|Pays et prépositions]])
 
 ---
-📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

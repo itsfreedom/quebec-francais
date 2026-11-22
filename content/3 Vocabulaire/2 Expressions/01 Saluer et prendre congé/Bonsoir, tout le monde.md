@@ -1,4 +1,5 @@
 ---
+title: "Bonsoir, tout le monde"
 type: sentence
 id: "bonsoir-tout-le-monde"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "모두들 안녕하세요 (저녁)"
 words: ["bonsoir", "tout", "le"]
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261118"]
 origin: "generated"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["bonsoir-tout-le-monde"]
 ---
@@ -22,5 +21,4 @@ aliases: ["bonsoir-tout-le-monde"]
 **단어**: [[bonsoir]] · [[tout]] · [[le]]
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

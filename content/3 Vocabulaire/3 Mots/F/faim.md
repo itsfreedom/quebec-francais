@@ -1,4 +1,5 @@
 ---
+title: "faim"
 type: word
 id: "faim"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Il a faim."
     meaning: "그는 배고파요."
 theme: "Expressions avec avoir"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la faim"]
 ---
@@ -39,5 +38,4 @@ aliases: ["la faim"]
 avoir faim = 배고프다 ([[02 Verbe avoir|Verbe avoir]])
 
 ---
-📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

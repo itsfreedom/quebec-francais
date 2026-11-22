@@ -1,4 +1,5 @@
 ---
+title: "crayon"
 type: word
 id: "crayon"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["연필"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le crayon"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le crayon"]
 1. 연필
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

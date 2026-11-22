@@ -1,4 +1,5 @@
 ---
+title: "genou"
 type: word
 id: "genou"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["무릎"]
 forms: []
 examples: []
 theme: "Corps"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le genou"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le genou"]
 1. 무릎
 
 ---
-📂 주제: [[15 Corps|Corps]] · 🔤 [[00 Dictionnaire#G|사전 G]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[15 Corps|Corps]] · 🔤 [[3 Vocabulaire/3 Mots/index#G|사전 G]]

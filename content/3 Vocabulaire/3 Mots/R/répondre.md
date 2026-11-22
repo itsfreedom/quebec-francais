@@ -1,4 +1,5 @@
 ---
+title: "répondre"
 type: word
 id: "repondre"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "헤뽕데"
 examples: []
 theme: "Consignes"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["repondre"]
 ---
@@ -40,5 +39,4 @@ aliases: ["repondre"]
 | répondez | [🔊 ʁepɔ̃de](_Audio/repondez-f08112.m4a) 헤뽕데 | 대답하세요 |
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#R|사전 R]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#R|사전 R]]

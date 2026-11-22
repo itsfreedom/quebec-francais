@@ -1,4 +1,5 @@
 ---
+title: "toi et moi"
 type: sentence
 id: "toi-et-moi"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "너와 나"
 words: ["et", "moi"]
 situation: "Expressions utiles"
 dialogue: ""
-lessons: ["20261118"]
 origin: "generated"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["toi-et-moi"]
 ---
@@ -22,5 +21,4 @@ aliases: ["toi-et-moi"]
 **단어**: [[et]] · [[moi]]
 
 ---
-💬 상황: [[07 Expressions utiles|Expressions utiles]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/07 Expressions utiles/index|Expressions utiles]]

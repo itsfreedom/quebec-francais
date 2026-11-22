@@ -1,4 +1,5 @@
 ---
+title: "Vous allez bien"
 type: sentence
 id: "vous-allez-bien"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "잘 지내세요?"
 words: ["vous", "aller", "bien"]
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["vous-allez-bien"]
 ---
@@ -22,5 +21,4 @@ aliases: ["vous-allez-bien"]
 **단어**: [[vous]] · [[aller]] · [[bien]]
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

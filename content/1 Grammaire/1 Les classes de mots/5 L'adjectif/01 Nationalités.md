@@ -1,17 +1,17 @@
 ---
+title: "Nationalités"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: grammaire
-first: "[[2026-11-20]]"
 tags: [francisation, grammaire]
 aliases: [Nationalites, Nationalités, 국적, 국적 형용사]
 ---
 
 # Nationalités (국적 말하기)
 
-← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-20]]
+← [[1 Grammaire/index|Grammaire]] · 처음 배운
 
 **Je suis + 국적** ([[01 Verbe être|être]]) → Je suis Coréen. / Je suis Coréenne.
 

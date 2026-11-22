@@ -1,4 +1,5 @@
 ---
+title: "état civil"
 type: word
 id: "etat-civil"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "marié, célibataire, divorcé…"
     meaning: "기혼, 미혼, 이혼…"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["etat-civil", "l'état civil"]
 ---
@@ -36,5 +35,4 @@ aliases: ["etat-civil", "l'état civil"]
 - **marié, célibataire, divorcé…** — 기혼, 미혼, 이혼…
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

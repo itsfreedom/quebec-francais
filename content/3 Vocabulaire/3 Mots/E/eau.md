@@ -1,4 +1,5 @@
 ---
+title: "eau"
 type: word
 id: "eau"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["물"]
 forms: []
 examples: []
 theme: "Nourriture"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'eau"]
 ---
@@ -31,5 +30,4 @@ aliases: ["l'eau"]
 1. 물
 
 ---
-📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

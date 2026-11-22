@@ -1,4 +1,5 @@
 ---
+title: "Ukraine"
 type: word
 id: "ukraine"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["우크라이나"]
 forms: []
 examples: []
 theme: "Pays du monde"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["ukraine", "l'Ukraine"]
 ---
@@ -31,5 +30,4 @@ aliases: ["ukraine", "l'Ukraine"]
 1. 우크라이나
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#U|사전 U]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#U|사전 U]]

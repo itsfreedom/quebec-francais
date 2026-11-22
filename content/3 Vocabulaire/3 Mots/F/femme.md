@@ -1,4 +1,5 @@
 ---
+title: "femme"
 type: word
 id: "femme"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Ma femme est ingénieure."
     meaning: "내 아내는 엔지니어예요."
 theme: "État civil et famille"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la femme"]
 ---
@@ -40,5 +39,4 @@ aliases: ["la femme"]
 emme = [am] (예외)
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

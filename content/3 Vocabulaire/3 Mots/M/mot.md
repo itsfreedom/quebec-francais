@@ -1,4 +1,5 @@
 ---
+title: "mot"
 type: word
 id: "mot"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["단어", "낱말"]
 forms: []
 examples: []
 theme: "Consignes"
-lessons: ["20261118", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le mot"]
 ---
@@ -35,5 +34,4 @@ aliases: ["le mot"]
 끝 t 묵음 ([[02 Lettres muettes|Lettres muettes]])
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

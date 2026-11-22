@@ -1,4 +1,5 @@
 ---
+title: "Ça va bien"
 type: sentence
 id: "ca-va-bien"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "잘 지내요."
 words: ["ca", "aller", "bien"]
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261118"]
 origin: "generated"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["ca-va-bien"]
 ---
@@ -22,5 +21,4 @@ aliases: ["ca-va-bien"]
 **단어**: [[ça]] · [[aller]] · [[bien]]
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

@@ -1,4 +1,5 @@
 ---
+title: "Philippines"
 type: word
 id: "philippines"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Je viens des Philippines."
     meaning: "나는 필리핀에서 왔어요."
 theme: "Nationalités et langues"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["philippines", "les Philippines"]
 ---
@@ -39,5 +38,4 @@ aliases: ["philippines", "les Philippines"]
 복수 국가 → des Philippines ([[01 Pays et prépositions|Pays et prépositions]])
 
 ---
-📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

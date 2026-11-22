@@ -1,4 +1,5 @@
 ---
+title: "être"
 type: word
 id: "etre"
 lang: "fr"
@@ -42,9 +43,7 @@ forms:
     pron_native: "일 쏭"
 examples: []
 theme: "Verbes"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["etre"]
 ---
@@ -71,5 +70,4 @@ aliases: ["etre"]
 | ils sont | [🔊 il sɔ̃](_Audio/ils-sont-8e22cb.m4a) 일 쏭 | 그들은 ~이다 |
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 문법: [[01 Verbe être|Verbe être]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 문법: [[01 Verbe être|Verbe être]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

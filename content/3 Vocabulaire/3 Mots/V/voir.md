@@ -1,4 +1,5 @@
 ---
+title: "voir"
 type: word
 id: "voir"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "부 부아예"
 examples: []
 theme: "Verbes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -40,5 +39,4 @@ aliases: []
 | vous voyez | [🔊 vu vwaje](_Audio/vous-voyez-20a5f3.m4a) 부 부아예 | 당신이 보다 / 보세요 |
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

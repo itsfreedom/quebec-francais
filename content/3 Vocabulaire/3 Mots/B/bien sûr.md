@@ -1,4 +1,5 @@
 ---
+title: "bien sûr"
 type: word
 id: "bien-sur"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Mais bien sûr !"
     meaning: "물론이죠!"
 theme: "Salutations"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["bien-sur"]
 ---
@@ -36,5 +35,4 @@ aliases: ["bien-sur"]
 - **Mais bien sûr !** — 물론이죠!
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#B|사전 B]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

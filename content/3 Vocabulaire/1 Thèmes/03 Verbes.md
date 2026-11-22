@@ -1,4 +1,5 @@
 ---
+title: "Verbes"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [동사]
 
 # Verbes (동사)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 문법: [[01 Verbe être|Verbe être]] · [[02 Verbe avoir|Verbe avoir]] · -er 동사의 r은 읽지 않아요 → [[02 Lettres muettes|Lettres muettes]]
 
@@ -32,9 +33,6 @@ aliases: [동사]
 | [[vouloir]] | [🔊 vulwaʁ](_Audio/vouloir-b126ec.m4a) 불루아흐 | 원하다 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[aimer]]** — 좋아하다, 사랑하다
 **[[aller]]** — 가다

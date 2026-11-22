@@ -1,4 +1,5 @@
 ---
+title: "chemin"
 type: word
 id: "chemin"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["길", "경로"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le chemin"]
 ---
@@ -32,5 +31,4 @@ aliases: ["le chemin"]
 2. 경로
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

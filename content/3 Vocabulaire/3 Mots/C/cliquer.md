@@ -1,4 +1,5 @@
 ---
+title: "cliquer"
 type: word
 id: "cliquer"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "끌리께 이씨"
 examples: []
 theme: "Consignes"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -40,5 +39,4 @@ aliases: []
 | cliquez ici | [🔊 klike isi](_Audio/cliquez-ici-72b24e.m4a) 끌리께 이씨 | 여기를 클릭하세요 |
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

@@ -1,17 +1,17 @@
 ---
+title: "Alphabet"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique]
 aliases: [Alphabet, 알파벳]
 ---
 
 # Alphabet (알파벳)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 **26글자 = 자음 20개 + 모음 6개 (a, e, i, o, u, y)**
 
@@ -46,7 +46,5 @@ aliases: [Alphabet, 알파벳]
 | **[ɛ]** | F, L, M, N, R, S, Z |
 | **[i]** | J [ʒi], X [iks], Y [igʁɛk] |
 | **[y]** | Q [ky] |
-
-연습지: [[20261118_Isabelle_digne_dattention_1_p8-12.pdf]] (9쪽, 정답은 마지막 쪽)
 
 철자를 불러줄 때 악센트 이름도 함께 말해요 → [[02 Accents|Accents]]

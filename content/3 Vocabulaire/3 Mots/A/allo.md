@@ -1,4 +1,5 @@
 ---
+title: "allo"
 type: word
 id: "allo"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Allo ! Comment ça va ?"
     meaning: "안녕! 어떻게 지내?"
 theme: "Salutations"
-lessons: ["20261118", "20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -40,5 +39,4 @@ aliases: []
 닫힌 [o]. [[05 Accent québécois|퀘벡]]에서 인사로 많이 써요
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

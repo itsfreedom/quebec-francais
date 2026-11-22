@@ -1,4 +1,5 @@
 ---
+title: "téléphone"
 type: word
 id: "telephone"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["전화"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["telephone", "le téléphone"]
 ---
@@ -34,5 +33,4 @@ aliases: ["telephone", "le téléphone"]
 ph = [f]
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#T|사전 T]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#T|사전 T]]

@@ -1,4 +1,5 @@
 ---
+title: "Comment allez-vous"
 type: sentence
 id: "comment-allez-vous"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "어떻게 지내세요? (존댓말)"
 words: ["comment", "aller", "vous"]
 situation: "Saluer et prendre congé"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["comment-allez-vous"]
 ---
@@ -22,5 +21,4 @@ aliases: ["comment-allez-vous"]
 **단어**: [[comment]] · [[aller]] · [[vous]]
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]]

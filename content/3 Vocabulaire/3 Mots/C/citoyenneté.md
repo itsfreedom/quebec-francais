@@ -1,4 +1,5 @@
 ---
+title: "citoyenneté"
 type: word
 id: "citoyennete"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "J'ai la citoyenneté canadienne."
     meaning: "나는 캐나다 시민권이 있어요."
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["citoyennete", "la citoyenneté"]
 ---
@@ -36,5 +35,4 @@ aliases: ["citoyennete", "la citoyenneté"]
 - **J'ai la citoyenneté canadienne.** — 나는 캐나다 시민권이 있어요.
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

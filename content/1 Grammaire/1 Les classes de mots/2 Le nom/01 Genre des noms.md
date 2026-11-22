@@ -1,19 +1,17 @@
 ---
+title: "Genre des noms"
 type: concept
 lang: "fr"
 native: "ko"
 status: draft
 section: grammaire
-first: "[[2026-11-18]]"
 tags: [francisation, grammaire]
 aliases: [Genre des noms, 명사의 성, 남성 여성]
 ---
 
 # Genre des noms (명사의 성)
 
-← [[00 Grammaire]] · 처음 나온 수업: [[2026-11-18]]
-
-> [!example] 상태: 기초 정리 (수업에서 본격적으로 배우기 전). 수업에서 배우면 내용을 보충해요.
+← [[1 Grammaire/index|Grammaire]]
 
 프랑스어 명사는 모두 **남성(masculin)** 아니면 **여성(féminin)**이에요. 규칙이 완벽하지 않아서 **단어를 외울 때 관사와 함께** 외워요.
 
@@ -38,6 +36,6 @@ aliases: [Genre des noms, 명사의 성, 남성 여성]
 
 출석 부를 때: 남자는 **Présent !**, 여자는 **Présente !**
 
-관련: [[01 Articles définis|Articles définis]] · [[02 Adjectifs possessifs|Adjectifs possessifs]] · 단어: [[00 Vocabulaire|Vocabulaire]]
+관련: [[01 Articles définis|Articles définis]] · [[02 Adjectifs possessifs|Adjectifs possessifs]] · 단어: [[3 Vocabulaire/index|Vocabulaire]]
 
 형용사도 명사의 성을 따라 바뀌어요 → [[01 Nationalités|Nationalités]] (canadien → canadienne)

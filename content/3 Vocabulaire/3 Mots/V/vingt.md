@@ -1,4 +1,5 @@
 ---
+title: "vingt"
 type: word
 id: "vingt"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["20"]
 forms: []
 examples: []
 theme: "Nombres"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 g와 t 묵음. 21은 vingt et un
 
 ---
-📂 주제: [[05 Nombres|Nombres]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

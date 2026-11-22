@@ -1,4 +1,5 @@
 ---
+title: "Je suis célibataire"
 type: sentence
 id: "je-suis-celibataire"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "나는 미혼이에요."
 words: ["je", "etre", "celibataire"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["je-suis-celibataire"]
 ---
@@ -22,5 +21,4 @@ aliases: ["je-suis-celibataire"]
 **단어**: [[je]] · [[être]] · [[célibataire]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

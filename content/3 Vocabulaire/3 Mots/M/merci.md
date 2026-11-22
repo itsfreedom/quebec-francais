@@ -1,4 +1,5 @@
 ---
+title: "merci"
 type: word
 id: "merci"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Ça va bien, merci."
     meaning: "잘 지내요, 고마워요."
 theme: "Salutations"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -36,5 +35,4 @@ aliases: []
 - **Ça va bien, merci.** — 잘 지내요, 고마워요.
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

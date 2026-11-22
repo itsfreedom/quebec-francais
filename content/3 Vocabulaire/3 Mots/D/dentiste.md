@@ -1,4 +1,5 @@
 ---
+title: "dentiste"
 type: word
 id: "dentiste"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["치과의사"]
 forms: []
 examples: []
 theme: "Personnes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le/la dentiste"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le/la dentiste"]
 1. 치과의사
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[00 Dictionnaire#D|사전 D]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

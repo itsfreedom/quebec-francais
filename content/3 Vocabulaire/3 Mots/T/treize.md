@@ -1,4 +1,5 @@
 ---
+title: "treize"
 type: word
 id: "treize"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["13"]
 forms: []
 examples: []
 theme: "Nombres"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -31,5 +30,4 @@ aliases: []
 1. 13
 
 ---
-📂 주제: [[05 Nombres|Nombres]] · 🔤 [[00 Dictionnaire#T|사전 T]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#T|사전 T]]

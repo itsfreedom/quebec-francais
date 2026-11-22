@@ -1,4 +1,5 @@
 ---
+title: "placer"
 type: word
 id: "placer"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "쁠라세"
 examples: []
 theme: "Consignes"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -41,5 +40,4 @@ aliases: []
 | placez | [🔊 plase](_Audio/placez-a27cfd.m4a) 쁠라세 | 놓으세요 |
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

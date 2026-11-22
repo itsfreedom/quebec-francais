@@ -1,4 +1,5 @@
 ---
+title: "lent"
 type: word
 id: "lent"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["느린"]
 forms: []
 examples: []
 theme: "Adjectifs"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -31,5 +30,4 @@ aliases: []
 1. 느린
 
 ---
-📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[00 Dictionnaire#L|사전 L]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#L|사전 L]]

@@ -1,4 +1,5 @@
 ---
+title: "Je viens de la Corée"
 type: sentence
 id: "je-viens-de-la-coree"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "나는 한국에서 왔어요."
 words: ["je", "venir", "de", "coree"]
 situation: "Présentations"
 dialogue: "01 Se présenter"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["je-viens-de-la-coree"]
 ---
@@ -22,5 +21,4 @@ aliases: ["je-viens-de-la-coree"]
 **단어**: [[je]] · [[venir]] · [[de]] · [[Corée|la Corée]]
 
 ---
-💬 상황: [[02 Présentations|Présentations]] · 🗣 대화문: [[01 Se présenter]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]] · 🗣 대화문: [[01 Se présenter|Se présenter]]

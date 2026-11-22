@@ -1,4 +1,5 @@
 ---
+title: "prénom"
 type: word
 id: "prenom"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["이름 (성을 뺀 이름)"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["prenom", "le prénom"]
 ---
@@ -34,5 +33,4 @@ aliases: ["prenom", "le prénom"]
 nom de famille = 성. 질문의 nom은 보통 전체 이름 ([[nom]])
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

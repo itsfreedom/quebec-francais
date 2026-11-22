@@ -1,4 +1,5 @@
 ---
+title: "enfant"
 type: word
 id: "enfant"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Vous avez des enfants ?"
     meaning: "자녀가 있으세요?"
 theme: "État civil et famille"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'enfant"]
 ---
@@ -40,5 +39,4 @@ aliases: ["l'enfant"]
 en = [ɑ̃] 두 번, 끝 t 묵음
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

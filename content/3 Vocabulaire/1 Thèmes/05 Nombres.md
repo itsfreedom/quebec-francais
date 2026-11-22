@@ -1,4 +1,5 @@
 ---
+title: "Nombres"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [숫자]
 
 # Nombres (숫자)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 > [!warning] six, sept, huit, dix는 끝 자음을 읽어요 → [[02 Lettres muettes|Lettres muettes]]
 > 뒤에 모음이 오면 이어 읽어요: deux‿ans [døzɑ̃] → [[01 Liaison|Liaison]]
@@ -46,9 +47,6 @@ aliases: [숫자]
 | [[nombre\|le nombre]] | [🔊 nɔ̃bʁ](_Audio/le-nombre-8a6be0.m4a) 농브흐 | 수 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[zéro]]** — 0
 **[[un]]** — 1

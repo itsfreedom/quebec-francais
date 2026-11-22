@@ -1,4 +1,5 @@
 ---
+title: "syrien"
 type: word
 id: "syrien"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "씨히엔"
 examples: []
 theme: "Nationalités et langues"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -43,5 +42,4 @@ aliases: []
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]
 
 ---
-📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

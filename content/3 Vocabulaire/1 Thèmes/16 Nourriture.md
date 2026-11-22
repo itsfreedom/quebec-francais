@@ -1,4 +1,5 @@
 ---
+title: "Nourriture"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [음식]
 
 # Nourriture (음식)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 | 단어 | 발음 | 뜻 |
 |---|---|---|
@@ -20,9 +21,6 @@ aliases: [음식]
 | [[œuf\|l'œuf]] | [🔊 œf](_Audio/l-uf-ece0fa.m4a) 외프 | 달걀 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[agneau|l'agneau]]** — 어린 양, 양고기
 **[[blé|le blé]]** — 밀

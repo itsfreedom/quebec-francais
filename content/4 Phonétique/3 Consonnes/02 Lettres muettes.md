@@ -1,17 +1,17 @@
 ---
+title: "Lettres muettes"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique]
 aliases: [Lettres muettes, 묵음, 끝 자음, CaReFuL]
 ---
 
 # Lettres muettes (묵음)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 ## ① 끝 자음은 대부분 읽지 않아요
 | 예시 | 발음 | 안 읽는 글자 |

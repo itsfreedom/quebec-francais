@@ -1,4 +1,5 @@
 ---
+title: "consonne"
 type: word
 id: "consonne"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["자음"]
 forms: []
 examples: []
 theme: "Classe"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la consonne"]
 ---
@@ -31,5 +30,4 @@ aliases: ["la consonne"]
 1. 자음
 
 ---
-📂 주제: [[17 Classe|Classe]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[17 Classe|Classe]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

@@ -1,4 +1,5 @@
 ---
+title: "Érythrée"
 type: word
 id: "erythree"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["에리트레아"]
 forms: []
 examples: []
 theme: "Pays du monde"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["erythree", "l'Érythrée"]
 ---
@@ -31,5 +30,4 @@ aliases: ["erythree", "l'Érythrée"]
 1. 에리트레아
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

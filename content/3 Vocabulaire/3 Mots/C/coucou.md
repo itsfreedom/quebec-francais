@@ -1,4 +1,5 @@
 ---
+title: "coucou"
 type: word
 id: "coucou"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["안녕! (아주 친한 사이)"]
 forms: []
 examples: []
 theme: "Salutations"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 가족·친구끼리만 써요 (informel)
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

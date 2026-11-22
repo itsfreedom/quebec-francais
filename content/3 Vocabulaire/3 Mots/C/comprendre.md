@@ -1,4 +1,5 @@
 ---
+title: "comprendre"
 type: word
 id: "comprendre"
 lang: "fr"
@@ -20,9 +21,7 @@ examples:
   - text: "Je peux comprendre les questions."
     meaning: "나는 질문을 이해할 수 있어요."
 theme: "Consignes"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -45,5 +44,4 @@ aliases: []
 - **Je peux comprendre les questions.** — 나는 질문을 이해할 수 있어요.
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

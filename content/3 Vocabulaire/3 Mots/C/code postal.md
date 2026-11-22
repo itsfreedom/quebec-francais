@@ -1,4 +1,5 @@
 ---
+title: "code postal"
 type: word
 id: "code-postal"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "H2T 2V4"
     meaning: "캐나다 우편번호: 글자·숫자 6자리"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["code-postal", "le code postal"]
 ---
@@ -36,5 +35,4 @@ aliases: ["code-postal", "le code postal"]
 - **H2T 2V4** — 캐나다 우편번호: 글자·숫자 6자리
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

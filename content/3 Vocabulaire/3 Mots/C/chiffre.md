@@ -1,4 +1,5 @@
 ---
+title: "chiffre"
 type: word
 id: "chiffre"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["숫자 (0~9 한 자리)"]
 forms: []
 examples: []
 theme: "Nombres"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le chiffre"]
 ---
@@ -34,5 +33,4 @@ aliases: ["le chiffre"]
 chiffre = 0~9, nombre = 수 전체
 
 ---
-📂 주제: [[05 Nombres|Nombres]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

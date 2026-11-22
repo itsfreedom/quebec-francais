@@ -1,17 +1,17 @@
 ---
+title: "Pays et prépositions"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: grammaire
-first: "[[2026-11-18]]"
 tags: [francisation, grammaire]
 aliases: [Pays et prepositions, 나라 전치사, venir de]
 ---
 
 # Pays et prépositions (나라 + 전치사)
 
-← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-18]]
+← [[1 Grammaire/index|Grammaire]] · 처음 배운
 
 **출신 말하기**: [[venir]] **de** + 나라
 

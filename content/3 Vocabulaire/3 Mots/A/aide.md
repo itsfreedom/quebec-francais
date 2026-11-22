@@ -1,4 +1,5 @@
 ---
+title: "aide"
 type: word
 id: "aide"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "à l'aide d'une flèche"
     meaning: "화살표를 이용해서"
 theme: "Consignes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'aide"]
 ---
@@ -39,5 +38,4 @@ aliases: ["l'aide"]
 à l'aide de ~ = ~을 이용해서
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

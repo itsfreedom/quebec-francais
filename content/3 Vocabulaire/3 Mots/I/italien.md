@@ -1,4 +1,5 @@
 ---
+title: "italien"
 type: word
 id: "italien"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["이탈리아의", "이탈리아 사람"]
 forms: []
 examples: []
 theme: "Personnes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -32,5 +31,4 @@ aliases: []
 2. 이탈리아 사람
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[00 Dictionnaire#I|사전 I]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

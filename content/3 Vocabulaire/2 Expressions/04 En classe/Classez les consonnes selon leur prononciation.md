@@ -1,4 +1,5 @@
 ---
+title: "Classez les consonnes selon leur prononciation"
 type: sentence
 id: "classez-les-consonnes"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "자음을 발음에 따라 분류하세요."
 words: ["classer", "le", "consonne", "selon", "prononciation"]
 situation: "En classe"
 dialogue: ""
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["classez-les-consonnes"]
 ---
@@ -22,5 +21,4 @@ aliases: ["classez-les-consonnes"]
 **단어**: [[classer]] · [[le]] · [[consonne|la consonne]] · [[selon]] · [[prononciation|la prononciation]]
 
 ---
-💬 상황: [[04 En classe|En classe]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/04 En classe/index|En classe]]

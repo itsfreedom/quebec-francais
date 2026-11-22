@@ -1,17 +1,17 @@
 ---
+title: "Voyelles nasales"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique]
 aliases: [Voyelles nasales, 비모음, nasales]
 ---
 
 # Voyelles nasales (비모음)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 코로 내는 모음 4개예요. 철자를 보면 어떤 소리인지 알 수 있어요.
 

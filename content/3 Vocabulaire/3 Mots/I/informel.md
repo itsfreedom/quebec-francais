@@ -1,4 +1,5 @@
 ---
+title: "informel"
 type: word
 id: "informel"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["편한 (반말)"]
 forms: []
 examples: []
 theme: "Consignes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -31,5 +30,4 @@ aliases: []
 1. 편한 (반말)
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#I|사전 I]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

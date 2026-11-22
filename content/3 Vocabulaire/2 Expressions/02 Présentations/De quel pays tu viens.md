@@ -1,4 +1,5 @@
 ---
+title: "De quel pays tu viens"
 type: sentence
 id: "de-quel-pays-tu-viens"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "어느 나라에서 왔어?"
 words: ["de", "quel", "pays", "tu", "venir"]
 situation: "Présentations"
 dialogue: "01 Se présenter"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["de-quel-pays-tu-viens"]
 ---
@@ -22,5 +21,4 @@ aliases: ["de-quel-pays-tu-viens"]
 **단어**: [[de]] · [[quel]] · [[pays|le pays]] · [[tu]] · [[venir]]
 
 ---
-💬 상황: [[02 Présentations|Présentations]] · 🗣 대화문: [[01 Se présenter]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]] · 🗣 대화문: [[01 Se présenter|Se présenter]]

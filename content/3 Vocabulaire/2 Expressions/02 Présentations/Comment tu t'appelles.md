@@ -1,4 +1,5 @@
 ---
+title: "Comment tu t'appelles"
 type: sentence
 id: "comment-tu-tappelles"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "이름이 뭐야?"
 words: ["comment", "tu", "sappeler"]
 situation: "Présentations"
 dialogue: "01 Se présenter"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["comment-tu-tappelles"]
 ---
@@ -22,5 +21,4 @@ aliases: ["comment-tu-tappelles"]
 **단어**: [[comment]] · [[tu]] · [[s'appeler]]
 
 ---
-💬 상황: [[02 Présentations|Présentations]] · 🗣 대화문: [[01 Se présenter]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]] · 🗣 대화문: [[01 Se présenter|Se présenter]]

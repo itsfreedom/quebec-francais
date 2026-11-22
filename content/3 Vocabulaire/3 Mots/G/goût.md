@@ -1,4 +1,5 @@
 ---
+title: "goût"
 type: word
 id: "gout"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["맛"]
 forms: []
 examples: []
 theme: "Nourriture"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["gout", "le goût"]
 ---
@@ -31,5 +30,4 @@ aliases: ["gout", "le goût"]
 1. 맛
 
 ---
-📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[00 Dictionnaire#G|사전 G]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#G|사전 G]]

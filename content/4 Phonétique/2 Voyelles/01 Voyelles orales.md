@@ -1,17 +1,17 @@
 ---
+title: "Voyelles orales"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique]
 aliases: [Voyelles orales, 구강 모음, 모음]
 ---
 
 # Voyelles orales (구강 모음)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 | 소리 | 예시 | 메모 |
 |---|---|---|

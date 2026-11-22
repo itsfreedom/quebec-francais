@@ -1,4 +1,5 @@
 ---
+title: "exactement"
 type: word
 id: "exactement"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["정확히", "맞아요"]
 forms: []
 examples: []
 theme: "Mots-outils"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -32,5 +31,4 @@ aliases: []
 2. 맞아요
 
 ---
-📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

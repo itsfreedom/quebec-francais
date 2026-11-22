@@ -1,4 +1,5 @@
 ---
+title: "enchanté"
 type: word
 id: "enchante"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["만나서 반가워요"]
 forms: []
 examples: []
 theme: "Salutations"
-lessons: ["20261118", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["enchante"]
 ---
@@ -34,5 +33,4 @@ aliases: ["enchante"]
 여자는 enchantée라고 써요. 발음은 같아요 ([[01 Genre des noms|Genre des noms]])
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

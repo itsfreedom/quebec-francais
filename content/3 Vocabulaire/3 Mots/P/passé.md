@@ -1,4 +1,5 @@
 ---
+title: "passé"
 type: word
 id: "passe"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["지난", "과거의"]
 forms: []
 examples: []
 theme: "Adjectifs"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["passe"]
 ---
@@ -32,5 +31,4 @@ aliases: ["passe"]
 2. 과거의
 
 ---
-📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

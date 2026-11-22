@@ -1,4 +1,5 @@
 ---
+title: "boulevard"
 type: word
 id: "boulevard"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["대로", "큰길"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le boulevard"]
 ---
@@ -35,5 +34,4 @@ aliases: ["le boulevard"]
 줄임말 **boul.** · 끝 d 묵음 ([[02 Lettres muettes|Lettres muettes]])
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#B|사전 B]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

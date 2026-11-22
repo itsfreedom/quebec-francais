@@ -1,4 +1,5 @@
 ---
+title: "formel"
 type: word
 id: "formel"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["격식 있는 (존댓말)"]
 forms: []
 examples: []
 theme: "Consignes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 반대말 informel → [[02 Tu et vous|Tu et vous]]
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

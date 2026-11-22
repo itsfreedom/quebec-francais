@@ -1,4 +1,5 @@
 ---
+title: "marié"
 type: word
 id: "marie"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Êtes-vous marié ?"
     meaning: "결혼하셨어요?"
 theme: "État civil et famille"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["marie"]
 ---
@@ -39,5 +38,4 @@ aliases: ["marie"]
 여자는 mariée. 발음은 같아요
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

@@ -1,4 +1,5 @@
 ---
+title: "anglais"
 type: word
 id: "anglais"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["영어", "영국 사람"]
 forms: []
 examples: []
 theme: "Nationalités et langues"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le anglais"]
 ---
@@ -35,5 +34,4 @@ aliases: ["le anglais"]
 언어 이름은 남성 명사, 소문자: Je parle anglais.
 
 ---
-📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

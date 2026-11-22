@@ -1,4 +1,5 @@
 ---
+title: "Formulaires et papiers"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [서류 작성]
 
 # Formulaires et papiers (서류 작성)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 서류를 쓸 때 나오는 말이에요.
 
@@ -50,9 +51,6 @@ aliases: [서류 작성]
 | [[ville\|la ville]] | [🔊 vil](_Audio/la-ville-b4cf80.m4a) 빌 | 도시 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[abonnement|l'abonnement]]** — 정기 회원권, 구독
 **[[actuel]] · actuelle** — 현재의

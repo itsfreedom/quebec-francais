@@ -1,4 +1,5 @@
 ---
+title: "Êtes-vous marié"
 type: sentence
 id: "etes-vous-marie"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "결혼하셨어요?"
 words: ["etre", "vous", "marie"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["etes-vous-marie"]
 ---
@@ -22,5 +21,4 @@ aliases: ["etes-vous-marie"]
 **단어**: [[être]] · [[vous]] · [[marié]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

@@ -1,4 +1,5 @@
 ---
+title: "sœur"
 type: word
 id: "soeur"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["자매 (언니·누나·여동생)"]
 forms: []
 examples: []
 theme: "Personnes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["soeur", "la sœur"]
 ---
@@ -31,5 +30,4 @@ aliases: ["soeur", "la sœur"]
 1. 자매 (언니·누나·여동생)
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

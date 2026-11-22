@@ -1,4 +1,5 @@
 ---
+title: "Ça va très bien, merci"
 type: sentence
 id: "ca-va-tres-bien-merci"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "아주 잘 지내요, 고마워요."
 words: ["ca", "aller", "tres", "bien", "merci"]
 situation: "Saluer et prendre congé"
 dialogue: "01 Se présenter"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["ca-va-tres-bien-merci"]
 ---
@@ -22,5 +21,4 @@ aliases: ["ca-va-tres-bien-merci"]
 **단어**: [[ça]] · [[aller]] · [[très]] · [[bien]] · [[merci]]
 
 ---
-💬 상황: [[01 Saluer et prendre congé|Saluer et prendre congé]] · 🗣 대화문: [[01 Se présenter]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/01 Saluer et prendre congé/index|Saluer et prendre congé]] · 🗣 대화문: [[01 Se présenter|Se présenter]]

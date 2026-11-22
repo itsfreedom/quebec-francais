@@ -1,4 +1,5 @@
 ---
+title: "Chili"
 type: word
 id: "chili"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["칠레"]
 forms: []
 examples: []
 theme: "Pays du monde"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["chili", "le Chili"]
 ---
@@ -31,5 +30,4 @@ aliases: ["chili", "le Chili"]
 1. 칠레
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

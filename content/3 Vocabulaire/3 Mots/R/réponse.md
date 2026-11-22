@@ -1,4 +1,5 @@
 ---
+title: "réponse"
 type: word
 id: "reponse"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["대답"]
 forms: []
 examples: []
 theme: "Consignes"
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["reponse", "la réponse"]
 ---
@@ -31,5 +30,4 @@ aliases: ["reponse", "la réponse"]
 1. 대답
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#R|사전 R]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#R|사전 R]]

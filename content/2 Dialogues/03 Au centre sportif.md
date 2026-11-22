@@ -5,7 +5,6 @@ lang: "fr"
 native: "ko"
 title: "Au centre sportif"
 situation: "헬스장 등록"
-lessons: ["20261120"]
 origin: "class"
 tags: [francisation, dialogue]
 aliases: ["헬스장 등록"]
@@ -13,7 +12,7 @@ aliases: ["헬스장 등록"]
 
 # Au centre sportif (헬스장 등록)
 
-← [[00 Dialogues]] · 수업: [[2026-11-20]] · 💬 표현: [[06 Au gym|Au gym]]
+← [[2 Dialogues/index|Dialogues]] · 💬 표현: [[3 Vocabulaire/2 Expressions/06 Au gym/index|Au gym]]
 
 [▶ 이어서 듣기 (문장 사이 3초)](_Audio/dialogue-au-centre-sportif-ac1478.m4a) · 문장을 누르면 그 문장만 들려요
 

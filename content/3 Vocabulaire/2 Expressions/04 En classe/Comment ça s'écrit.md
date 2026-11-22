@@ -1,4 +1,5 @@
 ---
+title: "Comment ça s'écrit"
 type: sentence
 id: "comment-ca-secrit"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "그거 어떻게 써요?"
 words: ["comment", "ca", "ecrire"]
 situation: "En classe"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["comment-ca-secrit"]
 ---
@@ -22,5 +21,4 @@ aliases: ["comment-ca-secrit"]
 **단어**: [[comment]] · [[ça]] · [[écrire]]
 
 ---
-💬 상황: [[04 En classe|En classe]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/04 En classe/index|En classe]]

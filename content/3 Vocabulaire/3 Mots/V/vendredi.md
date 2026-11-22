@@ -1,4 +1,5 @@
 ---
+title: "vendredi"
 type: word
 id: "vendredi"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["금요일"]
 forms: []
 examples: []
 theme: "Temps et jours"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le vendredi"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le vendredi"]
 1. 금요일
 
 ---
-📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

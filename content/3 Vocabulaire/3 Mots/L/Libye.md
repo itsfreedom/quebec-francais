@@ -1,4 +1,5 @@
 ---
+title: "Libye"
 type: word
 id: "libye"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["리비아"]
 forms: []
 examples: []
 theme: "Pays du monde"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["libye", "la Libye"]
 ---
@@ -31,5 +30,4 @@ aliases: ["libye", "la Libye"]
 1. 리비아
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#L|사전 L]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#L|사전 L]]

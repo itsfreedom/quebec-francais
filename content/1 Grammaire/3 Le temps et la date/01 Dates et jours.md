@@ -1,17 +1,17 @@
 ---
+title: "Dates et jours"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: grammaire
-first: "[[2026-11-18]]"
 tags: [francisation, grammaire]
 aliases: [Dates et jours, 날짜, 요일, Date]
 ---
 
 # Dates et jours (날짜 · 요일)
 
-← [[00 Grammaire]] · 처음 배운 수업: [[2026-11-18]]
+← [[1 Grammaire/index|Grammaire]] · 처음 배운
 
 ## 날짜 쓰는 순서
 **요일 + 날짜 + 월 + 연도** → **mercredi 18 novembre 2026**
@@ -21,7 +21,7 @@ aliases: [Dates et jours, 날짜, 요일, Date]
 - 1일만 **premier**: le 1er décembre
 
 ## 생년월일 (la date de naissance)
-말할 때와 쓸 때 순서가 반대예요. ([[2026-11-20]])
+말할 때와 쓸 때 순서가 반대예요.
 
 | | 순서 | 예 |
 |---|---|---|
@@ -59,6 +59,4 @@ aliases: [Dates et jours, 날짜, 요일, Date]
 - "~월에": **en** janvier, **en** août
 - février, septembre, octobre, décembre는 프린트물에 없어서 아직 단어 노트를 만들지 않았어요
 
-연습: 프린트물 10쪽(요일) · 11쪽(달) → [[20261118_Isabelle_digne_dattention_1_p8-12.pdf]]
-
-표현: [[05 Le jour et la date|Le jour et la date]]
+표현: [[3 Vocabulaire/2 Expressions/05 Le jour et la date/index|Le jour et la date]]

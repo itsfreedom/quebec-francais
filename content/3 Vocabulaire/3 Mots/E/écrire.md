@@ -1,4 +1,5 @@
 ---
+title: "écrire"
 type: word
 id: "ecrire"
 lang: "fr"
@@ -24,9 +25,7 @@ examples:
   - text: "Comment ça s'écrit ?"
     meaning: "그거 어떻게 써요?"
 theme: "Verbes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["ecrire"]
 ---
@@ -50,5 +49,4 @@ aliases: ["ecrire"]
 - **Comment ça s'écrit ?** — 그거 어떻게 써요?
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#E|사전 E]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

@@ -1,4 +1,5 @@
 ---
+title: "comment"
 type: word
 id: "comment"
 lang: "fr"
@@ -18,9 +19,7 @@ examples:
   - text: "Comment tu t'appelles ?"
     meaning: "이름이 뭐야?"
 theme: "Salutations"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -42,5 +41,4 @@ aliases: []
 ent = [[02 Voyelles nasales|비모음]] [ɑ̃], 끝 t 묵음 ([[02 Lettres muettes|Lettres muettes]])
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

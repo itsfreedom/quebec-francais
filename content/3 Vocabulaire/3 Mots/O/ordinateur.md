@@ -1,4 +1,5 @@
 ---
+title: "ordinateur"
 type: word
 id: "ordinateur"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["컴퓨터"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'ordinateur"]
 ---
@@ -31,5 +30,4 @@ aliases: ["l'ordinateur"]
 1. 컴퓨터
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#O|사전 O]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

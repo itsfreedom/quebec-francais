@@ -1,4 +1,5 @@
 ---
+title: "fou"
 type: word
 id: "fou"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["미친"]
 forms: []
 examples: []
 theme: "Adjectifs"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -31,5 +30,4 @@ aliases: []
 1. 미친
 
 ---
-📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

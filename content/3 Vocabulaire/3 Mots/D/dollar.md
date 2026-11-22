@@ -1,4 +1,5 @@
 ---
+title: "dollar"
 type: word
 id: "dollar"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "25 dollars par mois"
     meaning: "한 달에 25달러"
 theme: "Lieux et objets"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le dollar"]
 ---
@@ -39,5 +38,4 @@ aliases: ["le dollar"]
 🍁 구어로 piastre(piasse)라고도 해요
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#D|사전 D]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

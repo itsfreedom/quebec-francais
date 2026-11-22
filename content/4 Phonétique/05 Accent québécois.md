@@ -1,17 +1,17 @@
 ---
+title: "Accent québécois"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique, quebec]
 aliases: [Accent quebecois, 퀘벡 발음, Accent québécois]
 ---
 
 # 🍁 Accent québécois (퀘벡 발음)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 몬트리올에서 실제로 듣게 될 소리예요.
 

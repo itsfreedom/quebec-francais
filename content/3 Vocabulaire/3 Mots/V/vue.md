@@ -1,4 +1,5 @@
 ---
+title: "vue"
 type: word
 id: "vue"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["시야", "경치"]
 forms: []
 examples: []
 theme: "Lieux et objets"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la vue"]
 ---
@@ -32,5 +31,4 @@ aliases: ["la vue"]
 2. 경치
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

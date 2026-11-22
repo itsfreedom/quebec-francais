@@ -1,4 +1,5 @@
 ---
+title: "heure"
 type: word
 id: "heure"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Vous avez l'heure ?"
     meaning: "지금 몇 시인지 아세요?"
 theme: "Expressions avec avoir"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["l'heure"]
 ---
@@ -40,5 +39,4 @@ aliases: ["l'heure"]
 h 묵음 ([[02 Lettres muettes|Lettres muettes]])
 
 ---
-📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[00 Dictionnaire#H|사전 H]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[3 Vocabulaire/3 Mots/index#H|사전 H]]

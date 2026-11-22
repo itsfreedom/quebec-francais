@@ -1,4 +1,5 @@
 ---
+title: "Tu parles français"
 type: sentence
 id: "tu-parles-francais"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "너 불어 할 줄 알아?"
 words: ["tu", "parler", "francais"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["tu-parles-francais"]
 ---
@@ -22,5 +21,4 @@ aliases: ["tu-parles-francais"]
 **단어**: [[tu]] · [[parler]] · [[français]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

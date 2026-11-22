@@ -1,4 +1,5 @@
 ---
+title: "fille"
 type: word
 id: "fille"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["딸", "소녀"]
 forms: []
 examples: []
 theme: "Personnes"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la fille"]
 ---
@@ -32,5 +31,4 @@ aliases: ["la fille"]
 2. 소녀
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

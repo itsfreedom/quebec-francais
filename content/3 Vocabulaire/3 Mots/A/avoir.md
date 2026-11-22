@@ -1,4 +1,5 @@
 ---
+title: "avoir"
 type: word
 id: "avoir"
 lang: "fr"
@@ -46,9 +47,7 @@ forms:
     pron_native: "일종"
 examples: []
 theme: "Verbes"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -79,5 +78,4 @@ aliases: []
 nous‿avons은 이어 읽어요 ([[01 Liaison|Liaison]]). avoir + 과거분사 = 과거 ([[03 Temps verbaux|Temps verbaux]])
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 문법: [[02 Verbe avoir|Verbe avoir]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 문법: [[02 Verbe avoir|Verbe avoir]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

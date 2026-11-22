@@ -1,17 +1,17 @@
 ---
+title: "Voyelles composées"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique]
 aliases: [Voyelles composees, Voyelles composées, 복합 모음]
 ---
 
 # Voyelles composées (복합 모음)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 모음 두세 개가 모이면 소리 하나가 돼요.
 

@@ -1,4 +1,5 @@
 ---
+title: "maquilleur"
 type: word
 id: "maquilleur"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["메이크업 아티스트"]
 forms: []
 examples: []
 theme: "Personnes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le maquilleur"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le maquilleur"]
 1. 메이크업 아티스트
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

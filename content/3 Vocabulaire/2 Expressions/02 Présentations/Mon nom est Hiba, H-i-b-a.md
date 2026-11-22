@@ -1,4 +1,5 @@
 ---
+title: "Mon nom est Hiba, H-i-b-a"
 type: sentence
 id: "mon-nom-est-hiba"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "내 이름은 히바예요, H-i-b-a."
 words: ["mon", "nom", "etre", "epeler"]
 situation: "Présentations"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["mon-nom-est-hiba"]
 ---
@@ -22,5 +21,4 @@ aliases: ["mon-nom-est-hiba"]
 **단어**: [[mon]] · [[nom|le nom]] · [[être]] · [[épeler]]
 
 ---
-💬 상황: [[02 Présentations|Présentations]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]]

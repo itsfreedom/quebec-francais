@@ -1,4 +1,5 @@
 ---
+title: "domicile"
 type: word
 id: "domicile"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "le téléphone (domicile)"
     meaning: "집 전화"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le domicile"]
 ---
@@ -37,5 +36,4 @@ aliases: ["le domicile"]
 - **le téléphone (domicile)** — 집 전화
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#D|사전 D]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

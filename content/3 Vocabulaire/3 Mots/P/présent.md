@@ -1,4 +1,5 @@
 ---
+title: "présent"
 type: word
 id: "present"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["출석한, 있는", "현재의"]
 forms: []
 examples: []
 theme: "Classe"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["present"]
 ---
@@ -35,5 +34,4 @@ aliases: ["present"]
 출석 부를 때 남자는 présent, 여자는 présente ([[01 Genre des noms|Genre des noms]])
 
 ---
-📂 주제: [[17 Classe|Classe]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[17 Classe|Classe]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

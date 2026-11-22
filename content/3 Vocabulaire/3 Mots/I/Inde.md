@@ -1,4 +1,5 @@
 ---
+title: "Inde"
 type: word
 id: "inde"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["인도"]
 forms: []
 examples: []
 theme: "Pays du monde"
-lessons: ["20261118", "20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["inde", "l'Inde"]
 ---
@@ -31,5 +30,4 @@ aliases: ["inde", "l'Inde"]
 1. 인도
 
 ---
-📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[00 Dictionnaire#I|사전 I]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

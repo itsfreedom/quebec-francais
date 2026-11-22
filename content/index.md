@@ -1,5 +1,5 @@
 ---
-title: 퀘벡 불어 노트
+title: "퀘벡 불어 노트"
 ---
 
 몬트리올에서 정부 불어 과정(Francisation)을 들으며 매일 정리하는 노트예요. 🔊 발음기호를 누르면 캐나다 프랑스어 음성으로 들을 수 있어요.
@@ -10,7 +10,7 @@ title: 퀘벡 불어 노트
 - [[2026-11-18|[퀘벡 불어 1일차] 알파벳·발음 기초와 첫 자기소개]]
 
 ## 📚 책
-1. [[00 Grammaire|📐 문법]]
-2. [[00 Dialogues|🗣 대화]]
-3. [[00 Vocabulaire|📚 단어 · 표현]]
-4. [[00 Phonétique|🔤 발음]]
+1. [[1 Grammaire/index|📐 문법]]
+2. [[2 Dialogues/index|🗣 대화]]
+3. [[3 Vocabulaire/index|📚 단어 · 표현]]
+4. [[4 Phonétique/index|🔤 발음]]

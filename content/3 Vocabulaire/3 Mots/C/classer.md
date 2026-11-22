@@ -1,4 +1,5 @@
 ---
+title: "classer"
 type: word
 id: "classer"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "끌라세"
 examples: []
 theme: "Consignes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -44,5 +43,4 @@ aliases: []
 -er 동사, 끝 r 묵음 ([[02 Lettres muettes|Lettres muettes]]) · 명령형 → [[04 Impératif|Impératif]]
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#C|사전 C]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

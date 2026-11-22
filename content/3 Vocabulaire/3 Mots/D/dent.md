@@ -1,4 +1,5 @@
 ---
+title: "dent"
 type: word
 id: "dent"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["이", "치아"]
 forms: []
 examples: []
 theme: "Corps"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la dent"]
 ---
@@ -32,5 +31,4 @@ aliases: ["la dent"]
 2. 치아
 
 ---
-📂 주제: [[15 Corps|Corps]] · 🔤 [[00 Dictionnaire#D|사전 D]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[15 Corps|Corps]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

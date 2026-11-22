@@ -1,4 +1,5 @@
 ---
+title: "Quel est ton nom"
 type: sentence
 id: "quel-est-ton-nom"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "이름이 뭐야?"
 words: ["quel", "etre", "nom"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["quel-est-ton-nom"]
 ---
@@ -22,5 +21,4 @@ aliases: ["quel-est-ton-nom"]
 **단어**: [[quel]] · [[être]] · [[nom|le nom]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

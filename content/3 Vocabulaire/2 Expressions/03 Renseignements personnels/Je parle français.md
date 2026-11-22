@@ -1,4 +1,5 @@
 ---
+title: "Je parle français"
 type: sentence
 id: "je-parle-francais"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "나는 불어를 해요."
 words: ["je", "parler", "francais"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["je-parle-francais"]
 ---
@@ -22,5 +21,4 @@ aliases: ["je-parle-francais"]
 **단어**: [[je]] · [[parler]] · [[français]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

@@ -1,4 +1,5 @@
 ---
+title: "mademoiselle"
 type: word
 id: "mademoiselle"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["아가씨 (젊은 여성 존칭)"]
 forms: []
 examples: []
 theme: "Salutations"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 요즘은 나이와 상관없이 madame을 더 많이 써요
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

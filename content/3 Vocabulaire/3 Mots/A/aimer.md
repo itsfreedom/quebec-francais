@@ -1,4 +1,5 @@
 ---
+title: "aimer"
 type: word
 id: "aimer"
 lang: "fr"
@@ -28,9 +29,7 @@ examples:
   - text: "J'aime le karaté."
     meaning: "나는 가라데를 좋아해요."
 theme: "Verbes"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -56,5 +55,4 @@ aliases: []
 - **J'aime le karaté.** — 나는 가라데를 좋아해요.
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#A|사전 A]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

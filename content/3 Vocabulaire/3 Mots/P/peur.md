@@ -1,4 +1,5 @@
 ---
+title: "peur"
 type: word
 id: "peur"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "J'ai peur."
     meaning: "무서워요."
 theme: "Expressions avec avoir"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la peur"]
 ---
@@ -39,5 +38,4 @@ aliases: ["la peur"]
 avoir peur = 무섭다 ([[02 Verbe avoir|Verbe avoir]])
 
 ---
-📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[00 Dictionnaire#P|사전 P]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[12 Expressions avec avoir|Expressions avec avoir]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

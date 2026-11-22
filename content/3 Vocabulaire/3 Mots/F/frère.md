@@ -1,4 +1,5 @@
 ---
+title: "frère"
 type: word
 id: "frere"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "vos frères et vos sœurs"
     meaning: "당신의 형제자매"
 theme: "État civil et famille"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["frere", "le frère"]
 ---
@@ -39,5 +38,4 @@ aliases: ["frere", "le frère"]
 [[sœur|sœur]]와 짝
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

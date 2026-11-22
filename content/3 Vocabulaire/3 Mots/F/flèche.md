@@ -1,4 +1,5 @@
 ---
+title: "flèche"
 type: word
 id: "fleche"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["화살표"]
 forms: []
 examples: []
 theme: "Consignes"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["fleche", "la flèche"]
 ---
@@ -34,5 +33,4 @@ aliases: ["fleche", "la flèche"]
 è = [ɛ] ([[02 Accents|Accents]]), ch = [ʃ]
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

@@ -1,4 +1,5 @@
 ---
+title: "Classe"
 type: theme
 section: vocabulaire
 tags: [francisation, vocabulaire, theme]
@@ -7,7 +8,7 @@ aliases: [수업 용어]
 
 # Classe (수업 용어)
 
-← [[00 Thèmes|주제 목록]] · [[00 Vocabulaire|단어 목차]]
+← [[3 Vocabulaire/1 Thèmes/index|주제 목록]] · [[3 Vocabulaire/index|단어 목차]]
 
 관련: [[01 Alphabet|Alphabet]] (26글자 = 자음 20 + 모음 6)
 
@@ -21,9 +22,6 @@ aliases: [수업 용어]
 | [[voyelle\|la voyelle]] | [🔊 vwajɛl](_Audio/la-voyelle-4e750f.m4a) 부아옐 | 모음 |
 
 ## 🃏 플래시카드
-
-> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
-
 
 **[[consonne|la consonne]]** — 자음
 **[[féminin]] · féminine** — 여성의

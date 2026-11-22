@@ -1,4 +1,5 @@
 ---
+title: "oui"
 type: word
 id: "oui"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["네"]
 forms: []
 examples: []
 theme: "Salutations"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -31,5 +30,4 @@ aliases: []
 1. 네
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#O|사전 O]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

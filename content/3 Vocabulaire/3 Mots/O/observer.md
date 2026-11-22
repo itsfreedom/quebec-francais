@@ -1,4 +1,5 @@
 ---
+title: "observer"
 type: word
 id: "observer"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "옵세흐베"
 examples: []
 theme: "Consignes"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -41,5 +40,4 @@ aliases: []
 | observez | [🔊 ɔpsɛʁve](_Audio/observez-534a81.m4a) 옵세흐베 | 잘 보세요 |
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#O|사전 O]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

@@ -1,17 +1,17 @@
 ---
+title: "Accents"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique]
 aliases: [Accents, Caractères spéciaux, 특수문자, 악센트]
 ---
 
 # Accents (특수문자 · 악센트)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 ## 이름과 철자 말하기
 | 기호 | 이름 | 발음 | 철자 말하기 예시 |

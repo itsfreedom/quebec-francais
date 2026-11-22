@@ -1,4 +1,5 @@
 ---
+title: "ils"
 type: word
 id: "ils"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["그들은"]
 forms: []
 examples: []
 theme: "Pronoms"
-lessons: ["20261118", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 끝 s 묵음 ([[02 Lettres muettes|Lettres muettes]])
 
 ---
-📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[00 Dictionnaire#I|사전 I]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

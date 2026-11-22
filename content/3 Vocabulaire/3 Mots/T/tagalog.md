@@ -1,4 +1,5 @@
 ---
+title: "tagalog"
 type: word
 id: "tagalog"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["타갈로그어 (필리핀)"]
 forms: []
 examples: []
 theme: "Nationalités et langues"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le tagalog"]
 ---
@@ -34,5 +33,4 @@ aliases: ["le tagalog"]
 언어 이름은 남성 명사, 소문자: Je parle tagalog.
 
 ---
-📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[00 Dictionnaire#T|사전 T]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[10 Nationalités et langues|Nationalités et langues]] · 🔤 [[3 Vocabulaire/3 Mots/index#T|사전 T]]

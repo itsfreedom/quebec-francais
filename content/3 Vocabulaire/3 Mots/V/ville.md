@@ -1,4 +1,5 @@
 ---
+title: "ville"
 type: word
 id: "ville"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["도시"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261118", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la ville"]
 ---
@@ -34,5 +33,4 @@ aliases: ["la ville"]
 ille 예외: [il] ([[03 Voyelles composées|Voyelles composées]])
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

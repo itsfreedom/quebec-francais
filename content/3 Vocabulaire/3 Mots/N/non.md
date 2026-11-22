@@ -1,4 +1,5 @@
 ---
+title: "non"
 type: word
 id: "non"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Non, merci."
     meaning: "아니요, 괜찮아요."
 theme: "Salutations"
-lessons: ["20261118", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -39,5 +38,4 @@ aliases: []
 on = [[02 Voyelles nasales|비모음]] [ɔ̃]
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#N|사전 N]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

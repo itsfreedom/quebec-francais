@@ -1,4 +1,5 @@
 ---
+title: "salut"
 type: word
 id: "salut"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "Salut, ça va ?"
     meaning: "안녕, 잘 지내?"
 theme: "Salutations"
-lessons: ["20261118", "20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -39,5 +38,4 @@ aliases: []
 u = [y] ([[01 Voyelles orales|Voyelles orales]]), 끝 t 묵음 ([[02 Lettres muettes|Lettres muettes]])
 
 ---
-📂 주제: [[01 Salutations|Salutations]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]] · [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

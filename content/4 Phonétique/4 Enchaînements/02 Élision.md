@@ -1,17 +1,17 @@
 ---
+title: "Élision"
 type: concept
 lang: "fr"
 native: "ko"
 status: taught
 section: phonetique
-first: "[[2026-11-18]]"
 tags: [francisation, phonetique, grammaire]
 aliases: [Elision, Élision, 엘리지옹, 모음 탈락]
 ---
 
 # Élision (엘리지옹)
 
-← [[00 Phonétique|Phonétique]] · 처음 배운 수업: [[2026-11-18]]
+← [[4 Phonétique/index|Phonétique]] · 처음 배운
 
 모음이나 h 앞에서 **e나 a가 빠지고 아포스트로피(')**가 붙어요.
 

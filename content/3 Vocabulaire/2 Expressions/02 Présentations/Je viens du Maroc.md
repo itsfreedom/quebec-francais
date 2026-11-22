@@ -1,4 +1,5 @@
 ---
+title: "Je viens du Maroc"
 type: sentence
 id: "je-viens-du-maroc"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "나는 모로코에서 왔어요."
 words: ["je", "venir", "de", "maroc"]
 situation: "Présentations"
 dialogue: ""
-lessons: ["20261119"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["je-viens-du-maroc"]
 ---
@@ -22,5 +21,4 @@ aliases: ["je-viens-du-maroc"]
 **단어**: [[je]] · [[venir]] · [[de]] · [[Maroc|le Maroc]]
 
 ---
-💬 상황: [[02 Présentations|Présentations]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]]
+💬 상황: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]]

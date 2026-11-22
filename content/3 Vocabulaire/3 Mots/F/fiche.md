@@ -1,4 +1,5 @@
 ---
+title: "fiche"
 type: word
 id: "fiche"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "la fiche d'identité"
     meaning: "신상 카드"
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la fiche"]
 ---
@@ -37,5 +36,4 @@ aliases: ["la fiche"]
 - **la fiche d'identité** — 신상 카드
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#F|사전 F]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

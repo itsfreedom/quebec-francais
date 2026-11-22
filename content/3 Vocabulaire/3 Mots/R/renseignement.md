@@ -1,4 +1,5 @@
 ---
+title: "renseignement"
 type: word
 id: "renseignement"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "les renseignements personnels"
     meaning: "개인 정보"
 theme: "Formulaires et papiers"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le renseignement"]
 ---
@@ -40,5 +39,4 @@ aliases: ["le renseignement"]
 gn = [ɲ] ([[01 Consonnes|Consonnes]])
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#R|사전 R]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#R|사전 R]]

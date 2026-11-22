@@ -1,4 +1,5 @@
 ---
+title: "quartier"
 type: word
 id: "quartier"
 lang: "fr"
@@ -16,9 +17,7 @@ examples:
   - text: "le centre sportif de votre quartier"
     meaning: "동네 스포츠 센터"
 theme: "Lieux et objets"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le quartier"]
 ---
@@ -36,5 +35,4 @@ aliases: ["le quartier"]
 - **le centre sportif de votre quartier** — 동네 스포츠 센터
 
 ---
-📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[00 Dictionnaire#Q|사전 Q]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#Q|사전 Q]]

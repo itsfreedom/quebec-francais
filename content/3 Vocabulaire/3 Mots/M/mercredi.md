@@ -1,4 +1,5 @@
 ---
+title: "mercredi"
 type: word
 id: "mercredi"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["수요일"]
 forms: []
 examples: []
 theme: "Temps et jours"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["le mercredi"]
 ---
@@ -31,5 +30,4 @@ aliases: ["le mercredi"]
 1. 수요일
 
 ---
-📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

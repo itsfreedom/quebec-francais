@@ -1,4 +1,5 @@
 ---
+title: "J'ai la citoyenneté canadienne"
 type: sentence
 id: "jai-la-citoyennete-canadienne"
 lang: "fr"
@@ -8,9 +9,7 @@ meaning: "나는 캐나다 시민권이 있어요."
 words: ["avoir", "citoyennete", "canadien"]
 situation: "Renseignements personnels"
 dialogue: ""
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, sentence]
 aliases: ["jai-la-citoyennete-canadienne"]
 ---
@@ -22,5 +21,4 @@ aliases: ["jai-la-citoyennete-canadienne"]
 **단어**: [[avoir]] · [[citoyenneté|la citoyenneté]] · [[canadien]]
 
 ---
-💬 상황: [[03 Renseignements personnels|Renseignements personnels]]
-📅 나온 수업: [[2026-11-20|11/20]]
+💬 상황: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]

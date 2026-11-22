@@ -5,7 +5,6 @@ lang: "fr"
 native: "ko"
 title: "Se présenter"
 situation: "자기소개"
-lessons: ["20261118"]
 origin: "class"
 tags: [francisation, dialogue]
 aliases: ["자기소개"]
@@ -13,7 +12,7 @@ aliases: ["자기소개"]
 
 # Se présenter (자기소개)
 
-← [[00 Dialogues]] · 수업: [[2026-11-18]] · 💬 표현: [[02 Présentations|Présentations]]
+← [[2 Dialogues/index|Dialogues]] · 💬 표현: [[3 Vocabulaire/2 Expressions/02 Présentations/index|Présentations]]
 
 [▶ 이어서 듣기 (문장 사이 3초)](_Audio/dialogue-se-presenter-08fcb1.m4a) · 문장을 누르면 그 문장만 들려요
 

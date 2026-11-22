@@ -5,7 +5,6 @@ lang: "fr"
 native: "ko"
 title: "Au secrétariat"
 situation: "어학원 등록"
-lessons: ["20261119"]
 origin: "class"
 tags: [francisation, dialogue]
 aliases: ["어학원 등록"]
@@ -13,7 +12,7 @@ aliases: ["어학원 등록"]
 
 # Au secrétariat (어학원 등록)
 
-← [[00 Dialogues]] · 수업: [[2026-11-19]] · 💬 표현: [[03 Renseignements personnels|Renseignements personnels]]
+← [[2 Dialogues/index|Dialogues]] · 💬 표현: [[3 Vocabulaire/2 Expressions/03 Renseignements personnels/index|Renseignements personnels]]
 
 [▶ 이어서 듣기 (문장 사이 3초)](_Audio/dialogue-au-secretariat-e15726.m4a) · 문장을 누르면 그 문장만 들려요
 

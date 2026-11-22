@@ -1,4 +1,5 @@
 ---
+title: "s'abonner"
 type: word
 id: "sabonner"
 lang: "fr"
@@ -20,9 +21,7 @@ examples:
   - text: "J'aimerais m'abonner au gym."
     meaning: "헬스장에 가입하고 싶어요."
 theme: "Verbes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["sabonner"]
 ---
@@ -46,5 +45,4 @@ aliases: ["sabonner"]
 - **J'aimerais m'abonner au gym.** — 헬스장에 가입하고 싶어요.
 
 ---
-📂 주제: [[03 Verbes|Verbes]] · 🔤 [[00 Dictionnaire#S|사전 S]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

@@ -1,4 +1,5 @@
 ---
+title: "visionner"
 type: word
 id: "visionner"
 lang: "fr"
@@ -18,9 +19,7 @@ forms:
     pron_native: "비지오네"
 examples: []
 theme: "Consignes"
-lessons: ["20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -43,5 +42,4 @@ aliases: []
 명령형 → [[04 Impératif|Impératif]]
 
 ---
-📂 주제: [[18 Consignes|Consignes]] · 🔤 [[00 Dictionnaire#V|사전 V]]
-📅 나온 수업: [[2026-11-20|11/20]]
+📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

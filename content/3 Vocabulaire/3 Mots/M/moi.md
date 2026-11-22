@@ -1,4 +1,5 @@
 ---
+title: "moi"
 type: word
 id: "moi"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["나 (강조할 때)"]
 forms: []
 examples: []
 theme: "Pronoms"
-lessons: ["20261118"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: []
 ---
@@ -34,5 +33,4 @@ aliases: []
 oi = [wa]. 🍁 구어에서 '모에'로 들리기도 해요 ([[05 Accent québécois|Accent québécois]])
 
 ---
-📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[00 Dictionnaire#M|사전 M]]
-📅 나온 수업: [[2026-11-18|11/18]] [[2026-11-18|11/18 이링]]
+📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

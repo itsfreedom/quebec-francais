@@ -1,4 +1,5 @@
 ---
+title: "langue"
 type: word
 id: "langue"
 lang: "fr"
@@ -14,9 +15,7 @@ meaning: ["언어"]
 forms: []
 examples: []
 theme: "Formulaires et papiers"
-lessons: ["20261119", "20261120"]
 origin: "class"
-created: 2026-11-19
 tags: [francisation, word]
 aliases: ["la langue"]
 ---
@@ -34,5 +33,4 @@ aliases: ["la langue"]
 an = [ɑ̃], gue = [ɡ]
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[00 Dictionnaire#L|사전 L]]
-📅 나온 수업: [[2026-11-19|11/19]] [[2026-11-19|11/19 이링]] · [[2026-11-20|11/20]]
+📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#L|사전 L]]
