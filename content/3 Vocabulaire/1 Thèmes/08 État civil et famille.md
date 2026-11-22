@@ -32,20 +32,22 @@ aliases: [결혼 상태·가족·직업]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[blonde|la blonde]]** — 여자친구 (퀘벡) · 블롱드
-**[[célibataire]]** — 미혼의, 싱글 · 쎌리바떼흐
-**[[chum|le chum]]** — 남자친구 (퀘벡), 친구 · 쫌
-**[[couple|le couple]]** — 커플, 부부 · 꾸쁠
-**[[dame|la dame]]** — 부인, 여성 (공손한 말) · 담
-**[[divorcé]] · divorcée** — 이혼한 · 디보흐쎄
-**[[enfant|l'enfant]]** — 아이, 자녀 · 엉펑
-**[[étudiant|l'étudiant]] · étudiante** — 학생 (대학생) · 에뛰디엉
-**[[femme|la femme]]** — 여자, 아내 · 팜
-**[[frère|le frère]]** — 형제 (형·오빠·남동생) · 프헤흐
-**[[ingénieur|l'ingénieur]] · ingénieure** — 엔지니어 · 앵제니외흐
-**[[marié]] · mariée** — 결혼한 (기혼) · 마히에
-**[[parent|le parent]]** — 부모 (한 사람) · 빠헝
-**[[professeur|le professeur]] · professeure** — 선생님, 교수 · 프호페쐬흐
-**[[séparé]] · séparée** — 별거 중인 · 쎄빠헤
-**[[veuf]] · veuve** — 배우자를 잃은 (사별한) · 뵈프
+
+**[[blonde|la blonde]]** — 여자친구 (퀘벡)
+**[[célibataire]]** — 미혼의, 싱글
+**[[chum|le chum]]** — 남자친구 (퀘벡), 친구
+**[[couple|le couple]]** — 커플, 부부
+**[[dame|la dame]]** — 부인, 여성 (공손한 말)
+**[[divorcé]] · divorcée** — 이혼한
+**[[enfant|l'enfant]]** — 아이, 자녀
+**[[étudiant|l'étudiant]] · étudiante** — 학생 (대학생)
+**[[femme|la femme]]** — 여자, 아내
+**[[frère|le frère]]** — 형제 (형·오빠·남동생)
+**[[ingénieur|l'ingénieur]] · ingénieure** — 엔지니어
+**[[marié]] · mariée** — 결혼한 (기혼)
+**[[parent|le parent]]** — 부모 (한 사람)
+**[[professeur|le professeur]] · professeure** — 선생님, 교수
+**[[séparé]] · séparée** — 별거 중인
+**[[veuf]] · veuve** — 배우자를 잃은 (사별한)

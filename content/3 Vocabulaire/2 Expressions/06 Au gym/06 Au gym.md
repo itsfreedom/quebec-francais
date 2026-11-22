@@ -23,6 +23,8 @@ aliases: [헬스장 등록 · 가격 묻기]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 한국어 뜻을 보고 **불어 문장을 말해 보는** 연습이 가장 중요해요.
+
 
 **Bonjour, monsieur, j'aimerais m'abonner au gym, s'il vous plaît.** — 안녕하세요, 헬스장에 가입하고 싶어요.
 **Mais bien sûr ! Voulez-vous un abonnement annuel ou mensuel ?** — 물론이죠! 연간 회원권을 원하세요, 월간 회원권을 원하세요?

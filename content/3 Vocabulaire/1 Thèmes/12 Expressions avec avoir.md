@@ -21,9 +21,11 @@ aliases: [avoir 표현]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[faim|la faim]]** — 배고픔 · 팽
-**[[froid|le froid]]** — 추위 · 프후아
-**[[heure|l'heure]]** — 시간, ~시 · 외흐
-**[[peur|la peur]]** — 두려움 · 뾔흐
-**[[soif|la soif]]** — 목마름 · 수아프
+
+**[[faim|la faim]]** — 배고픔
+**[[froid|le froid]]** — 추위
+**[[heure|l'heure]]** — 시간, ~시
+**[[peur|la peur]]** — 두려움
+**[[soif|la soif]]** — 목마름

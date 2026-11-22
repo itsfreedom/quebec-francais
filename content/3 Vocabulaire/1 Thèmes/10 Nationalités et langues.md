@@ -37,25 +37,27 @@ aliases: [국적·언어]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[américain]] · américaine** — 미국 사람 · 아메히깽
-**[[anglais|le anglais]]** — 영어, 영국 사람 · 엉글레
-**[[bengali|le bengali]]** — 벵골어 · 뱅갈리
-**[[Canada|le Canada]]** — 캐나다 · 까나다
-**[[canadien]] · canadienne** — 캐나다 사람, 캐나다의 · 까나디앙
-**[[chinois]] · chinoise** — 중국 사람, 중국어 · 시누아
-**[[colombien]] · colombienne** — 콜롬비아 사람 · 꼴롱비앙
-**[[coréen]] · coréenne** — 한국 사람, 한국어 · 꼬헤앙
-**[[hindi|le hindi]]** — 힌디어 · 인디
-**[[indien]] · indienne** — 인도 사람 · 앵디앙
-**[[iranien]] · iranienne** — 이란 사람 · 이하니앙
-**[[libanais]] · libanaise** — 레바논 사람 · 리바네
-**[[pakistanais]] · pakistanaise** — 파키스탄 사람 · 빠끼스따네
-**[[persan|le persan]]** — 페르시아어 (이란어) · 뻬흐썽
-**[[philippin]] · philippine** — 필리핀 사람 · 필리빵
-**[[Philippines|les Philippines]]** — 필리핀 · 필리삔
-**[[québécois]] · québécoise** — 퀘벡 사람, 퀘벡의 · 께벡꾸아
-**[[syrien]] · syrienne** — 시리아 사람 · 씨히앙
-**[[tagalog|le tagalog]]** — 타갈로그어 (필리핀) · 따갈로그
-**[[tamoul|le tamoul]]** — 타밀어 · 따물
-**[[vietnamien]] · vietnamienne** — 베트남 사람, 베트남어 · 비엣나미앙
+
+**[[américain]] · américaine** — 미국 사람
+**[[anglais|le anglais]]** — 영어, 영국 사람
+**[[bengali|le bengali]]** — 벵골어
+**[[Canada|le Canada]]** — 캐나다
+**[[canadien]] · canadienne** — 캐나다 사람, 캐나다의
+**[[chinois]] · chinoise** — 중국 사람, 중국어
+**[[colombien]] · colombienne** — 콜롬비아 사람
+**[[coréen]] · coréenne** — 한국 사람, 한국어
+**[[hindi|le hindi]]** — 힌디어
+**[[indien]] · indienne** — 인도 사람
+**[[iranien]] · iranienne** — 이란 사람
+**[[libanais]] · libanaise** — 레바논 사람
+**[[pakistanais]] · pakistanaise** — 파키스탄 사람
+**[[persan|le persan]]** — 페르시아어 (이란어)
+**[[philippin]] · philippine** — 필리핀 사람
+**[[Philippines|les Philippines]]** — 필리핀
+**[[québécois]] · québécoise** — 퀘벡 사람, 퀘벡의
+**[[syrien]] · syrienne** — 시리아 사람
+**[[tagalog|le tagalog]]** — 타갈로그어 (필리핀)
+**[[tamoul|le tamoul]]** — 타밀어
+**[[vietnamien]] · vietnamienne** — 베트남 사람, 베트남어

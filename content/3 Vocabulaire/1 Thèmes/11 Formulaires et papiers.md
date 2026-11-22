@@ -51,39 +51,41 @@ aliases: [서류 작성]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[abonnement|l'abonnement]]** — 정기 회원권, 구독 · 아본느멍
-**[[actuel]] · actuelle** — 현재의 · 악뛰엘
-**[[adresse|l'adresse]]** — 주소 · 아드헤스
-**[[âge|l'âge]]** — 나이 · 아쥬
-**[[an|l'an]]** — 해, 살 (나이) · 앙
-**[[appartement|l'appartement]]** — 아파트 (한 세대), 집 호수 · 아빠흐뜨멍
-**[[avenue|l'avenue]]** — 대로, ~가(街) · 아브뉘
-**[[boulevard|le boulevard]]** — 대로, 큰길 · 불바흐
-**[[cellulaire|le cellulaire]]** — 휴대전화 · 쎌륄레흐
-**[[citoyenneté|la citoyenneté]]** — 시민권 · 씨뚜아옌떼
-**[[code postal|le code postal]]** — 우편번호 · 꼬드 뽀스딸
-**[[courriel|le courriel]]** — 이메일 · 꾸히엘
-**[[date|la date]]** — 날짜 · 다뜨
-**[[domicile|le domicile]]** — 집, 주거지 · 도미씰
-**[[école|l'école]]** — 학교 · 에꼴
-**[[élève|l'élève]]** — 학생 (수업 듣는 사람) · 엘레브
-**[[état civil|l'état civil]]** — 혼인 상태 (결혼 여부) · 에따 씨빌
-**[[famille|la famille]]** — 가족 · 파미으
-**[[fiche|la fiche]]** — 카드, 서식 · 피슈
-**[[formulaire|le formulaire]]** — 서식, 신청서 · 포흐뮐레흐
-**[[identité|l'identité]]** — 신원, 정체 · 이덩띠떼
-**[[inscription|l'inscription]]** — 등록 · 앵스크힙씨옹
-**[[langue|la langue]]** — 언어 · 랑그
-**[[naissance|la naissance]]** — 출생, 탄생 · 네쌍스
-**[[nationalité|la nationalité]]** — 국적 · 나씨오날리떼
-**[[numéro|le numéro]]** — 번호 · 뉘메호
-**[[origine|l'origine]]** — 출신 · 오히진
-**[[prénom|le prénom]]** — 이름 (성을 뺀 이름) · 프헤농
-**[[renseignement|le renseignement]]** — 정보, 안내 · 헝센느멍
-**[[s'inscrire]]** — 등록하다 · 쌩스크히흐
-**[[secrétaire|le/la secrétaire]]** — 비서, 사무 직원 · 스크헤떼흐
-**[[sexe|le sexe]]** — 성별 · 섹스
-**[[signature|la signature]]** — 서명 · 씨냐뛰흐
-**[[téléphone|le téléphone]]** — 전화 · 뗄레폰
-**[[ville|la ville]]** — 도시 · 빌
+
+**[[abonnement|l'abonnement]]** — 정기 회원권, 구독
+**[[actuel]] · actuelle** — 현재의
+**[[adresse|l'adresse]]** — 주소
+**[[âge|l'âge]]** — 나이
+**[[an|l'an]]** — 해, 살 (나이)
+**[[appartement|l'appartement]]** — 아파트 (한 세대), 집 호수
+**[[avenue|l'avenue]]** — 대로, ~가(街)
+**[[boulevard|le boulevard]]** — 대로, 큰길
+**[[cellulaire|le cellulaire]]** — 휴대전화
+**[[citoyenneté|la citoyenneté]]** — 시민권
+**[[code postal|le code postal]]** — 우편번호
+**[[courriel|le courriel]]** — 이메일
+**[[date|la date]]** — 날짜
+**[[domicile|le domicile]]** — 집, 주거지
+**[[école|l'école]]** — 학교
+**[[élève|l'élève]]** — 학생 (수업 듣는 사람)
+**[[état civil|l'état civil]]** — 혼인 상태 (결혼 여부)
+**[[famille|la famille]]** — 가족
+**[[fiche|la fiche]]** — 카드, 서식
+**[[formulaire|le formulaire]]** — 서식, 신청서
+**[[identité|l'identité]]** — 신원, 정체
+**[[inscription|l'inscription]]** — 등록
+**[[langue|la langue]]** — 언어
+**[[naissance|la naissance]]** — 출생, 탄생
+**[[nationalité|la nationalité]]** — 국적
+**[[numéro|le numéro]]** — 번호
+**[[origine|l'origine]]** — 출신
+**[[prénom|le prénom]]** — 이름 (성을 뺀 이름)
+**[[renseignement|le renseignement]]** — 정보, 안내
+**[[s'inscrire]]** — 등록하다
+**[[secrétaire|le/la secrétaire]]** — 비서, 사무 직원
+**[[sexe|le sexe]]** — 성별
+**[[signature|la signature]]** — 서명
+**[[téléphone|le téléphone]]** — 전화
+**[[ville|la ville]]** — 도시

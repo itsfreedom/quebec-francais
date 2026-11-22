@@ -21,11 +21,13 @@ aliases: [음식]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[agneau|l'agneau]]** — 어린 양, 양고기 · 아뇨
-**[[blé|le blé]]** — 밀 · 블레
-**[[chocolat|le chocolat]]** — 초콜릿 · 쇼꼴라
-**[[eau|l'eau]]** — 물 · 오
-**[[gâteau|le gâteau]]** — 케이크 · 갸또
-**[[goût|le goût]]** — 맛 · 구
-**[[œuf|l'œuf]]** — 달걀 · 외프
+
+**[[agneau|l'agneau]]** — 어린 양, 양고기
+**[[blé|le blé]]** — 밀
+**[[chocolat|le chocolat]]** — 초콜릿
+**[[eau|l'eau]]** — 물
+**[[gâteau|le gâteau]]** — 케이크
+**[[goût|le goût]]** — 맛
+**[[œuf|l'œuf]]** — 달걀

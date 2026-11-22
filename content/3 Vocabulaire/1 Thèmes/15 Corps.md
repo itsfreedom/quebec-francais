@@ -17,7 +17,9 @@ aliases: [몸]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[dent|la dent]]** — 이, 치아 · 덩
-**[[genou|le genou]]** — 무릎 · 즈누
-**[[nez|le nez]]** — 코 · 네
+
+**[[dent|la dent]]** — 이, 치아
+**[[genou|le genou]]** — 무릎
+**[[nez|le nez]]** — 코

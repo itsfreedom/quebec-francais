@@ -54,42 +54,44 @@ aliases: [지시문]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[aide|l'aide]]** — 도움 · 에드
-**[[associer]]** — 연결하다, 짝짓다 · 아쏘씨에
-**[[choisir]]** — 고르다 · 슈아지흐
-**[[classer]]** — 분류하다, 나누다 · 끌라세
-**[[cliquer]]** — 클릭하다 · 끌리께
-**[[compléter]]** — 채우다, 완성하다 · 꽁쁠레떼
-**[[comprendre]]** — 이해하다 · 꽁프헝드흐
-**[[dialogue|le dialogue]]** — 대화, 대화문 · 디알로그
-**[[écouter]]** — 듣다 · 에꾸떼
-**[[enregistrer]]** — 녹음하다, 저장하다 · 엉흐지스트헤
-**[[envoyer]]** — 보내다 · 엉부아이예
-**[[épeler]]** — 철자를 말하다 · 에쁠레
-**[[équipe|l'équipe]]** — 팀, 조 · 에끼쁘
-**[[exemple|l'exemple]]** — 예, 보기 · 에그장쁠
-**[[flèche|la flèche]]** — 화살표 · 플레슈
-**[[formel]] · formelle** — 격식 있는 (존댓말) · 포흐멜
-**[[identique]]** — 똑같은 · 이덩띠끄
-**[[informel]] · informelle** — 편한 (반말) · 앵포흐멜
-**[[lire]]** — 읽다 · 리흐
-**[[mot|le mot]]** — 단어, 낱말 · 모
-**[[observer]]** — 관찰하다, 잘 보다 · 옵세흐베
-**[[partenaire|le/la partenaire]]** — 짝, 파트너 · 빠흐뜨네흐
-**[[placer]]** — 놓다, 배치하다 · 쁠라세
-**[[pratiquer]]** — 연습하다 · 프하띠께
-**[[prononcer]]** — 발음하다 · 프호농쎄
-**[[prononciation|la prononciation]]** — 발음 · 프호농씨아씨옹
-**[[question|la question]]** — 질문 · 께스띠옹
-**[[regarder]]** — 보다 · 흐가흐데
-**[[relier]]** — 잇다, 연결하다 · 흘리에
-**[[remplir]]** — 채우다, 작성하다 · 헝쁠리흐
-**[[répéter]]** — 따라 하다, 반복하다 · 헤뻬떼
-**[[répondre]]** — 대답하다 · 헤뽕드흐
-**[[réponse|la réponse]]** — 대답 · 헤뽕스
-**[[selon]]** — ~에 따라 · 슬롱
-**[[surligner]]** — 형광펜으로 칠하다 · 쉬흐리녜
-**[[transcrire]]** — 옮겨 적다 · 트헝스크히흐
-**[[visionner]]** — (영상을) 보다 · 비지오네
-**[[voix|la voix]]** — 목소리 · 부아
+
+**[[aide|l'aide]]** — 도움
+**[[associer]]** — 연결하다, 짝짓다
+**[[choisir]]** — 고르다
+**[[classer]]** — 분류하다, 나누다
+**[[cliquer]]** — 클릭하다
+**[[compléter]]** — 채우다, 완성하다
+**[[comprendre]]** — 이해하다
+**[[dialogue|le dialogue]]** — 대화, 대화문
+**[[écouter]]** — 듣다
+**[[enregistrer]]** — 녹음하다, 저장하다
+**[[envoyer]]** — 보내다
+**[[épeler]]** — 철자를 말하다
+**[[équipe|l'équipe]]** — 팀, 조
+**[[exemple|l'exemple]]** — 예, 보기
+**[[flèche|la flèche]]** — 화살표
+**[[formel]] · formelle** — 격식 있는 (존댓말)
+**[[identique]]** — 똑같은
+**[[informel]] · informelle** — 편한 (반말)
+**[[lire]]** — 읽다
+**[[mot|le mot]]** — 단어, 낱말
+**[[observer]]** — 관찰하다, 잘 보다
+**[[partenaire|le/la partenaire]]** — 짝, 파트너
+**[[placer]]** — 놓다, 배치하다
+**[[pratiquer]]** — 연습하다
+**[[prononcer]]** — 발음하다
+**[[prononciation|la prononciation]]** — 발음
+**[[question|la question]]** — 질문
+**[[regarder]]** — 보다
+**[[relier]]** — 잇다, 연결하다
+**[[remplir]]** — 채우다, 작성하다
+**[[répéter]]** — 따라 하다, 반복하다
+**[[répondre]]** — 대답하다
+**[[réponse|la réponse]]** — 대답
+**[[selon]]** — ~에 따라
+**[[surligner]]** — 형광펜으로 칠하다
+**[[transcrire]]** — 옮겨 적다
+**[[visionner]]** — (영상을) 보다
+**[[voix|la voix]]** — 목소리

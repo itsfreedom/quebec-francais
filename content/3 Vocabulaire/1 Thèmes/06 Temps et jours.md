@@ -42,30 +42,32 @@ aliases: [시간·날]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[année|l'année]]** — 해, 년 · 아네
-**[[annuel]] · annuelle** — 매년의, 연간 · 아뉘엘
-**[[août]]** — 8월 · 우
-**[[aujourd'hui]]** — 오늘 · 오주흐뒤
-**[[avril]]** — 4월 · 아브힐
-**[[demain]]** — 내일 · 드망
-**[[dimanche|le dimanche]]** — 일요일 · 디망슈
-**[[hier]]** — 어제 · 이에흐
-**[[janvier]]** — 1월 · 장비에
-**[[jeudi|le jeudi]]** — 목요일 · 죄디
-**[[jour|le jour]]** — 날, 일 · 주흐
-**[[juillet]]** — 7월 · 쥐이예
-**[[juin]]** — 6월 · 쥐앙
-**[[lundi|le lundi]]** — 월요일 · 랑디
-**[[mai]]** — 5월 · 메
-**[[mardi|le mardi]]** — 화요일 · 마흐디
-**[[mars]]** — 3월 · 마흐스
-**[[matin|le matin]]** — 아침 · 마땅
-**[[mensuel]] · mensuelle** — 매달의, 월간 · 멍쒸엘
-**[[mercredi|le mercredi]]** — 수요일 · 메흐크흐디
-**[[mois|le mois]]** — 달, 월 · 무아
-**[[Noël]]** — 크리스마스 · 노엘
-**[[novembre]]** — 11월 · 노벙브흐
-**[[samedi|le samedi]]** — 토요일 · 쌈디
-**[[temps|le temps]]** — 시간, 날씨 · 떵
-**[[vendredi|le vendredi]]** — 금요일 · 벙드흐디
+
+**[[année|l'année]]** — 해, 년
+**[[annuel]] · annuelle** — 매년의, 연간
+**[[août]]** — 8월
+**[[aujourd'hui]]** — 오늘
+**[[avril]]** — 4월
+**[[demain]]** — 내일
+**[[dimanche|le dimanche]]** — 일요일
+**[[hier]]** — 어제
+**[[janvier]]** — 1월
+**[[jeudi|le jeudi]]** — 목요일
+**[[jour|le jour]]** — 날, 일
+**[[juillet]]** — 7월
+**[[juin]]** — 6월
+**[[lundi|le lundi]]** — 월요일
+**[[mai]]** — 5월
+**[[mardi|le mardi]]** — 화요일
+**[[mars]]** — 3월
+**[[matin|le matin]]** — 아침
+**[[mensuel]] · mensuelle** — 매달의, 월간
+**[[mercredi|le mercredi]]** — 수요일
+**[[mois|le mois]]** — 달, 월
+**[[Noël]]** — 크리스마스
+**[[novembre]]** — 11월
+**[[samedi|le samedi]]** — 토요일
+**[[temps|le temps]]** — 시간, 날씨
+**[[vendredi|le vendredi]]** — 금요일

@@ -26,14 +26,16 @@ aliases: [사람]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[ami|l'ami]] · amie** — 친구 · 아미
-**[[anglophone]]** — 영어를 쓰는 (사람) · 앙글로폰
-**[[dentiste|le/la dentiste]]** — 치과의사 · 덩띠스뜨
-**[[fille|la fille]]** — 딸, 소녀 · 피으
-**[[français]] · française** — 프랑스어, 프랑스의 · 프항쎄
-**[[italien]] · italienne** — 이탈리아의, 이탈리아 사람 · 이딸리앙
-**[[maman|la maman]]** — 엄마 · 마망
-**[[maquilleur|le maquilleur]] · maquilleuse** — 메이크업 아티스트 · 마끼외흐
-**[[patron|le patron]] · patronne** — 사장, 상사 · 빠트홍
-**[[sœur|la sœur]]** — 자매 (언니·누나·여동생) · 쐬흐
+
+**[[ami|l'ami]] · amie** — 친구
+**[[anglophone]]** — 영어를 쓰는 (사람)
+**[[dentiste|le/la dentiste]]** — 치과의사
+**[[fille|la fille]]** — 딸, 소녀
+**[[français]] · française** — 프랑스어, 프랑스의
+**[[italien]] · italienne** — 이탈리아의, 이탈리아 사람
+**[[maman|la maman]]** — 엄마
+**[[maquilleur|le maquilleur]] · maquilleuse** — 메이크업 아티스트
+**[[patron|le patron]] · patronne** — 사장, 상사
+**[[sœur|la sœur]]** — 자매 (언니·누나·여동생)

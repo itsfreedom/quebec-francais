@@ -47,34 +47,36 @@ aliases: [숫자]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[zéro]]** — 0 · 제호
-**[[un]]** — 1 · 앙
-**[[deux]]** — 2 · 되
-**[[trois]]** — 3 · 트후아
-**[[quatre]]** — 4 · 까트흐
-**[[cinq]]** — 5 · 쌩끄
-**[[six]]** — 6 · 씨스
-**[[sept]]** — 7 · 쎄뜨
-**[[huit]]** — 8 · 위뜨
-**[[neuf]]** — 9 · 뇌프
-**[[dix]]** — 10 · 디스
-**[[onze]]** — 11 · 옹즈
-**[[douze]]** — 12 · 두즈
-**[[treize]]** — 13 · 트헤즈
-**[[quatorze]]** — 14 · 까또흐즈
-**[[quinze]]** — 15 · 깽즈
-**[[seize]]** — 16 · 쎄즈
-**[[vingt]]** — 20 · 뱅
-**[[trente]]** — 30 · 트헝뜨
-**[[quarante]]** — 40 · 까헝뜨
-**[[cinquante]]** — 50 · 쌩껑뜨
-**[[soixante]]** — 60 · 수아썽뜨
-**[[soixante-dix]]** — 70 · 수아썽뜨 디스
-**[[quatre-vingts]]** — 80 · 까트흐 뱅
-**[[quatre-vingt-dix]]** — 90 · 까트흐 뱅 디스
-**[[cent]]** — 100 · 썽
-**[[mille]]** — 1000 · 밀
-**[[million]]** — 1 000 000 · 밀리옹
-**[[chiffre|le chiffre]]** — 숫자 (0~9 한 자리) · 시프흐
-**[[nombre|le nombre]]** — 수 · 농브흐
+
+**[[zéro]]** — 0
+**[[un]]** — 1
+**[[deux]]** — 2
+**[[trois]]** — 3
+**[[quatre]]** — 4
+**[[cinq]]** — 5
+**[[six]]** — 6
+**[[sept]]** — 7
+**[[huit]]** — 8
+**[[neuf]]** — 9
+**[[dix]]** — 10
+**[[onze]]** — 11
+**[[douze]]** — 12
+**[[treize]]** — 13
+**[[quatorze]]** — 14
+**[[quinze]]** — 15
+**[[seize]]** — 16
+**[[vingt]]** — 20
+**[[trente]]** — 30
+**[[quarante]]** — 40
+**[[cinquante]]** — 50
+**[[soixante]]** — 60
+**[[soixante-dix]]** — 70
+**[[quatre-vingts]]** — 80
+**[[quatre-vingt-dix]]** — 90
+**[[cent]]** — 100
+**[[mille]]** — 1000
+**[[million]]** — 1 000 000
+**[[chiffre|le chiffre]]** — 숫자 (0~9 한 자리)
+**[[nombre|le nombre]]** — 수

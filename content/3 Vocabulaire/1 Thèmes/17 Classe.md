@@ -22,10 +22,12 @@ aliases: [수업 용어]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[consonne|la consonne]]** — 자음 · 꽁쏜
-**[[féminin]] · féminine** — 여성의 · 페미낭
-**[[lettre|la lettre]]** — 글자, 편지 · 레트흐
-**[[masculin]] · masculine** — 남성의 · 마스뀔랑
-**[[présent]] · présente** — 출석한, 있는, 현재의 · 프헤정
-**[[voyelle|la voyelle]]** — 모음 · 부아옐
+
+**[[consonne|la consonne]]** — 자음
+**[[féminin]] · féminine** — 여성의
+**[[lettre|la lettre]]** — 글자, 편지
+**[[masculin]] · masculine** — 남성의
+**[[présent]] · présente** — 출석한, 있는, 현재의
+**[[voyelle|la voyelle]]** — 모음

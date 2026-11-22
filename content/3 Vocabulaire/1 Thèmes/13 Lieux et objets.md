@@ -44,34 +44,36 @@ aliases: [장소·물건]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[auto|l'auto]]** — 자동차 · 오또
-**[[banc|le banc]]** — 벤치 · 방
-**[[bateau|le bateau]]** — 배 · 바또
-**[[beau]] · belle** — 아름다운, 멋진 · 보
-**[[centre|le centre]]** — 센터, 중심 · 썽트흐
-**[[chemin|le chemin]]** — 길, 경로 · 슈망
-**[[coiffure|la coiffure]]** — 헤어스타일, 미용 · 꾸아퓌흐
-**[[crayon|le crayon]]** — 연필 · 크헤이옹
-**[[dollar|le dollar]]** — 달러 · 돌라흐
-**[[fond|le fond]]** — 바닥, 깊은 곳 · 퐁
-**[[gratuit]] · gratuite** — 무료의 · 그하뛰
-**[[gym|le gym]]** — 헬스장 · 짐
-**[[lit|le lit]]** — 침대 · 리
-**[[maison|la maison]]** — 집 · 메종
-**[[mode|la mode]]** — 패션, 유행 · 모드
-**[[nom|le nom]]** — 이름 · 농
-**[[ordinateur|l'ordinateur]]** — 컴퓨터 · 오흐디나뙤흐
-**[[parking|le parking]]** — 주차장 · 빠흐낑
-**[[pile|la pile]]** — 건전지, 더미 · 삘
-**[[produit|le produit]]** — 제품 · 프호뒤
-**[[projet|le projet]]** — 프로젝트, 계획 · 프호제
-**[[quartier|le quartier]]** — 동네 · 까흐띠에
-**[[rue|la rue]]** — 길, 거리 · 휘
-**[[site|le site]]** — 사이트, 장소 · 씨뜨
-**[[société|la société]]** — 사회, 회사 · 쏘시에떼
-**[[sport|le sport]]** — 운동, 스포츠 · 스뽀흐
-**[[sportif]] · sportive** — 운동의, 운동을 좋아하는 · 스뽀흐띠프
-**[[tâche|la tâche]]** — 일, 과제 · 따슈
-**[[vent|le vent]]** — 바람 · 벙
-**[[vue|la vue]]** — 시야, 경치 · 뷔
+
+**[[auto|l'auto]]** — 자동차
+**[[banc|le banc]]** — 벤치
+**[[bateau|le bateau]]** — 배
+**[[beau]] · belle** — 아름다운, 멋진
+**[[centre|le centre]]** — 센터, 중심
+**[[chemin|le chemin]]** — 길, 경로
+**[[coiffure|la coiffure]]** — 헤어스타일, 미용
+**[[crayon|le crayon]]** — 연필
+**[[dollar|le dollar]]** — 달러
+**[[fond|le fond]]** — 바닥, 깊은 곳
+**[[gratuit]] · gratuite** — 무료의
+**[[gym|le gym]]** — 헬스장
+**[[lit|le lit]]** — 침대
+**[[maison|la maison]]** — 집
+**[[mode|la mode]]** — 패션, 유행
+**[[nom|le nom]]** — 이름
+**[[ordinateur|l'ordinateur]]** — 컴퓨터
+**[[parking|le parking]]** — 주차장
+**[[pile|la pile]]** — 건전지, 더미
+**[[produit|le produit]]** — 제품
+**[[projet|le projet]]** — 프로젝트, 계획
+**[[quartier|le quartier]]** — 동네
+**[[rue|la rue]]** — 길, 거리
+**[[site|le site]]** — 사이트, 장소
+**[[société|la société]]** — 사회, 회사
+**[[sport|le sport]]** — 운동, 스포츠
+**[[sportif]] · sportive** — 운동의, 운동을 좋아하는
+**[[tâche|la tâche]]** — 일, 과제
+**[[vent|le vent]]** — 바람
+**[[vue|la vue]]** — 시야, 경치

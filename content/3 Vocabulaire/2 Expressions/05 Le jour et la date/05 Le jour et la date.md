@@ -17,6 +17,8 @@ aliases: [오늘 · 어제 · 내일]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 한국어 뜻을 보고 **불어 문장을 말해 보는** 연습이 가장 중요해요.
+
 
 **Aujourd'hui, nous sommes mercredi.** — 오늘은 수요일이에요.
 **Hier, nous avons été mardi.** — 어제는 화요일이었어요.

@@ -27,15 +27,17 @@ aliases: [나라]
 
 ## 🃏 플래시카드
 
+> [!tip] 양방향 카드예요. 불어를 보고 뜻을, **뜻을 보고 불어를** 떠올려요.
 
-**[[arabe|l'arabe]]** — 아랍어 · 아합
-**[[Chili|le Chili]]** — 칠레 · 실리
-**[[Chine|la Chine]]** — 중국 · 신
-**[[Corée|la Corée]]** — 한국 · 꼬헤
-**[[Érythrée|l'Érythrée]]** — 에리트레아 · 에히트헤
-**[[espagnol|l'espagnol]] · espagnole** — 스페인어 · 에스빠뇰
-**[[Inde|l'Inde]]** — 인도 · 앵드
-**[[Libye|la Libye]]** — 리비아 · 리비
-**[[Maroc|le Maroc]]** — 모로코 · 마혹
-**[[pays|le pays]]** — 나라 · 뻬이
-**[[Ukraine|l'Ukraine]]** — 우크라이나 · 위크헨
+
+**[[arabe|l'arabe]]** — 아랍어
+**[[Chili|le Chili]]** — 칠레
+**[[Chine|la Chine]]** — 중국
+**[[Corée|la Corée]]** — 한국
+**[[Érythrée|l'Érythrée]]** — 에리트레아
+**[[espagnol|l'espagnol]] · espagnole** — 스페인어
+**[[Inde|l'Inde]]** — 인도
+**[[Libye|la Libye]]** — 리비아
+**[[Maroc|le Maroc]]** — 모로코
+**[[pays|le pays]]** — 나라
+**[[Ukraine|l'Ukraine]]** — 우크라이나
