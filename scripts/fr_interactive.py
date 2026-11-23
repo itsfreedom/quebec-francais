@@ -168,6 +168,29 @@ def transform(t):
     fm, body = frontmatter(t)
     hints = fval(fm, 'words') or []
     head = t[:len(t) - len(body)]
+    # 0) 대화문 정리: 대화와 번역 떼기 · 대화 발음 칸 빼기 · 단어 표는 단어 | 🔊 발음 | 뜻
+    body = re.sub(r'(?m)^(>.*)\n(?=> 📖 \*\*번역\*\*)', r'\1\n\n', body)
+    body = re.sub(r'(?m)^> (?:💡 \*\*발음\*\*|\[!tip\][-+]? 발음)[ \t]*\n(?=> \*\*[^*\n]+\*\* : )(?:>.*(?:\n|$))*\n?', '', body)
+    body = re.sub(r'(?m)^(>[^\n]*)\n\n(?=\| 단어 \| 발음 \| 뜻 \|)', r'\1\n\n**📝 단어**\n\n', body)
+    def row(m):
+        pre, w, ipa, rest = m.group(1), m.group(2), m.group(3), m.group(4)
+        a = re.search(r'\s*\[🔊\]\(_Audio/([^)\s]+)\)\s*$', w)
+        name = re.sub(r'\[\[(?:[^\]|]*\\?\|)?([^\]]+)\]\]', r'\1', re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', w)).split(' (')[0].replace('🔊', '').strip()
+        sid = PHRASE.get(norm(name)) or (lookup(name.split()[-1]) if name else None)
+        if a: w, f = w[:a.start()], a.group(1)
+        else: f = WORDS[sid]['audio'] if sid and WORDS[sid]['audio'] in HAVE else None
+        if not f: return m.group(0)
+        if sid and '[' not in w: w = f'[{w.strip()}](<{WORDS[sid]["path"]}>)'   # 단어 칸: 마우스 올리면 단어 팝업
+        return f'{pre}{w.strip()} | [🔊 {ipa}](_Audio/{f}){rest}'
+    body = re.sub(r'(?m)^((?:> )?\| )(.+?) \| `?\[(?!🔊)([^\]\n]+)\]`?((?: [^|\n]*)? \|[^\n]*)$', row, body)
+    def plain(m):
+        name = m.group(2).split(' (')[0].strip(); sid = PHRASE.get(norm(name)) or (lookup(name.split()[-1]) if name else None)
+        if not sid or norm(WORDS[sid]['text']).split()[-1] != norm(name).split()[-1]: return m.group(0)
+        return f'{m.group(1)}[{m.group(2)}](<{WORDS[sid]["path"]}>) | [🔊 '
+    body = re.sub(r'(?m)^((?:> )?\| )([^|\[\]\n*]+?) \| \[🔊 ', plain, body)   # 표의 단어 칸 → 단어 팝업
+    body = re.sub(r'(?m)^ · (대화문 노트: )(\d+ [^\n\]]+?)[ \t]*$', lambda m: f"{m.group(1)}[[{m.group(2)}|{re.sub(r'^\d+ ', '', m.group(2))}]]", body)
+    body = re.sub(r'( · 대화문 노트: )(\d+ [^\n\]]+?)[ \t]*$', lambda m: f"{m.group(1)}[[{m.group(2)}|{re.sub(r'^\d+ ', '', m.group(2))}]]", body, flags=re.M)
+    body = body.replace('발음은 IPA와 한글 발음을 같이 적었어요. 한글 발음은 대략적인 참고용이에요.', '단어와 문장은 누르면 소리가 나요.')
     # 1) 문장 노트: "[🔊 듣기](소리) · 👉 뜻" → "**문장** 🔊" + "👉 뜻"
     if fval(fm, 'type') == 'sentence' and fval(fm, 'text'):
         body = re.sub(r'(?m)^\[🔊 듣기\]' + LINK + r' · 👉 (.*)$',
