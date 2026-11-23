@@ -145,6 +145,27 @@ def segments(s, hints=()):
             out[k] = (seg, out[k+1][1], out[k+1][2])
     return out
 
+POSKO = [('noun', '명사'), ('pronoun', '대명사'), ('verb', '동사'), ('adjective', '형용사'), ('adverb', '부사'), ('number', '수'),
+         ('preposition', '전치사'), ('conjunction', '접속사'), ('article', '관사 · 한정사'), ('determiner', '관사 · 한정사'), ('interjection', '감탄사')]
+def pos_group(m):
+    q, rows = m.group(1), [r for r in m.group(2).split('\n') if r.strip()]
+    if any(re.match(r'(?:> )?\| \*\*[^*]+\*\* \| \|', r) for r in rows): return m.group(0)   # 이미 묶음
+    BYPATH = {w['path']: k for k, w in WORDS.items()}
+    def pos(r):
+        c = r.split('|')[1] if r.count('|') > 2 else r
+        pm = re.search(r'<([^>#]+\.md)', c); sid = BYPATH.get(pm.group(1)) if pm else None
+        if not sid:
+            wm = re.search(r'\[\[([^\]|\\]+)', c); sid = (PHRASE.get(norm(wm.group(1))) or lookup(wm.group(1))) if wm else None
+        p = WORDS[sid]['pos'] if sid else ''
+        return next((ko for en, ko in POSKO if en == p), '표현 · 기타')
+    order = []; groups = {}
+    for r in rows:
+        k = pos(r); groups.setdefault(k, []).append(r)
+    keys = [ko for _, ko in POSKO if ko in groups]; keys = list(dict.fromkeys(keys)) + (['표현 · 기타'] if '표현 · 기타' in groups else [])
+    if len(keys) < 2: return m.group(0)
+    out = [f'{q}| 단어 | 발음 | 뜻 |', f'{q}|---|---|---|']
+    for k in keys: out += [f'{q}| **{k}** | | |'] + groups[k]
+    return '\n'.join(out) + '\n'
 def wlink(seg, sid, f, t):
     """단어 링크: 마우스 올리면 단어 노트 팝업, 누르면 그 모양 그대로의 소리 (#snd-파일)"""
     return f'[{seg}](<{WORDS[sid]["path"]}#snd-{f[:-4]}> "{t}")'
@@ -231,6 +252,9 @@ def transform(t):
         if not cands or m.group(3) + '.m4a' in cands: return m.group(0)
         return f'[{m.group(1)}](<{m.group(2)}#snd-{cands[0][:-4]}> "{m.group(4)}")'
     body = re.sub(r'\[([^\[\]\n]+)\]\(<([^>#]+\.md)#snd-([^>]+)> "([^"]*)"\)', up, body)
+    # 9) 수업·대화의 단어 표를 품사별로 묶기 (명사 → 대명사 → 동사 …)
+    if fval(fm, 'type') in (None, '', 'dialogue'):   # 수업 페이지·대화 노트만 (주제 노트는 자주 쓰는 순서 그대로)
+        body = re.sub(r'(?m)^((?:> )?)\| 단어 \| 발음 \| 뜻 \|\n(?:> )?\|---\|---\|---\|\n((?:(?:> )?\|.*\|[ \t]*(?:\n|$))+)', pos_group, body)
     # 8) 한글 발음 표기 빼기 (소리로 들으니까 · 발음기호는 그대로)
     body = strip_hangul(body)
     return head + body
