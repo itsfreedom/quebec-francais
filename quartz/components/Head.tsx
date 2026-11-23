@@ -132,6 +132,8 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        <link rel="apple-touch-icon" sizes="180x180" href={joinSegments(baseDir, "static/apple-touch-icon.png")} />
+        <meta name="apple-mobile-web-app-title" content="퀘벡 불어" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
