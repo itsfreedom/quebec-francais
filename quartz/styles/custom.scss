@@ -59,3 +59,11 @@ a.internal {
 .page .center > hr {
   display: none;
 }
+
+// 접는 상자(단어 묶음 등) 사이 간격, 상자 안 표 위아래 여백
+.callout {
+  margin: 1.1rem 0 !important;
+}
+.callout .callout-content table {
+  margin: 0.6rem 0 0.4rem 0;
+}
