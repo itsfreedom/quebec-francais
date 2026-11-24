@@ -12,7 +12,7 @@ feminine: "amie"
 ipa: "ami"
 pron_native: "아미"
 meaning: ["친구"]
-display: "un ami"
+display: "un(e) ami(e)"
 display_ipa: "œ̃n‿ami"
 display_say: "un ami"
 forms: []

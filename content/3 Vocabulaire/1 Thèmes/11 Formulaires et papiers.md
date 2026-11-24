@@ -10,7 +10,7 @@ aliases: [서류 작성]
 | 단어 | 발음 | 뜻 |
 |---|---|---|
 | [[abonnement\|un abonnement]] | [🔊 œ̃n‿abɔnmɑ̃](_Audio/un-abonnement-64f5f5.m4a) | 정기 회원권, 구독 |
-| [[actuel]] · actuelle | [🔊 aktɥɛl](_Audio/actuel-d04fe4.m4a) | 현재의 |
+| [[actuel\|actuel(le)]] | [🔊 aktɥɛl](_Audio/actuel-d04fe4.m4a) | 현재의 |
 | [[adresse\|une adresse]] | [🔊 ynadʁɛs](_Audio/une-adresse-9f738b.m4a) | 주소 |
 | [[âge\|l'âge]] (m.) | [🔊 lɑʒ](_Audio/l-age-88a520.m4a) | 나이 |
 | [[an\|un an]] | [🔊 œ̃n‿ɑ̃](_Audio/un-an-4e5605.m4a) | 해, 살 (나이) |

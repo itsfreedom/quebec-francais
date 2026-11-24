@@ -12,7 +12,7 @@ feminine: "américaine"
 ipa: "ameʁikɛ̃"
 pron_native: "아메히깽"
 meaning: ["미국 사람"]
-display: "américain"
+display: "américain(e)"
 display_ipa: "ameʁikɛ̃"
 display_say: "américain"
 forms:

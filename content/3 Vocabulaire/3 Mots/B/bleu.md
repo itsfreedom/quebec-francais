@@ -12,7 +12,7 @@ feminine: "bleue"
 ipa: "blø"
 pron_native: "블뢰"
 meaning: ["파란"]
-display: "bleu"
+display: "bleu(e)"
 display_ipa: "blø"
 display_say: "bleu"
 forms: []

@@ -12,7 +12,7 @@ feminine: "coréenne"
 ipa: "kɔʁeɛ̃"
 pron_native: "꼬헤앙"
 meaning: ["한국 사람", "한국어"]
-display: "coréen"
+display: "coréen(ne)"
 display_ipa: "kɔʁeɛ̃"
 display_say: "coréen"
 forms:

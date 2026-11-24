@@ -12,7 +12,7 @@ feminine: "iranienne"
 ipa: "iʁanjɛ̃"
 pron_native: "이하니앙"
 meaning: ["이란 사람"]
-display: "iranien"
+display: "iranien(ne)"
 display_ipa: "iʁanjɛ̃"
 display_say: "iranien"
 forms:

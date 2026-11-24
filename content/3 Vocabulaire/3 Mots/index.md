@@ -116,6 +116,7 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[douze]] — 12
 - [[drôle]] — 웃긴, 재미있는
 - [[du]] — ~의, ~에서 (de + le)
+- [[dur]] — 딱딱한, 어려운
 
 ## E
 - [[eau|l'eau]] — 물
@@ -163,6 +164,7 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[genou|le genou]] — 무릎
 - [[goût|le goût]] — 맛
 - [[gratuit]] — 무료의
+- [[guitare|la guitare]] — 기타 (악기)
 - [[gym|le gym]] — 헬스장
 
 ## H
@@ -171,6 +173,7 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[heureux]] — 행복한
 - [[hier]] — 어제
 - [[hindi|le hindi]] — 힌디어
+- [[hôtel|l'hôtel]] — 호텔
 - [[huit]] — 8
 
 ## I
@@ -217,6 +220,7 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[mai]] — 5월
 - [[maison|la maison]] — 집
 - [[maman|la maman]] — 엄마
+- [[manger]] — 먹다
 - [[maquilleur|le maquilleur]] — 메이크업 아티스트
 - [[mardi|le mardi]] — 화요일
 - [[marié]] — 결혼한 (기혼)
@@ -234,12 +238,14 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[mois|le mois]] — 달, 월
 - [[mon]] — 나의 (남성 명사 앞)
 - [[monsieur]] — ~씨, 선생님 (남성 존칭)
+- [[Montréal]] — 몬트리올 (도시)
 - [[mot|le mot]] — 단어, 낱말
 
 ## N
 - [[naissance|la naissance]] — 출생, 탄생
 - [[nationalité|la nationalité]] — 국적
 - [[ne]] — (ne … pas) ~아니다
+- [[neige|la neige]] — 눈 (날씨)
 - [[neuf]] — 9
 - [[nez|le nez]] — 코
 - [[Noël]] — 크리스마스
@@ -265,6 +271,7 @@ aliases: [사전, 단어 색인, 알파벳순]
 ## P
 - [[pakistanais]] — 파키스탄 사람
 - [[par]] — ~마다, ~으로
+- [[parc|le parc]] — 공원
 - [[parent|le parent]] — 부모 (한 사람)
 - [[parking|le parking]] — 주차장
 - [[parler]] — 말하다
@@ -274,12 +281,16 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[patron|le patron]] — 사장, 상사
 - [[pays|le pays]] — 나라
 - [[persan|le persan]] — 페르시아어 (이란어)
+- [[petit]] — 작은
 - [[peur|la peur]] — 두려움
 - [[philippin]] — 필리핀 사람
 - [[Philippines|les Philippines]] — 필리핀
+- [[photo|la photo]] — 사진
 - [[pile|la pile]] — 건전지, 더미
+- [[pire]] — 더 나쁜
 - [[placer]] — 놓다, 배치하다
 - [[plaisir|le plaisir]] — 기쁨
+- [[poisson|le poisson]] — 생선, 물고기
 - [[porte|la porte]] — 문
 - [[poste|le poste]] — (전화) 내선 번호
 - [[pour]] — ~을 위해, ~동안, ~로
@@ -358,14 +369,17 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[syrien]] — 시리아 사람
 
 ## T
+- [[table|la table]] — 탁자, 테이블
 - [[tâche|la tâche]] — 일, 과제
 - [[tagalog|le tagalog]] — 타갈로그어 (필리핀)
 - [[tamoul|le tamoul]] — 타밀어
 - [[téléphone|le téléphone]] — 전화
 - [[temps|le temps]] — 시간, 날씨
+- [[thé|le thé]] — 차 (마시는 차)
 - [[toi]] — 너 (강조)
 - [[ton]] — 너의
 - [[tout]] — 모두, 전부
+- [[tranquille]] — 조용한, 평온한
 - [[transcrire]] — 옮겨 적다
 - [[treize]] — 13
 - [[trente]] — 30

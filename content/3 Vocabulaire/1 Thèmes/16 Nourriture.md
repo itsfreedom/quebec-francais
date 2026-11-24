@@ -13,4 +13,6 @@ aliases: [음식]
 | [[eau\|l'eau]] (f.) | [🔊 lo](_Audio/l-eau-6b33d7.m4a) | 물 |
 | [[gâteau\|un gâteau]] | [🔊 œ̃ gɑto](_Audio/un-gateau-9e34dd.m4a) | 케이크 |
 | [[goût\|le goût]] | [🔊 lə gu](_Audio/le-gout-03d1a0.m4a) | 맛 |
+| [[poisson\|un poisson]] | [🔊 œ̃ pwasɔ̃](_Audio/un-poisson-9bfa5c.m4a) | 생선, 물고기 |
+| [[thé\|le thé]] | [🔊 lə te](_Audio/le-the-9a06bd.m4a) | 차 (마시는 차) |
 | [[œuf\|un œuf]] | [🔊 œ̃n‿œf](_Audio/un-uf-f9419a.m4a) | 달걀 |

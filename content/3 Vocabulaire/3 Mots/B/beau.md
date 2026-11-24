@@ -12,7 +12,7 @@ feminine: "belle"
 ipa: "bo"
 pron_native: "보"
 meaning: ["아름다운", "멋진"]
-display: "beau"
+display: "beau / belle"
 display_ipa: "bo"
 display_say: "beau"
 forms: []

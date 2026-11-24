@@ -12,7 +12,7 @@ feminine: "étudiante"
 ipa: "etydjɑ̃"
 pron_native: "에뛰디엉"
 meaning: ["학생 (대학생)"]
-display: "un étudiant"
+display: "un(e) étudiant(e)"
 display_ipa: "œ̃n‿etydjɑ̃"
 display_say: "un étudiant"
 forms: []

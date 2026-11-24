@@ -12,7 +12,7 @@ feminine: "colombienne"
 ipa: "kɔlɔ̃bjɛ̃"
 pron_native: "꼴롱비앙"
 meaning: ["콜롬비아 사람"]
-display: "colombien"
+display: "colombien(ne)"
 display_ipa: "kɔlɔ̃bjɛ̃"
 display_say: "colombien"
 forms:

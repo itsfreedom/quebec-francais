@@ -41,18 +41,6 @@ aliases: ["자기소개"]
 > **A** : 어느 나라에서 왔어?
 > **B** : 나는 한국에서 왔어요.
 
-> [!tip]- 발음 기호
-> **A** : `[bɔ̃ʒuʁ]`
-> **B** : `[bɔ̃ʒuʁ]`
-> **A** : `[kɔmɑ̃ sa va]`
-> **B** : `[sa va bjɛ̃ mɛʁsi e vu]`
-> **A** : `[sa va tʁɛ bjɛ̃ mɛʁsi kɔmɑ̃ ty tapɛl]`
-> **B** : `[ʒə mapɛl minsu]`
-> **A** : `[ɑ̃ʃɑ̃te]`
-> **B** : `[ɑ̃ʃɑ̃te]`
-> **A** : `[də kɛl pei ty vjɛ̃]`
-> **B** : `[ʒə vjɛ̃ d(ə) la kɔʁe]`
-
 > [!note]- 단어
 > | 단어 | 발음 | 뜻 |
 > |---|---|---|
@@ -66,9 +54,9 @@ aliases: ["자기소개"]
 > | [[vous]] | [🔊 vu](_Audio/vous-593ffa.m4a) | 당신 (존댓말), 너희 |
 > | [[très]] | [🔊 tʁɛ](_Audio/tres-9a2a96.m4a) | 매우, 아주 |
 > | [[s'appeler]] | [🔊 saple](_Audio/s-appeler-c5a4b3.m4a) | 이름이 ~이다 |
-> | [[enchanté]] (f. enchantée) | [🔊 ɑ̃ʃɑ̃te](_Audio/enchante-fd4027.m4a) | 만나서 반가워요 |
+> | [[enchanté\|enchanté(e)]] | [🔊 ɑ̃ʃɑ̃te](_Audio/enchante-fd4027.m4a) | 만나서 반가워요 |
 > | [[de]] | [🔊 də](_Audio/de-5f02f0.m4a) | ~에서 (출신), ~의 |
-> | [[quel]] (f. quelle) | [🔊 kɛl](_Audio/quel-4e1555.m4a) | 어느, 무슨 |
+> | [[quel\|quel(le)]] | [🔊 kɛl](_Audio/quel-4e1555.m4a) | 어느, 무슨 |
 > | [[pays\|un pays]] | [🔊 œ̃ pei](_Audio/un-pays-0a3c21.m4a) | 나라 |
 > | [[venir]] | [🔊 vəniʁ](_Audio/venir-2108a7.m4a) | 오다 |
 > | [[Corée\|la Corée]] | [🔊 la kɔʁe](_Audio/la-coree-6b5d33.m4a) | 한국 |

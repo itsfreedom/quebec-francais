@@ -12,7 +12,7 @@ feminine: "la"
 ipa: "lə"
 pron_native: "르"
 meaning: ["그 (남성 정관사)"]
-display: "le"
+display: "le / la"
 display_ipa: "lə"
 display_say: "le"
 forms: []

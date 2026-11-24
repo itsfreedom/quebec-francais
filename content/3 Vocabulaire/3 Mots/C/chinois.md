@@ -12,7 +12,7 @@ feminine: "chinoise"
 ipa: "ʃinwa"
 pron_native: "시누아"
 meaning: ["중국 사람", "중국어"]
-display: "chinois"
+display: "chinois(e)"
 display_ipa: "ʃinwa"
 display_say: "chinois"
 forms:

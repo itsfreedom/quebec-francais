@@ -12,7 +12,7 @@ feminine: "italienne"
 ipa: "italjɛ̃"
 pron_native: "이딸리앙"
 meaning: ["이탈리아의", "이탈리아 사람"]
-display: "italien"
+display: "italien(ne)"
 display_ipa: "italjɛ̃"
 display_say: "italien"
 forms: []

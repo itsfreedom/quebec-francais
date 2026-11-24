@@ -12,7 +12,7 @@ feminine: "actuelle"
 ipa: "aktɥɛl"
 pron_native: "악뛰엘"
 meaning: ["현재의"]
-display: "actuel"
+display: "actuel(le)"
 display_ipa: "aktɥɛl"
 display_say: "actuel"
 forms: []

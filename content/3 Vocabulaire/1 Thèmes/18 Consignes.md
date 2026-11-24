@@ -38,9 +38,9 @@ aliases: [지시문]
 | [[équipe\|une équipe]] | [🔊 ynekip](_Audio/une-equipe-8d6334.m4a) | 팀, 조 |
 | [[exemple\|un exemple]] | [🔊 œ̃n‿ɛɡzɑ̃pl](_Audio/un-exemple-06f2dd.m4a) | 예, 보기 |
 | [[flèche\|une flèche]] | [🔊 yn flɛʃ](_Audio/une-fleche-d866e0.m4a) | 화살표 |
-| [[formel]] · formelle | [🔊 fɔʁmɛl](_Audio/formel-c2cfe0.m4a) | 격식 있는 (존댓말) |
+| [[formel\|formel(le)]] | [🔊 fɔʁmɛl](_Audio/formel-c2cfe0.m4a) | 격식 있는 (존댓말) |
 | [[identique]] | [🔊 idɑ̃tik](_Audio/identique-8bfc0d.m4a) | 똑같은 |
-| [[informel]] · informelle | [🔊 ɛ̃fɔʁmɛl](_Audio/informel-f116ba.m4a) | 편한 (반말) |
+| [[informel\|informel(le)]] | [🔊 ɛ̃fɔʁmɛl](_Audio/informel-f116ba.m4a) | 편한 (반말) |
 | [[lire]] | [🔊 liʁ](_Audio/lire-62db9e.m4a) | 읽다 |
 | [[mot\|un mot]] | [🔊 œ̃ mo](_Audio/un-mot-2a774c.m4a) | 단어, 낱말 |
 | [[observer]] | [🔊 ɔpsɛʁve](_Audio/observer-dfda0d.m4a) | 관찰하다, 잘 보다 |

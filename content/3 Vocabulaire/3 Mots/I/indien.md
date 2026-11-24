@@ -12,7 +12,7 @@ feminine: "indienne"
 ipa: "ɛ̃djɛ̃"
 pron_native: "앵디앙"
 meaning: ["인도 사람"]
-display: "indien"
+display: "indien(ne)"
 display_ipa: "ɛ̃djɛ̃"
 display_say: "indien"
 forms:

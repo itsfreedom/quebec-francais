@@ -12,7 +12,7 @@ feminine: "lente"
 ipa: "lɑ̃"
 pron_native: "렁"
 meaning: ["느린"]
-display: "lent"
+display: "lent(e)"
 display_ipa: "lɑ̃"
 display_say: "lent"
 forms: []

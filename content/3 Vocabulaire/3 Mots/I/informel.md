@@ -12,7 +12,7 @@ feminine: "informelle"
 ipa: "ɛ̃fɔʁmɛl"
 pron_native: "앵포흐멜"
 meaning: ["편한 (반말)"]
-display: "informel"
+display: "informel(le)"
 display_ipa: "ɛ̃fɔʁmɛl"
 display_say: "informel"
 forms: []

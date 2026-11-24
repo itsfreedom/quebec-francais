@@ -48,20 +48,6 @@ aliases: ["어학원 등록"]
 > **La secrétaire** : 전화번호가 어떻게 되세요?
 > **Moi** : 514-872-1242예요.
 
-> [!tip]- 발음 기호
-> **La secrétaire** : `[bɔ̃ʒuʁ sɛ puʁ lɛ̃skʁipsjɔ̃]`
-> **Moi** : `[wi]`
-> **La secrétaire** : `[kɛl ɛ vɔtʁ nɔ̃]`
-> **Moi** : `[mɔ̃ nɔ̃ ɛ minsu kim ka i ɛm]`
-> **La secrétaire** : `[də kɛl pei vəne vu]`
-> **Moi** : `[ʒə vjɛ̃ d(ə) la kɔʁe]`
-> **La secrétaire** : `[kɛl ɑʒ ave vu]`
-> **Moi** : `[ʒe kaʁɑ̃t sɛ̃k ɑ̃]`
-> **La secrétaire** : `[kɛl ɛ vɔtʁ adʁɛs]`
-> **Moi** : `[sɛ lə vɛ̃t dø ʁy sɛ̃t katʁin a mɔ̃ʁeal]`
-> **La secrétaire** : `[kɛl ɛ vɔtʁ nymeʁo də telefɔn]`
-> **Moi** : `[sɛ lə sɛ̃k sɑ̃ katɔʁz ɥit sɑ̃ swasɑ̃t duz duz kaʁɑ̃t dø]`
-
 > [!note]- 단어
 > | 단어 | 발음 | 뜻 |
 > |---|---|---|
@@ -70,7 +56,7 @@ aliases: ["어학원 등록"]
 > | [[inscription\|une inscription]] | [🔊 ynɛ̃skʁipsjɔ̃](_Audio/une-inscription-47da0d.m4a) | 등록 |
 > | [[secrétaire\|un/une secrétaire]] | [🔊 œ̃ səkʁetɛʁ](_Audio/un-secretaire-973b77.m4a) | 비서, 사무 직원 |
 > | [[oui]] | [🔊 wi](_Audio/oui-b2a5ab.m4a) | 네 |
-> | [[quel]] (f. quelle) | [🔊 kɛl](_Audio/quel-4e1555.m4a) | 어느, 무슨 |
+> | [[quel\|quel(le)]] | [🔊 kɛl](_Audio/quel-4e1555.m4a) | 어느, 무슨 |
 > | [[nom\|un nom]] | [🔊 œ̃ nɔ̃](_Audio/un-nom-3fe218.m4a) | 이름 |
 > | [[pays\|un pays]] | [🔊 œ̃ pei](_Audio/un-pays-0a3c21.m4a) | 나라 |
 > | [[venir]] | [🔊 vəniʁ](_Audio/venir-2108a7.m4a) | 오다 |

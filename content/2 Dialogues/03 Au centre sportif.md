@@ -44,34 +44,23 @@ aliases: ["헬스장 등록"]
 > **L'employé** : 기꺼이요, 부인.
 > **La dame** : 고맙습니다!
 
-> [!tip]- 발음 기호
-> **La dame** : `[bɔ̃ʒuʁ məsjø ʒɛmʁɛ mabɔne o dʒim sil vu plɛ]`
-> **L'employé** : `[mɛ bjɛ̃ syʁ vule vu œ̃n‿abɔnmɑ̃ anɥɛl u mɑ̃sɥɛl]`
-> **La dame** : `[ʒɛmʁɛ mabɔne puʁ œ̃n‿ɑ̃ sɛ kɔ̃bjɛ̃]`
-> **L'employé** : `[sɛ vɛ̃t sɛ̃k dɔlaʁ paʁ mwa u dø sɑ̃ sɛ̃kɑ̃t dɔlaʁ puʁ œ̃n‿ɑ̃]`
-> **La dame** : `[dø sɑ̃ sɛ̃kɑ̃t dɔlaʁ puʁ œ̃n‿ɑ̃ sa vø diʁ kə ʒe dø mwa ɡʁatɥi]`
-> **L'employé** : `[wi ɛɡzaktəmɑ̃]`
-> **La dame** : `[sɛ bɔ̃ ɛs kə ʒə pø avwaʁ lə fɔʁmylɛʁ dɛ̃skʁipsjɔ̃]`
-> **L'employé** : `[avɛk plɛziʁ madam]`
-> **La dame** : `[mɛʁsi məsjø]`
-
 > [!note]- 단어
 > | 단어 | 발음 | 뜻 |
 > |---|---|---|
 > | [[à]] | [🔊 a](_Audio/a-c9759c.m4a) | ~에, ~에서, ~로 |
 > | [[centre\|un centre]] | [🔊 œ̃ sɑ̃tʁ](_Audio/un-centre-e26118.m4a) | 센터, 중심 |
-> | [[sportif]] (f. sportive) | [🔊 spɔʁtif](_Audio/sportif-0381e3.m4a) | 운동의, 운동을 좋아하는 |
+> | [[sportif\|sportif / sportive]] | [🔊 spɔʁtif](_Audio/sportif-0381e3.m4a) | 운동의, 운동을 좋아하는 |
 > | [[dame\|une dame]] | [🔊 yn dam](_Audio/une-dame-807bfc.m4a) | 부인, 여성 (공손한 말) |
 > | [[s'abonner]] | [🔊 sabɔne](_Audio/s-abonner-72e617.m4a) | 회원 가입하다, 구독하다 |
 > | [[gym\|le gym]] | [🔊 lə dʒim](_Audio/le-gym-c3b734.m4a) | 헬스장 |
 > | [[abonnement\|un abonnement]] | [🔊 œ̃n‿abɔnmɑ̃](_Audio/un-abonnement-64f5f5.m4a) | 정기 회원권, 구독 |
-> | [[annuel]] (f. annuelle) | [🔊 anɥɛl](_Audio/annuel-0f9e41.m4a) | 매년의, 연간 |
-> | [[mensuel]] (f. mensuelle) | [🔊 mɑ̃sɥɛl](_Audio/mensuel-7e7565.m4a) | 매달의, 월간 |
+> | [[annuel\|annuel(le)]] | [🔊 anɥɛl](_Audio/annuel-0f9e41.m4a) | 매년의, 연간 |
+> | [[mensuel\|mensuel(le)]] | [🔊 mɑ̃sɥɛl](_Audio/mensuel-7e7565.m4a) | 매달의, 월간 |
 > | [[combien]] | [🔊 kɔ̃bjɛ̃](_Audio/combien-71d769.m4a) | 얼마, 몇 |
 > | [[dollar\|un dollar]] | [🔊 œ̃ dɔlaʁ](_Audio/un-dollar-aa01a2.m4a) | 달러 |
 > | [[par]] | [🔊 paʁ](_Audio/par-d01826.m4a) | ~마다, ~으로 |
 > | [[mois\|un mois]] | [🔊 œ̃ mwa](_Audio/un-mois-8376b3.m4a) | 달, 월 |
-> | [[gratuit]] (f. gratuite) | [🔊 ɡʁatɥi](_Audio/gratuit-59a8c7.m4a) | 무료의 |
+> | [[gratuit\|gratuit(e)]] | [🔊 ɡʁatɥi](_Audio/gratuit-59a8c7.m4a) | 무료의 |
 > | [[exactement]] | [🔊 ɛɡzaktəmɑ̃](_Audio/exactement-38e584.m4a) | 정확히, 맞아요 |
 > | [[formulaire\|un formulaire]] | [🔊 œ̃ fɔʁmylɛʁ](_Audio/un-formulaire-21b53a.m4a) | 서식, 신청서 |
 > | [[inscription\|une inscription]] | [🔊 ynɛ̃skʁipsjɔ̃](_Audio/une-inscription-47da0d.m4a) | 등록 |

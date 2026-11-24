@@ -12,7 +12,7 @@ feminine: "française"
 ipa: "fʁɑ̃sɛ"
 pron_native: "프항쎄"
 meaning: ["프랑스어", "프랑스의"]
-display: "français"
+display: "français(e)"
 display_ipa: "fʁɑ̃sɛ"
 display_say: "français"
 forms: []

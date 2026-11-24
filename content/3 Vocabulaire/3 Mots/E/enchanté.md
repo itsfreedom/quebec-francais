@@ -12,7 +12,7 @@ feminine: "enchantée"
 ipa: "ɑ̃ʃɑ̃te"
 pron_native: "앙샹떼"
 meaning: ["만나서 반가워요"]
-display: "enchanté"
+display: "enchanté(e)"
 display_ipa: "ɑ̃ʃɑ̃te"
 display_say: "enchanté"
 forms: []

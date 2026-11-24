@@ -12,7 +12,7 @@ feminine: "gratuite"
 ipa: "ɡʁatɥi"
 pron_native: "그하뛰"
 meaning: ["무료의"]
-display: "gratuit"
+display: "gratuit(e)"
 display_ipa: "ɡʁatɥi"
 display_say: "gratuit"
 forms: []

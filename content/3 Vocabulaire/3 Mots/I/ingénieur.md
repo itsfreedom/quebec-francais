@@ -12,7 +12,7 @@ feminine: "ingénieure"
 ipa: "ɛ̃ʒenjœʁ"
 pron_native: "앵제니외흐"
 meaning: ["엔지니어"]
-display: "un ingénieur"
+display: "un(e) ingénieur(e)"
 display_ipa: "œ̃n‿ɛ̃ʒenjœʁ"
 display_say: "un ingénieur"
 forms: []

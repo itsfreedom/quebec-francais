@@ -12,7 +12,7 @@ feminine: "canadienne"
 ipa: "kanadjɛ̃"
 pron_native: "까나디앙"
 meaning: ["캐나다 사람", "캐나다의"]
-display: "canadien"
+display: "canadien(ne)"
 display_ipa: "kanadjɛ̃"
 display_say: "canadien"
 forms:

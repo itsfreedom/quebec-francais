@@ -6,6 +6,7 @@ title: "M"
 - [[3 Vocabulaire/3 Mots/M/mai|mai]]
 - [[3 Vocabulaire/3 Mots/M/maison|maison]]
 - [[3 Vocabulaire/3 Mots/M/maman|maman]]
+- [[3 Vocabulaire/3 Mots/M/manger|manger]]
 - [[3 Vocabulaire/3 Mots/M/maquilleur|maquilleur]]
 - [[3 Vocabulaire/3 Mots/M/mardi|mardi]]
 - [[3 Vocabulaire/3 Mots/M/marié|marié]]
@@ -23,4 +24,5 @@ title: "M"
 - [[3 Vocabulaire/3 Mots/M/mois|mois]]
 - [[3 Vocabulaire/3 Mots/M/mon|mon]]
 - [[3 Vocabulaire/3 Mots/M/monsieur|monsieur]]
+- [[3 Vocabulaire/3 Mots/M/Montréal|Montréal]]
 - [[3 Vocabulaire/3 Mots/M/mot|mot]]

@@ -12,7 +12,7 @@ feminine: "folle"
 ipa: "fu"
 pron_native: "푸"
 meaning: ["미친"]
-display: "fou"
+display: "fou / folle"
 display_ipa: "fu"
 display_say: "fou"
 forms: []

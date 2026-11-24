@@ -21,7 +21,7 @@ aliases: [작은 단어]
 | [[en]] | [🔊 ɑ̃](_Audio/en-9cfefe.m4a) | ~에(서), ~로 (언어 · 달) |
 | [[et]] | [🔊 e](_Audio/et-4de1b7.m4a) | 그리고 |
 | [[exactement]] | [🔊 ɛɡzaktəmɑ̃](_Audio/exactement-38e584.m4a) | 정확히, 맞아요 |
-| [[le]] · la | [🔊 lə](_Audio/le-d91805.m4a) | 그 (남성 정관사) |
+| [[le\|le / la]] | [🔊 lə](_Audio/le-d91805.m4a) | 그 (남성 정관사) |
 | [[les]] | [🔊 le](_Audio/les-3f816a.m4a) | 그 (복수 정관사) |
 | [[ne]] | [🔊 nə](_Audio/ne-d4f917.m4a) | (ne … pas) ~아니다 |
 | [[ou]] | [🔊 u](_Audio/ou-583eb7.m4a) | 또는, 아니면 |
@@ -32,7 +32,7 @@ aliases: [작은 단어]
 | [[puis]] | [🔊 pɥi](_Audio/puis-691937.m4a) | 그 다음에 |
 | [[quand]] | [🔊 kɑ̃](_Audio/quand-ece202.m4a) | 언제 |
 | [[que]] | [🔊 kə](_Audio/que-8cfbcf.m4a) | ~라는 것, 무엇 |
-| [[quel]] · quelle | [🔊 kɛl](_Audio/quel-4e1555.m4a) | 어느, 무슨 |
+| [[quel\|quel(le)]] | [🔊 kɛl](_Audio/quel-4e1555.m4a) | 어느, 무슨 |
 | [[qui]] | [🔊 ki](_Audio/qui-9d2442.m4a) | 누구, ~하는 (사람) |
 | [[quoi]] | [🔊 kwa](_Audio/quoi-6f6b9c.m4a) | 무엇 |
 | [[rien]] | [🔊 ʁjɛ̃](_Audio/rien-8dda99.m4a) | 아무것도 (없다) |

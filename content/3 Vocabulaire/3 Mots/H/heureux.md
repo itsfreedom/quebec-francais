@@ -12,7 +12,7 @@ feminine: "heureuse"
 ipa: "øʁø"
 pron_native: "외회"
 meaning: ["행복한"]
-display: "heureux"
+display: "heureux / heureuse"
 display_ipa: "øʁø"
 display_say: "heureux"
 forms: []

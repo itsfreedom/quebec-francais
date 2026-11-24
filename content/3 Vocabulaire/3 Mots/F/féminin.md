@@ -12,7 +12,7 @@ feminine: "féminine"
 ipa: "feminɛ̃"
 pron_native: "페미낭"
 meaning: ["여성의"]
-display: "féminin"
+display: "féminin(e)"
 display_ipa: "feminɛ̃"
 display_say: "féminin"
 forms: []

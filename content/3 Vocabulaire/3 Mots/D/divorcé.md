@@ -12,7 +12,7 @@ feminine: "divorcée"
 ipa: "divɔʁse"
 pron_native: "디보흐쎄"
 meaning: ["이혼한"]
-display: "divorcé"
+display: "divorcé(e)"
 display_ipa: "divɔʁse"
 display_say: "divorcé"
 forms: []

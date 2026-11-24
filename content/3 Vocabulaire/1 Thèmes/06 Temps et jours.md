@@ -32,7 +32,7 @@ aliases: [시간·날, 날짜 말하는 법, Dates et jours, 날짜, 요일, 생
 | 단어 | 발음 | 뜻 |
 |---|---|---|
 | [[année\|une année]] | [🔊 ynane](_Audio/une-annee-71d4e9.m4a) | 해, 년 |
-| [[annuel]] · annuelle | [🔊 anɥɛl](_Audio/annuel-0f9e41.m4a) | 매년의, 연간 |
+| [[annuel\|annuel(le)]] | [🔊 anɥɛl](_Audio/annuel-0f9e41.m4a) | 매년의, 연간 |
 | [[août]] | [🔊 u](_Audio/aout-3daa4c.m4a) | 8월 |
 | [[aujourd'hui]] | [🔊 oʒuʁdɥi](_Audio/aujourd-hui-874ced.m4a) | 오늘 |
 | [[avril]] | [🔊 avʁil](_Audio/avril-c7e55c.m4a) | 4월 |
@@ -51,7 +51,7 @@ aliases: [시간·날, 날짜 말하는 법, Dates et jours, 날짜, 요일, 생
 | [[mardi\|le mardi]] | [🔊 lə maʁdi](_Audio/le-mardi-71608d.m4a) | 화요일 |
 | [[mars]] | [🔊 maʁs](_Audio/mars-68834f.m4a) | 3월 |
 | [[matin\|le matin]] | [🔊 lə matɛ̃](_Audio/le-matin-0c59cb.m4a) | 아침 |
-| [[mensuel]] · mensuelle | [🔊 mɑ̃sɥɛl](_Audio/mensuel-7e7565.m4a) | 매달의, 월간 |
+| [[mensuel\|mensuel(le)]] | [🔊 mɑ̃sɥɛl](_Audio/mensuel-7e7565.m4a) | 매달의, 월간 |
 | [[mercredi\|le mercredi]] | [🔊 lə mɛʁkʁədi](_Audio/le-mercredi-22b9ba.m4a) | 수요일 |
 | [[mois\|un mois]] | [🔊 œ̃ mwa](_Audio/un-mois-8376b3.m4a) | 달, 월 |
 | [[Noël]] | [🔊 nɔɛl](_Audio/noel-6b025d.m4a) | 크리스마스 |

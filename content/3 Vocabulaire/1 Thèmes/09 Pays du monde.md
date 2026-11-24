@@ -14,7 +14,7 @@ aliases: [나라]
 | [[Chine\|la Chine]] | [🔊 la ʃin](_Audio/la-chine-4b5875.m4a) | 중국 |
 | [[Corée\|la Corée]] | [🔊 la kɔʁe](_Audio/la-coree-6b5d33.m4a) | 한국 |
 | [[Érythrée\|l'Érythrée]] (f.) | [🔊 leʁitʁe](_Audio/l-erythree-2e67b2.m4a) | 에리트레아 |
-| [[espagnol\|l'espagnol]] (m.) · espagnole | [🔊 lɛspaɲɔl](_Audio/l-espagnol-5a3fcd.m4a) | 스페인어 |
+| [[espagnol\|l'espagnol]] (m.) | [🔊 lɛspaɲɔl](_Audio/l-espagnol-5a3fcd.m4a) | 스페인어 |
 | [[Inde\|l'Inde]] (f.) | [🔊 lɛ̃d](_Audio/l-inde-5bbe79.m4a) | 인도 |
 | [[Libye\|la Libye]] | [🔊 la libi](_Audio/la-libye-4d1c73.m4a) | 리비아 |
 | [[Maroc\|le Maroc]] | [🔊 lə maʁɔk](_Audio/le-maroc-7f9802.m4a) | 모로코 |

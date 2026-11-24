@@ -12,7 +12,7 @@ feminine: "bonne"
 ipa: "bɔ̃"
 pron_native: "봉"
 meaning: ["좋은", "맛있는"]
-display: "bon"
+display: "bon(ne)"
 display_ipa: "bɔ̃"
 display_say: "bon"
 forms: []

@@ -12,7 +12,7 @@ feminine: "annuelle"
 ipa: "anɥɛl"
 pron_native: "아뉘엘"
 meaning: ["매년의", "연간"]
-display: "annuel"
+display: "annuel(le)"
 display_ipa: "anɥɛl"
 display_say: "annuel"
 forms: []

@@ -12,7 +12,7 @@ feminine: "maquilleuse"
 ipa: "makijœʁ"
 pron_native: "마끼외흐"
 meaning: ["메이크업 아티스트"]
-display: "un maquilleur"
+display: "un maquilleur / une maquilleuse"
 display_ipa: "œ̃ makijœʁ"
 display_say: "un maquilleur"
 forms: []

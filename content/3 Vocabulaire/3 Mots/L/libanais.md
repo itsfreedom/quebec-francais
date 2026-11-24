@@ -12,7 +12,7 @@ feminine: "libanaise"
 ipa: "libanɛ"
 pron_native: "리바네"
 meaning: ["레바논 사람"]
-display: "libanais"
+display: "libanais(e)"
 display_ipa: "libanɛ"
 display_say: "libanais"
 forms:

@@ -21,4 +21,5 @@ title: "D"
 - [[3 Vocabulaire/3 Mots/D/douze|douze]]
 - [[3 Vocabulaire/3 Mots/D/drôle|drôle]]
 - [[3 Vocabulaire/3 Mots/D/du|du]]
+- [[3 Vocabulaire/3 Mots/D/dur|dur]]
 - [[3 Vocabulaire/3 Mots/D/décembre|décembre]]

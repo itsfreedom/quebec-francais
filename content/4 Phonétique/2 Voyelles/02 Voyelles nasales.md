@@ -12,10 +12,10 @@ aliases: [Voyelles nasales, 비모음, nasales]
 
 | 소리 | 철자 | 예시 |
 |---|---|---|
-| [ɛ̃] | in, im, ain, ein, yn, ym, 단어 끝 -en | [[bien]], cinq, italien, matin |
-| [œ̃] | un, um | un, lundi |
-| [ɑ̃] | an, en, am, em, 단어 끝 -ant, -ent | maman, [[comment]], dentiste, français |
-| [ɔ̃] | on, om | [[bonjour]], bon, nom, Montréal |
+| [ɛ̃] | in, im, ain, ein, yn, ym, 단어 끝 -en | [[bien]], [[cinq]], [[italien]], [[matin]] |
+| [œ̃] | un, um | [[un]], [[lundi]] |
+| [ɑ̃] | an, en, am, em, 단어 끝 -ant, -ent | [[maman]], [[comment]], [[dentiste]], [[français]] |
+| [ɔ̃] | on, om | [[bonjour]], [[bon]], [[nom]], [[Montréal]] |
 
 > [!warning] -en 주의
 > 보통 **en = [ɑ̃]** (dentiste)인데, 단어 끝 **-ien**에서는 **[ɛ̃]** (bien, italien)
@@ -26,8 +26,8 @@ aliases: [Voyelles nasales, 비모음, nasales]
 
 | 비모음 ⭕ | 비모음 ❌ |
 |---|---|
-| un [œ̃] | une [yn] |
-| bon [bɔ̃] | bonne [bɔn] |
-| italien [italjɛ̃] | italienne [italjɛn] |
+| [[un]] [œ̃] | [[un\|une]] [yn] |
+| [[bon]] [bɔ̃] | [[bon\|bonne]] [bɔn] |
+| [[italien]] [italjɛ̃] | [[italien\|italienne]] [italjɛn] |
 
 관련: [[01 Voyelles orales|Voyelles orales]] · [[01 Liaison|Liaison]] (un‿ami)

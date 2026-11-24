@@ -1,12 +1,15 @@
 ---
 title: "T"
 ---
+- [[3 Vocabulaire/3 Mots/T/table|table]]
 - [[3 Vocabulaire/3 Mots/T/tagalog|tagalog]]
 - [[3 Vocabulaire/3 Mots/T/tamoul|tamoul]]
 - [[3 Vocabulaire/3 Mots/T/temps|temps]]
+- [[3 Vocabulaire/3 Mots/T/thé|thé]]
 - [[3 Vocabulaire/3 Mots/T/toi|toi]]
 - [[3 Vocabulaire/3 Mots/T/ton|ton]]
 - [[3 Vocabulaire/3 Mots/T/tout|tout]]
+- [[3 Vocabulaire/3 Mots/T/tranquille|tranquille]]
 - [[3 Vocabulaire/3 Mots/T/transcrire|transcrire]]
 - [[3 Vocabulaire/3 Mots/T/treize|treize]]
 - [[3 Vocabulaire/3 Mots/T/trente|trente]]
