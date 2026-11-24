@@ -12,7 +12,7 @@ feminine: "syrienne"
 ipa: "siʁjɛ̃"
 pron_native: "씨히앙"
 meaning: ["시리아 사람"]
-display: "syrien"
+display: "syrien(ne)"
 display_ipa: "siʁjɛ̃"
 display_say: "syrien"
 forms:

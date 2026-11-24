@@ -12,7 +12,7 @@ feminine: "petite"
 ipa: "pəti"
 pron_native: ""
 meaning: ["작은"]
-display: "petit"
+display: "petit(e)"
 display_ipa: "pəti"
 display_say: "petit"
 forms: []

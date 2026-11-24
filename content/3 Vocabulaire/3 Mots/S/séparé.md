@@ -12,7 +12,7 @@ feminine: "séparée"
 ipa: "sepaʁe"
 pron_native: "쎄빠헤"
 meaning: ["별거 중인"]
-display: "séparé"
+display: "séparé(e)"
 display_ipa: "sepaʁe"
 display_say: "séparé"
 forms: []

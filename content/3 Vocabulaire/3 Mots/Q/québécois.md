@@ -12,7 +12,7 @@ feminine: "québécoise"
 ipa: "kebekwa"
 pron_native: "께벡꾸아"
 meaning: ["퀘벡 사람", "퀘벡의"]
-display: "québécois"
+display: "québécois(e)"
 display_ipa: "kebekwa"
 display_say: "québécois"
 forms:

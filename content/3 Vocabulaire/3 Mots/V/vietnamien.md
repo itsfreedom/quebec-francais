@@ -12,7 +12,7 @@ feminine: "vietnamienne"
 ipa: "vjɛtnamjɛ̃"
 pron_native: "비엣나미앙"
 meaning: ["베트남 사람", "베트남어"]
-display: "vietnamien"
+display: "vietnamien(ne)"
 display_ipa: "vjɛtnamjɛ̃"
 display_say: "vietnamien"
 forms:

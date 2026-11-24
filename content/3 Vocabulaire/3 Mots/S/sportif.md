@@ -12,7 +12,7 @@ feminine: "sportive"
 ipa: "spɔʁtif"
 pron_native: "스뽀흐띠프"
 meaning: ["운동의", "운동을 좋아하는"]
-display: "sportif"
+display: "sportif / sportive"
 display_ipa: "spɔʁtif"
 display_say: "sportif"
 forms: []

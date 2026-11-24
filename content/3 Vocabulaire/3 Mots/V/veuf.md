@@ -12,7 +12,7 @@ feminine: "veuve"
 ipa: "vœf"
 pron_native: "뵈프"
 meaning: ["배우자를 잃은 (사별한)"]
-display: "veuf"
+display: "veuf / veuve"
 display_ipa: "vœf"
 display_say: "veuf"
 forms: []

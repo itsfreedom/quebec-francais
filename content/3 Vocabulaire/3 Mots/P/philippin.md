@@ -12,7 +12,7 @@ feminine: "philippine"
 ipa: "filipɛ̃"
 pron_native: "필리빵"
 meaning: ["필리핀 사람"]
-display: "philippin"
+display: "philippin(e)"
 display_ipa: "filipɛ̃"
 display_say: "philippin"
 forms:

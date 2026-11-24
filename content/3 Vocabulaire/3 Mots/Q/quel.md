@@ -12,7 +12,7 @@ feminine: "quelle"
 ipa: "kɛl"
 pron_native: "껠"
 meaning: ["어느", "무슨"]
-display: "quel"
+display: "quel(le)"
 display_ipa: "kɛl"
 display_say: "quel"
 forms: []

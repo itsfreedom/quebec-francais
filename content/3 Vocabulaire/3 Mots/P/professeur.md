@@ -12,7 +12,7 @@ feminine: "professeure"
 ipa: "pʁɔfesœʁ"
 pron_native: "프호페쐬흐"
 meaning: ["선생님", "교수"]
-display: "un professeur"
+display: "un(e) professeur(e)"
 display_ipa: "œ̃ pʁɔfesœʁ"
 display_say: "un professeur"
 forms: []

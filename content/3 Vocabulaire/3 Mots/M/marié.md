@@ -12,7 +12,7 @@ feminine: "mariée"
 ipa: "maʁje"
 pron_native: "마히에"
 meaning: ["결혼한 (기혼)"]
-display: "marié"
+display: "marié(e)"
 display_ipa: "maʁje"
 display_say: "marié"
 forms: []

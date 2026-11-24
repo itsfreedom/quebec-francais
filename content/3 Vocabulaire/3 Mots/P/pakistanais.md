@@ -12,7 +12,7 @@ feminine: "pakistanaise"
 ipa: "pakistanɛ"
 pron_native: "빠끼스따네"
 meaning: ["파키스탄 사람"]
-display: "pakistanais"
+display: "pakistanais(e)"
 display_ipa: "pakistanɛ"
 display_say: "pakistanais"
 forms:

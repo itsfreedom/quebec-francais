@@ -12,7 +12,7 @@ feminine: "passée"
 ipa: "pɑse"
 pron_native: "빠쎄"
 meaning: ["지난", "과거의"]
-display: "passé"
+display: "passé(e)"
 display_ipa: "pɑse"
 display_say: "passé"
 forms: []

@@ -12,7 +12,7 @@ feminine: "ma"
 ipa: "mɔ̃"
 pron_native: "몽"
 meaning: ["나의 (남성 명사 앞)"]
-display: "mon"
+display: "mon / ma"
 display_ipa: "mɔ̃"
 display_say: "mon"
 forms: []

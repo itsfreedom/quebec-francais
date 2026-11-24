@@ -12,7 +12,7 @@ feminine: "patronne"
 ipa: "patʁɔ̃"
 pron_native: "빠트홍"
 meaning: ["사장", "상사"]
-display: "un patron"
+display: "un(e) patron(ne)"
 display_ipa: "œ̃ patʁɔ̃"
 display_say: "un patron"
 forms: []

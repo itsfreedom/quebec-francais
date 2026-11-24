@@ -12,7 +12,7 @@ feminine: "ta"
 ipa: "tɔ̃"
 pron_native: ""
 meaning: ["너의"]
-display: "ton"
+display: "ton / ta"
 display_ipa: "tɔ̃"
 display_say: "ton"
 forms: []

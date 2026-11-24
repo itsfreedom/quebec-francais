@@ -12,7 +12,7 @@ feminine: "présente"
 ipa: "pʁezɑ̃"
 pron_native: "프헤정"
 meaning: ["출석한, 있는", "현재의"]
-display: "présent"
+display: "présent(e)"
 display_ipa: "pʁezɑ̃"
 display_say: "présent"
 forms: []

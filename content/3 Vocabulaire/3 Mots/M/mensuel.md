@@ -12,7 +12,7 @@ feminine: "mensuelle"
 ipa: "mɑ̃sɥɛl"
 pron_native: "멍쒸엘"
 meaning: ["매달의", "월간"]
-display: "mensuel"
+display: "mensuel(le)"
 display_ipa: "mɑ̃sɥɛl"
 display_say: "mensuel"
 forms: []

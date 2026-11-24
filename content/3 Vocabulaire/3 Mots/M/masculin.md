@@ -12,7 +12,7 @@ feminine: "masculine"
 ipa: "maskylɛ̃"
 pron_native: "마스뀔랑"
 meaning: ["남성의"]
-display: "masculin"
+display: "masculin(e)"
 display_ipa: "maskylɛ̃"
 display_say: "masculin"
 forms: []
