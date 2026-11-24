@@ -110,7 +110,7 @@ def tip(sid, tok):
     if norm(tok) in TIP and sid in ('le', 'la', 'les'): return TIP[norm(tok)]
     w = WORDS[sid]; m = ', '.join(w['meaning'])
     same = norm(tok).strip("'") == norm(w['text']) or (w['fem'] and norm(tok) == norm(w['fem']))
-    return m if same else f"{w['text']} · {m}"
+    return m if same else f"{w['display'] or w['text']} · {m}"   # 말풍선도 표와 같은 모양 (présent(e), un(e) ami(e) …)
 def sound(seg, sid, spoken=None):
     f = fname(spoken or norm(seg))
     if f in HAVE: return f
