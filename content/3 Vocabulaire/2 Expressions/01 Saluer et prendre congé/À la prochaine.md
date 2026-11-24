@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-la-prochaine"]
 ---
-**À [la](_Audio/le-d91805.m4a "그 (여성 정관사)") prochaine !** [🔊](_Audio/a-la-prochaine-cbc8b0.m4a)
-
 👉 다음에 봐요!
 
 ---

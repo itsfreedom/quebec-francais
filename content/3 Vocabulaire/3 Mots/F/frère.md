@@ -12,6 +12,9 @@ feminine: ""
 ipa: "fʁɛʁ"
 pron_native: "프헤흐"
 meaning: ["형제 (형·오빠·남동생)"]
+display: "un frère"
+display_ipa: "œ̃ fʁɛʁ"
+display_say: "un frère"
 forms: []
 examples:
   - text: "vos frères et vos sœurs"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["frere", "le frère"]
 ---
-[🔊 fʁɛʁ](_Audio/le-frere-f17d46.m4a) 프헤흐
+un frère [🔊 œ̃ fʁɛʁ](_Audio/un-frere-619283.m4a) · les frères [🔊 le fʁɛʁ](_Audio/les-freres-cae41a.m4a)
 
 **le frère** · *명사 · 남성*
 

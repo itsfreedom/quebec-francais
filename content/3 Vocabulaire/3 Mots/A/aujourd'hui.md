@@ -12,6 +12,9 @@ feminine: ""
 ipa: "oʒuʁdɥi"
 pron_native: "오주흐뒤"
 meaning: ["오늘"]
+display: "aujourd'hui"
+display_ipa: "oʒuʁdɥi"
+display_say: "aujourd'hui"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["aujourdhui"]
 ---
-[🔊 oʒuʁdɥi](_Audio/aujourd-hui-874ced.m4a) 오주흐뒤
+[🔊 oʒuʁdɥi](_Audio/aujourd-hui-874ced.m4a)
 
 **aujourd'hui** · *부사*
 

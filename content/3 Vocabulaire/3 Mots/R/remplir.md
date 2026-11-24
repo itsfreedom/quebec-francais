@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʁɑ̃pliʁ"
 pron_native: "헝쁠리흐"
 meaning: ["채우다", "작성하다"]
+display: "remplir"
+display_ipa: "ʁɑ̃pliʁ"
+display_say: "remplir"
 forms:
   - text: "remplissez"
     meaning: "작성하세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ʁɑ̃pliʁ](_Audio/remplir-8235c8.m4a) 헝쁠리흐
+[🔊 ʁɑ̃pliʁ](_Audio/remplir-8235c8.m4a)
 
 **remplir** · *동사*
 
@@ -34,7 +37,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| remplissez | [🔊 ʁɑ̃plise](_Audio/remplissez-ee908d.m4a) 헝쁠리쎄 | 작성하세요 |
+| remplissez | [🔊 ʁɑ̃plise](_Audio/remplissez-ee908d.m4a) | 작성하세요 |
 
 ---
 📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#R|사전 R]]

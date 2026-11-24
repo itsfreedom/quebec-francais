@@ -12,6 +12,9 @@ feminine: ""
 ipa: "filipin"
 pron_native: "필리삔"
 meaning: ["필리핀"]
+display: "les Philippines (f.)"
+display_ipa: "le filipin"
+display_say: "les Philippines"
 forms: []
 examples:
   - text: "Je viens des Philippines."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["philippines", "les Philippines"]
 ---
-[🔊 filipin](_Audio/les-philippines-b91ff0.m4a) 필리삔
+[🔊 le filipin](_Audio/les-philippines-b91ff0.m4a)
 
 **les Philippines** · *명사 · 여성*
 

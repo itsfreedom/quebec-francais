@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɑ̃vwaje"
 pron_native: "엉부아이예"
 meaning: ["보내다"]
+display: "envoyer"
+display_ipa: "ɑ̃vwaje"
+display_say: "envoyer"
 forms:
   - text: "envoyez"
     meaning: "보내세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ɑ̃vwaje](_Audio/envoyer-ce0b7d.m4a) 엉부아이예
+[🔊 ɑ̃vwaje](_Audio/envoyer-ce0b7d.m4a)
 
 **envoyer** · *동사*
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| envoyez | [🔊 ɑ̃vwaje](_Audio/envoyez-43d373.m4a) 엉부아이예 | 보내세요 |
+| envoyez | [🔊 ɑ̃vwaje](_Audio/envoyez-43d373.m4a) | 보내세요 |
 
 ## 발음 · 쓰임
 명령형 → [[04 Impératif|Impératif]]

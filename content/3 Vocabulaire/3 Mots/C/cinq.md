@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sɛ̃k"
 pron_native: "쌩끄"
 meaning: ["5"]
+display: "cinq"
+display_ipa: "sɛ̃k"
+display_say: "cinq"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 sɛ̃k](_Audio/cinq-bfe30f.m4a) 쌩끄
+[🔊 sɛ̃k](_Audio/cinq-bfe30f.m4a)
 
 **cinq** · *숫자*
 

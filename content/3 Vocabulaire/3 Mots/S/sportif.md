@@ -12,6 +12,9 @@ feminine: "sportive"
 ipa: "spɔʁtif"
 pron_native: "스뽀흐띠프"
 meaning: ["운동의", "운동을 좋아하는"]
+display: "sportif"
+display_ipa: "spɔʁtif"
+display_say: "sportif"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 spɔʁtif](_Audio/sportif-0381e3.m4a) 스뽀흐띠프
+[🔊 spɔʁtif](_Audio/sportif-0381e3.m4a)
 
 **sportif** · *형용사 · 남성* · 여성형 **sportive**
 

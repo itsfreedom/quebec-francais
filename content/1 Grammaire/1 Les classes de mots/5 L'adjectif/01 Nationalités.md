@@ -15,13 +15,13 @@ aliases: [Nationalites, Nationalités, 국적, 국적 형용사]
 
 | 끝 모양 | 남성 | 여성 | 소리 변화 |
 |---|---|---|---|
-| -ien → **-ienne** | canadien, syrien, indien | canadienne, syrienne, indienne | [jɛ̃] 이앙 → [jɛn] 이엔 (비모음이 사라져요) |
-| -éen → **-éenne** | coréen | coréenne | [eɛ̃] 에앙 → [eɛn] 에엔 |
+| -ien → **-ienne** | canadien, syrien, indien | canadienne, syrienne, indienne | [jɛ̃] → [jɛn] (비모음이 사라져요) |
+| -éen → **-éenne** | coréen | coréenne | [eɛ̃] → [eɛn] |
 | -ais / -ois → **-aise / -oise** | libanais, québécois, chinois | libanaise, québécoise, chinoise | 끝 s가 [z] 소리로 살아나요 |
 | -in / -ain → **-ine / -aine** | philippin, américain | philippine, américaine | [ɛ̃] → [in] / [ɛn] |
 
 > [!tip] 남성형은 끝 자음을 읽지 않고, 여성형은 -e 앞 자음을 읽어요 → [[02 Lettres muettes|Lettres muettes]]
-> chinoi~~s~~ [ʃinwa] 시누아 → chinoi**se** [ʃinwaz] 시누아즈
+> chinoi~~s~~ [ʃinwa] → chinoi**se** [ʃinwaz]
 
 ## 대문자? 소문자?
 - 사람을 가리키는 **명사**는 대문자: **un Canadien**, une Coréenne

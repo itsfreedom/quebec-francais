@@ -12,6 +12,9 @@ feminine: ""
 ipa: "gu"
 pron_native: "구"
 meaning: ["맛"]
+display: "le goût"
+display_ipa: "lə gu"
+display_say: "le goût"
 forms: []
 examples: []
 theme: "Nourriture"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["gout", "le goût"]
 ---
-[🔊 gu](_Audio/le-gout-03d1a0.m4a) 구
+[🔊 lə gu](_Audio/le-gout-03d1a0.m4a)
 
 **le goût** · *명사 · 남성*
 

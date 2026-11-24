@@ -26,8 +26,8 @@ aliases: [Voyelles nasales, 비모음, nasales]
 
 | 비모음 ⭕ | 비모음 ❌ |
 |---|---|
-| un [œ̃] 앙 | une [yn] 윈 |
-| bon [bɔ̃] 봉 | bonne [bɔn] 본 |
-| italien [italjɛ̃] 이딸리앙 | italienne [italjɛn] 이딸리엔 |
+| un [œ̃] | une [yn] |
+| bon [bɔ̃] | bonne [bɔn] |
+| italien [italjɛ̃] | italienne [italjɛn] |
 
 관련: [[01 Voyelles orales|Voyelles orales]] · [[01 Liaison|Liaison]] (un‿ami)

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "idɑ̃tite"
 pron_native: "이덩띠떼"
 meaning: ["신원", "정체"]
+display: "l'identité (f.)"
+display_ipa: "lidɑ̃tite"
+display_say: "l'identité"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["identite", "l'identité"]
 ---
-[🔊 idɑ̃tite](_Audio/l-identite-aa43f7.m4a) 이덩띠떼
+[🔊 lidɑ̃tite](_Audio/l-identite-aa43f7.m4a)
 
 **l'identité** · *명사 · 여성*
 

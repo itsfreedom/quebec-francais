@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dɔlaʁ"
 pron_native: "돌라흐"
 meaning: ["달러"]
+display: "un dollar"
+display_ipa: "œ̃ dɔlaʁ"
+display_say: "un dollar"
 forms: []
 examples:
   - text: "25 dollars par mois"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le dollar"]
 ---
-[🔊 dɔlaʁ](_Audio/le-dollar-24ddc9.m4a) 돌라흐
+un dollar [🔊 œ̃ dɔlaʁ](_Audio/un-dollar-aa01a2.m4a) · les dollars [🔊 le dɔlaʁ](_Audio/les-dollars-c80f8c.m4a)
 
 **le dollar** · *명사 · 남성*
 

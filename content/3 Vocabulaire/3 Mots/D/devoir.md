@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dəvwaʁ"
 pron_native: "드부아흐"
 meaning: ["~해야 한다"]
+display: "devoir"
+display_ipa: "dəvwaʁ"
+display_say: "devoir"
 forms:
   - text: "vous devez"
     meaning: "당신은 ~해야 한다"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 dəvwaʁ](_Audio/devoir-4d4bcb.m4a) 드부아흐
+[🔊 dəvwaʁ](_Audio/devoir-4d4bcb.m4a)
 
 **devoir** · *동사*
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| vous devez | [🔊 vu dəve](_Audio/vous-devez-1ebc48.m4a) 부 드베 | 당신은 ~해야 한다 |
+| vous devez | [🔊 vu dəve](_Audio/vous-devez-1ebc48.m4a) | 당신은 ~해야 한다 |
 
 ---
 📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

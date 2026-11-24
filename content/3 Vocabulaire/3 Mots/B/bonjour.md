@@ -12,6 +12,9 @@ feminine: ""
 ipa: "bɔ̃ʒuʁ"
 pron_native: "봉주흐"
 meaning: ["안녕하세요 (낮 인사)"]
+display: "bonjour"
+display_ipa: "bɔ̃ʒuʁ"
+display_say: "bonjour"
 forms: []
 examples:
   - text: "Bonjour, madame !"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 bɔ̃ʒuʁ](_Audio/bonjour-f02368.m4a) 봉주흐
+[🔊 bɔ̃ʒuʁ](_Audio/bonjour-f02368.m4a)
 
 **bonjour** · *감탄사*
 

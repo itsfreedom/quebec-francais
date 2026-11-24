@@ -12,6 +12,9 @@ feminine: ""
 ipa: "paʁɑ̃"
 pron_native: "빠헝"
 meaning: ["부모 (한 사람)"]
+display: "un parent"
+display_ipa: "œ̃ paʁɑ̃"
+display_say: "un parent"
 forms: []
 examples:
   - text: "mes parents"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le parent"]
 ---
-[🔊 paʁɑ̃](_Audio/le-parent-68d790.m4a) 빠헝
+un parent [🔊 œ̃ paʁɑ̃](_Audio/un-parent-bbeafc.m4a) · les parents [🔊 le paʁɑ̃](_Audio/les-parents-dee833.m4a)
 
 **le parent** · *명사 · 남성*
 

@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["avec-plaisir-madame"]
 ---
-**Avec [plaisir](_Audio/le-plaisir-a31afe.m4a "기쁨"), [madame](_Audio/madame-43ee1d.m4a "~씨, 부인 (여성 존칭)").** [🔊](_Audio/avec-plaisir-madame-6fcd59.m4a)
-
 👉 기꺼이요, 부인.
 
 **단어**: [[plaisir|le plaisir]] · [[madame]]

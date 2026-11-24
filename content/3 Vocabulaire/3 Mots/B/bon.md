@@ -12,6 +12,9 @@ feminine: "bonne"
 ipa: "bɔ̃"
 pron_native: "봉"
 meaning: ["좋은", "맛있는"]
+display: "bon"
+display_ipa: "bɔ̃"
+display_say: "bon"
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 bɔ̃](_Audio/bon-c7f86e.m4a) 봉
+[🔊 bɔ̃](_Audio/bon-c7f86e.m4a)
 
 **bon** · *형용사 · 남성* · 여성형 **bonne**
 

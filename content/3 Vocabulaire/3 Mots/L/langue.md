@@ -12,6 +12,9 @@ feminine: ""
 ipa: "lɑ̃ɡ"
 pron_native: "랑그"
 meaning: ["언어"]
+display: "une langue"
+display_ipa: "yn lɑ̃ɡ"
+display_say: "une langue"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la langue"]
 ---
-[🔊 lɑ̃ɡ](_Audio/la-langue-41112b.m4a) 랑그
+une langue [🔊 yn lɑ̃ɡ](_Audio/une-langue-882f02.m4a) · les langues [🔊 le lɑ̃ɡ](_Audio/les-langues-1e4c89.m4a)
 
 **la langue** · *명사 · 여성*
 

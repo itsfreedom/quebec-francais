@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sɔsjete"
 pron_native: "쏘시에떼"
 meaning: ["사회", "회사"]
+display: "une société"
+display_ipa: "yn sɔsjete"
+display_say: "une société"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["societe", "la société"]
 ---
-[🔊 sɔsjete](_Audio/la-societe-a977e0.m4a) 쏘시에떼
+une société [🔊 yn sɔsjete](_Audio/une-societe-4c9982.m4a) · les sociétés [🔊 le sɔsjete](_Audio/les-societes-0dc486.m4a)
 
 **la société** · *명사 · 여성*
 

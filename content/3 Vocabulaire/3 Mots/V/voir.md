@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vwaʁ"
 pron_native: "부아흐"
 meaning: ["보다"]
+display: "voir"
+display_ipa: "vwaʁ"
+display_say: "voir"
 forms:
   - text: "vous voyez"
     meaning: "당신이 보다 / 보세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 vwaʁ](_Audio/voir-c2679c.m4a) 부아흐
+[🔊 vwaʁ](_Audio/voir-c2679c.m4a)
 
 **voir** · *동사*
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| vous voyez | [🔊 vu vwaje](_Audio/vous-voyez-20a5f3.m4a) 부 부아예 | 당신이 보다 / 보세요 |
+| vous voyez | [🔊 vu vwaje](_Audio/vous-voyez-20a5f3.m4a) | 당신이 보다 / 보세요 |
 
 ---
 📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

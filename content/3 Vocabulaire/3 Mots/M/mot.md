@@ -12,6 +12,9 @@ feminine: ""
 ipa: "mo"
 pron_native: "모"
 meaning: ["단어", "낱말"]
+display: "un mot"
+display_ipa: "œ̃ mo"
+display_say: "un mot"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le mot"]
 ---
-[🔊 mo](_Audio/le-mot-de22d6.m4a) 모
+un mot [🔊 œ̃ mo](_Audio/un-mot-2a774c.m4a) · les mots [🔊 le mo](_Audio/les-mots-6c7833.m4a)
 
 **le mot** · *명사 · 남성*
 

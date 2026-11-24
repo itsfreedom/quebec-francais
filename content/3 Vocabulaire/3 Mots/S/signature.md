@@ -12,6 +12,9 @@ feminine: ""
 ipa: "siɲatyʁ"
 pron_native: "씨냐뛰흐"
 meaning: ["서명"]
+display: "une signature"
+display_ipa: "yn siɲatyʁ"
+display_say: "une signature"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la signature"]
 ---
-[🔊 siɲatyʁ](_Audio/la-signature-08256d.m4a) 씨냐뛰흐
+une signature [🔊 yn siɲatyʁ](_Audio/une-signature-10e468.m4a) · les signatures [🔊 le siɲatyʁ](_Audio/les-signatures-feef12.m4a)
 
 **la signature** · *명사 · 여성*
 

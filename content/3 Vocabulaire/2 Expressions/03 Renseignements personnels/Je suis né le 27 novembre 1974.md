@@ -13,7 +13,7 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["je-suis-ne-le-27-novembre-1974"]
 ---
-**[Je](_Audio/je-79563e.m4a "나는") [suis](_Audio/etre-1e529d.m4a "être · ~이다, 있다") né [le](_Audio/le-d91805.m4a "그 (남성 정관사)") 27 [novembre](_Audio/novembre-732cad.m4a "11월") 1974.** [🔊](_Audio/je-suis-ne-le-27-novembre-1974-c33cd5.m4a)
+🔢 Je suis né le vingt-sept novembre mille neuf cent soixante-quatorze.
 
 👉 나는 1974년 11월 27일에 태어났어요.
 

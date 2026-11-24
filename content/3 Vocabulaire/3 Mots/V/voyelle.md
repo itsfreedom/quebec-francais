@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vwajɛl"
 pron_native: "부아옐"
 meaning: ["모음"]
+display: "une voyelle"
+display_ipa: "yn vwajɛl"
+display_say: "une voyelle"
 forms: []
 examples: []
 theme: "Classe"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la voyelle"]
 ---
-[🔊 vwajɛl](_Audio/la-voyelle-4e750f.m4a) 부아옐
+une voyelle [🔊 yn vwajɛl](_Audio/une-voyelle-02bdef.m4a) · les voyelles [🔊 le vwajɛl](_Audio/les-voyelles-d6e0f2.m4a)
 
 **la voyelle** · *명사 · 여성*
 

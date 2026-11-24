@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɔpsɛʁve"
 pron_native: "옵세흐베"
 meaning: ["관찰하다", "잘 보다"]
+display: "observer"
+display_ipa: "ɔpsɛʁve"
+display_say: "observer"
 forms:
   - text: "observez"
     meaning: "잘 보세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ɔpsɛʁve](_Audio/observer-dfda0d.m4a) 옵세흐베
+[🔊 ɔpsɛʁve](_Audio/observer-dfda0d.m4a)
 
 **observer** · *동사*
 
@@ -34,7 +37,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| observez | [🔊 ɔpsɛʁve](_Audio/observez-534a81.m4a) 옵세흐베 | 잘 보세요 |
+| observez | [🔊 ɔpsɛʁve](_Audio/observez-534a81.m4a) | 잘 보세요 |
 
 ---
 📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

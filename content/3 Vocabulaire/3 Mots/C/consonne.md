@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kɔ̃sɔn"
 pron_native: "꽁쏜"
 meaning: ["자음"]
+display: "une consonne"
+display_ipa: "yn kɔ̃sɔn"
+display_say: "une consonne"
 forms: []
 examples: []
 theme: "Classe"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la consonne"]
 ---
-[🔊 kɔ̃sɔn](_Audio/la-consonne-31e916.m4a) 꽁쏜
+une consonne [🔊 yn kɔ̃sɔn](_Audio/une-consonne-74f671.m4a) · les consonnes [🔊 le kɔ̃sɔn](_Audio/les-consonnes-fa7e58.m4a)
 
 **la consonne** · *명사 · 여성*
 

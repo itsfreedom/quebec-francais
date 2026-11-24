@@ -12,6 +12,9 @@ feminine: ""
 ipa: "madam"
 pron_native: "마담"
 meaning: ["~씨, 부인 (여성 존칭)"]
+display: "madame"
+display_ipa: "madam"
+display_say: "madame"
 forms: []
 examples: []
 theme: "Salutations"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 madam](_Audio/madame-43ee1d.m4a) 마담
+[🔊 madam](_Audio/madame-43ee1d.m4a)
 
 **madame** · *명사 · 여성*
 

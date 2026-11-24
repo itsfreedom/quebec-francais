@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kʁɛjɔ̃"
 pron_native: "크헤이옹"
 meaning: ["연필"]
+display: "un crayon"
+display_ipa: "œ̃ kʁɛjɔ̃"
+display_say: "un crayon"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le crayon"]
 ---
-[🔊 kʁɛjɔ̃](_Audio/le-crayon-193244.m4a) 크헤이옹
+un crayon [🔊 œ̃ kʁɛjɔ̃](_Audio/un-crayon-2b77b7.m4a) · les crayons [🔊 le kʁɛjɔ̃](_Audio/les-crayons-794ec1.m4a)
 
 **le crayon** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kanada"
 pron_native: "까나다"
 meaning: ["캐나다"]
+display: "le Canada"
+display_ipa: "lə kanada"
+display_say: "le Canada"
 forms: []
 examples:
   - text: "Je viens du Canada."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["canada", "le Canada"]
 ---
-[🔊 kanada](_Audio/le-canada-003914.m4a) 까나다
+[🔊 lə kanada](_Audio/le-canada-003914.m4a)
 
 **le Canada** · *명사 · 남성*
 

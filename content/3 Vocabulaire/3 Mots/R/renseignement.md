@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʁɑ̃sɛɲmɑ̃"
 pron_native: "헝센느멍"
 meaning: ["정보", "안내"]
+display: "un renseignement"
+display_ipa: "œ̃ ʁɑ̃sɛɲmɑ̃"
+display_say: "un renseignement"
 forms: []
 examples:
   - text: "les renseignements personnels"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le renseignement"]
 ---
-[🔊 ʁɑ̃sɛɲmɑ̃](_Audio/le-renseignement-9cdf8f.m4a) 헝센느멍
+un renseignement [🔊 œ̃ ʁɑ̃sɛɲmɑ̃](_Audio/un-renseignement-d3d80e.m4a) · les renseignements [🔊 le ʁɑ̃sɛɲmɑ̃](_Audio/les-renseignements-0f7baa.m4a)
 
 **le renseignement** · *명사 · 남성*
 

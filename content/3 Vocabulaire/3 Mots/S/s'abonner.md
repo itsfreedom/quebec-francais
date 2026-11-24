@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sabɔne"
 pron_native: "싸보네"
 meaning: ["회원 가입하다", "구독하다"]
+display: "s'abonner"
+display_ipa: "sabɔne"
+display_say: "s'abonner"
 forms:
   - text: "je m'abonne"
     meaning: "나는 가입한다"
@@ -25,7 +28,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["sabonner"]
 ---
-[🔊 sabɔne](_Audio/s-abonner-72e617.m4a) 싸보네
+[🔊 sabɔne](_Audio/s-abonner-72e617.m4a)
 
 **s'abonner** · *동사*
 
@@ -36,7 +39,7 @@ aliases: ["sabonner"]
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| je m'abonne | [🔊 ʒə mabɔn](_Audio/je-m-abonne-c09aad.m4a) 즈 마본 | 나는 가입한다 |
+| je m'abonne | [🔊 ʒə mabɔn](_Audio/je-m-abonne-c09aad.m4a) | 나는 가입한다 |
 
 ## 예문
 - **J'aimerais m'abonner au gym.** — 헬스장에 가입하고 싶어요.

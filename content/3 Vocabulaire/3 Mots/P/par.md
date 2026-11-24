@@ -12,6 +12,9 @@ feminine: ""
 ipa: "paʁ"
 pron_native: "빠흐"
 meaning: ["~마다", "~으로"]
+display: "par"
+display_ipa: "paʁ"
+display_say: "par"
 forms: []
 examples:
   - text: "25 dollars par mois"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 paʁ](_Audio/par-d01826.m4a) 빠흐
+[🔊 paʁ](_Audio/par-d01826.m4a)
 
 **par** · *전치사*
 

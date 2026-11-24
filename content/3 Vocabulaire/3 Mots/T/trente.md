@@ -12,6 +12,9 @@ feminine: ""
 ipa: "tʁɑ̃t"
 pron_native: "트헝뜨"
 meaning: ["30"]
+display: "trente"
+display_ipa: "tʁɑ̃t"
+display_say: "trente"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 tʁɑ̃t](_Audio/trente-9b61ba.m4a) 트헝뜨
+[🔊 tʁɑ̃t](_Audio/trente-9b61ba.m4a)
 
 **trente** · *숫자*
 

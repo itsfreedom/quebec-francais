@@ -12,6 +12,9 @@ feminine: ""
 ipa: "libi"
 pron_native: "리비"
 meaning: ["리비아"]
+display: "la Libye"
+display_ipa: "la libi"
+display_say: "la Libye"
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["libye", "la Libye"]
 ---
-[🔊 libi](_Audio/la-libye-4d1c73.m4a) 리비
+[🔊 la libi](_Audio/la-libye-4d1c73.m4a)
 
 **la Libye** · *명사 · 여성*
 

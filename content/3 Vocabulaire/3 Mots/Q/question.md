@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kɛstjɔ̃"
 pron_native: "께스띠옹"
 meaning: ["질문"]
+display: "une question"
+display_ipa: "yn kɛstjɔ̃"
+display_say: "une question"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la question"]
 ---
-[🔊 kɛstjɔ̃](_Audio/la-question-06c1f0.m4a) 께스띠옹
+une question [🔊 yn kɛstjɔ̃](_Audio/une-question-672704.m4a) · les questions [🔊 le kɛstjɔ̃](_Audio/les-questions-a3d30f.m4a)
 
 **la question** · *명사 · 여성*
 

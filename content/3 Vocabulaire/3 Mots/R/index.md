@@ -6,6 +6,7 @@ title: "R"
 - [[3 Vocabulaire/3 Mots/R/remplir|remplir]]
 - [[3 Vocabulaire/3 Mots/R/renseignement|renseignement]]
 - [[3 Vocabulaire/3 Mots/R/rien|rien]]
+- [[3 Vocabulaire/3 Mots/R/route|route]]
 - [[3 Vocabulaire/3 Mots/R/rue|rue]]
 - [[3 Vocabulaire/3 Mots/R/répondre|répondre]]
 - [[3 Vocabulaire/3 Mots/R/réponse|réponse]]

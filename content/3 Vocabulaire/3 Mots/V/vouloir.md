@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vulwaʁ"
 pron_native: "불루아흐"
 meaning: ["원하다"]
+display: "vouloir"
+display_ipa: "vulwaʁ"
+display_say: "vouloir"
 forms:
   - text: "vous voulez"
     meaning: "당신은 원한다"
@@ -27,7 +30,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 vulwaʁ](_Audio/vouloir-b126ec.m4a) 불루아흐
+[🔊 vulwaʁ](_Audio/vouloir-b126ec.m4a)
 
 **vouloir** · *동사*
 
@@ -37,8 +40,8 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| vous voulez | [🔊 vu vule](_Audio/vous-voulez-b0699e.m4a) 부 불레 | 당신은 원한다 |
-| [ça](_Audio/ca-25596d.m4a "그것, 이것") [veut](_Audio/vouloir-b126ec.m4a "vouloir · 원하다") [dire](_Audio/dire-2fca68.m4a "말하다") [🔊](_Audio/ca-veut-dire-8add37.m4a) | [sa vø diʁ] 싸 뵈 디흐 | 그건 ~라는 뜻이다 |
+| vous voulez | [🔊 vu vule](_Audio/vous-voulez-b0699e.m4a) | 당신은 원한다 |
+| ça veut dire | [🔊 sa vø diʁ](_Audio/ca-veut-dire-8add37.m4a) | 그건 ~라는 뜻이다 |
 
 ---
 📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

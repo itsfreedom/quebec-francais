@@ -12,6 +12,9 @@ feminine: "féminine"
 ipa: "feminɛ̃"
 pron_native: "페미낭"
 meaning: ["여성의"]
+display: "féminin"
+display_ipa: "feminɛ̃"
+display_say: "féminin"
 forms: []
 examples: []
 theme: "Classe"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["feminin"]
 ---
-[🔊 feminɛ̃](_Audio/feminin-a31d54.m4a) 페미낭
+[🔊 feminɛ̃](_Audio/feminin-a31d54.m4a)
 
 **féminin** · *형용사 · 남성* · 여성형 **féminine**
 

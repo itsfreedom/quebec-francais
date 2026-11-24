@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dʁol"
 pron_native: "드홀"
 meaning: ["웃긴", "재미있는"]
+display: "drôle"
+display_ipa: "dʁol"
+display_say: "drôle"
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["drole"]
 ---
-[🔊 dʁol](_Audio/drole-2c3c12.m4a) 드홀
+[🔊 dʁol](_Audio/drole-2c3c12.m4a)
 
 **drôle** · *형용사 · 남녀 공통*
 

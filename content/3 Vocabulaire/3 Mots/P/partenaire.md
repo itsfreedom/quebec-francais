@@ -12,6 +12,9 @@ feminine: ""
 ipa: "paʁtənɛʁ"
 pron_native: "빠흐뜨네흐"
 meaning: ["짝", "파트너"]
+display: "un/une partenaire"
+display_ipa: "œ̃ paʁtənɛʁ"
+display_say: "un partenaire"
 forms: []
 examples:
   - text: "Demandez à votre partenaire."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le/la partenaire"]
 ---
-[🔊 paʁtənɛʁ](_Audio/le-la-partenaire-f5a1f7.m4a) 빠흐뜨네흐
+un partenaire [🔊 œ̃ paʁtənɛʁ](_Audio/un-partenaire-f4c7ab.m4a) · une partenaire [🔊 yn paʁtənɛʁ](_Audio/une-partenaire-51b8ef.m4a) · les partenaires [🔊 le paʁtənɛʁ](_Audio/les-partenaires-375909.m4a)
 
 **le/la partenaire** · *명사 · 남녀 공통*
 

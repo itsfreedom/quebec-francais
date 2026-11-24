@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʒɥijɛ"
 pron_native: "쥐이예"
 meaning: ["7월"]
+display: "juillet"
+display_ipa: "ʒɥijɛ"
+display_say: "juillet"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ʒɥijɛ](_Audio/juillet-40df84.m4a) 쥐이예
+[🔊 ʒɥijɛ](_Audio/juillet-40df84.m4a)
 
 **juillet** · *명사 · 남성*
 

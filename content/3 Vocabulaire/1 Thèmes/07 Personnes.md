@@ -9,13 +9,13 @@ aliases: [사람]
 
 | 단어 | 발음 | 뜻 |
 |---|---|---|
-| [[ami\|l'ami]] · amie | [🔊 ami](_Audio/l-ami-7a34fa.m4a) 아미 | 친구 |
-| [[anglophone]] | [🔊 ɑ̃glɔfɔn](_Audio/anglophone-7b596d.m4a) 앙글로폰 | 영어를 쓰는 (사람) |
-| [[dentiste\|le/la dentiste]] | [🔊 dɑ̃tist](_Audio/le-la-dentiste-e9fde3.m4a) 덩띠스뜨 | 치과의사 |
-| [[fille\|la fille]] | [🔊 fij](_Audio/la-fille-4f272a.m4a) 피으 | 딸, 소녀 |
-| [[français]] · française | [🔊 fʁɑ̃sɛ](_Audio/francais-616e89.m4a) 프항쎄 | 프랑스어, 프랑스의 |
-| [[italien]] · italienne | [🔊 italjɛ̃](_Audio/italien-19cb29.m4a) 이딸리앙 | 이탈리아의, 이탈리아 사람 |
-| [[maman\|la maman]] | [🔊 mamɑ̃](_Audio/la-maman-c7a3d9.m4a) 마망 | 엄마 |
-| [[maquilleur\|le maquilleur]] · maquilleuse | [🔊 makijœʁ](_Audio/le-maquilleur-52cfb2.m4a) 마끼외흐 | 메이크업 아티스트 |
-| [[patron\|le patron]] · patronne | [🔊 patʁɔ̃](_Audio/le-patron-136d77.m4a) 빠트홍 | 사장, 상사 |
-| [[sœur\|la sœur]] | [🔊 sœʁ](_Audio/la-sur-69571e.m4a) 쐬흐 | 자매 (언니·누나·여동생) |
+| [[ami\|un ami]] · amie | [🔊 œ̃n‿ami](_Audio/un-ami-ee3842.m4a) | 친구 |
+| [[anglophone]] | [🔊 ɑ̃glɔfɔn](_Audio/anglophone-7b596d.m4a) | 영어를 쓰는 (사람) |
+| [[dentiste\|un/une dentiste]] | [🔊 œ̃ dɑ̃tist](_Audio/un-dentiste-ce74b3.m4a) | 치과의사 |
+| [[fille\|une fille]] | [🔊 yn fij](_Audio/une-fille-c7829a.m4a) | 딸, 소녀 |
+| [[français]] · française | [🔊 fʁɑ̃sɛ](_Audio/francais-616e89.m4a) | 프랑스어, 프랑스의 |
+| [[italien]] · italienne | [🔊 italjɛ̃](_Audio/italien-19cb29.m4a) | 이탈리아의, 이탈리아 사람 |
+| [[maman\|une maman]] | [🔊 yn mamɑ̃](_Audio/une-maman-7492d0.m4a) | 엄마 |
+| [[maquilleur\|un maquilleur]] · maquilleuse | [🔊 œ̃ makijœʁ](_Audio/un-maquilleur-3316a1.m4a) | 메이크업 아티스트 |
+| [[patron\|un patron]] · patronne | [🔊 œ̃ patʁɔ̃](_Audio/un-patron-37b5e1.m4a) | 사장, 상사 |
+| [[sœur\|une sœur]] | [🔊 yn sœʁ](_Audio/une-sur-f8bb08.m4a) | 자매 (언니·누나·여동생) |

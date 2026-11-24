@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vwa"
 pron_native: "부아"
 meaning: ["목소리"]
+display: "une voix"
+display_ipa: "yn vwa"
+display_say: "une voix"
 forms: []
 examples:
   - text: "à voix haute"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la voix"]
 ---
-[🔊 vwa](_Audio/la-voix-f44fb6.m4a) 부아
+une voix [🔊 yn vwa](_Audio/une-voix-e08ed1.m4a) · les voix [🔊 le vwa](_Audio/les-voix-70f561.m4a)
 
 **la voix** · *명사 · 여성*
 

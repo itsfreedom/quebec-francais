@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dɑ̃"
 pron_native: "덩"
 meaning: ["이", "치아"]
+display: "une dent"
+display_ipa: "yn dɑ̃"
+display_say: "une dent"
 forms: []
 examples: []
 theme: "Corps"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la dent"]
 ---
-[🔊 dɑ̃](_Audio/la-dent-8429f2.m4a) 덩
+une dent [🔊 yn dɑ̃](_Audio/une-dent-fcf8c6.m4a) · les dents [🔊 le dɑ̃](_Audio/les-dents-eae9ed.m4a)
 
 **la dent** · *명사 · 여성*
 

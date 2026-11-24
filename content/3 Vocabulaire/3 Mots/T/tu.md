@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ty"
 pron_native: "뛰"
 meaning: ["너는"]
+display: "tu"
+display_ipa: "ty"
+display_say: "tu"
 forms: []
 examples: []
 theme: "Pronoms"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ty](_Audio/tu-b6b4ce.m4a) 뛰
+[🔊 ty](_Audio/tu-b6b4ce.m4a)
 
 **tu** · *대명사*
 

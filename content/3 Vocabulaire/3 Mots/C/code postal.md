@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kɔd pɔstal"
 pron_native: "꼬드 뽀스딸"
 meaning: ["우편번호"]
+display: "un code postal"
+display_ipa: "œ̃ kɔd pɔstal"
+display_say: "un code postal"
 forms: []
 examples:
   - text: "H2T 2V4"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["code-postal", "le code postal"]
 ---
-[🔊 kɔd pɔstal](_Audio/le-code-postal-7b95b7.m4a) 꼬드 뽀스딸
+[🔊 œ̃ kɔd pɔstal](_Audio/un-code-postal-cc1d22.m4a)
 
 **le code postal** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "adʁɛs"
 pron_native: "아드헤스"
 meaning: ["주소"]
+display: "une adresse"
+display_ipa: "ynadʁɛs"
+display_say: "une adresse"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'adresse"]
 ---
-[🔊 adʁɛs](_Audio/l-adresse-85a4ec.m4a) 아드헤스
+l'adresse [🔊 ladʁɛs](_Audio/l-adresse-85a4ec.m4a) · une adresse [🔊 ynadʁɛs](_Audio/une-adresse-9f738b.m4a) · les adresses [🔊 lez‿adʁɛs](_Audio/les-adresses-10cc9d.m4a)
 
 **l'adresse** · *명사 · 여성*
 

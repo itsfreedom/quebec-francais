@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-demain"]
 ---
-**À [demain](_Audio/demain-2fdb30.m4a "내일") !** [🔊](_Audio/a-demain-6c94cd.m4a)
-
 👉 내일 봐요!
 
 **단어**: [[demain]]

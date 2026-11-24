@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʁəɡaʁde"
 pron_native: "흐가흐데"
 meaning: ["보다"]
+display: "regarder"
+display_ipa: "ʁəɡaʁde"
+display_say: "regarder"
 forms:
   - text: "regardez"
     meaning: "보세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ʁəɡaʁde](_Audio/regarder-d9ea0d.m4a) 흐가흐데
+[🔊 ʁəɡaʁde](_Audio/regarder-d9ea0d.m4a)
 
 **regarder** · *동사*
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| regardez | [🔊 ʁəɡaʁde](_Audio/regardez-79ad3a.m4a) 흐가흐데 | 보세요 |
+| regardez | [🔊 ʁəɡaʁde](_Audio/regardez-79ad3a.m4a) | 보세요 |
 
 ## 발음 · 쓰임
 명령형 → [[04 Impératif|Impératif]]

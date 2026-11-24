@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-ce-soir"]
 ---
-**À ce soir !** [🔊](_Audio/a-ce-soir-3c3bb2.m4a)
-
 👉 오늘 저녁에 봐요!
 
 ---

@@ -11,5 +11,7 @@ title: "Q"
 - [[3 Vocabulaire/3 Mots/Q/que|que]]
 - [[3 Vocabulaire/3 Mots/Q/quel|quel]]
 - [[3 Vocabulaire/3 Mots/Q/question|question]]
+- [[3 Vocabulaire/3 Mots/Q/qui|qui]]
 - [[3 Vocabulaire/3 Mots/Q/quinze|quinze]]
+- [[3 Vocabulaire/3 Mots/Q/quoi|quoi]]
 - [[3 Vocabulaire/3 Mots/Q/québécois|québécois]]

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "nɛsɑ̃s"
 pron_native: "네쌍스"
 meaning: ["출생", "탄생"]
+display: "la naissance"
+display_ipa: "la nɛsɑ̃s"
+display_say: "la naissance"
 forms: []
 examples:
   - text: "la date de naissance"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la naissance"]
 ---
-[🔊 nɛsɑ̃s](_Audio/la-naissance-8493f9.m4a) 네쌍스
+[🔊 la nɛsɑ̃s](_Audio/la-naissance-8493f9.m4a)
 
 **la naissance** · *명사 · 여성*
 

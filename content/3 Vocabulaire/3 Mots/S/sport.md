@@ -12,6 +12,9 @@ feminine: ""
 ipa: "spɔʁ"
 pron_native: "스뽀흐"
 meaning: ["운동", "스포츠"]
+display: "le sport"
+display_ipa: "lə spɔʁ"
+display_say: "le sport"
 forms: []
 examples:
   - text: "Quel sport tu aimes ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le sport"]
 ---
-[🔊 spɔʁ](_Audio/le-sport-c199f5.m4a) 스뽀흐
+[🔊 lə spɔʁ](_Audio/le-sport-c199f5.m4a)
 
 **le sport** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vu"
 pron_native: "부"
 meaning: ["당신 (존댓말)", "너희"]
+display: "vous"
+display_ipa: "vu"
+display_say: "vous"
 forms: []
 examples:
   - text: "Et vous ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 vu](_Audio/vous-593ffa.m4a) 부
+[🔊 vu](_Audio/vous-593ffa.m4a)
 
 **vous** · *대명사*
 

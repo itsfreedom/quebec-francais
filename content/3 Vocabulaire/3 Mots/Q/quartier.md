@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kaʁtje"
 pron_native: "까흐띠에"
 meaning: ["동네"]
+display: "un quartier"
+display_ipa: "œ̃ kaʁtje"
+display_say: "un quartier"
 forms: []
 examples:
   - text: "le centre sportif de votre quartier"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le quartier"]
 ---
-[🔊 kaʁtje](_Audio/le-quartier-6de6aa.m4a) 까흐띠에
+un quartier [🔊 œ̃ kaʁtje](_Audio/un-quartier-5f2401.m4a) · les quartiers [🔊 le kaʁtje](_Audio/les-quartiers-57765a.m4a)
 
 **le quartier** · *명사 · 남성*
 

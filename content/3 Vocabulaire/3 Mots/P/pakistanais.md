@@ -12,6 +12,9 @@ feminine: "pakistanaise"
 ipa: "pakistanɛ"
 pron_native: "빠끼스따네"
 meaning: ["파키스탄 사람"]
+display: "pakistanais"
+display_ipa: "pakistanɛ"
+display_say: "pakistanais"
 forms:
   - text: "pakistanaise"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 pakistanɛ](_Audio/pakistanais-4f8130.m4a) 빠끼스따네
+[🔊 pakistanɛ](_Audio/pakistanais-4f8130.m4a)
 
 **pakistanais** · *형용사 · 남성* · 여성형 **pakistanaise**
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| pakistanaise | [🔊 pakistanɛz](_Audio/pakistanaise-ff7a11.m4a) 빠끼스따네즈 | 여성형 |
+| pakistanaise | [🔊 pakistanɛz](_Audio/pakistanaise-ff7a11.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

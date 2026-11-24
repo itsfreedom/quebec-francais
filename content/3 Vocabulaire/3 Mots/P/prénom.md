@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pʁenɔ̃"
 pron_native: "프헤농"
 meaning: ["이름 (성을 뺀 이름)"]
+display: "un prénom"
+display_ipa: "œ̃ pʁenɔ̃"
+display_say: "un prénom"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["prenom", "le prénom"]
 ---
-[🔊 pʁenɔ̃](_Audio/le-prenom-b27c0a.m4a) 프헤농
+un prénom [🔊 œ̃ pʁenɔ̃](_Audio/un-prenom-a205eb.m4a) · les prénoms [🔊 le pʁenɔ̃](_Audio/les-prenoms-7117ae.m4a)
 
 **le prénom** · *명사 · 남성*
 

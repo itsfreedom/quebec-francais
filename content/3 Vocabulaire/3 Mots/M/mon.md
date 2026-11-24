@@ -12,6 +12,9 @@ feminine: "ma"
 ipa: "mɔ̃"
 pron_native: "몽"
 meaning: ["나의 (남성 명사 앞)"]
+display: "mon"
+display_ipa: "mɔ̃"
+display_say: "mon"
 forms: []
 examples: []
 theme: "Pronoms"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 mɔ̃](_Audio/mon-197639.m4a) 몽
+[🔊 mɔ̃](_Audio/mon-197639.m4a)
 
 **mon** · *한정사 · 남성* · 여성형 **ma**
 

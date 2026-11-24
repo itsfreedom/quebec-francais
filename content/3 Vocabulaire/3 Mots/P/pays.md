@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pei"
 pron_native: "뻬이"
 meaning: ["나라"]
+display: "un pays"
+display_ipa: "œ̃ pei"
+display_say: "un pays"
 forms: []
 examples:
   - text: "De quel pays tu viens ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le pays"]
 ---
-[🔊 pei](_Audio/le-pays-dd007d.m4a) 뻬이
+un pays [🔊 œ̃ pei](_Audio/un-pays-0a3c21.m4a) · les pays [🔊 le pei](_Audio/les-pays-282d37.m4a)
 
 **le pays** · *명사 · 남성*
 

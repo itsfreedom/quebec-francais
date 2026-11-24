@@ -12,6 +12,9 @@ feminine: ""
 ipa: "matɛ̃"
 pron_native: "마땅"
 meaning: ["아침"]
+display: "le matin"
+display_ipa: "lə matɛ̃"
+display_say: "le matin"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le matin"]
 ---
-[🔊 matɛ̃](_Audio/le-matin-0c59cb.m4a) 마땅
+[🔊 lə matɛ̃](_Audio/le-matin-0c59cb.m4a)
 
 **le matin** · *명사 · 남성*
 

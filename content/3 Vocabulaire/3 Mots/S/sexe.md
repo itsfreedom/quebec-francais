@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sɛks"
 pron_native: "섹스"
 meaning: ["성별"]
+display: "le sexe"
+display_ipa: "lə sɛks"
+display_say: "le sexe"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le sexe"]
 ---
-[🔊 sɛks](_Audio/le-sexe-cf145e.m4a) 섹스
+[🔊 lə sɛks](_Audio/le-sexe-cf145e.m4a)
 
 **le sexe** · *명사 · 남성*
 

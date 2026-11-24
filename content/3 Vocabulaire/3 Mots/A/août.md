@@ -12,6 +12,9 @@ feminine: ""
 ipa: "u"
 pron_native: "우"
 meaning: ["8월"]
+display: "août"
+display_ipa: "u"
+display_say: "août"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["aout"]
 ---
-[🔊 u](_Audio/aout-3daa4c.m4a) 우
+[🔊 u](_Audio/aout-3daa4c.m4a)
 
 **août** · *명사 · 남성*
 
@@ -27,7 +30,7 @@ aliases: ["aout"]
 1. 8월
 
 ## 발음 · 쓰임
-[u] 또는 [ut]. 퀘벡에서는 [ut] '우뜨'가 흔해요
+[u] 또는 [ut]. 퀘벡에서는 [ut]가 흔해요
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

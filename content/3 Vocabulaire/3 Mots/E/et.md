@@ -12,6 +12,9 @@ feminine: ""
 ipa: "e"
 pron_native: "에"
 meaning: ["그리고"]
+display: "et"
+display_ipa: "e"
+display_say: "et"
 forms: []
 examples:
   - text: "toi et moi"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 e](_Audio/et-4de1b7.m4a) 에
+[🔊 e](_Audio/et-4de1b7.m4a)
 
 **et** · *접속사*
 

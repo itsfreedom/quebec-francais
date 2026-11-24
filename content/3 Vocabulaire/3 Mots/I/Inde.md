@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɛ̃d"
 pron_native: "앵드"
 meaning: ["인도"]
+display: "l'Inde (f.)"
+display_ipa: "lɛ̃d"
+display_say: "l'Inde"
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["inde", "l'Inde"]
 ---
-[🔊 ɛ̃d](_Audio/l-inde-5bbe79.m4a) 앵드
+[🔊 lɛ̃d](_Audio/l-inde-5bbe79.m4a)
 
 **l'Inde** · *명사 · 여성*
 

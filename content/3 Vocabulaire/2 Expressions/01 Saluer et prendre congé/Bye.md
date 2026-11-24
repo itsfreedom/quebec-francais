@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["bye"]
 ---
-**Bye !** [🔊](_Audio/bye-2e326a.m4a)
-
 👉 안녕! (헤어질 때, 구어)
 
 ---

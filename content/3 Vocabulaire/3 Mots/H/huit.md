@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɥit"
 pron_native: "위뜨"
 meaning: ["8"]
+display: "huit"
+display_ipa: "ɥit"
+display_say: "huit"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ɥit](_Audio/huit-0a753c.m4a) 위뜨
+[🔊 ɥit](_Audio/huit-0a753c.m4a)
 
 **huit** · *숫자*
 

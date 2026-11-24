@@ -12,6 +12,9 @@ feminine: ""
 ipa: "maʁs"
 pron_native: "마흐스"
 meaning: ["3월"]
+display: "mars"
+display_ipa: "maʁs"
+display_say: "mars"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 maʁs](_Audio/mars-68834f.m4a) 마흐스
+[🔊 maʁs](_Audio/mars-68834f.m4a)
 
 **mars** · *명사 · 남성*
 

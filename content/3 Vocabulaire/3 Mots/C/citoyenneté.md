@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sitwajɛnte"
 pron_native: "씨뚜아옌떼"
 meaning: ["시민권"]
+display: "la citoyenneté"
+display_ipa: "la sitwajɛnte"
+display_say: "la citoyenneté"
 forms: []
 examples:
   - text: "J'ai la citoyenneté canadienne."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["citoyennete", "la citoyenneté"]
 ---
-[🔊 sitwajɛnte](_Audio/la-citoyennete-103ecd.m4a) 씨뚜아옌떼
+[🔊 la sitwajɛnte](_Audio/la-citoyennete-103ecd.m4a)
 
 **la citoyenneté** · *명사 · 여성*
 

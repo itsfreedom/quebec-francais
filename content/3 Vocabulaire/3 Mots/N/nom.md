@@ -12,6 +12,9 @@ feminine: ""
 ipa: "nɔ̃"
 pron_native: "농"
 meaning: ["이름"]
+display: "un nom"
+display_ipa: "œ̃ nɔ̃"
+display_say: "un nom"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le nom"]
 ---
-[🔊 nɔ̃](_Audio/le-nom-66d257.m4a) 농
+un nom [🔊 œ̃ nɔ̃](_Audio/un-nom-3fe218.m4a) · les noms [🔊 le nɔ̃](_Audio/les-noms-4428cb.m4a)
 
 **le nom** · *명사 · 남성*
 

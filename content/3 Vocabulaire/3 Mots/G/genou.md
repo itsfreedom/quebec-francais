@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʒənu"
 pron_native: "즈누"
 meaning: ["무릎"]
+display: "un genou"
+display_ipa: "œ̃ ʒənu"
+display_say: "un genou"
 forms: []
 examples: []
 theme: "Corps"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le genou"]
 ---
-[🔊 ʒənu](_Audio/le-genou-665220.m4a) 즈누
+un genou [🔊 œ̃ ʒənu](_Audio/un-genou-6cd528.m4a) · les genous [🔊 le ʒənu](_Audio/les-genous-220a53.m4a)
 
 **le genou** · *명사 · 남성*
 

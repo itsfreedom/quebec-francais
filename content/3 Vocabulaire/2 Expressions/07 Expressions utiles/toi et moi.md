@@ -13,8 +13,6 @@ origin: "generated"
 tags: [francisation, sentence]
 aliases: ["toi-et-moi"]
 ---
-**[toi](_Audio/toi-501446.m4a "너 (강조)") [et](_Audio/et-4de1b7.m4a "그리고") [moi](_Audio/moi-8f8ad2.m4a "나 (강조할 때)")** [🔊](_Audio/toi-et-moi-1faf7b.m4a)
-
 👉 너와 나
 
 **단어**: [[et]] · [[moi]]

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʃəmɛ̃"
 pron_native: "슈망"
 meaning: ["길", "경로"]
+display: "un chemin"
+display_ipa: "œ̃ ʃəmɛ̃"
+display_say: "un chemin"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le chemin"]
 ---
-[🔊 ʃəmɛ̃](_Audio/le-chemin-3f6a20.m4a) 슈망
+un chemin [🔊 œ̃ ʃəmɛ̃](_Audio/un-chemin-fdc8bb.m4a) · les chemins [🔊 le ʃəmɛ̃](_Audio/les-chemins-81065a.m4a)
 
 **le chemin** · *명사 · 남성*
 

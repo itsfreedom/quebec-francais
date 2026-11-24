@@ -12,6 +12,9 @@ feminine: ""
 ipa: "də"
 pron_native: "드"
 meaning: ["~에서 (출신)", "~의"]
+display: "de"
+display_ipa: "də"
+display_say: "de"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 də](_Audio/de-5f02f0.m4a) 드
+[🔊 də](_Audio/de-5f02f0.m4a)
 
 **de** · *전치사*
 

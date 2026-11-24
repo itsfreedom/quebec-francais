@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kɛ̃z"
 pron_native: "깽즈"
 meaning: ["15"]
+display: "quinze"
+display_ipa: "kɛ̃z"
+display_say: "quinze"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kɛ̃z](_Audio/quinze-c56148.m4a) 깽즈
+[🔊 kɛ̃z](_Audio/quinze-c56148.m4a)
 
 **quinze** · *숫자*
 

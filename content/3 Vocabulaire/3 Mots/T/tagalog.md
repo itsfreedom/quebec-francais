@@ -12,6 +12,9 @@ feminine: ""
 ipa: "taɡalɔɡ"
 pron_native: "따갈로그"
 meaning: ["타갈로그어 (필리핀)"]
+display: "le tagalog"
+display_ipa: "lə taɡalɔɡ"
+display_say: "le tagalog"
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le tagalog"]
 ---
-[🔊 taɡalɔɡ](_Audio/le-tagalog-ea3014.m4a) 따갈로그
+[🔊 lə taɡalɔɡ](_Audio/le-tagalog-ea3014.m4a)
 
 **le tagalog** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kwafyʁ"
 pron_native: "꾸아퓌흐"
 meaning: ["헤어스타일", "미용"]
+display: "la coiffure"
+display_ipa: "la kwafyʁ"
+display_say: "la coiffure"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la coiffure"]
 ---
-[🔊 kwafyʁ](_Audio/la-coiffure-f481b1.m4a) 꾸아퓌흐
+[🔊 la kwafyʁ](_Audio/la-coiffure-f481b1.m4a)
 
 **la coiffure** · *명사 · 여성*
 

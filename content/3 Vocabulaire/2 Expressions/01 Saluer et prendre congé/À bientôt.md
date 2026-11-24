@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-bientot"]
 ---
-**À bientôt !** [🔊](_Audio/a-bientot-bf476e.m4a)
-
 👉 곧 봐요!
 
 ---

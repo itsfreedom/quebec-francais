@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ne"
 pron_native: "네"
 meaning: ["코"]
+display: "un nez"
+display_ipa: "œ̃ ne"
+display_say: "un nez"
 forms: []
 examples: []
 theme: "Corps"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le nez"]
 ---
-[🔊 ne](_Audio/le-nez-3bf9c9.m4a) 네
+un nez [🔊 œ̃ ne](_Audio/un-nez-4dd2cd.m4a) · les nez [🔊 le ne](_Audio/les-nez-95c56c.m4a)
 
 **le nez** · *명사 · 남성*
 

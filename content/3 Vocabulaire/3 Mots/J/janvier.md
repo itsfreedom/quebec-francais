@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʒɑ̃vje"
 pron_native: "장비에"
 meaning: ["1월"]
+display: "janvier"
+display_ipa: "ʒɑ̃vje"
+display_say: "janvier"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ʒɑ̃vje](_Audio/janvier-76951e.m4a) 장비에
+[🔊 ʒɑ̃vje](_Audio/janvier-76951e.m4a)
 
 **janvier** · *명사 · 남성*
 

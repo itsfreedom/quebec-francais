@@ -12,6 +12,9 @@ feminine: ""
 ipa: "djalɔɡ"
 pron_native: "디알로그"
 meaning: ["대화", "대화문"]
+display: "un dialogue"
+display_ipa: "œ̃ djalɔɡ"
+display_say: "un dialogue"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le dialogue"]
 ---
-[🔊 djalɔɡ](_Audio/le-dialogue-1ff197.m4a) 디알로그
+un dialogue [🔊 œ̃ djalɔɡ](_Audio/un-dialogue-e8ebdb.m4a) · les dialogues [🔊 le djalɔɡ](_Audio/les-dialogues-b6f493.m4a)
 
 **le dialogue** · *명사 · 남성*
 

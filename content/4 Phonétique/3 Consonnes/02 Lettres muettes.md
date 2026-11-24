@@ -11,11 +11,11 @@ aliases: [Lettres muettes, 묵음, 끝 자음, CaReFuL]
 ## ① 끝 자음은 대부분 읽지 않아요
 | 예시 | 발음 | 안 읽는 글자 |
 |---|---|---|
-| deux | [dø] 되 | x |
-| trois | [tʁwa] 트후아 | s |
-| nous | [nu] 누 | s |
-| petit | [pəti] 쁘띠 | t |
-| nez | [ne] 네 | z |
+| deux | [dø] | x |
+| trois | [tʁwa] | s |
+| nous | [nu] | s |
+| petit | [pəti] | t |
+| nez | [ne] | z |
 
 > [!tip] 예외: **C · R · F · L** (CaReFuL로 외워요)
 > 끝에 와도 보통 읽어요.

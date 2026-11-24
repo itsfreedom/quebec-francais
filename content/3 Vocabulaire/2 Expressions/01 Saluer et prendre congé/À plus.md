@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-plus"]
 ---
-**À plus !** [🔊](_Audio/a-plus-988fce.m4a)
-
 👉 이따 봐! (반말)
 
 ---

@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["comment-ca-va"]
 ---
-**[Comment](_Audio/comment-06d4cd.m4a "어떻게") [ça](_Audio/ca-25596d.m4a "그것, 이것") [va](_Audio/aller-299d26.m4a "aller · 가다") ?** [🔊](_Audio/comment-ca-va-0b1616.m4a)
-
 👉 어떻게 지내요?
 
 **단어**: [[comment]] · [[ça]] · [[aller]]

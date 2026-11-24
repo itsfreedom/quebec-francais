@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pʁɔdɥi"
 pron_native: "프호뒤"
 meaning: ["제품"]
+display: "un produit"
+display_ipa: "œ̃ pʁɔdɥi"
+display_say: "un produit"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le produit"]
 ---
-[🔊 pʁɔdɥi](_Audio/le-produit-a95543.m4a) 프호뒤
+un produit [🔊 œ̃ pʁɔdɥi](_Audio/un-produit-36e6c5.m4a) · les produits [🔊 le pʁɔdɥi](_Audio/les-produits-7e01c9.m4a)
 
 **le produit** · *명사 · 남성*
 

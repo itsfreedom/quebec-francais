@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʃili"
 pron_native: "실리"
 meaning: ["칠레"]
+display: "le Chili"
+display_ipa: "lə ʃili"
+display_say: "le Chili"
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["chili", "le Chili"]
 ---
-[🔊 ʃili](_Audio/le-chili-2e73e8.m4a) 실리
+[🔊 lə ʃili](_Audio/le-chili-2e73e8.m4a)
 
 **le Chili** · *명사 · 남성*
 

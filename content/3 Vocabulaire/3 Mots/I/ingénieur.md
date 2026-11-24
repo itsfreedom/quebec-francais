@@ -12,6 +12,9 @@ feminine: "ingénieure"
 ipa: "ɛ̃ʒenjœʁ"
 pron_native: "앵제니외흐"
 meaning: ["엔지니어"]
+display: "un ingénieur"
+display_ipa: "œ̃n‿ɛ̃ʒenjœʁ"
+display_say: "un ingénieur"
 forms: []
 examples: []
 theme: "État civil et famille"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ingenieur", "l'ingénieur"]
 ---
-[🔊 ɛ̃ʒenjœʁ](_Audio/l-ingenieur-2370d6.m4a) 앵제니외흐
+l'ingénieur [🔊 lɛ̃ʒenjœʁ](_Audio/l-ingenieur-2370d6.m4a) · un ingénieur [🔊 œ̃n‿ɛ̃ʒenjœʁ](_Audio/un-ingenieur-52b320.m4a) · les ingénieurs [🔊 lez‿ɛ̃ʒenjœʁ](_Audio/les-ingenieurs-c20aa4.m4a)
 
 **l'ingénieur** · *명사 · 남성* · 여성형 **ingénieure**
 

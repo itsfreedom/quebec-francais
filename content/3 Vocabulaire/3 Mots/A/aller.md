@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ale"
 pron_native: "알레"
 meaning: ["가다"]
+display: "aller"
+display_ipa: "ale"
+display_say: "aller"
 forms:
   - text: "il va"
     meaning: "그가 가다"
@@ -35,7 +38,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ale](_Audio/aller-299d26.m4a) 알레
+[🔊 ale](_Audio/aller-299d26.m4a)
 
 **aller** · *동사*
 
@@ -45,10 +48,10 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| il va | [🔊 il va](_Audio/il-va-1b1316.m4a) 일 바 | 그가 가다 |
-| nous allons | [🔊 nuzalɔ̃](_Audio/nous-allons-322b54.m4a) 누잘롱 | 우리는 간다 / ~할 것이다 |
-| tu vas | [🔊 ty va](_Audio/tu-vas-9c5cbc.m4a) 뛰 바 | 너는 간다 / (안부) 지낸다 |
-| vous allez | [🔊 vuzale](_Audio/vous-allez-baefeb.m4a) 부잘레 | 당신은 간다 / (안부) 지낸다 |
+| il va | [🔊 il va](_Audio/il-va-1b1316.m4a) | 그가 가다 |
+| nous allons | [🔊 nuzalɔ̃](_Audio/nous-allons-322b54.m4a) | 우리는 간다 / ~할 것이다 |
+| tu vas | [🔊 ty va](_Audio/tu-vas-9c5cbc.m4a) | 너는 간다 / (안부) 지낸다 |
+| vous allez | [🔊 vuzale](_Audio/vous-allez-baefeb.m4a) | 당신은 간다 / (안부) 지낸다 |
 
 ## 발음 · 쓰임
 nous‿allons은 이어 읽어요 ([[01 Liaison|Liaison]]). aller + 동사원형 = 가까운 미래 ([[03 Temps verbaux|Temps verbaux]])

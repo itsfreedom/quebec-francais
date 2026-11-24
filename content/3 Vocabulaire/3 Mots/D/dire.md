@@ -12,6 +12,9 @@ feminine: ""
 ipa: "diʁ"
 pron_native: "디흐"
 meaning: ["말하다"]
+display: "dire"
+display_ipa: "diʁ"
+display_say: "dire"
 forms:
   - text: "on dit"
     meaning: "(사람들이) ~라고 말한다"
@@ -29,7 +32,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 diʁ](_Audio/dire-2fca68.m4a) 디흐
+[🔊 diʁ](_Audio/dire-2fca68.m4a)
 
 **dire** · *동사*
 
@@ -39,8 +42,8 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| on dit | [🔊 ɔ̃ di](_Audio/on-dit-eea9e1.m4a) 옹 디 | (사람들이) ~라고 말한다 |
-| dites | [🔊 dit](_Audio/dites-1158a2.m4a) 디뜨 | 말하세요 |
+| on dit | [🔊 ɔ̃ di](_Audio/on-dit-eea9e1.m4a) | (사람들이) ~라고 말한다 |
+| dites | [🔊 dit](_Audio/dites-1158a2.m4a) | 말하세요 |
 
 ## 예문
 - **Comment on dit … en français ?** — …를 불어로 어떻게 말해요?

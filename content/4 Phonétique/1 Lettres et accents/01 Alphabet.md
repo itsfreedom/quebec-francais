@@ -42,4 +42,6 @@ aliases: [Alphabet, 알파벳]
 | **[i]** | J [ʒi], X [iks], Y [igʁɛk] |
 | **[y]** | Q [ky] |
 
+연습지: [[20261118_Isabelle_digne_dattention_1_p8-12.pdf]] (9쪽, 정답은 마지막 쪽)
+
 철자를 불러줄 때 악센트 이름도 함께 말해요 → [[02 Accents|Accents]]

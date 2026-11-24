@@ -12,6 +12,9 @@ feminine: "mariée"
 ipa: "maʁje"
 pron_native: "마히에"
 meaning: ["결혼한 (기혼)"]
+display: "marié"
+display_ipa: "maʁje"
+display_say: "marié"
 forms: []
 examples:
   - text: "Êtes-vous marié ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["marie"]
 ---
-[🔊 maʁje](_Audio/marie-e49c65.m4a) 마히에
+[🔊 maʁje](_Audio/marie-e49c65.m4a)
 
 **marié** · *형용사 · 남성* · 여성형 **mariée**
 

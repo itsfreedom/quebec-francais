@@ -12,6 +12,9 @@ feminine: ""
 ipa: "bɛ̃ɡali"
 pron_native: "뱅갈리"
 meaning: ["벵골어"]
+display: "le bengali"
+display_ipa: "lə bɛ̃ɡali"
+display_say: "le bengali"
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le bengali"]
 ---
-[🔊 bɛ̃ɡali](_Audio/le-bengali-e0de4e.m4a) 뱅갈리
+[🔊 lə bɛ̃ɡali](_Audio/le-bengali-e0de4e.m4a)
 
 **le bengali** · *명사 · 남성*
 

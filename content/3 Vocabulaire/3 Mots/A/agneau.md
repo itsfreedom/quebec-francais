@@ -12,6 +12,9 @@ feminine: ""
 ipa: "aɲo"
 pron_native: "아뇨"
 meaning: ["어린 양", "양고기"]
+display: "l'agneau (m.)"
+display_ipa: "laɲo"
+display_say: "l'agneau"
 forms: []
 examples: []
 theme: "Nourriture"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'agneau"]
 ---
-[🔊 aɲo](_Audio/l-agneau-43c65d.m4a) 아뇨
+[🔊 laɲo](_Audio/l-agneau-43c65d.m4a)
 
 **l'agneau** · *명사 · 남성*
 

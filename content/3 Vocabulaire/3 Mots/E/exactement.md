@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɛɡzaktəmɑ̃"
 pron_native: "에그작뜨멍"
 meaning: ["정확히", "맞아요"]
+display: "exactement"
+display_ipa: "ɛɡzaktəmɑ̃"
+display_say: "exactement"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ɛɡzaktəmɑ̃](_Audio/exactement-38e584.m4a) 에그작뜨멍
+[🔊 ɛɡzaktəmɑ̃](_Audio/exactement-38e584.m4a)
 
 **exactement** · *부사*
 

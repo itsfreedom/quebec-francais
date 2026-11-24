@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʁjɛ̃"
 pron_native: "히앙"
 meaning: ["아무것도 (없다)"]
+display: "rien"
+display_ipa: "ʁjɛ̃"
+display_say: "rien"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ʁjɛ̃](_Audio/rien-8dda99.m4a) 히앙
+[🔊 ʁjɛ̃](_Audio/rien-8dda99.m4a)
 
 **rien** · *대명사*
 

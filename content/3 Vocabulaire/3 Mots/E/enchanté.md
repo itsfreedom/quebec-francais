@@ -12,6 +12,9 @@ feminine: "enchantée"
 ipa: "ɑ̃ʃɑ̃te"
 pron_native: "앙샹떼"
 meaning: ["만나서 반가워요"]
+display: "enchanté"
+display_ipa: "ɑ̃ʃɑ̃te"
+display_say: "enchanté"
 forms: []
 examples: []
 theme: "Salutations"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["enchante"]
 ---
-[🔊 ɑ̃ʃɑ̃te](_Audio/enchante-fd4027.m4a) 앙샹떼
+[🔊 ɑ̃ʃɑ̃te](_Audio/enchante-fd4027.m4a)
 
 **enchanté** · *형용사 · 남성* · 여성형 **enchantée**
 

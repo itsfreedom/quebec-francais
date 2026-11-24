@@ -12,6 +12,9 @@ feminine: ""
 ipa: "tu"
 pron_native: "뚜"
 meaning: ["모두", "전부"]
+display: "tout"
+display_ipa: "tu"
+display_say: "tout"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 tu](_Audio/tout-8fee03.m4a) 뚜
+[🔊 tu](_Audio/tout-8fee03.m4a)
 
 **tout** · *대명사*
 

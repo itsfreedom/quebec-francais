@@ -12,6 +12,9 @@ feminine: ""
 ipa: "twa"
 pron_native: "뚜아"
 meaning: ["너 (강조)"]
+display: "toi"
+display_ipa: "twa"
+display_say: "toi"
 forms: []
 examples:
   - text: "Et toi ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 twa](_Audio/toi-501446.m4a) 뚜아
+[🔊 twa](_Audio/toi-501446.m4a)
 
 **toi** · *대명사*
 

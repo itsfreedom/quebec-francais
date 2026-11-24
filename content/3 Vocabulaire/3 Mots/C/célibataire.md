@@ -12,6 +12,9 @@ feminine: ""
 ipa: "selibatɛʁ"
 pron_native: "쎌리바떼흐"
 meaning: ["미혼의", "싱글"]
+display: "célibataire"
+display_ipa: "selibatɛʁ"
+display_say: "célibataire"
 forms: []
 examples:
   - text: "Je suis célibataire."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["celibataire"]
 ---
-[🔊 selibatɛʁ](_Audio/celibataire-f1bc64.m4a) 쎌리바떼흐
+[🔊 selibatɛʁ](_Audio/celibataire-f1bc64.m4a)
 
 **célibataire** · *형용사 · 남녀 공통*
 

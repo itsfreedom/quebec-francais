@@ -12,6 +12,9 @@ feminine: "américaine"
 ipa: "ameʁikɛ̃"
 pron_native: "아메히깽"
 meaning: ["미국 사람"]
+display: "américain"
+display_ipa: "ameʁikɛ̃"
+display_say: "américain"
 forms:
   - text: "américaine"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["americain"]
 ---
-[🔊 ameʁikɛ̃](_Audio/americain-7540fa.m4a) 아메히깽
+[🔊 ameʁikɛ̃](_Audio/americain-7540fa.m4a)
 
 **américain** · *형용사 · 남성* · 여성형 **américaine**
 
@@ -33,7 +36,7 @@ aliases: ["americain"]
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| américaine | [🔊 ameʁikɛn](_Audio/americaine-c107cb.m4a) 아메히껜 | 여성형 |
+| américaine | [🔊 ameʁikɛn](_Audio/americaine-c107cb.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "jɛʁ"
 pron_native: "이에흐"
 meaning: ["어제"]
+display: "hier"
+display_ipa: "jɛʁ"
+display_say: "hier"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 jɛʁ](_Audio/hier-240723.m4a) 이에흐
+[🔊 jɛʁ](_Audio/hier-240723.m4a)
 
 **hier** · *부사*
 

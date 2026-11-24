@@ -12,6 +12,9 @@ feminine: "canadienne"
 ipa: "kanadjɛ̃"
 pron_native: "까나디앙"
 meaning: ["캐나다 사람", "캐나다의"]
+display: "canadien"
+display_ipa: "kanadjɛ̃"
+display_say: "canadien"
 forms:
   - text: "canadienne"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kanadjɛ̃](_Audio/canadien-0e2c27.m4a) 까나디앙
+[🔊 kanadjɛ̃](_Audio/canadien-0e2c27.m4a)
 
 **canadien** · *형용사 · 남성* · 여성형 **canadienne**
 
@@ -34,7 +37,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| canadienne | [🔊 kanadjɛn](_Audio/canadienne-60d8c8.m4a) 까나디엔 | 여성형 |
+| canadienne | [🔊 kanadjɛn](_Audio/canadienne-60d8c8.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

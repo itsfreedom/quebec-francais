@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kaʁɑ̃t"
 pron_native: "까헝뜨"
 meaning: ["40"]
+display: "quarante"
+display_ipa: "kaʁɑ̃t"
+display_say: "quarante"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kaʁɑ̃t](_Audio/quarante-3b3131.m4a) 까헝뜨
+[🔊 kaʁɑ̃t](_Audio/quarante-3b3131.m4a)
 
 **quarante** · *숫자*
 

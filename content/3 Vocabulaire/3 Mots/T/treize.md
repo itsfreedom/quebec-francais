@@ -12,6 +12,9 @@ feminine: ""
 ipa: "tʁɛz"
 pron_native: "트헤즈"
 meaning: ["13"]
+display: "treize"
+display_ipa: "tʁɛz"
+display_say: "treize"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 tʁɛz](_Audio/treize-c26f75.m4a) 트헤즈
+[🔊 tʁɛz](_Audio/treize-c26f75.m4a)
 
 **treize** · *숫자*
 

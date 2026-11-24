@@ -12,6 +12,9 @@ feminine: "heureuse"
 ipa: "øʁø"
 pron_native: "외회"
 meaning: ["행복한"]
+display: "heureux"
+display_ipa: "øʁø"
+display_say: "heureux"
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 øʁø](_Audio/heureux-c26042.m4a) 외회
+[🔊 øʁø](_Audio/heureux-c26042.m4a)
 
 **heureux** · *형용사 · 남성* · 여성형 **heureuse**
 

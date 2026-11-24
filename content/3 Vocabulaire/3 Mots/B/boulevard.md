@@ -12,6 +12,9 @@ feminine: ""
 ipa: "bulvaʁ"
 pron_native: "불바흐"
 meaning: ["대로", "큰길"]
+display: "un boulevard"
+display_ipa: "œ̃ bulvaʁ"
+display_say: "un boulevard"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le boulevard"]
 ---
-[🔊 bulvaʁ](_Audio/le-boulevard-3743b7.m4a) 불바흐
+un boulevard [🔊 œ̃ bulvaʁ](_Audio/un-boulevard-ab4bb8.m4a) · les boulevards [🔊 le bulvaʁ](_Audio/les-boulevards-809cb6.m4a)
 
 **le boulevard** · *명사 · 남성*
 

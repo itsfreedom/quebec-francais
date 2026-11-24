@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʒuʁ"
 pron_native: "주흐"
 meaning: ["날", "일"]
+display: "un jour"
+display_ipa: "œ̃ ʒuʁ"
+display_say: "un jour"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le jour"]
 ---
-[🔊 ʒuʁ](_Audio/le-jour-6b81c8.m4a) 주흐
+un jour [🔊 œ̃ ʒuʁ](_Audio/un-jour-e950cd.m4a) · les jours [🔊 le ʒuʁ](_Audio/les-jours-ec9c84.m4a)
 
 **le jour** · *명사 · 남성*
 

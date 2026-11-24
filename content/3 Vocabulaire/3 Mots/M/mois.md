@@ -12,6 +12,9 @@ feminine: ""
 ipa: "mwa"
 pron_native: "무아"
 meaning: ["달", "월"]
+display: "un mois"
+display_ipa: "œ̃ mwa"
+display_say: "un mois"
 forms: []
 examples:
   - text: "par mois"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le mois"]
 ---
-[🔊 mwa](_Audio/le-mois-98a60d.m4a) 무아
+un mois [🔊 œ̃ mwa](_Audio/un-mois-8376b3.m4a) · les mois [🔊 le mwa](_Audio/les-mois-f5e083.m4a)
 
 **le mois** · *명사 · 남성*
 

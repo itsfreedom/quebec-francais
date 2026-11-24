@@ -12,6 +12,9 @@ feminine: ""
 ipa: "tʁwa"
 pron_native: "트후아"
 meaning: ["3"]
+display: "trois"
+display_ipa: "tʁwa"
+display_say: "trois"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 tʁwa](_Audio/trois-df8091.m4a) 트후아
+[🔊 tʁwa](_Audio/trois-df8091.m4a)
 
 **trois** · *숫자*
 

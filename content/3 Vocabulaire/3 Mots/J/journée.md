@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʒuʁne"
 pron_native: "주흐네"
 meaning: ["하루", "낮"]
+display: "une journée"
+display_ipa: "yn ʒuʁne"
+display_say: "une journée"
 forms: []
 examples:
   - text: "Bonne journée !"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["journee", "la journée"]
 ---
-[🔊 ʒuʁne](_Audio/la-journee-7dcfb6.m4a) 주흐네
+une journée [🔊 yn ʒuʁne](_Audio/une-journee-430ef4.m4a) · les journées [🔊 le ʒuʁne](_Audio/les-journees-3f369f.m4a)
 
 **la journée** · *명사 · 여성*
 

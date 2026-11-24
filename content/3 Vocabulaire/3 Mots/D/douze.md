@@ -12,6 +12,9 @@ feminine: ""
 ipa: "duz"
 pron_native: "두즈"
 meaning: ["12"]
+display: "douze"
+display_ipa: "duz"
+display_say: "douze"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 duz](_Audio/douze-e3ca7f.m4a) 두즈
+[🔊 duz](_Audio/douze-e3ca7f.m4a)
 
 **douze** · *숫자*
 

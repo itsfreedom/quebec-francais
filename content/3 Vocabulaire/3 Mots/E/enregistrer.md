@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɑ̃ʁəʒistʁe"
 pron_native: "엉흐지스트헤"
 meaning: ["녹음하다", "저장하다"]
+display: "enregistrer"
+display_ipa: "ɑ̃ʁəʒistʁe"
+display_say: "enregistrer"
 forms:
   - text: "enregistrez"
     meaning: "녹음하세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ɑ̃ʁəʒistʁe](_Audio/enregistrer-2aa6f9.m4a) 엉흐지스트헤
+[🔊 ɑ̃ʁəʒistʁe](_Audio/enregistrer-2aa6f9.m4a)
 
 **enregistrer** · *동사*
 
@@ -34,7 +37,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| enregistrez | [🔊 ɑ̃ʁəʒistʁe](_Audio/enregistrez-cc4312.m4a) 엉흐지스트헤 | 녹음하세요 |
+| enregistrez | [🔊 ɑ̃ʁəʒistʁe](_Audio/enregistrez-cc4312.m4a) | 녹음하세요 |
 
 ## 발음 · 쓰임
 명령형 → [[04 Impératif|Impératif]]

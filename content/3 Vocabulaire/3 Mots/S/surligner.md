@@ -12,6 +12,9 @@ feminine: ""
 ipa: "syʁliɲe"
 pron_native: "쉬흐리녜"
 meaning: ["형광펜으로 칠하다"]
+display: "surligner"
+display_ipa: "syʁliɲe"
+display_say: "surligner"
 forms:
   - text: "surlignez"
     meaning: "칠하세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 syʁliɲe](_Audio/surligner-926a31.m4a) 쉬흐리녜
+[🔊 syʁliɲe](_Audio/surligner-926a31.m4a)
 
 **surligner** · *동사*
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| surlignez | [🔊 syʁliɲe](_Audio/surlignez-937232.m4a) 쉬흐리녜 | 칠하세요 |
+| surlignez | [🔊 syʁliɲe](_Audio/surlignez-937232.m4a) | 칠하세요 |
 
 ## 발음 · 쓰임
 gn = [ɲ]

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kə"
 pron_native: "끄"
 meaning: ["~라는 것", "무엇"]
+display: "que"
+display_ipa: "kə"
+display_say: "que"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kə](_Audio/que-8cfbcf.m4a) 끄
+[🔊 kə](_Audio/que-8cfbcf.m4a)
 
 **que** · *접속사*
 

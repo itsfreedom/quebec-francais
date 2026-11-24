@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɔʁiʒin"
 pron_native: "오히진"
 meaning: ["출신"]
+display: "l'origine (f.)"
+display_ipa: "lɔʁiʒin"
+display_say: "l'origine"
 forms: []
 examples:
   - text: "le pays d'origine"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'origine"]
 ---
-[🔊 ɔʁiʒin](_Audio/l-origine-39dc38.m4a) 오히진
+[🔊 lɔʁiʒin](_Audio/l-origine-39dc38.m4a)
 
 **l'origine** · *명사 · 여성*
 

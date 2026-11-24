@@ -12,6 +12,9 @@ feminine: "passée"
 ipa: "pɑse"
 pron_native: "빠쎄"
 meaning: ["지난", "과거의"]
+display: "passé"
+display_ipa: "pɑse"
+display_say: "passé"
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["passe"]
 ---
-[🔊 pɑse](_Audio/passe-764a5b.m4a) 빠쎄
+[🔊 pɑse](_Audio/passe-764a5b.m4a)
 
 **passé** · *형용사 · 남성* · 여성형 **passée**
 

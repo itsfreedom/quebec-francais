@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɛɡzɑ̃pl"
 pron_native: "에그장쁠"
 meaning: ["예", "보기"]
+display: "un exemple"
+display_ipa: "œ̃n‿ɛɡzɑ̃pl"
+display_say: "un exemple"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'exemple"]
 ---
-[🔊 ɛɡzɑ̃pl](_Audio/l-exemple-3a059d.m4a) 에그장쁠
+l'exemple [🔊 lɛɡzɑ̃pl](_Audio/l-exemple-3a059d.m4a) · un exemple [🔊 œ̃n‿ɛɡzɑ̃pl](_Audio/un-exemple-06f2dd.m4a) · les exemples [🔊 lez‿ɛɡzɑ̃pl](_Audio/les-exemples-6151f5.m4a)
 
 **l'exemple** · *명사 · 남성*
 

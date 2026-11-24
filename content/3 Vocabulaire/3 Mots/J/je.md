@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʒə"
 pron_native: "즈"
 meaning: ["나는"]
+display: "je"
+display_ipa: "ʒə"
+display_say: "je"
 forms: []
 examples: []
 theme: "Pronoms"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ʒə](_Audio/je-79563e.m4a) 즈
+[🔊 ʒə](_Audio/je-79563e.m4a)
 
 **je** · *대명사*
 

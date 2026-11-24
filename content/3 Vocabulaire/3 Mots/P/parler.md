@@ -12,6 +12,9 @@ feminine: ""
 ipa: "paʁle"
 pron_native: "빠흘레"
 meaning: ["말하다"]
+display: "parler"
+display_ipa: "paʁle"
+display_say: "parler"
 forms:
   - text: "vous parlez"
     meaning: "당신이 말하다 / 말하세요"
@@ -31,7 +34,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 paʁle](_Audio/parler-4cecc2.m4a) 빠흘레
+[🔊 paʁle](_Audio/parler-4cecc2.m4a)
 
 **parler** · *동사*
 
@@ -41,9 +44,9 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| vous parlez | [🔊 vu paʁle](_Audio/vous-parlez-b9aa94.m4a) 부 빠흘레 | 당신이 말하다 / 말하세요 |
-| tu parles | [🔊 ty paʁl](_Audio/tu-parles-9588e8.m4a) 뛰 빠흘 | 너는 말한다 |
-| je parle | [🔊 ʒə paʁl](_Audio/je-parle-087b46.m4a) 즈 빠흘 | 나는 말한다 |
+| vous parlez | [🔊 vu paʁle](_Audio/vous-parlez-b9aa94.m4a) | 당신이 말하다 / 말하세요 |
+| tu parles | [🔊 ty paʁl](_Audio/tu-parles-9588e8.m4a) | 너는 말한다 |
+| je parle | [🔊 ʒə paʁl](_Audio/je-parle-087b46.m4a) | 나는 말한다 |
 
 ## 발음 · 쓰임
 -er 동사의 r은 읽지 않아요 ([[02 Lettres muettes|Lettres muettes]])

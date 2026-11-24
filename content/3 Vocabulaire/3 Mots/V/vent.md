@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vɑ̃"
 pron_native: "벙"
 meaning: ["바람"]
+display: "le vent"
+display_ipa: "lə vɑ̃"
+display_say: "le vent"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le vent"]
 ---
-[🔊 vɑ̃](_Audio/le-vent-447174.m4a) 벙
+[🔊 lə vɑ̃](_Audio/le-vent-447174.m4a)
 
 **le vent** · *명사 · 남성*
 

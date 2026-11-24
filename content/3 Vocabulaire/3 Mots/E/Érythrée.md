@@ -12,6 +12,9 @@ feminine: ""
 ipa: "eʁitʁe"
 pron_native: "에히트헤"
 meaning: ["에리트레아"]
+display: "l'Érythrée (f.)"
+display_ipa: "leʁitʁe"
+display_say: "l'Érythrée"
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["erythree", "l'Érythrée"]
 ---
-[🔊 eʁitʁe](_Audio/l-erythree-2e67b2.m4a) 에히트헤
+[🔊 leʁitʁe](_Audio/l-erythree-2e67b2.m4a)
 
 **l'Érythrée** · *명사 · 여성*
 

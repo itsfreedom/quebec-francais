@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["bonne-soiree"]
 ---
-**[Bonne](_Audio/bon-c7f86e.m4a "좋은, 맛있는") [soirée](_Audio/la-soiree-ca2394.m4a "저녁 (시간)") !** [🔊](_Audio/bonne-soiree-3264b6.m4a)
-
 👉 좋은 저녁 보내세요!
 
 **단어**: [[bon]] · [[soirée|la soirée]]

@@ -12,6 +12,9 @@ feminine: "italienne"
 ipa: "italjɛ̃"
 pron_native: "이딸리앙"
 meaning: ["이탈리아의", "이탈리아 사람"]
+display: "italien"
+display_ipa: "italjɛ̃"
+display_say: "italien"
 forms: []
 examples: []
 theme: "Personnes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 italjɛ̃](_Audio/italien-19cb29.m4a) 이딸리앙
+[🔊 italjɛ̃](_Audio/italien-19cb29.m4a)
 
 **italien** · *형용사 · 남성* · 여성형 **italienne**
 

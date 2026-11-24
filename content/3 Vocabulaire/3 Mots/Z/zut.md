@@ -12,6 +12,9 @@ feminine: ""
 ipa: "zyt"
 pron_native: "쥐뜨"
 meaning: ["이런!", "아이참! (가벼운 감탄)"]
+display: "zut"
+display_ipa: "zyt"
+display_say: "zut"
 forms: []
 examples: []
 theme: "Salutations"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 zyt](_Audio/zut-a8cd54.m4a) 쥐뜨
+[🔊 zyt](_Audio/zut-a8cd54.m4a)
 
 **zut** · *감탄사*
 

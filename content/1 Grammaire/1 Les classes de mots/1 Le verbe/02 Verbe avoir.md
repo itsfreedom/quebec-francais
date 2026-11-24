@@ -12,17 +12,17 @@ aliases: [Verbe avoir, avoir 동사, être ou avoir]
 
 | 주어 | avoir | 발음 |
 |---|---|---|
-| j' | **ai** | [ʒe] 제 |
-| tu | **as** | [ty a] 뛰 아 |
-| il / elle / on | **a** | [il a] 일 라 |
-| nous | **avons** | [nuzavɔ̃] 누자봉 |
-| vous | **avez** | [vuzave] 부자베 |
-| ils / elles | **ont** | [ilzɔ̃] 일종 |
+| j' | **ai** | [ʒe] |
+| tu | **as** | [ty a] |
+| il / elle / on | **a** | [il a] |
+| nous | **avons** | [nuzavɔ̃] |
+| vous | **avez** | [vuzave] |
+| ils / elles | **ont** | [ilzɔ̃] |
 
 > [!tip] 발음
 > - je + ai → **j'ai** ([[02 Élision|Élision]])
 > - nous‿avons, vous‿avez, ils‿ont는 이어서 읽어요 → [[01 Liaison|Liaison]]
-> - ils **ont** [ilzɔ̃] 일종 ≠ ils **sont** [il sɔ̃] 일 쏭 (être). z 소리가 있으면 avoir예요.
+> - ils **ont** [ilzɔ̃] ≠ ils **sont** [il sɔ̃] (être). z 소리가 있으면 avoir예요.
 
 ## être 일까, avoir 일까?
 | être (~이다) | avoir (가지다) |

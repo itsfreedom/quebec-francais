@@ -12,6 +12,9 @@ feminine: ""
 ipa: "səlɔ̃"
 pron_native: "슬롱"
 meaning: ["~에 따라"]
+display: "selon"
+display_ipa: "səlɔ̃"
+display_say: "selon"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 səlɔ̃](_Audio/selon-b0a95e.m4a) 슬롱
+[🔊 səlɔ̃](_Audio/selon-b0a95e.m4a)
 
 **selon** · *전치사*
 

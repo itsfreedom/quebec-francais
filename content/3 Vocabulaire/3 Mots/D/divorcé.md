@@ -12,6 +12,9 @@ feminine: "divorcée"
 ipa: "divɔʁse"
 pron_native: "디보흐쎄"
 meaning: ["이혼한"]
+display: "divorcé"
+display_ipa: "divɔʁse"
+display_say: "divorcé"
 forms: []
 examples: []
 theme: "État civil et famille"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["divorce"]
 ---
-[🔊 divɔʁse](_Audio/divorce-4332d5.m4a) 디보흐쎄
+[🔊 divɔʁse](_Audio/divorce-4332d5.m4a)
 
 **divorcé** · *형용사 · 남성* · 여성형 **divorcée**
 

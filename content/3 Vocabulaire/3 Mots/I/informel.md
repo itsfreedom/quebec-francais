@@ -12,6 +12,9 @@ feminine: "informelle"
 ipa: "ɛ̃fɔʁmɛl"
 pron_native: "앵포흐멜"
 meaning: ["편한 (반말)"]
+display: "informel"
+display_ipa: "ɛ̃fɔʁmɛl"
+display_say: "informel"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ɛ̃fɔʁmɛl](_Audio/informel-f116ba.m4a) 앵포흐멜
+[🔊 ɛ̃fɔʁmɛl](_Audio/informel-f116ba.m4a)
 
 **informel** · *형용사 · 남성* · 여성형 **informelle**
 

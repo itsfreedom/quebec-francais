@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kupl"
 pron_native: "꾸쁠"
 meaning: ["커플", "부부"]
+display: "un couple"
+display_ipa: "œ̃ kupl"
+display_say: "un couple"
 forms: []
 examples:
   - text: "Je suis en couple."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le couple"]
 ---
-[🔊 kupl](_Audio/le-couple-e6a655.m4a) 꾸쁠
+un couple [🔊 œ̃ kupl](_Audio/un-couple-c7b7c2.m4a) · les couples [🔊 le kupl](_Audio/les-couples-8cf6e8.m4a)
 
 **le couple** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: "philippine"
 ipa: "filipɛ̃"
 pron_native: "필리빵"
 meaning: ["필리핀 사람"]
+display: "philippin"
+display_ipa: "filipɛ̃"
+display_say: "philippin"
 forms:
   - text: "philippine"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 filipɛ̃](_Audio/philippin-5839bf.m4a) 필리빵
+[🔊 filipɛ̃](_Audio/philippin-5839bf.m4a)
 
 **philippin** · *형용사 · 남성* · 여성형 **philippine**
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| philippine | [🔊 filipin](_Audio/philippine-9ab9d8.m4a) 필리삔 | 여성형 |
+| philippine | [🔊 filipin](_Audio/philippine-9ab9d8.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

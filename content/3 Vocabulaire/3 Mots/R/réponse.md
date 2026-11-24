@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʁepɔ̃s"
 pron_native: "헤뽕스"
 meaning: ["대답"]
+display: "une réponse"
+display_ipa: "yn ʁepɔ̃s"
+display_say: "une réponse"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["reponse", "la réponse"]
 ---
-[🔊 ʁepɔ̃s](_Audio/la-reponse-e83e7d.m4a) 헤뽕스
+une réponse [🔊 yn ʁepɔ̃s](_Audio/une-reponse-d891ae.m4a) · les réponses [🔊 le ʁepɔ̃s](_Audio/les-reponses-95442c.m4a)
 
 **la réponse** · *명사 · 여성*
 

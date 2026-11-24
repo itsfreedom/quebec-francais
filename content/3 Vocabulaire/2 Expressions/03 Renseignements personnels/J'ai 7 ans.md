@@ -13,7 +13,7 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["jai-7-ans"]
 ---
-**[J'](_Audio/je-79563e.m4a "je · 나는")[ai](_Audio/avoir-f6d928.m4a "avoir · 가지다, 있다") 7 [ans](_Audio/l-an-215650.m4a "an · 해, 살 (나이)").** [🔊](_Audio/j-ai-7-ans-f95902.m4a)
+🔢 J'ai sept ans.
 
 👉 나는 7살이에요.
 

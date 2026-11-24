@@ -12,6 +12,9 @@ feminine: ""
 ipa: "plɛziʁ"
 pron_native: "쁠레지흐"
 meaning: ["기쁨"]
+display: "le plaisir"
+display_ipa: "lə plɛziʁ"
+display_say: "le plaisir"
 forms: []
 examples:
   - text: "Avec plaisir !"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le plaisir"]
 ---
-[🔊 plɛziʁ](_Audio/le-plaisir-a31afe.m4a) 쁠레지흐
+[🔊 lə plɛziʁ](_Audio/le-plaisir-a31afe.m4a)
 
 **le plaisir** · *명사 · 남성*
 

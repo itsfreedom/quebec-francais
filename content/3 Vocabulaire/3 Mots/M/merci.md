@@ -12,6 +12,9 @@ feminine: ""
 ipa: "mɛʁsi"
 pron_native: "메흐씨"
 meaning: ["고마워요"]
+display: "merci"
+display_ipa: "mɛʁsi"
+display_say: "merci"
 forms: []
 examples:
   - text: "Ça va bien, merci."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 mɛʁsi](_Audio/merci-8e105c.m4a) 메흐씨
+[🔊 mɛʁsi](_Audio/merci-8e105c.m4a)
 
 **merci** · *감탄사*
 

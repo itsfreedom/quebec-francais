@@ -12,6 +12,9 @@ feminine: ""
 ipa: "eme"
 pron_native: "에메"
 meaning: ["좋아하다", "사랑하다"]
+display: "aimer"
+display_ipa: "eme"
+display_say: "aimer"
 forms:
   - text: "j'aime"
     meaning: "나는 좋아한다"
@@ -33,7 +36,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 eme](_Audio/aimer-712fb4.m4a) 에메
+[🔊 eme](_Audio/aimer-712fb4.m4a)
 
 **aimer** · *동사*
 
@@ -44,9 +47,9 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| j'aime | [🔊 ʒɛm](_Audio/j-aime-fc2b74.m4a) 젬 | 나는 좋아한다 |
-| tu aimes | [🔊 ty ɛm](_Audio/tu-aimes-6978f4.m4a) 뛰 엠 | 너는 좋아한다 |
-| j'aimerais | [🔊 ʒɛmʁɛ](_Audio/j-aimerais-b44860.m4a) 젬헤 | 나는 ~하고 싶어요 (공손) |
+| j'aime | [🔊 ʒɛm](_Audio/j-aime-fc2b74.m4a) | 나는 좋아한다 |
+| tu aimes | [🔊 ty ɛm](_Audio/tu-aimes-6978f4.m4a) | 너는 좋아한다 |
+| j'aimerais | [🔊 ʒɛmʁɛ](_Audio/j-aimerais-b44860.m4a) | 나는 ~하고 싶어요 (공손) |
 
 ## 예문
 - **J'aime le karaté.** — 나는 가라데를 좋아해요.

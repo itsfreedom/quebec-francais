@@ -12,6 +12,9 @@ feminine: "colombienne"
 ipa: "kɔlɔ̃bjɛ̃"
 pron_native: "꼴롱비앙"
 meaning: ["콜롬비아 사람"]
+display: "colombien"
+display_ipa: "kɔlɔ̃bjɛ̃"
+display_say: "colombien"
 forms:
   - text: "colombienne"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kɔlɔ̃bjɛ̃](_Audio/colombien-bdf5b3.m4a) 꼴롱비앙
+[🔊 kɔlɔ̃bjɛ̃](_Audio/colombien-bdf5b3.m4a)
 
 **colombien** · *형용사 · 남성* · 여성형 **colombienne**
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| colombienne | [🔊 kɔlɔ̃bjɛn](_Audio/colombienne-48c299.m4a) 꼴롱비엔 | 여성형 |
+| colombienne | [🔊 kɔlɔ̃bjɛn](_Audio/colombienne-48c299.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

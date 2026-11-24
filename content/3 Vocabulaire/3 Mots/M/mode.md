@@ -12,6 +12,9 @@ feminine: ""
 ipa: "mɔd"
 pron_native: "모드"
 meaning: ["패션", "유행"]
+display: "la mode"
+display_ipa: "la mɔd"
+display_say: "la mode"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la mode"]
 ---
-[🔊 mɔd](_Audio/la-mode-5b933b.m4a) 모드
+[🔊 la mɔd](_Audio/la-mode-5b933b.m4a)
 
 **la mode** · *명사 · 여성*
 

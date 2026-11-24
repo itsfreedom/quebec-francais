@@ -12,6 +12,9 @@ feminine: ""
 ipa: "indi"
 pron_native: "인디"
 meaning: ["힌디어"]
+display: "le hindi"
+display_ipa: "lə indi"
+display_say: "le hindi"
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le hindi"]
 ---
-[🔊 indi](_Audio/le-hindi-d5e085.m4a) 인디
+[🔊 lə indi](_Audio/le-hindi-d5e085.m4a)
 
 **le hindi** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: "professeure"
 ipa: "pʁɔfesœʁ"
 pron_native: "프호페쐬흐"
 meaning: ["선생님", "교수"]
+display: "un professeur"
+display_ipa: "œ̃ pʁɔfesœʁ"
+display_say: "un professeur"
 forms: []
 examples: []
 theme: "État civil et famille"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le professeur"]
 ---
-[🔊 pʁɔfesœʁ](_Audio/le-professeur-85dced.m4a) 프호페쐬흐
+un professeur [🔊 œ̃ pʁɔfesœʁ](_Audio/un-professeur-87a7e0.m4a) · les professeurs [🔊 le pʁɔfesœʁ](_Audio/les-professeurs-21489b.m4a)
 
 **le professeur** · *명사 · 남성* · 여성형 **professeure**
 

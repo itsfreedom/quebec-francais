@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dimɑ̃ʃ"
 pron_native: "디망슈"
 meaning: ["일요일"]
+display: "le dimanche"
+display_ipa: "lə dimɑ̃ʃ"
+display_say: "le dimanche"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le dimanche"]
 ---
-[🔊 dimɑ̃ʃ](_Audio/le-dimanche-699482.m4a) 디망슈
+[🔊 lə dimɑ̃ʃ](_Audio/le-dimanche-699482.m4a)
 
 **le dimanche** · *명사 · 남성*
 

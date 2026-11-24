@@ -12,6 +12,9 @@ feminine: "coréenne"
 ipa: "kɔʁeɛ̃"
 pron_native: "꼬헤앙"
 meaning: ["한국 사람", "한국어"]
+display: "coréen"
+display_ipa: "kɔʁeɛ̃"
+display_say: "coréen"
 forms:
   - text: "coréenne"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["coreen"]
 ---
-[🔊 kɔʁeɛ̃](_Audio/coreen-9c306a.m4a) 꼬헤앙
+[🔊 kɔʁeɛ̃](_Audio/coreen-9c306a.m4a)
 
 **coréen** · *형용사 · 남성* · 여성형 **coréenne**
 
@@ -34,7 +37,7 @@ aliases: ["coreen"]
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| coréenne | [🔊 kɔʁeɛn](_Audio/coreenne-d4c88a.m4a) 꼬헤엔 | 여성형 |
+| coréenne | [🔊 kɔʁeɛn](_Audio/coreenne-d4c88a.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

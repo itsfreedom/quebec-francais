@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sis"
 pron_native: "씨스"
 meaning: ["6"]
+display: "six"
+display_ipa: "sis"
+display_say: "six"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 sis](_Audio/six-f52b5e.m4a) 씨스
+[🔊 sis](_Audio/six-f52b5e.m4a)
 
 **six** · *숫자*
 

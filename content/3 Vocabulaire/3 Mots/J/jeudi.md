@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʒødi"
 pron_native: "죄디"
 meaning: ["목요일"]
+display: "le jeudi"
+display_ipa: "lə ʒødi"
+display_say: "le jeudi"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le jeudi"]
 ---
-[🔊 ʒødi](_Audio/le-jeudi-602d7a.m4a) 죄디
+[🔊 lə ʒødi](_Audio/le-jeudi-602d7a.m4a)
 
 **le jeudi** · *명사 · 남성*
 

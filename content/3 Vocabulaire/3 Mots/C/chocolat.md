@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʃɔkɔla"
 pron_native: "쇼꼴라"
 meaning: ["초콜릿"]
+display: "le chocolat"
+display_ipa: "lə ʃɔkɔla"
+display_say: "le chocolat"
 forms: []
 examples: []
 theme: "Nourriture"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le chocolat"]
 ---
-[🔊 ʃɔkɔla](_Audio/le-chocolat-12b976.m4a) 쇼꼴라
+[🔊 lə ʃɔkɔla](_Audio/le-chocolat-12b976.m4a)
 
 **le chocolat** · *명사 · 남성*
 

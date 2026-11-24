@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kɑ̃"
 pron_native: "깡"
 meaning: ["언제"]
+display: "quand"
+display_ipa: "kɑ̃"
+display_say: "quand"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kɑ̃](_Audio/quand-ece202.m4a) 깡
+[🔊 kɑ̃](_Audio/quand-ece202.m4a)
 
 **quand** · *부사*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "məsjø"
 pron_native: "므씨외"
 meaning: ["~씨, 선생님 (남성 존칭)"]
+display: "monsieur"
+display_ipa: "məsjø"
+display_say: "monsieur"
 forms: []
 examples: []
 theme: "Salutations"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 məsjø](_Audio/monsieur-d8187c.m4a) 므씨외
+[🔊 məsjø](_Audio/monsieur-d8187c.m4a)
 
 **monsieur** · *명사 · 남성*
 

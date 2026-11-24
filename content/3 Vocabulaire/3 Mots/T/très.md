@@ -12,6 +12,9 @@ feminine: ""
 ipa: "tʁɛ"
 pron_native: "트헤"
 meaning: ["매우", "아주"]
+display: "très"
+display_ipa: "tʁɛ"
+display_say: "très"
 forms: []
 examples:
   - text: "Ça va très bien."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["tres"]
 ---
-[🔊 tʁɛ](_Audio/tres-9a2a96.m4a) 트헤
+[🔊 tʁɛ](_Audio/tres-9a2a96.m4a)
 
 **très** · *부사*
 

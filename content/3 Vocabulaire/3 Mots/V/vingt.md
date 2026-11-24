@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vɛ̃"
 pron_native: "뱅"
 meaning: ["20"]
+display: "vingt"
+display_ipa: "vɛ̃"
+display_say: "vingt"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 vɛ̃](_Audio/vingt-254fe2.m4a) 뱅
+[🔊 vɛ̃](_Audio/vingt-254fe2.m4a)
 
 **vingt** · *숫자*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "selylɛʁ"
 pron_native: "쎌륄레흐"
 meaning: ["휴대전화"]
+display: "un cellulaire"
+display_ipa: "œ̃ selylɛʁ"
+display_say: "un cellulaire"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le cellulaire"]
 ---
-[🔊 selylɛʁ](_Audio/le-cellulaire-43994c.m4a) 쎌륄레흐
+un cellulaire [🔊 œ̃ selylɛʁ](_Audio/un-cellulaire-cbbe76.m4a) · les cellulaires [🔊 le selylɛʁ](_Audio/les-cellulaires-c3d361.m4a)
 
 **le cellulaire** · *명사 · 남성*
 

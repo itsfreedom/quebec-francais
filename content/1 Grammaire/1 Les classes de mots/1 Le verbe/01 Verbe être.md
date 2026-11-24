@@ -12,12 +12,12 @@ aliases: [Verbe etre, Verbe être, être 동사]
 
 | 주어 | être | 발음 |
 |---|---|---|
-| je | **suis** | [ʒə sɥi] 즈 쉬 |
-| tu | **es** | [ty ɛ] 뛰 에 |
-| il / elle / on | **est** | [il ɛ] 일 레 |
-| nous | **sommes** | [nu sɔm] 누 쏨 |
-| vous | **êtes** | [vu‿zɛt] 부 제뜨 |
-| ils / elles | **sont** | [il sɔ̃] 일 쏭 |
+| je | **suis** | [ʒə sɥi] |
+| tu | **es** | [ty ɛ] |
+| il / elle / on | **est** | [il ɛ] |
+| nous | **sommes** | [nu sɔm] |
+| vous | **êtes** | [vu‿zɛt] |
+| ils / elles | **sont** | [il sɔ̃] |
 
 예시
 - Je suis coréen(ne). 나는 한국 사람이에요.

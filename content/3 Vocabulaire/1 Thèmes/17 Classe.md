@@ -9,9 +9,9 @@ aliases: [수업 용어]
 
 | 단어 | 발음 | 뜻 |
 |---|---|---|
-| [[consonne\|la consonne]] | [🔊 kɔ̃sɔn](_Audio/la-consonne-31e916.m4a) 꽁쏜 | 자음 |
-| [[féminin]] · féminine | [🔊 feminɛ̃](_Audio/feminin-a31d54.m4a) 페미낭 | 여성의 |
-| [[lettre\|la lettre]] | [🔊 lɛtʁ](_Audio/la-lettre-c3200a.m4a) 레트흐 | 글자, 편지 |
-| [[masculin]] · masculine | [🔊 maskylɛ̃](_Audio/masculin-2eb8b6.m4a) 마스뀔랑 | 남성의 |
-| [[présent]] · présente | [🔊 pʁezɑ̃](_Audio/present-ac6660.m4a) 프헤정 | 출석한, 있는, 현재의 |
-| [[voyelle\|la voyelle]] | [🔊 vwajɛl](_Audio/la-voyelle-4e750f.m4a) 부아옐 | 모음 |
+| [[consonne\|une consonne]] | [🔊 yn kɔ̃sɔn](_Audio/une-consonne-74f671.m4a) | 자음 |
+| [[féminin]] · féminine | [🔊 feminɛ̃](_Audio/feminin-a31d54.m4a) | 여성의 |
+| [[lettre\|une lettre]] | [🔊 yn lɛtʁ](_Audio/une-lettre-708d48.m4a) | 글자, 편지 |
+| [[masculin]] · masculine | [🔊 maskylɛ̃](_Audio/masculin-2eb8b6.m4a) | 남성의 |
+| [[présent]] · présente | [🔊 pʁezɑ̃](_Audio/present-ac6660.m4a) | 출석한, 있는, 현재의 |
+| [[voyelle\|une voyelle]] | [🔊 yn vwajɛl](_Audio/une-voyelle-02bdef.m4a) | 모음 |

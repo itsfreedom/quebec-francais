@@ -12,6 +12,9 @@ feminine: "patronne"
 ipa: "patʁɔ̃"
 pron_native: "빠트홍"
 meaning: ["사장", "상사"]
+display: "un patron"
+display_ipa: "œ̃ patʁɔ̃"
+display_say: "un patron"
 forms: []
 examples: []
 theme: "Personnes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le patron"]
 ---
-[🔊 patʁɔ̃](_Audio/le-patron-136d77.m4a) 빠트홍
+un patron [🔊 œ̃ patʁɔ̃](_Audio/un-patron-37b5e1.m4a) · les patrons [🔊 le patʁɔ̃](_Audio/les-patrons-f04ea2.m4a)
 
 **le patron** · *명사 · 남성* · 여성형 **patronne**
 

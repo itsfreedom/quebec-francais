@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɑ̃ɡlɛ"
 pron_native: "엉글레"
 meaning: ["영어", "영국 사람"]
+display: "le anglais"
+display_ipa: "lə ɑ̃ɡlɛ"
+display_say: "le anglais"
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le anglais"]
 ---
-[🔊 ɑ̃ɡlɛ](_Audio/le-anglais-fbe94a.m4a) 엉글레
+[🔊 lə ɑ̃ɡlɛ](_Audio/le-anglais-fbe94a.m4a)
 
 **le anglais** · *명사 · 남성*
 

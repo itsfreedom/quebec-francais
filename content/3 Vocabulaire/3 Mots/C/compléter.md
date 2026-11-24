@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kɔ̃plete"
 pron_native: "꽁쁠레떼"
 meaning: ["채우다", "완성하다"]
+display: "compléter"
+display_ipa: "kɔ̃plete"
+display_say: "compléter"
 forms:
   - text: "complétez"
     meaning: "채우세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["completer"]
 ---
-[🔊 kɔ̃plete](_Audio/completer-211691.m4a) 꽁쁠레떼
+[🔊 kɔ̃plete](_Audio/completer-211691.m4a)
 
 **compléter** · *동사*
 
@@ -34,7 +37,7 @@ aliases: ["completer"]
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| complétez | [🔊 kɔ̃plete](_Audio/completez-338dae.m4a) 꽁쁠레떼 | 채우세요 |
+| complétez | [🔊 kɔ̃plete](_Audio/completez-338dae.m4a) | 채우세요 |
 
 ## 발음 · 쓰임
 명령형 → [[04 Impératif|Impératif]]

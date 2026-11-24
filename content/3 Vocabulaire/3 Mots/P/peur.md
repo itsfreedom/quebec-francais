@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pœʁ"
 pron_native: "뾔흐"
 meaning: ["두려움"]
+display: "la peur"
+display_ipa: "la pœʁ"
+display_say: "la peur"
 forms: []
 examples:
   - text: "J'ai peur."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la peur"]
 ---
-[🔊 pœʁ](_Audio/la-peur-2ea03d.m4a) 뾔흐
+[🔊 la pœʁ](_Audio/la-peur-2ea03d.m4a)
 
 **la peur** · *명사 · 여성*
 

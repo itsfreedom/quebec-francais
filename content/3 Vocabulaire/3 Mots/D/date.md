@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dat"
 pron_native: "다뜨"
 meaning: ["날짜"]
+display: "une date"
+display_ipa: "yn dat"
+display_say: "une date"
 forms: []
 examples:
   - text: "la date de naissance"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la date"]
 ---
-[🔊 dat](_Audio/la-date-53a318.m4a) 다뜨
+une date [🔊 yn dat](_Audio/une-date-ff5be7.m4a) · les dates [🔊 le dat](_Audio/les-dates-77b2cc.m4a)
 
 **la date** · *명사 · 여성*
 

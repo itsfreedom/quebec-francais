@@ -59,7 +59,7 @@ for p in glob.glob(os.path.join(ROOT, '3 Vocabulaire', '3 Mots', '**', '*.md'), 
     if not sid: continue
     a = re.search(r'\]\(_Audio/([^)\s]+\.m4a)\)', body)
     WORDS[sid] = {'path': os.path.relpath(p, ROOT).replace(os.sep, '/'), 'pos': fval(fm, 'pos') or '', 'text': fval(fm, 'text') or '', 'fem': fval(fm, 'feminine') or '', 'meaning': fval(fm, 'meaning') or [],
-                  'forms': re.findall(r'^\s+- text: "?(.*?)"?$', fm, re.M), 'audio': a.group(1) if a else None}
+                  'display': fval(fm, 'display') or '', 'display_ipa': fval(fm, 'display_ipa') or '', 'forms': re.findall(r'^\s+- text: "?(.*?)"?$', fm, re.M), 'audio': a.group(1) if a else None}
 
 LEMMA, PHRASE = {}, {}
 TOK = re.compile(r"[a-zà-ÿœæç]+(?:-[a-zà-ÿœæç]+)*'?", re.I)
@@ -191,7 +191,7 @@ def transform(t):
     head = t[:len(t) - len(body)]
     # 0) 대화문 정리: 대화와 번역 떼기 · 대화 발음 칸 빼기 · 단어 표는 단어 | 🔊 발음 | 뜻
     body = re.sub(r'(?m)^(>.*)\n(?=> 📖 \*\*번역\*\*)', r'\1\n\n', body)
-    body = re.sub(r'(?m)^> (?:💡 \*\*발음\*\*|\[!tip\][-+]? 발음)[ \t]*\n(?=> \*\*[^*\n]+\*\* : )(?:>.*(?:\n|$))*\n?', '', body)
+    body = re.sub(r'(?m)^> (?:💡 \*\*발음\*\*|\[!tip\][-+]? 발음(?: 기호)?)[ \t]*\n(?=> \*\*[^*\n]+\*\* : )(?:>.*(?:\n|$))*\n?', '', body)
     body = re.sub(r'(?m)^(>[^\n]*)\n\n(?=\| 단어 \| 발음 \| 뜻 \|)', r'\1\n\n**📝 단어**\n\n', body)
     # 대화 노트: 제목 단어(Au centre sportif → centre, sportif)도 단어 표에
     if fval(fm, 'type') == 'dialogue':
@@ -207,8 +207,12 @@ def transform(t):
                 w = WORDS[sid]; have.add(os.path.basename(w['path'])[:-3])
                 mean = ', '.join(w['meaning'][:2]) if isinstance(w['meaning'], list) else w['meaning']
                 ipa = re.search(r'(?m)^ipa:\s*"?([^"\n]*)', open(os.path.join(ROOT, w['path']), encoding='utf-8').read())
-                snd = f"[🔊 {ipa.group(1) if ipa else ''}](_Audio/{w['audio']})" if w['audio'] in HAVE else f"[{ipa.group(1) if ipa else ''}]"
-                add.append(f"> | [[{os.path.basename(w['path'])[:-3]}]] | {snd} | {mean} |")
+                dip = w['display_ipa'] or (ipa.group(1) if ipa else '')
+                snd = f"[🔊 {dip}](_Audio/{w['audio']})" if w['audio'] in HAVE else f"[{dip}]"
+                base = os.path.basename(w['path'])[:-3]; disp = w['display'] or base
+                m2 = re.match(r'(.*?)( \([mf]\.\))?$', disp)   # 성 표시는 링크 밖
+                link = f"[[{base}]]" if m2.group(1) == base else f"[[{base}\\|{m2.group(1)}]]"
+                add.append(f"> | {link}{m2.group(2) or ''} | {snd} | {mean} |")
             if add:
                 e = tbl.end(1); body = body[:e] + ('' if body[e-1:e] == '\n' or e == tbl.start(1) else '\n') + '\n'.join(add) + '\n' + body[e:]
     def row(m):
@@ -284,7 +288,7 @@ def transform(t):
         return f'[{m.group(1)}](<{m.group(2)}#snd-{cands[0][:-4]}> "{m.group(4)}")'
     body = re.sub(r'\[([^\[\]\n]+)\]\(<([^>#]+\.md)#snd-([^>]+)> "([^"]*)"\)', up, body)
     # 9) 수업·대화의 단어 표를 품사별로 묶기 (명사 → 대명사 → 동사 …)
-    if fval(fm, 'type') in (None, '', 'dialogue'):   # 수업 페이지·대화 노트만 (주제 노트는 자주 쓰는 순서 그대로)
+    if fval(fm, 'type') == 'dialogue':   # 대화 노트만 (수업 페이지는 볼트에서 주제·품사별로 묶여 옴)
         body = re.sub(r'(?m)^((?:> )?)\| 단어 \| 발음 \| 뜻 \|\n(?:> )?\|---\|---\|---\|\n((?:(?:> )?\|.*\|[ \t]*(?:\n|$))+)', pos_group, body)
     # 8) 한글 발음 표기 빼기 (소리로 들으니까 · 발음기호는 그대로)
     body = strip_hangul(body)

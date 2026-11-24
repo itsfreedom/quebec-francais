@@ -12,6 +12,9 @@ feminine: ""
 ipa: "fɛ̃"
 pron_native: "팽"
 meaning: ["배고픔"]
+display: "la faim"
+display_ipa: "la fɛ̃"
+display_say: "la faim"
 forms: []
 examples:
   - text: "Il a faim."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la faim"]
 ---
-[🔊 fɛ̃](_Audio/la-faim-78b9a5.m4a) 팽
+[🔊 la fɛ̃](_Audio/la-faim-78b9a5.m4a)
 
 **la faim** · *명사 · 여성*
 

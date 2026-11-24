@@ -12,13 +12,13 @@ aliases: [Voyelles composees, Voyelles composées, 복합 모음]
 
 | 철자 | 소리 | 예시 |
 |---|---|---|
-| **ai, ei** | [ɛ] 에 | fait, français, neige |
-| **au, eau** | [o] 오 | gâteau, bateau, eau |
-| **ou** | [u] 우 | nous, [[bonjour]] |
-| **oi** | [wa] 우아 | moi, trois, [[bonsoir]] |
-| **eu, œu** | [ø] / [œ] 외 | deux, bleu / neuf, sœur |
-| **ui** | [ɥi] 위 | huit, je suis |
-| **ille** | [ij] 이으 | fille, maquilleur |
+| **ai, ei** | [ɛ] | fait, français, neige |
+| **au, eau** | [o] | gâteau, bateau, eau |
+| **ou** | [u] | nous, [[bonjour]] |
+| **oi** | [wa] | moi, trois, [[bonsoir]] |
+| **eu, œu** | [ø] / [œ] | deux, bleu / neuf, sœur |
+| **ui** | [ɥi] | huit, je suis |
+| **ille** | [ij] | fille, maquilleur |
 
 > [!warning] ille 예외
 > ville [vil], mille [mil], tranquille [tʁɑ̃kil] → "일"

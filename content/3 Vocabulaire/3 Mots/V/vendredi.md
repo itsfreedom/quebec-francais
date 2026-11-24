@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vɑ̃dʁədi"
 pron_native: "벙드흐디"
 meaning: ["금요일"]
+display: "le vendredi"
+display_ipa: "lə vɑ̃dʁədi"
+display_say: "le vendredi"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le vendredi"]
 ---
-[🔊 vɑ̃dʁədi](_Audio/le-vendredi-a8ed86.m4a) 벙드흐디
+[🔊 lə vɑ̃dʁədi](_Audio/le-vendredi-a8ed86.m4a)
 
 **le vendredi** · *명사 · 남성*
 

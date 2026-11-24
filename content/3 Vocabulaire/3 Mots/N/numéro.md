@@ -12,6 +12,9 @@ feminine: ""
 ipa: "nymeʁo"
 pron_native: "뉘메호"
 meaning: ["번호"]
+display: "un numéro"
+display_ipa: "œ̃ nymeʁo"
+display_say: "un numéro"
 forms: []
 examples:
   - text: "le numéro de téléphone"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["numero", "le numéro"]
 ---
-[🔊 nymeʁo](_Audio/le-numero-695404.m4a) 뉘메호
+un numéro [🔊 œ̃ nymeʁo](_Audio/un-numero-51f314.m4a) · les numéros [🔊 le nymeʁo](_Audio/les-numeros-e870c5.m4a)
 
 **le numéro** · *명사 · 남성*
 

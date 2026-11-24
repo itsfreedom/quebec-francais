@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ekip"
 pron_native: "에끼쁘"
 meaning: ["팀", "조"]
+display: "une équipe"
+display_ipa: "ynekip"
+display_say: "une équipe"
 forms: []
 examples:
   - text: "en équipe de deux"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["equipe", "l'équipe"]
 ---
-[🔊 ekip](_Audio/l-equipe-ad6655.m4a) 에끼쁘
+l'équipe [🔊 lekip](_Audio/l-equipe-ad6655.m4a) · une équipe [🔊 ynekip](_Audio/une-equipe-8d6334.m4a) · les équipes [🔊 lez‿ekip](_Audio/les-equipes-1ff435.m4a)
 
 **l'équipe** · *명사 · 여성*
 

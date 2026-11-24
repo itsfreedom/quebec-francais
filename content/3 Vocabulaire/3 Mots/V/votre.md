@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vɔtʁ"
 pron_native: "보트흐"
 meaning: ["당신의"]
+display: "votre"
+display_ipa: "vɔtʁ"
+display_say: "votre"
 forms: []
 examples: []
 theme: "Pronoms"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 vɔtʁ](_Audio/votre-8982fd.m4a) 보트흐
+[🔊 vɔtʁ](_Audio/votre-8982fd.m4a)
 
 **votre** · *한정사 · 남녀 공통*
 

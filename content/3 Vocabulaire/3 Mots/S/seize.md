@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sɛz"
 pron_native: "쎄즈"
 meaning: ["16"]
+display: "seize"
+display_ipa: "sɛz"
+display_say: "seize"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 sɛz](_Audio/seize-859446.m4a) 쎄즈
+[🔊 sɛz](_Audio/seize-859446.m4a)
 
 **seize** · *숫자*
 

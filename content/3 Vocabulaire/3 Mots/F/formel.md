@@ -12,6 +12,9 @@ feminine: "formelle"
 ipa: "fɔʁmɛl"
 pron_native: "포흐멜"
 meaning: ["격식 있는 (존댓말)"]
+display: "formel"
+display_ipa: "fɔʁmɛl"
+display_say: "formel"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 fɔʁmɛl](_Audio/formel-c2cfe0.m4a) 포흐멜
+[🔊 fɔʁmɛl](_Audio/formel-c2cfe0.m4a)
 
 **formel** · *형용사 · 남성* · 여성형 **formelle**
 

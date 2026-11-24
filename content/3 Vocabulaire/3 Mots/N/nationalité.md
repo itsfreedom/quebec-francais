@@ -12,6 +12,9 @@ feminine: ""
 ipa: "nasjɔnalite"
 pron_native: "나씨오날리떼"
 meaning: ["국적"]
+display: "une nationalité"
+display_ipa: "yn nasjɔnalite"
+display_say: "une nationalité"
 forms: []
 examples:
   - text: "Quelle est votre nationalité ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["nationalite", "la nationalité"]
 ---
-[🔊 nasjɔnalite](_Audio/la-nationalite-600e87.m4a) 나씨오날리떼
+une nationalité [🔊 yn nasjɔnalite](_Audio/une-nationalite-6da5ef.m4a) · les nationalités [🔊 le nasjɔnalite](_Audio/les-nationalites-7d4aff.m4a)
 
 **la nationalité** · *명사 · 여성*
 

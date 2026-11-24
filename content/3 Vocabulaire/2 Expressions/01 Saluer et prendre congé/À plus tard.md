@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["a-plus-tard"]
 ---
-**À plus tard !** [🔊](_Audio/a-plus-tard-8bf46e.m4a)
-
 👉 나중에 봐요!
 
 ---

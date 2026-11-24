@@ -12,6 +12,9 @@ feminine: ""
 ipa: "bjɛ̃"
 pron_native: "비앙"
 meaning: ["잘", "좋게"]
+display: "bien"
+display_ipa: "bjɛ̃"
+display_say: "bien"
 forms: []
 examples:
   - text: "Ça va bien."
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 bjɛ̃](_Audio/bien-67d6c2.m4a) 비앙
+[🔊 bjɛ̃](_Audio/bien-67d6c2.m4a)
 
 **bien** · *부사*
 

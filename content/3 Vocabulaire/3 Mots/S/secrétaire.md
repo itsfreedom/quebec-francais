@@ -12,6 +12,9 @@ feminine: ""
 ipa: "səkʁetɛʁ"
 pron_native: "스크헤떼흐"
 meaning: ["비서", "사무 직원"]
+display: "un/une secrétaire"
+display_ipa: "œ̃ səkʁetɛʁ"
+display_say: "un secrétaire"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["secretaire", "le/la secrétaire"]
 ---
-[🔊 səkʁetɛʁ](_Audio/le-la-secretaire-b63979.m4a) 스크헤떼흐
+un secrétaire [🔊 œ̃ səkʁetɛʁ](_Audio/un-secretaire-973b77.m4a) · une secrétaire [🔊 yn səkʁetɛʁ](_Audio/une-secretaire-9cd7fa.m4a) · les secrétaires [🔊 le səkʁetɛʁ](_Audio/les-secretaires-a82295.m4a)
 
 **le/la secrétaire** · *명사 · 남녀 공통*
 

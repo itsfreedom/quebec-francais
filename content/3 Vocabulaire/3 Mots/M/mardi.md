@@ -12,6 +12,9 @@ feminine: ""
 ipa: "maʁdi"
 pron_native: "마흐디"
 meaning: ["화요일"]
+display: "le mardi"
+display_ipa: "lə maʁdi"
+display_say: "le mardi"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le mardi"]
 ---
-[🔊 maʁdi](_Audio/le-mardi-71608d.m4a) 마흐디
+[🔊 lə maʁdi](_Audio/le-mardi-71608d.m4a)
 
 **le mardi** · *명사 · 남성*
 

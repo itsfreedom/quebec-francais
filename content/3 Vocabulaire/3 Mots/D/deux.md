@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dø"
 pron_native: "되"
 meaning: ["2"]
+display: "deux"
+display_ipa: "dø"
+display_say: "deux"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 dø](_Audio/deux-f83815.m4a) 되
+[🔊 dø](_Audio/deux-f83815.m4a)
 
 **deux** · *숫자*
 

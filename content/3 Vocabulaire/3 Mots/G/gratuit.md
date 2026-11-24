@@ -12,6 +12,9 @@ feminine: "gratuite"
 ipa: "ɡʁatɥi"
 pron_native: "그하뛰"
 meaning: ["무료의"]
+display: "gratuit"
+display_ipa: "ɡʁatɥi"
+display_say: "gratuit"
 forms: []
 examples:
   - text: "deux mois gratuits"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ɡʁatɥi](_Audio/gratuit-59a8c7.m4a) 그하뛰
+[🔊 ɡʁatɥi](_Audio/gratuit-59a8c7.m4a)
 
 **gratuit** · *형용사 · 남성* · 여성형 **gratuite**
 

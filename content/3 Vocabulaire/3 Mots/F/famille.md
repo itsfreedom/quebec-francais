@@ -12,6 +12,9 @@ feminine: ""
 ipa: "famij"
 pron_native: "파미으"
 meaning: ["가족"]
+display: "une famille"
+display_ipa: "yn famij"
+display_say: "une famille"
 forms: []
 examples:
   - text: "le nom de famille"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la famille"]
 ---
-[🔊 famij](_Audio/la-famille-f4c078.m4a) 파미으
+une famille [🔊 yn famij](_Audio/une-famille-3fadf8.m4a) · les familles [🔊 le famij](_Audio/les-familles-fc1f1c.m4a)
 
 **la famille** · *명사 · 여성*
 

@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["bonne-journee"]
 ---
-**[Bonne](_Audio/bon-c7f86e.m4a "좋은, 맛있는") [journée](_Audio/la-journee-7dcfb6.m4a "하루, 낮") !** [🔊](_Audio/bonne-journee-616c24.m4a)
-
 👉 좋은 하루 보내세요!
 
 **단어**: [[bon]] · [[journée|la journée]]

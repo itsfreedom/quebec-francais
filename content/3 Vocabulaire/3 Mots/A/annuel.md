@@ -12,6 +12,9 @@ feminine: "annuelle"
 ipa: "anɥɛl"
 pron_native: "아뉘엘"
 meaning: ["매년의", "연간"]
+display: "annuel"
+display_ipa: "anɥɛl"
+display_say: "annuel"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 anɥɛl](_Audio/annuel-0f9e41.m4a) 아뉘엘
+[🔊 anɥɛl](_Audio/annuel-0f9e41.m4a)
 
 **annuel** · *형용사 · 남성* · 여성형 **annuelle**
 

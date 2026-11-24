@@ -12,6 +12,9 @@ feminine: ""
 ipa: "swaf"
 pron_native: "수아프"
 meaning: ["목마름"]
+display: "la soif"
+display_ipa: "la swaf"
+display_say: "la soif"
 forms: []
 examples:
   - text: "Tu as soif ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la soif"]
 ---
-[🔊 swaf](_Audio/la-soif-379d1d.m4a) 수아프
+[🔊 la swaf](_Audio/la-soif-379d1d.m4a)
 
 **la soif** · *명사 · 여성*
 

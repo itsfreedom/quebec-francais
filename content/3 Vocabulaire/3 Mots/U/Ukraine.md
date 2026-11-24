@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ykʁɛn"
 pron_native: "위크헨"
 meaning: ["우크라이나"]
+display: "l'Ukraine (f.)"
+display_ipa: "lykʁɛn"
+display_say: "l'Ukraine"
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ukraine", "l'Ukraine"]
 ---
-[🔊 ykʁɛn](_Audio/l-ukraine-ae4cdd.m4a) 위크헨
+[🔊 lykʁɛn](_Audio/l-ukraine-ae4cdd.m4a)
 
 **l'Ukraine** · *명사 · 여성*
 

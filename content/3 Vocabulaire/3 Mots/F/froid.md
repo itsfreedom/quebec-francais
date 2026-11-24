@@ -12,6 +12,9 @@ feminine: ""
 ipa: "fʁwa"
 pron_native: "프후아"
 meaning: ["추위"]
+display: "le froid"
+display_ipa: "lə fʁwa"
+display_say: "le froid"
 forms: []
 examples:
   - text: "Tu as froid ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le froid"]
 ---
-[🔊 fʁwa](_Audio/le-froid-d9bdf9.m4a) 프후아
+[🔊 lə fʁwa](_Audio/le-froid-d9bdf9.m4a)
 
 **le froid** · *명사 · 남성*
 

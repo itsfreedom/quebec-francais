@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pil"
 pron_native: "삘"
 meaning: ["건전지", "더미"]
+display: "une pile"
+display_ipa: "yn pil"
+display_say: "une pile"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la pile"]
 ---
-[🔊 pil](_Audio/la-pile-a4e270.m4a) 삘
+une pile [🔊 yn pil](_Audio/une-pile-0b9ed0.m4a) · les piles [🔊 le pil](_Audio/les-piles-af5071.m4a)
 
 **la pile** · *명사 · 여성*
 

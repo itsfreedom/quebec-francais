@@ -12,6 +12,9 @@ feminine: "mensuelle"
 ipa: "mɑ̃sɥɛl"
 pron_native: "멍쒸엘"
 meaning: ["매달의", "월간"]
+display: "mensuel"
+display_ipa: "mɑ̃sɥɛl"
+display_say: "mensuel"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 mɑ̃sɥɛl](_Audio/mensuel-7e7565.m4a) 멍쒸엘
+[🔊 mɑ̃sɥɛl](_Audio/mensuel-7e7565.m4a)
 
 **mensuel** · *형용사 · 남성* · 여성형 **mensuelle**
 

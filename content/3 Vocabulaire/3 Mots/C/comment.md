@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kɔmɑ̃"
 pron_native: "꼬망"
 meaning: ["어떻게"]
+display: "comment"
+display_ipa: "kɔmɑ̃"
+display_say: "comment"
 forms: []
 examples:
   - text: "Comment ça va ?"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kɔmɑ̃](_Audio/comment-06d4cd.m4a) 꼬망
+[🔊 kɔmɑ̃](_Audio/comment-06d4cd.m4a)
 
 **comment** · *부사*
 

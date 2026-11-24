@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʃin"
 pron_native: "신"
 meaning: ["중국"]
+display: "la Chine"
+display_ipa: "la ʃin"
+display_say: "la Chine"
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["chine", "la Chine"]
 ---
-[🔊 ʃin](_Audio/la-chine-4b5875.m4a) 신
+[🔊 la ʃin](_Audio/la-chine-4b5875.m4a)
 
 **la Chine** · *명사 · 여성*
 

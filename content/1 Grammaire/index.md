@@ -31,4 +31,3 @@ aliases: [Grammaire, 문법, 문법 색인, 문법 목차]
 
 ## [[1 Grammaire/2 La phrase/index|La phrase (문장)]]
 1. [[01 Négation|부정문: ne … pas]]
-

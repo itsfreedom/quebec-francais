@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sɑ̃"
 pron_native: "썽"
 meaning: ["100"]
+display: "cent"
+display_ipa: "sɑ̃"
+display_say: "cent"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 sɑ̃](_Audio/cent-2d95b1.m4a) 썽
+[🔊 sɑ̃](_Audio/cent-2d95b1.m4a)
 
 **cent** · *숫자*
 

@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["bonsoir-monsieur"]
 ---
-**[Bonsoir](_Audio/bonsoir-b9a6d0.m4a "안녕하세요 (저녁 인사)") [monsieur](_Audio/monsieur-d8187c.m4a "~씨, 선생님 (남성 존칭)") !** [🔊](_Audio/bonsoir-monsieur-18fe38.m4a)
-
 👉 안녕하세요, 선생님 (저녁, 남성에게)
 
 **단어**: [[bonsoir]] · [[monsieur]]

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʒɥɛ̃"
 pron_native: "쥐앙"
 meaning: ["6월"]
+display: "juin"
+display_ipa: "ʒɥɛ̃"
+display_say: "juin"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ʒɥɛ̃](_Audio/juin-2bc13d.m4a) 쥐앙
+[🔊 ʒɥɛ̃](_Audio/juin-2bc13d.m4a)
 
 **juin** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "alo"
 pron_native: "알로"
 meaning: ["여보세요", "안녕 (퀘벡 일상 인사)"]
+display: "allo"
+display_ipa: "alo"
+display_say: "allo"
 forms: []
 examples:
   - text: "Allo ! Comment ça va ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 alo](_Audio/allo-ce92c2.m4a) 알로
+[🔊 alo](_Audio/allo-ce92c2.m4a)
 
 **allo** · *감탄사*
 

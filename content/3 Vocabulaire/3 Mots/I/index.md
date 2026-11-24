@@ -3,8 +3,11 @@ title: "I"
 ---
 - [[3 Vocabulaire/3 Mots/I/identique|identique]]
 - [[3 Vocabulaire/3 Mots/I/identité|identité]]
+- [[3 Vocabulaire/3 Mots/I/il|il]]
 - [[3 Vocabulaire/3 Mots/I/ils|ils]]
+- [[3 Vocabulaire/3 Mots/I/immeuble|immeuble]]
 - [[3 Vocabulaire/3 Mots/I/Inde|Inde]]
+- [[3 Vocabulaire/3 Mots/I/indicatif régional|indicatif régional]]
 - [[3 Vocabulaire/3 Mots/I/indien|indien]]
 - [[3 Vocabulaire/3 Mots/I/informel|informel]]
 - [[3 Vocabulaire/3 Mots/I/ingénieur|ingénieur]]

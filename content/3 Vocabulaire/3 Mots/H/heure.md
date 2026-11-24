@@ -12,6 +12,9 @@ feminine: ""
 ipa: "œʁ"
 pron_native: "외흐"
 meaning: ["시간", "~시"]
+display: "une heure"
+display_ipa: "ynœʁ"
+display_say: "une heure"
 forms: []
 examples:
   - text: "Vous avez l'heure ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'heure"]
 ---
-[🔊 œʁ](_Audio/l-heure-fb1db1.m4a) 외흐
+l'heure [🔊 lœʁ](_Audio/l-heure-fb1db1.m4a) · une heure [🔊 ynœʁ](_Audio/une-heure-865805.m4a) · les heures [🔊 lez‿œʁ](_Audio/les-heures-ee19ed.m4a)
 
 **l'heure** · *명사 · 여성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "mil"
 pron_native: "밀"
 meaning: ["1000"]
+display: "mille"
+display_ipa: "mil"
+display_say: "mille"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 mil](_Audio/mille-cd827c.m4a) 밀
+[🔊 mil](_Audio/mille-cd827c.m4a)
 
 **mille** · *숫자*
 

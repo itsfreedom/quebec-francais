@@ -12,6 +12,9 @@ feminine: ""
 ipa: "telefɔn"
 pron_native: "뗄레폰"
 meaning: ["전화"]
+display: "un téléphone"
+display_ipa: "œ̃ telefɔn"
+display_say: "un téléphone"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["telephone", "le téléphone"]
 ---
-[🔊 telefɔn](_Audio/le-telephone-bfdbc2.m4a) 뗄레폰
+un téléphone [🔊 œ̃ telefɔn](_Audio/un-telephone-bdd741.m4a) · les téléphones [🔊 le telefɔn](_Audio/les-telephones-af3a10.m4a)
 
 **le téléphone** · *명사 · 남성*
 

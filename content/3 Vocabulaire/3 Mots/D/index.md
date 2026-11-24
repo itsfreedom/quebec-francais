@@ -2,6 +2,7 @@
 title: "D"
 ---
 - [[3 Vocabulaire/3 Mots/D/dame|dame]]
+- [[3 Vocabulaire/3 Mots/D/dans|dans]]
 - [[3 Vocabulaire/3 Mots/D/date|date]]
 - [[3 Vocabulaire/3 Mots/D/de|de]]
 - [[3 Vocabulaire/3 Mots/D/demain|demain]]
@@ -19,3 +20,5 @@ title: "D"
 - [[3 Vocabulaire/3 Mots/D/dormir|dormir]]
 - [[3 Vocabulaire/3 Mots/D/douze|douze]]
 - [[3 Vocabulaire/3 Mots/D/drôle|drôle]]
+- [[3 Vocabulaire/3 Mots/D/du|du]]
+- [[3 Vocabulaire/3 Mots/D/décembre|décembre]]

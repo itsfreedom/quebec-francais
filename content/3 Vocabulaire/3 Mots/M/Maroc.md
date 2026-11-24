@@ -12,6 +12,9 @@ feminine: ""
 ipa: "maʁɔk"
 pron_native: "마혹"
 meaning: ["모로코"]
+display: "le Maroc"
+display_ipa: "lə maʁɔk"
+display_say: "le Maroc"
 forms: []
 examples:
   - text: "Je viens du Maroc."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["maroc", "le Maroc"]
 ---
-[🔊 maʁɔk](_Audio/le-maroc-7f9802.m4a) 마혹
+[🔊 lə maʁɔk](_Audio/le-maroc-7f9802.m4a)
 
 **le Maroc** · *명사 · 남성*
 

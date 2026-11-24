@@ -12,6 +12,9 @@ feminine: "présente"
 ipa: "pʁezɑ̃"
 pron_native: "프헤정"
 meaning: ["출석한, 있는", "현재의"]
+display: "présent"
+display_ipa: "pʁezɑ̃"
+display_say: "présent"
 forms: []
 examples: []
 theme: "Classe"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["present"]
 ---
-[🔊 pʁezɑ̃](_Audio/present-ac6660.m4a) 프헤정
+[🔊 pʁezɑ̃](_Audio/present-ac6660.m4a)
 
 **présent** · *형용사 · 남성* · 여성형 **présente**
 

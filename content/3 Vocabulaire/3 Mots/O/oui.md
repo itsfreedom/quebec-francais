@@ -12,6 +12,9 @@ feminine: ""
 ipa: "wi"
 pron_native: "위"
 meaning: ["네"]
+display: "oui"
+display_ipa: "wi"
+display_say: "oui"
 forms: []
 examples: []
 theme: "Salutations"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 wi](_Audio/oui-b2a5ab.m4a) 위
+[🔊 wi](_Audio/oui-b2a5ab.m4a)
 
 **oui** · *부사*
 

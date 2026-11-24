@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʃifʁ"
 pron_native: "시프흐"
 meaning: ["숫자 (0~9 한 자리)"]
+display: "un chiffre"
+display_ipa: "œ̃ ʃifʁ"
+display_say: "un chiffre"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le chiffre"]
 ---
-[🔊 ʃifʁ](_Audio/le-chiffre-65a851.m4a) 시프흐
+un chiffre [🔊 œ̃ ʃifʁ](_Audio/un-chiffre-982cbb.m4a) · les chiffres [🔊 le ʃifʁ](_Audio/les-chiffres-848ead.m4a)
 
 **le chiffre** · *명사 · 남성*
 

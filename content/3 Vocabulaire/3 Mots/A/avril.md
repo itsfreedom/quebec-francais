@@ -12,6 +12,9 @@ feminine: ""
 ipa: "avʁil"
 pron_native: "아브힐"
 meaning: ["4월"]
+display: "avril"
+display_ipa: "avʁil"
+display_say: "avril"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 avʁil](_Audio/avril-c7e55c.m4a) 아브힐
+[🔊 avʁil](_Audio/avril-c7e55c.m4a)
 
 **avril** · *명사 · 남성*
 

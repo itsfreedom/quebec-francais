@@ -12,6 +12,9 @@ feminine: ""
 ipa: "samdi"
 pron_native: "쌈디"
 meaning: ["토요일"]
+display: "le samedi"
+display_ipa: "lə samdi"
+display_say: "le samedi"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le samedi"]
 ---
-[🔊 samdi](_Audio/le-samedi-d88e59.m4a) 쌈디
+[🔊 lə samdi](_Audio/le-samedi-d88e59.m4a)
 
 **le samedi** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "bjɛ̃ syʁ"
 pron_native: "비앙 쒸흐"
 meaning: ["물론이죠"]
+display: "bien sûr"
+display_ipa: "bjɛ̃ syʁ"
+display_say: "bien sûr"
 forms: []
 examples:
   - text: "Mais bien sûr !"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["bien-sur"]
 ---
-[🔊 bjɛ̃ syʁ](_Audio/bien-sur-5793f5.m4a) 비앙 쒸흐
+[🔊 bjɛ̃ syʁ](_Audio/bien-sur-5793f5.m4a)
 
 **bien sûr** · *부사*
 

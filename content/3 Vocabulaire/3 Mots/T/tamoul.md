@@ -12,6 +12,9 @@ feminine: ""
 ipa: "tamul"
 pron_native: "따물"
 meaning: ["타밀어"]
+display: "le tamoul"
+display_ipa: "lə tamul"
+display_say: "le tamoul"
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le tamoul"]
 ---
-[🔊 tamul](_Audio/le-tamoul-8d0461.m4a) 따물
+[🔊 lə tamul](_Audio/le-tamoul-8d0461.m4a)
 
 **le tamoul** · *명사 · 남성*
 

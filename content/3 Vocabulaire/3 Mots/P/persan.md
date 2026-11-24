@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pɛʁsɑ̃"
 pron_native: "뻬흐썽"
 meaning: ["페르시아어 (이란어)"]
+display: "le persan"
+display_ipa: "lə pɛʁsɑ̃"
+display_say: "le persan"
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le persan"]
 ---
-[🔊 pɛʁsɑ̃](_Audio/le-persan-36be45.m4a) 뻬흐썽
+[🔊 lə pɛʁsɑ̃](_Audio/le-persan-36be45.m4a)
 
 **le persan** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sɛt"
 pron_native: "쎄뜨"
 meaning: ["7"]
+display: "sept"
+display_ipa: "sɛt"
+display_say: "sept"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 sɛt](_Audio/sept-abd0df.m4a) 쎄뜨
+[🔊 sɛt](_Audio/sept-abd0df.m4a)
 
 **sept** · *숫자*
 

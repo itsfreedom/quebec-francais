@@ -12,6 +12,9 @@ feminine: ""
 ipa: "eta sivil"
 pron_native: "에따 씨빌"
 meaning: ["혼인 상태 (결혼 여부)"]
+display: "l'état civil (m.)"
+display_ipa: "leta sivil"
+display_say: "l'état civil"
 forms: []
 examples:
   - text: "marié, célibataire, divorcé…"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["etat-civil", "l'état civil"]
 ---
-[🔊 eta sivil](_Audio/l-etat-civil-a2c0f9.m4a) 에따 씨빌
+[🔊 leta sivil](_Audio/l-etat-civil-a2c0f9.m4a)
 
 **l'état civil** · *명사 · 남성*
 

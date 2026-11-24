@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɔʁdinatœʁ"
 pron_native: "오흐디나뙤흐"
 meaning: ["컴퓨터"]
+display: "un ordinateur"
+display_ipa: "œ̃n‿ɔʁdinatœʁ"
+display_say: "un ordinateur"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'ordinateur"]
 ---
-[🔊 ɔʁdinatœʁ](_Audio/l-ordinateur-c12ec3.m4a) 오흐디나뙤흐
+l'ordinateur [🔊 lɔʁdinatœʁ](_Audio/l-ordinateur-c12ec3.m4a) · un ordinateur [🔊 œ̃n‿ɔʁdinatœʁ](_Audio/un-ordinateur-b97fb4.m4a) · les ordinateurs [🔊 lez‿ɔʁdinatœʁ](_Audio/les-ordinateurs-b230ab.m4a)
 
 **l'ordinateur** · *명사 · 남성*
 

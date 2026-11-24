@@ -12,6 +12,9 @@ feminine: ""
 ipa: "katʁə vɛ̃ dis"
 pron_native: "까트흐 뱅 디스"
 meaning: ["90"]
+display: "quatre-vingt-dix"
+display_ipa: "katʁə vɛ̃ dis"
+display_say: "quatre-vingt-dix"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 katʁə vɛ̃ dis](_Audio/quatre-vingt-dix-4e532d.m4a) 까트흐 뱅 디스
+[🔊 katʁə vɛ̃ dis](_Audio/quatre-vingt-dix-4e532d.m4a)
 
 **quatre-vingt-dix** · *숫자*
 

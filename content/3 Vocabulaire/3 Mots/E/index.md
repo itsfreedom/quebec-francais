@@ -2,6 +2,8 @@
 title: "E"
 ---
 - [[3 Vocabulaire/3 Mots/E/eau|eau]]
+- [[3 Vocabulaire/3 Mots/E/elle|elle]]
+- [[3 Vocabulaire/3 Mots/E/en|en]]
 - [[3 Vocabulaire/3 Mots/E/enchanté|enchanté]]
 - [[3 Vocabulaire/3 Mots/E/enfant|enfant]]
 - [[3 Vocabulaire/3 Mots/E/enregistrer|enregistrer]]

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kɔʁe"
 pron_native: "꼬헤"
 meaning: ["한국"]
+display: "la Corée"
+display_ipa: "la kɔʁe"
+display_say: "la Corée"
 forms: []
 examples:
   - text: "Je viens de la Corée."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["coree", "la Corée"]
 ---
-[🔊 kɔʁe](_Audio/la-coree-6b5d33.m4a) 꼬헤
+[🔊 la kɔʁe](_Audio/la-coree-6b5d33.m4a)
 
 **la Corée** · *명사 · 여성*
 

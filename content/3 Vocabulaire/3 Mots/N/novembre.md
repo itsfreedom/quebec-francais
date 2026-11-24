@@ -12,6 +12,9 @@ feminine: ""
 ipa: "nɔvɑ̃bʁ"
 pron_native: "노벙브흐"
 meaning: ["11월"]
+display: "novembre"
+display_ipa: "nɔvɑ̃bʁ"
+display_say: "novembre"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 nɔvɑ̃bʁ](_Audio/novembre-732cad.m4a) 노벙브흐
+[🔊 nɔvɑ̃bʁ](_Audio/novembre-732cad.m4a)
 
 **novembre** · *명사 · 남성*
 

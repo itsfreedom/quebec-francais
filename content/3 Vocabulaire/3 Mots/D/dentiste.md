@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dɑ̃tist"
 pron_native: "덩띠스뜨"
 meaning: ["치과의사"]
+display: "un/une dentiste"
+display_ipa: "œ̃ dɑ̃tist"
+display_say: "un dentiste"
 forms: []
 examples: []
 theme: "Personnes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le/la dentiste"]
 ---
-[🔊 dɑ̃tist](_Audio/le-la-dentiste-e9fde3.m4a) 덩띠스뜨
+un dentiste [🔊 œ̃ dɑ̃tist](_Audio/un-dentiste-ce74b3.m4a) · une dentiste [🔊 yn dɑ̃tist](_Audio/une-dentiste-5a1009.m4a) · les dentistes [🔊 le dɑ̃tist](_Audio/les-dentistes-d139d0.m4a)
 
 **le/la dentiste** · *명사 · 남녀 공통*
 

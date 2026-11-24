@@ -12,6 +12,9 @@ feminine: ""
 ipa: "o"
 pron_native: "오"
 meaning: ["물"]
+display: "l'eau (f.)"
+display_ipa: "lo"
+display_say: "l'eau"
 forms: []
 examples: []
 theme: "Nourriture"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'eau"]
 ---
-[🔊 o](_Audio/l-eau-6b33d7.m4a) 오
+[🔊 lo](_Audio/l-eau-6b33d7.m4a)
 
 **l'eau** · *명사 · 여성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "abɔnmɑ̃"
 pron_native: "아본느멍"
 meaning: ["정기 회원권", "구독"]
+display: "un abonnement"
+display_ipa: "œ̃n‿abɔnmɑ̃"
+display_say: "un abonnement"
 forms: []
 examples:
   - text: "un abonnement annuel"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'abonnement"]
 ---
-[🔊 abɔnmɑ̃](_Audio/l-abonnement-0653b0.m4a) 아본느멍
+l'abonnement [🔊 labɔnmɑ̃](_Audio/l-abonnement-0653b0.m4a) · un abonnement [🔊 œ̃n‿abɔnmɑ̃](_Audio/un-abonnement-64f5f5.m4a) · les abonnements [🔊 lez‿abɔnmɑ̃](_Audio/les-abonnements-c420a0.m4a)
 
 **l'abonnement** · *명사 · 남성*
 

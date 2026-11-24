@@ -12,6 +12,9 @@ feminine: ""
 ipa: "swaʁe"
 pron_native: "수아헤"
 meaning: ["저녁 (시간)"]
+display: "une soirée"
+display_ipa: "yn swaʁe"
+display_say: "une soirée"
 forms: []
 examples:
   - text: "Bonne soirée !"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["soiree", "la soirée"]
 ---
-[🔊 swaʁe](_Audio/la-soiree-ca2394.m4a) 수아헤
+une soirée [🔊 yn swaʁe](_Audio/une-soiree-e2a3cf.m4a) · les soirées [🔊 le swaʁe](_Audio/les-soirees-36ef92.m4a)
 
 **la soirée** · *명사 · 여성*
 

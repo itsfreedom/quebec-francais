@@ -12,6 +12,9 @@ feminine: ""
 ipa: "elɛv"
 pron_native: "엘레브"
 meaning: ["학생 (수업 듣는 사람)"]
+display: "un/une élève"
+display_ipa: "œ̃n‿elɛv"
+display_say: "un élève"
 forms: []
 examples:
   - text: "Nom de l'élève"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["eleve", "l'élève"]
 ---
-[🔊 elɛv](_Audio/l-eleve-bef501.m4a) 엘레브
+l'élève [🔊 lelɛv](_Audio/l-eleve-bef501.m4a) · un élève [🔊 œ̃n‿elɛv](_Audio/un-eleve-eeed2f.m4a) · une élève [🔊 ynelɛv](_Audio/une-eleve-5cf567.m4a) · les élèves [🔊 lez‿elɛv](_Audio/les-eleves-f76459.m4a)
 
 **l'élève** · *명사 · 남녀 공통*
 

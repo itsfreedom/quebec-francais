@@ -12,6 +12,9 @@ feminine: ""
 ipa: "idɑ̃tik"
 pron_native: "이덩띠끄"
 meaning: ["똑같은"]
+display: "identique"
+display_ipa: "idɑ̃tik"
+display_say: "identique"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 idɑ̃tik](_Audio/identique-8bfc0d.m4a) 이덩띠끄
+[🔊 idɑ̃tik](_Audio/identique-8bfc0d.m4a)
 
 **identique** · *형용사 · 남녀 공통*
 

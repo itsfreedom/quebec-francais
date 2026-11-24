@@ -12,6 +12,9 @@ feminine: ""
 ipa: "fiʃ"
 pron_native: "피슈"
 meaning: ["카드", "서식"]
+display: "une fiche"
+display_ipa: "yn fiʃ"
+display_say: "une fiche"
 forms: []
 examples:
   - text: "la fiche d'identité"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la fiche"]
 ---
-[🔊 fiʃ](_Audio/la-fiche-09a801.m4a) 피슈
+une fiche [🔊 yn fiʃ](_Audio/une-fiche-307514.m4a) · les fiches [🔊 le fiʃ](_Audio/les-fiches-58c562.m4a)
 
 **la fiche** · *명사 · 여성*
 

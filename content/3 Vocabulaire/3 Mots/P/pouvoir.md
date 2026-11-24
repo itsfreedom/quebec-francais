@@ -12,6 +12,9 @@ feminine: ""
 ipa: "puvwaʁ"
 pron_native: "뿌부아흐"
 meaning: ["~할 수 있다"]
+display: "pouvoir"
+display_ipa: "puvwaʁ"
+display_say: "pouvoir"
 forms:
   - text: "je peux"
     meaning: "나는 할 수 있다"
@@ -27,7 +30,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 puvwaʁ](_Audio/pouvoir-a7675d.m4a) 뿌부아흐
+[🔊 puvwaʁ](_Audio/pouvoir-a7675d.m4a)
 
 **pouvoir** · *동사*
 
@@ -37,8 +40,8 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| je peux | [🔊 ʒə pø](_Audio/je-peux-755f76.m4a) 즈 뾔 | 나는 할 수 있다 |
-| [pouvez-vous](_Audio/pouvoir-a7675d.m4a "pouvoir · ~할 수 있다") ? [🔊](_Audio/pouvez-vous-f918cc.m4a) | [puve vu] 뿌베 부 | 해 주실 수 있어요? |
+| je peux | [🔊 ʒə pø](_Audio/je-peux-755f76.m4a) | 나는 할 수 있다 |
+| pouvez-vous ? | [🔊 puve vu](_Audio/pouvez-vous-f918cc.m4a) | 해 주실 수 있어요? |
 
 ---
 📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "saly"
 pron_native: "살뤼"
 meaning: ["안녕 (친한 사이, 만날 때·헤어질 때)"]
+display: "salut"
+display_ipa: "saly"
+display_say: "salut"
 forms: []
 examples:
   - text: "Salut, ça va ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 saly](_Audio/salut-3ed7dc.m4a) 살뤼
+[🔊 saly](_Audio/salut-3ed7dc.m4a)
 
 **salut** · *감탄사*
 

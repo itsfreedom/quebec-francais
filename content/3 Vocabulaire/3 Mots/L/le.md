@@ -12,6 +12,9 @@ feminine: "la"
 ipa: "lə"
 pron_native: "르"
 meaning: ["그 (남성 정관사)"]
+display: "le"
+display_ipa: "lə"
+display_say: "le"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 lə](_Audio/le-d91805.m4a) 르
+[🔊 lə](_Audio/le-d91805.m4a)
 
 **le** · *관사* · 여성형 **la**
 

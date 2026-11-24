@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʁy"
 pron_native: "휘"
 meaning: ["길", "거리"]
+display: "une rue"
+display_ipa: "yn ʁy"
+display_say: "une rue"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la rue"]
 ---
-[🔊 ʁy](_Audio/la-rue-4759c6.m4a) 휘
+une rue [🔊 yn ʁy](_Audio/une-rue-ae1aaa.m4a) · les rues [🔊 le ʁy](_Audio/les-rues-9c652e.m4a)
 
 **la rue** · *명사 · 여성*
 

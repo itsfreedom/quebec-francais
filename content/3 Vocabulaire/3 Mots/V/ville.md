@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vil"
 pron_native: "빌"
 meaning: ["도시"]
+display: "une ville"
+display_ipa: "yn vil"
+display_say: "une ville"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la ville"]
 ---
-[🔊 vil](_Audio/la-ville-b4cf80.m4a) 빌
+une ville [🔊 yn vil](_Audio/une-ville-5b2815.m4a) · les villes [🔊 le vil](_Audio/les-villes-9a572e.m4a)
 
 **la ville** · *명사 · 여성*
 

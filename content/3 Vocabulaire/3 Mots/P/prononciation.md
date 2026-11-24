@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pʁɔnɔ̃sjasjɔ̃"
 pron_native: "프호농씨아씨옹"
 meaning: ["발음"]
+display: "la prononciation"
+display_ipa: "la pʁɔnɔ̃sjasjɔ̃"
+display_say: "la prononciation"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la prononciation"]
 ---
-[🔊 pʁɔnɔ̃sjasjɔ̃](_Audio/la-prononciation-86e549.m4a) 프호농씨아씨옹
+[🔊 la pʁɔnɔ̃sjasjɔ̃](_Audio/la-prononciation-86e549.m4a)
 
 **la prononciation** · *명사 · 여성*
 

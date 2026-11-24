@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ekɔl"
 pron_native: "에꼴"
 meaning: ["학교"]
+display: "une école"
+display_ipa: "ynekɔl"
+display_say: "une école"
 forms: []
 examples:
   - text: "une école de langue"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ecole", "l'école"]
 ---
-[🔊 ekɔl](_Audio/l-ecole-883194.m4a) 에꼴
+l'école [🔊 lekɔl](_Audio/l-ecole-883194.m4a) · une école [🔊 ynekɔl](_Audio/une-ecole-761192.m4a) · les écoles [🔊 lez‿ekɔl](_Audio/les-ecoles-17fdaa.m4a)
 
 **l'école** · *명사 · 여성*
 

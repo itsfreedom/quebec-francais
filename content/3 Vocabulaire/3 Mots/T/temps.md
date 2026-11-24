@@ -12,6 +12,9 @@ feminine: ""
 ipa: "tɑ̃"
 pron_native: "떵"
 meaning: ["시간", "날씨"]
+display: "le temps"
+display_ipa: "lə tɑ̃"
+display_say: "le temps"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le temps"]
 ---
-[🔊 tɑ̃](_Audio/le-temps-802f4b.m4a) 떵
+[🔊 lə tɑ̃](_Audio/le-temps-802f4b.m4a)
 
 **le temps** · *명사 · 남성*
 

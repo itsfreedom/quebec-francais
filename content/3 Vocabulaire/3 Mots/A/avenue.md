@@ -12,6 +12,9 @@ feminine: ""
 ipa: "avny"
 pron_native: "아브뉘"
 meaning: ["대로", "~가(街)"]
+display: "une avenue"
+display_ipa: "ynavny"
+display_say: "une avenue"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'avenue"]
 ---
-[🔊 avny](_Audio/l-avenue-2e4cb4.m4a) 아브뉘
+l'avenue [🔊 lavny](_Audio/l-avenue-2e4cb4.m4a) · une avenue [🔊 ynavny](_Audio/une-avenue-6dc1b6.m4a) · les avenues [🔊 lez‿avny](_Audio/les-avenues-c3d867.m4a)
 
 **l'avenue** · *명사 · 여성*
 

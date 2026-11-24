@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kalm"
 pron_native: "깔므"
 meaning: ["차분한", "조용한"]
+display: "calme"
+display_ipa: "kalm"
+display_say: "calme"
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kalm](_Audio/calme-cb2a43.m4a) 깔므
+[🔊 kalm](_Audio/calme-cb2a43.m4a)
 
 **calme** · *형용사 · 남녀 공통*
 

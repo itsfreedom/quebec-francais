@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ekʁiʁ"
 pron_native: "에크히흐"
 meaning: ["쓰다"]
+display: "écrire"
+display_ipa: "ekʁiʁ"
+display_say: "écrire"
 forms:
   - text: "écrivez"
     meaning: "쓰세요"
@@ -29,7 +32,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ecrire"]
 ---
-[🔊 ekʁiʁ](_Audio/ecrire-91ceb2.m4a) 에크히흐
+[🔊 ekʁiʁ](_Audio/ecrire-91ceb2.m4a)
 
 **écrire** · *동사*
 
@@ -39,8 +42,8 @@ aliases: ["ecrire"]
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| écrivez | [🔊 ekʁive](_Audio/ecrivez-2a1e9b.m4a) 에크히베 | 쓰세요 |
-| ça s'écrit | [🔊 sa sekʁi](_Audio/ca-s-ecrit-0ff182.m4a) 싸 쎄크히 | 그건 ~라고 쓴다 |
+| écrivez | [🔊 ekʁive](_Audio/ecrivez-2a1e9b.m4a) | 쓰세요 |
+| ça s'écrit | [🔊 sa sekʁi](_Audio/ca-s-ecrit-0ff182.m4a) | 그건 ~라고 쓴다 |
 
 ## 예문
 - **Comment ça s'écrit ?** — 그거 어떻게 써요?

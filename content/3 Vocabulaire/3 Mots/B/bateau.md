@@ -12,6 +12,9 @@ feminine: ""
 ipa: "bato"
 pron_native: "바또"
 meaning: ["배"]
+display: "un bateau"
+display_ipa: "œ̃ bato"
+display_say: "un bateau"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le bateau"]
 ---
-[🔊 bato](_Audio/le-bateau-b4d90e.m4a) 바또
+un bateau [🔊 œ̃ bato](_Audio/un-bateau-e4252f.m4a) · les bateaux [🔊 le bato](_Audio/les-bateaux-4e0096.m4a)
 
 **le bateau** · *명사 · 남성*
 

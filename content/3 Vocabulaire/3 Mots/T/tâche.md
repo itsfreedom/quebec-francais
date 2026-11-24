@@ -12,6 +12,9 @@ feminine: ""
 ipa: "tɑʃ"
 pron_native: "따슈"
 meaning: ["일", "과제"]
+display: "une tâche"
+display_ipa: "yn tɑʃ"
+display_say: "une tâche"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["tache", "la tâche"]
 ---
-[🔊 tɑʃ](_Audio/la-tache-53f653.m4a) 따슈
+une tâche [🔊 yn tɑʃ](_Audio/une-tache-e05e73.m4a) · les tâches [🔊 le tɑʃ](_Audio/les-taches-c71486.m4a)
 
 **la tâche** · *명사 · 여성*
 

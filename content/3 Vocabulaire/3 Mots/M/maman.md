@@ -12,6 +12,9 @@ feminine: ""
 ipa: "mamɑ̃"
 pron_native: "마망"
 meaning: ["엄마"]
+display: "une maman"
+display_ipa: "yn mamɑ̃"
+display_say: "une maman"
 forms: []
 examples: []
 theme: "Personnes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la maman"]
 ---
-[🔊 mamɑ̃](_Audio/la-maman-c7a3d9.m4a) 마망
+une maman [🔊 yn mamɑ̃](_Audio/une-maman-7492d0.m4a) · les mamans [🔊 le mamɑ̃](_Audio/les-mamans-2c86e8.m4a)
 
 **la maman** · *명사 · 여성*
 

@@ -12,6 +12,9 @@ feminine: "masculine"
 ipa: "maskylɛ̃"
 pron_native: "마스뀔랑"
 meaning: ["남성의"]
+display: "masculin"
+display_ipa: "maskylɛ̃"
+display_say: "masculin"
 forms: []
 examples: []
 theme: "Classe"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 maskylɛ̃](_Audio/masculin-2eb8b6.m4a) 마스뀔랑
+[🔊 maskylɛ̃](_Audio/masculin-2eb8b6.m4a)
 
 **masculin** · *형용사 · 남성* · 여성형 **masculine**
 

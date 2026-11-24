@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pʁatike"
 pron_native: "프하띠께"
 meaning: ["연습하다"]
+display: "pratiquer"
+display_ipa: "pʁatike"
+display_say: "pratiquer"
 forms:
   - text: "pratiquez"
     meaning: "연습하세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 pʁatike](_Audio/pratiquer-dece4b.m4a) 프하띠께
+[🔊 pʁatike](_Audio/pratiquer-dece4b.m4a)
 
 **pratiquer** · *동사*
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| pratiquez | [🔊 pʁatike](_Audio/pratiquez-f94779.m4a) 프하띠께 | 연습하세요 |
+| pratiquez | [🔊 pʁatike](_Audio/pratiquez-f94779.m4a) | 연습하세요 |
 
 ## 발음 · 쓰임
 명령형 → [[04 Impératif|Impératif]]

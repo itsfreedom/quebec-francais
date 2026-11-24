@@ -12,6 +12,9 @@ feminine: "iranienne"
 ipa: "iʁanjɛ̃"
 pron_native: "이하니앙"
 meaning: ["이란 사람"]
+display: "iranien"
+display_ipa: "iʁanjɛ̃"
+display_say: "iranien"
 forms:
   - text: "iranienne"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 iʁanjɛ̃](_Audio/iranien-add134.m4a) 이하니앙
+[🔊 iʁanjɛ̃](_Audio/iranien-add134.m4a)
 
 **iranien** · *형용사 · 남성* · 여성형 **iranienne**
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| iranienne | [🔊 iʁanjɛn](_Audio/iranienne-9001fe.m4a) 이하니엔 | 여성형 |
+| iranienne | [🔊 iʁanjɛn](_Audio/iranienne-9001fe.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

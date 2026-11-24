@@ -14,3 +14,4 @@ title: "B"
 - [[3 Vocabulaire/3 Mots/B/bonjour|bonjour]]
 - [[3 Vocabulaire/3 Mots/B/bonsoir|bonsoir]]
 - [[3 Vocabulaire/3 Mots/B/boulevard|boulevard]]
+- [[3 Vocabulaire/3 Mots/B/bureau|bureau]]

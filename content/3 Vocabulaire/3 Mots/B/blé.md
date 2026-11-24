@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ble"
 pron_native: "블레"
 meaning: ["밀"]
+display: "le blé"
+display_ipa: "lə ble"
+display_say: "le blé"
 forms: []
 examples: []
 theme: "Nourriture"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ble", "le blé"]
 ---
-[🔊 ble](_Audio/le-ble-e8fd5f.m4a) 블레
+[🔊 lə ble](_Audio/le-ble-e8fd5f.m4a)
 
 **le blé** · *명사 · 남성*
 

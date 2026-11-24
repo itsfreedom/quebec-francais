@@ -12,6 +12,9 @@ feminine: ""
 ipa: "flɛʃ"
 pron_native: "플레슈"
 meaning: ["화살표"]
+display: "une flèche"
+display_ipa: "yn flɛʃ"
+display_say: "une flèche"
 forms: []
 examples: []
 theme: "Consignes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["fleche", "la flèche"]
 ---
-[🔊 flɛʃ](_Audio/la-fleche-ea3847.m4a) 플레슈
+une flèche [🔊 yn flɛʃ](_Audio/une-fleche-d866e0.m4a) · les flèches [🔊 le flɛʃ](_Audio/les-fleches-b951b9.m4a)
 
 **la flèche** · *명사 · 여성*
 

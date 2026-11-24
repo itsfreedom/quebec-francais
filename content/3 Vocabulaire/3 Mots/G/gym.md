@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dʒim"
 pron_native: "짐"
 meaning: ["헬스장"]
+display: "le gym"
+display_ipa: "lə dʒim"
+display_say: "le gym"
 forms: []
 examples:
   - text: "m'abonner au gym"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le gym"]
 ---
-[🔊 dʒim](_Audio/le-gym-c3b734.m4a) 짐
+[🔊 lə dʒim](_Audio/le-gym-c3b734.m4a)
 
 **le gym** · *명사 · 남성*
 

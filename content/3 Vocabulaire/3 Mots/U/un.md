@@ -12,6 +12,9 @@ feminine: ""
 ipa: "œ̃"
 pron_native: "앙"
 meaning: ["1"]
+display: "un"
+display_ipa: "œ̃"
+display_say: "un"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 œ̃](_Audio/un-067427.m4a) 앙
+[🔊 œ̃](_Audio/un-067427.m4a)
 
 **un** · *숫자*
 

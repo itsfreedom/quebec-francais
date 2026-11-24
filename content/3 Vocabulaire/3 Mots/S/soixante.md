@@ -12,6 +12,9 @@ feminine: ""
 ipa: "swasɑ̃t"
 pron_native: "수아썽뜨"
 meaning: ["60"]
+display: "soixante"
+display_ipa: "swasɑ̃t"
+display_say: "soixante"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 swasɑ̃t](_Audio/soixante-101866.m4a) 수아썽뜨
+[🔊 swasɑ̃t](_Audio/soixante-101866.m4a)
 
 **soixante** · *숫자*
 

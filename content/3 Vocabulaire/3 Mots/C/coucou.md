@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kuku"
 pron_native: "꾸꾸"
 meaning: ["안녕! (아주 친한 사이)"]
+display: "coucou"
+display_ipa: "kuku"
+display_say: "coucou"
 forms: []
 examples: []
 theme: "Salutations"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kuku](_Audio/coucou-721a9b.m4a) 꾸꾸
+[🔊 kuku](_Audio/coucou-721a9b.m4a)
 
 **coucou** · *감탄사*
 

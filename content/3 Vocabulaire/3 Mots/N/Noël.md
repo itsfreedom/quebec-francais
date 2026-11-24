@@ -12,6 +12,9 @@ feminine: ""
 ipa: "nɔɛl"
 pron_native: "노엘"
 meaning: ["크리스마스"]
+display: "Noël"
+display_ipa: "nɔɛl"
+display_say: "Noël"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["noel"]
 ---
-[🔊 nɔɛl](_Audio/noel-6b025d.m4a) 노엘
+[🔊 nɔɛl](_Audio/noel-6b025d.m4a)
 
 **Noël** · *명사 · 남성*
 

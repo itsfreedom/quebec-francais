@@ -12,6 +12,9 @@ feminine: ""
 ipa: "bɔ̃swaʁ"
 pron_native: "봉수아흐"
 meaning: ["안녕하세요 (저녁 인사)"]
+display: "bonsoir"
+display_ipa: "bɔ̃swaʁ"
+display_say: "bonsoir"
 forms: []
 examples:
   - text: "Bonsoir, tout le monde !"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 bɔ̃swaʁ](_Audio/bonsoir-b9a6d0.m4a) 봉수아흐
+[🔊 bɔ̃swaʁ](_Audio/bonsoir-b9a6d0.m4a)
 
 **bonsoir** · *감탄사*
 

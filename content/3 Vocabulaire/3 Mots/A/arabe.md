@@ -12,6 +12,9 @@ feminine: ""
 ipa: "aʁab"
 pron_native: "아합"
 meaning: ["아랍어"]
+display: "l'arabe (m.)"
+display_ipa: "laʁab"
+display_say: "l'arabe"
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'arabe"]
 ---
-[🔊 aʁab](_Audio/l-arabe-2d4c68.m4a) 아합
+[🔊 laʁab](_Audio/l-arabe-2d4c68.m4a)
 
 **l'arabe** · *명사 · 남성*
 

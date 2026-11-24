@@ -12,6 +12,9 @@ feminine: ""
 ipa: "katɔʁz"
 pron_native: "까또흐즈"
 meaning: ["14"]
+display: "quatorze"
+display_ipa: "katɔʁz"
+display_say: "quatorze"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 katɔʁz](_Audio/quatorze-6cf540.m4a) 까또흐즈
+[🔊 katɔʁz](_Audio/quatorze-6cf540.m4a)
 
 **quatorze** · *숫자*
 

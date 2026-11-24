@@ -12,6 +12,9 @@ feminine: ""
 ipa: "madmwazɛl"
 pron_native: "마드무아젤"
 meaning: ["아가씨 (젊은 여성 존칭)"]
+display: "mademoiselle"
+display_ipa: "madmwazɛl"
+display_say: "mademoiselle"
 forms: []
 examples: []
 theme: "Salutations"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 madmwazɛl](_Audio/mademoiselle-b7d84e.m4a) 마드무아젤
+[🔊 madmwazɛl](_Audio/mademoiselle-b7d84e.m4a)
 
 **mademoiselle** · *명사 · 여성*
 

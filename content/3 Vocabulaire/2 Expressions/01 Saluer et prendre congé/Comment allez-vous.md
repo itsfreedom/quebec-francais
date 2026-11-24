@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["comment-allez-vous"]
 ---
-**[Comment](_Audio/comment-06d4cd.m4a "어떻게") [allez](_Audio/aller-299d26.m4a "aller · 가다")-[vous](_Audio/vous-593ffa.m4a "당신 (존댓말), 너희") ?** [🔊](_Audio/comment-allez-vous-f63146.m4a)
-
 👉 어떻게 지내세요? (존댓말)
 
 **단어**: [[comment]] · [[aller]] · [[vous]]

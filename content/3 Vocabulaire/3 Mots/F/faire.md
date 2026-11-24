@@ -12,6 +12,9 @@ feminine: ""
 ipa: "fɛʁ"
 pron_native: "페흐"
 meaning: ["하다", "만들다"]
+display: "faire"
+display_ipa: "fɛʁ"
+display_say: "faire"
 forms:
   - text: "il fait"
     meaning: "그가 하다"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 fɛʁ](_Audio/faire-85be86.m4a) 페흐
+[🔊 fɛʁ](_Audio/faire-85be86.m4a)
 
 **faire** · *동사*
 
@@ -34,7 +37,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| il fait | [🔊 il fɛ](_Audio/il-fait-a80b3a.m4a) 일 페 | 그가 하다 |
+| il fait | [🔊 il fɛ](_Audio/il-fait-a80b3a.m4a) | 그가 하다 |
 
 ---
 📂 주제: [[03 Verbes|Verbes]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

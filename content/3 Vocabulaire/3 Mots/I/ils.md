@@ -12,6 +12,9 @@ feminine: ""
 ipa: "il"
 pron_native: "일"
 meaning: ["그들은"]
+display: "ils"
+display_ipa: "il"
+display_say: "ils"
 forms: []
 examples: []
 theme: "Pronoms"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 il](_Audio/ils-f86d49.m4a) 일
+[🔊 il](_Audio/ils-f86d49.m4a)
 
 **ils** · *대명사*
 

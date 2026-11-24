@@ -12,6 +12,9 @@ feminine: ""
 ipa: "swasɑ̃t dis"
 pron_native: "수아썽뜨 디스"
 meaning: ["70"]
+display: "soixante-dix"
+display_ipa: "swasɑ̃t dis"
+display_say: "soixante-dix"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 swasɑ̃t dis](_Audio/soixante-dix-bd3259.m4a) 수아썽뜨 디스
+[🔊 swasɑ̃t dis](_Audio/soixante-dix-bd3259.m4a)
 
 **soixante-dix** · *숫자*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sɛ̃skʁiʁ"
 pron_native: "쌩스크히흐"
 meaning: ["등록하다"]
+display: "s'inscrire"
+display_ipa: "sɛ̃skʁiʁ"
+display_say: "s'inscrire"
 forms: []
 examples:
   - text: "Vous souhaitez vous inscrire à un cours."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["sinscrire"]
 ---
-[🔊 sɛ̃skʁiʁ](_Audio/s-inscrire-2acd87.m4a) 쌩스크히흐
+[🔊 sɛ̃skʁiʁ](_Audio/s-inscrire-2acd87.m4a)
 
 **s'inscrire** · *동사*
 

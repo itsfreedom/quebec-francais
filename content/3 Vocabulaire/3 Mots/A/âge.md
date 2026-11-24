@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɑʒ"
 pron_native: "아쥬"
 meaning: ["나이"]
+display: "l'âge (m.)"
+display_ipa: "lɑʒ"
+display_say: "l'âge"
 forms: []
 examples:
   - text: "Quel âge avez-vous ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["age", "l'âge"]
 ---
-[🔊 ɑʒ](_Audio/l-age-88a520.m4a) 아쥬
+[🔊 lɑʒ](_Audio/l-age-88a520.m4a)
 
 **l'âge** · *명사 · 남성*
 

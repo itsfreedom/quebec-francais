@@ -12,6 +12,9 @@ feminine: "libanaise"
 ipa: "libanɛ"
 pron_native: "리바네"
 meaning: ["레바논 사람"]
+display: "libanais"
+display_ipa: "libanɛ"
+display_say: "libanais"
 forms:
   - text: "libanaise"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 libanɛ](_Audio/libanais-d5c054.m4a) 리바네
+[🔊 libanɛ](_Audio/libanais-d5c054.m4a)
 
 **libanais** · *형용사 · 남성* · 여성형 **libanaise**
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| libanaise | [🔊 libanɛz](_Audio/libanaise-bfaf4e.m4a) 리바네즈 | 여성형 |
+| libanaise | [🔊 libanɛz](_Audio/libanaise-bfaf4e.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

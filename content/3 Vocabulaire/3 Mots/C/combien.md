@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kɔ̃bjɛ̃"
 pron_native: "꽁비앙"
 meaning: ["얼마", "몇"]
+display: "combien"
+display_ipa: "kɔ̃bjɛ̃"
+display_say: "combien"
 forms: []
 examples:
   - text: "C'est combien ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kɔ̃bjɛ̃](_Audio/combien-71d769.m4a) 꽁비앙
+[🔊 kɔ̃bjɛ̃](_Audio/combien-71d769.m4a)
 
 **combien** · *부사*
 

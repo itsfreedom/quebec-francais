@@ -17,7 +17,7 @@ aliases: [Quel et quelle, Adjectifs interrogatifs, 의문형용사, quel quelle]
 | 남성 | **quel** | **Quel** jour sommes-nous ? (le jour) |
 | 여성 | **quelle** | **Quelle** date sommes-nous ? (la date) |
 
-발음은 둘 다 [kɛl] 껠로 같아요. 쓸 때만 달라요.
+발음은 둘 다 [kɛl]로 같아요. 쓸 때만 달라요.
 
 ## 신상 질문에서
 | 질문 | 명사 성 |

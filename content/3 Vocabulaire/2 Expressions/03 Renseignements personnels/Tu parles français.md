@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["tu-parles-francais"]
 ---
-**[Tu](_Audio/tu-b6b4ce.m4a "너는") [parles](_Audio/parler-4cecc2.m4a "parler · 말하다") [français](_Audio/francais-616e89.m4a "프랑스어, 프랑스의") ?** [🔊](_Audio/tu-parles-francais-ab7f9f.m4a)
-
 👉 너 불어 할 줄 알아?
 
 **단어**: [[tu]] · [[parler]] · [[français]]

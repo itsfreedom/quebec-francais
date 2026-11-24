@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pɥi"
 pron_native: "쀠"
 meaning: ["그 다음에"]
+display: "puis"
+display_ipa: "pɥi"
+display_say: "puis"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 pɥi](_Audio/puis-691937.m4a) 쀠
+[🔊 pɥi](_Audio/puis-691937.m4a)
 
 **puis** · *부사*
 

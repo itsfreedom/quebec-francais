@@ -12,6 +12,9 @@ feminine: "indienne"
 ipa: "ɛ̃djɛ̃"
 pron_native: "앵디앙"
 meaning: ["인도 사람"]
+display: "indien"
+display_ipa: "ɛ̃djɛ̃"
+display_say: "indien"
 forms:
   - text: "indienne"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ɛ̃djɛ̃](_Audio/indien-3d39fd.m4a) 앵디앙
+[🔊 ɛ̃djɛ̃](_Audio/indien-3d39fd.m4a)
 
 **indien** · *형용사 · 남성* · 여성형 **indienne**
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| indienne | [🔊 ɛ̃djɛn](_Audio/indienne-53f627.m4a) 앵디엔 | 여성형 |
+| indienne | [🔊 ɛ̃djɛn](_Audio/indienne-53f627.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

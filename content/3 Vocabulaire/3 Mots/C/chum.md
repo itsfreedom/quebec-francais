@@ -12,6 +12,9 @@ feminine: ""
 ipa: "tʃɔm"
 pron_native: "쫌"
 meaning: ["남자친구 (퀘벡)", "친구"]
+display: "un chum"
+display_ipa: "œ̃ tʃɔm"
+display_say: "un chum"
 forms: []
 examples:
   - text: "J'ai un chum."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le chum"]
 ---
-[🔊 tʃɔm](_Audio/le-chum-25354e.m4a) 쫌
+un chum [🔊 œ̃ tʃɔm](_Audio/un-chum-297b9c.m4a) · les chums [🔊 le tʃɔm](_Audio/les-chums-9c9d93.m4a)
 
 **le chum** · *명사 · 남성*
 

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "kuʁjɛl"
 pron_native: "꾸히엘"
 meaning: ["이메일"]
+display: "un courriel"
+display_ipa: "œ̃ kuʁjɛl"
+display_say: "un courriel"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le courriel"]
 ---
-[🔊 kuʁjɛl](_Audio/le-courriel-41f315.m4a) 꾸히엘
+un courriel [🔊 œ̃ kuʁjɛl](_Audio/un-courriel-72d3b9.m4a) · les courriels [🔊 le kuʁjɛl](_Audio/les-courriels-7e5dfc.m4a)
 
 **le courriel** · *명사 · 남성*
 

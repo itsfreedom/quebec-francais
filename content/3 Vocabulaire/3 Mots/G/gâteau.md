@@ -12,6 +12,9 @@ feminine: ""
 ipa: "gɑto"
 pron_native: "갸또"
 meaning: ["케이크"]
+display: "un gâteau"
+display_ipa: "œ̃ gɑto"
+display_say: "un gâteau"
 forms: []
 examples: []
 theme: "Nourriture"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["gateau", "le gâteau"]
 ---
-[🔊 gɑto](_Audio/le-gateau-dfe669.m4a) 갸또
+un gâteau [🔊 œ̃ gɑto](_Audio/un-gateau-9e34dd.m4a) · les gâteaux [🔊 le gɑto](_Audio/les-gateaux-a04b35.m4a)
 
 **le gâteau** · *명사 · 남성*
 

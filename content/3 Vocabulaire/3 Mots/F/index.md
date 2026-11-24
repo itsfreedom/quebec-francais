@@ -16,3 +16,4 @@ title: "F"
 - [[3 Vocabulaire/3 Mots/F/froid|froid]]
 - [[3 Vocabulaire/3 Mots/F/frère|frère]]
 - [[3 Vocabulaire/3 Mots/F/féminin|féminin]]
+- [[3 Vocabulaire/3 Mots/F/février|février]]

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "katʁ"
 pron_native: "까트흐"
 meaning: ["4"]
+display: "quatre"
+display_ipa: "katʁ"
+display_say: "quatre"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 katʁ](_Audio/quatre-2c862e.m4a) 까트흐
+[🔊 katʁ](_Audio/quatre-2c862e.m4a)
 
 **quatre** · *숫자*
 

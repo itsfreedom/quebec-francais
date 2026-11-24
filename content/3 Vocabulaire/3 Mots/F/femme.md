@@ -12,6 +12,9 @@ feminine: ""
 ipa: "fam"
 pron_native: "팜"
 meaning: ["여자", "아내"]
+display: "une femme"
+display_ipa: "yn fam"
+display_say: "une femme"
 forms: []
 examples:
   - text: "Ma femme est ingénieure."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la femme"]
 ---
-[🔊 fam](_Audio/la-femme-6fc338.m4a) 팜
+une femme [🔊 yn fam](_Audio/une-femme-be4ffc.m4a) · les femmes [🔊 le fam](_Audio/les-femmes-900e4f.m4a)
 
 **la femme** · *명사 · 여성*
 

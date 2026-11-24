@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɛd"
 pron_native: "에드"
 meaning: ["도움"]
+display: "l'aide (f.)"
+display_ipa: "lɛd"
+display_say: "l'aide"
 forms: []
 examples:
   - text: "à l'aide d'une flèche"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'aide"]
 ---
-[🔊 ɛd](_Audio/l-aide-a2c282.m4a) 에드
+[🔊 lɛd](_Audio/l-aide-a2c282.m4a)
 
 **l'aide** · *명사 · 여성*
 

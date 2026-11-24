@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sɑ̃"
 pron_native: "쌍"
 meaning: ["~없이"]
+display: "sans"
+display_ipa: "sɑ̃"
+display_say: "sans"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 sɑ̃](_Audio/sans-0ddd63.m4a) 쌍
+[🔊 sɑ̃](_Audio/sans-0ddd63.m4a)
 
 **sans** · *전치사*
 

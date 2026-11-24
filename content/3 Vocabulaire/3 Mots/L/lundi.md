@@ -12,6 +12,9 @@ feminine: ""
 ipa: "lœ̃di"
 pron_native: "랑디"
 meaning: ["월요일"]
+display: "le lundi"
+display_ipa: "lə lœ̃di"
+display_say: "le lundi"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le lundi"]
 ---
-[🔊 lœ̃di](_Audio/le-lundi-7499e0.m4a) 랑디
+[🔊 lə lœ̃di](_Audio/le-lundi-7499e0.m4a)
 
 **le lundi** · *명사 · 남성*
 

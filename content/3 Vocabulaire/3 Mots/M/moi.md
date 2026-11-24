@@ -12,6 +12,9 @@ feminine: ""
 ipa: "mwa"
 pron_native: "무아"
 meaning: ["나 (강조할 때)"]
+display: "moi"
+display_ipa: "mwa"
+display_say: "moi"
 forms: []
 examples: []
 theme: "Pronoms"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 mwa](_Audio/moi-8f8ad2.m4a) 무아
+[🔊 mwa](_Audio/moi-8f8ad2.m4a)
 
 **moi** · *대명사*
 

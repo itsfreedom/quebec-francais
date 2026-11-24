@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sil vu plɛ"
 pron_native: "씰 부 쁠레"
 meaning: ["부탁합니다", "~해 주세요"]
+display: "s'il vous plaît"
+display_ipa: "sil vu plɛ"
+display_say: "s'il vous plaît"
 forms: []
 examples: []
 theme: "Salutations"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["sil-vous-plait"]
 ---
-[🔊 sil vu plɛ](_Audio/s-il-vous-plait-d3aa36.m4a) 씰 부 쁠레
+[🔊 sil vu plɛ](_Audio/s-il-vous-plait-d3aa36.m4a)
 
 **s'il vous plaît** · *감탄사*
 

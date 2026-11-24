@@ -13,8 +13,6 @@ origin: "class"
 tags: [francisation, sentence]
 aliases: ["au-revoir"]
 ---
-**Au revoir !** [🔊](_Audio/au-revoir-46fab5.m4a)
-
 👉 안녕히 가세요 / 안녕히 계세요
 
 ---

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "bɑ̃"
 pron_native: "방"
 meaning: ["벤치"]
+display: "un banc"
+display_ipa: "œ̃ bɑ̃"
+display_say: "un banc"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le banc"]
 ---
-[🔊 bɑ̃](_Audio/le-banc-0a8511.m4a) 방
+un banc [🔊 œ̃ bɑ̃](_Audio/un-banc-ef0508.m4a) · les bancs [🔊 le bɑ̃](_Audio/les-bancs-d1b76d.m4a)
 
 **le banc** · *명사 · 남성*
 

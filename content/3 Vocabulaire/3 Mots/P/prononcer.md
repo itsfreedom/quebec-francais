@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pʁɔnɔ̃se"
 pron_native: "프호농쎄"
 meaning: ["발음하다"]
+display: "prononcer"
+display_ipa: "pʁɔnɔ̃se"
+display_say: "prononcer"
 forms:
   - text: "prononcez"
     meaning: "발음하세요"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 pʁɔnɔ̃se](_Audio/prononcer-2734cd.m4a) 프호농쎄
+[🔊 pʁɔnɔ̃se](_Audio/prononcer-2734cd.m4a)
 
 **prononcer** · *동사*
 
@@ -33,7 +36,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| prononcez | [🔊 pʁɔnɔ̃se](_Audio/prononcez-54c0bb.m4a) 프호농쎄 | 발음하세요 |
+| prononcez | [🔊 pʁɔnɔ̃se](_Audio/prononcez-54c0bb.m4a) | 발음하세요 |
 
 ## 발음 · 쓰임
 명령형 → [[04 Impératif|Impératif]]

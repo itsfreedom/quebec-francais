@@ -12,6 +12,9 @@ feminine: ""
 ipa: "apaʁtəmɑ̃"
 pron_native: "아빠흐뜨멍"
 meaning: ["아파트 (한 세대)", "집 호수"]
+display: "un appartement"
+display_ipa: "œ̃n‿apaʁtəmɑ̃"
+display_say: "un appartement"
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'appartement"]
 ---
-[🔊 apaʁtəmɑ̃](_Audio/l-appartement-1c91e0.m4a) 아빠흐뜨멍
+l'appartement [🔊 lapaʁtəmɑ̃](_Audio/l-appartement-1c91e0.m4a) · un appartement [🔊 œ̃n‿apaʁtəmɑ̃](_Audio/un-appartement-464654.m4a) · les appartements [🔊 lez‿apaʁtəmɑ̃](_Audio/les-appartements-b76d39.m4a)
 
 **l'appartement** · *명사 · 남성*
 

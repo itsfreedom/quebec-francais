@@ -12,6 +12,9 @@ feminine: ""
 ipa: "fɔʁmylɛʁ"
 pron_native: "포흐뮐레흐"
 meaning: ["서식", "신청서"]
+display: "un formulaire"
+display_ipa: "œ̃ fɔʁmylɛʁ"
+display_say: "un formulaire"
 forms: []
 examples:
   - text: "le formulaire d'inscription"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le formulaire"]
 ---
-[🔊 fɔʁmylɛʁ](_Audio/le-formulaire-0f6ad6.m4a) 포흐뮐레흐
+un formulaire [🔊 œ̃ fɔʁmylɛʁ](_Audio/un-formulaire-21b53a.m4a) · les formulaires [🔊 le fɔʁmylɛʁ](_Audio/les-formulaires-76b339.m4a)
 
 **le formulaire** · *명사 · 남성*
 

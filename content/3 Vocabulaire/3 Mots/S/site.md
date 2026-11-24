@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sit"
 pron_native: "씨뜨"
 meaning: ["사이트", "장소"]
+display: "un site"
+display_ipa: "œ̃ sit"
+display_say: "un site"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le site"]
 ---
-[🔊 sit](_Audio/le-site-4e5c94.m4a) 씨뜨
+un site [🔊 œ̃ sit](_Audio/un-site-cd9073.m4a) · les sites [🔊 le sit](_Audio/les-sites-138cb4.m4a)
 
 **le site** · *명사 · 남성*
 

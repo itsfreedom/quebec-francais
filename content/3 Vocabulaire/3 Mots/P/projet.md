@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pʁɔʒɛ"
 pron_native: "프호제"
 meaning: ["프로젝트", "계획"]
+display: "un projet"
+display_ipa: "œ̃ pʁɔʒɛ"
+display_say: "un projet"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le projet"]
 ---
-[🔊 pʁɔʒɛ](_Audio/le-projet-da7c0b.m4a) 프호제
+un projet [🔊 œ̃ pʁɔʒɛ](_Audio/un-projet-14b93f.m4a) · les projets [🔊 le pʁɔʒɛ](_Audio/les-projets-623f0d.m4a)
 
 **le projet** · *명사 · 남성*
 

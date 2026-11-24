@@ -12,6 +12,9 @@ feminine: ""
 ipa: "pɑ"
 pron_native: "빠"
 meaning: ["~아니다 (부정)"]
+display: "pas"
+display_ipa: "pɑ"
+display_say: "pas"
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 pɑ](_Audio/pas-cd0acf.m4a) 빠
+[🔊 pɑ](_Audio/pas-cd0acf.m4a)
 
 **pas** · *부사*
 

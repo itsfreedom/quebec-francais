@@ -9,19 +9,19 @@ aliases: [결혼 상태·가족·직업]
 
 | 단어 | 발음 | 뜻 |
 |---|---|---|
-| [[blonde\|la blonde]] | [🔊 blɔ̃d](_Audio/la-blonde-bb1481.m4a) 블롱드 | 여자친구 (퀘벡) |
-| [[célibataire]] | [🔊 selibatɛʁ](_Audio/celibataire-f1bc64.m4a) 쎌리바떼흐 | 미혼의, 싱글 |
-| [[chum\|le chum]] | [🔊 tʃɔm](_Audio/le-chum-25354e.m4a) 쫌 | 남자친구 (퀘벡), 친구 |
-| [[couple\|le couple]] | [🔊 kupl](_Audio/le-couple-e6a655.m4a) 꾸쁠 | 커플, 부부 |
-| [[dame\|la dame]] | [🔊 dam](_Audio/la-dame-48c1c2.m4a) 담 | 부인, 여성 (공손한 말) |
-| [[divorcé]] · divorcée | [🔊 divɔʁse](_Audio/divorce-4332d5.m4a) 디보흐쎄 | 이혼한 |
-| [[enfant\|l'enfant]] | [🔊 ɑ̃fɑ̃](_Audio/l-enfant-6e5b94.m4a) 엉펑 | 아이, 자녀 |
-| [[étudiant\|l'étudiant]] · étudiante | [🔊 etydjɑ̃](_Audio/l-etudiant-c2d9e8.m4a) 에뛰디엉 | 학생 (대학생) |
-| [[femme\|la femme]] | [🔊 fam](_Audio/la-femme-6fc338.m4a) 팜 | 여자, 아내 |
-| [[frère\|le frère]] | [🔊 fʁɛʁ](_Audio/le-frere-f17d46.m4a) 프헤흐 | 형제 (형·오빠·남동생) |
-| [[ingénieur\|l'ingénieur]] · ingénieure | [🔊 ɛ̃ʒenjœʁ](_Audio/l-ingenieur-2370d6.m4a) 앵제니외흐 | 엔지니어 |
-| [[marié]] · mariée | [🔊 maʁje](_Audio/marie-e49c65.m4a) 마히에 | 결혼한 (기혼) |
-| [[parent\|le parent]] | [🔊 paʁɑ̃](_Audio/le-parent-68d790.m4a) 빠헝 | 부모 (한 사람) |
-| [[professeur\|le professeur]] · professeure | [🔊 pʁɔfesœʁ](_Audio/le-professeur-85dced.m4a) 프호페쐬흐 | 선생님, 교수 |
-| [[séparé]] · séparée | [🔊 sepaʁe](_Audio/separe-faa761.m4a) 쎄빠헤 | 별거 중인 |
-| [[veuf]] · veuve | [🔊 vœf](_Audio/veuf-f90b2f.m4a) 뵈프 | 배우자를 잃은 (사별한) |
+| [[blonde\|une blonde]] | [🔊 yn blɔ̃d](_Audio/une-blonde-9935e2.m4a) | 여자친구 (퀘벡) |
+| [[célibataire]] | [🔊 selibatɛʁ](_Audio/celibataire-f1bc64.m4a) | 미혼의, 싱글 |
+| [[chum\|un chum]] | [🔊 œ̃ tʃɔm](_Audio/un-chum-297b9c.m4a) | 남자친구 (퀘벡), 친구 |
+| [[couple\|un couple]] | [🔊 œ̃ kupl](_Audio/un-couple-c7b7c2.m4a) | 커플, 부부 |
+| [[dame\|une dame]] | [🔊 yn dam](_Audio/une-dame-807bfc.m4a) | 부인, 여성 (공손한 말) |
+| [[divorcé]] · divorcée | [🔊 divɔʁse](_Audio/divorce-4332d5.m4a) | 이혼한 |
+| [[enfant\|un/une enfant]] | [🔊 œ̃n‿ɑ̃fɑ̃](_Audio/un-enfant-11181b.m4a) | 아이, 자녀 |
+| [[étudiant\|un étudiant]] · étudiante | [🔊 œ̃n‿etydjɑ̃](_Audio/un-etudiant-7f9c81.m4a) | 학생 (대학생) |
+| [[femme\|une femme]] | [🔊 yn fam](_Audio/une-femme-be4ffc.m4a) | 여자, 아내 |
+| [[frère\|un frère]] | [🔊 œ̃ fʁɛʁ](_Audio/un-frere-619283.m4a) | 형제 (형·오빠·남동생) |
+| [[ingénieur\|un ingénieur]] · ingénieure | [🔊 œ̃n‿ɛ̃ʒenjœʁ](_Audio/un-ingenieur-52b320.m4a) | 엔지니어 |
+| [[marié]] · mariée | [🔊 maʁje](_Audio/marie-e49c65.m4a) | 결혼한 (기혼) |
+| [[parent\|un parent]] | [🔊 œ̃ paʁɑ̃](_Audio/un-parent-bbeafc.m4a) | 부모 (한 사람) |
+| [[professeur\|un professeur]] · professeure | [🔊 œ̃ pʁɔfesœʁ](_Audio/un-professeur-87a7e0.m4a) | 선생님, 교수 |
+| [[séparé]] · séparée | [🔊 sepaʁe](_Audio/separe-faa761.m4a) | 별거 중인 |
+| [[veuf]] · veuve | [🔊 vœf](_Audio/veuf-f90b2f.m4a) | 배우자를 잃은 (사별한) |

@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ʁəlje"
 pron_native: "흘리에"
 meaning: ["잇다", "연결하다"]
+display: "relier"
+display_ipa: "ʁəlje"
+display_say: "relier"
 forms:
   - text: "reliez"
     meaning: "이으세요 (명령)"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ʁəlje](_Audio/relier-e557a0.m4a) 흘리에
+[🔊 ʁəlje](_Audio/relier-e557a0.m4a)
 
 **relier** · *동사*
 
@@ -34,7 +37,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| reliez | [🔊 ʁəlje](_Audio/reliez-017ab5.m4a) 흘리에 | 이으세요 (명령) |
+| reliez | [🔊 ʁəlje](_Audio/reliez-017ab5.m4a) | 이으세요 (명령) |
 
 ## 발음 · 쓰임
 명령형 → [[04 Impératif|Impératif]]

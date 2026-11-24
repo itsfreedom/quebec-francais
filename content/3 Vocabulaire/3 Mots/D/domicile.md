@@ -12,6 +12,9 @@ feminine: ""
 ipa: "dɔmisil"
 pron_native: "도미씰"
 meaning: ["집", "주거지"]
+display: "le domicile"
+display_ipa: "lə dɔmisil"
+display_say: "le domicile"
 forms: []
 examples:
   - text: "le téléphone (domicile)"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le domicile"]
 ---
-[🔊 dɔmisil](_Audio/le-domicile-6fe644.m4a) 도미씰
+[🔊 lə dɔmisil](_Audio/le-domicile-6fe644.m4a)
 
 **le domicile** · *명사 · 남성*
 

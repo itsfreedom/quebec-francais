@@ -12,6 +12,9 @@ feminine: ""
 ipa: "nɔ̃"
 pron_native: "농"
 meaning: ["아니요"]
+display: "non"
+display_ipa: "nɔ̃"
+display_say: "non"
 forms: []
 examples:
   - text: "Non, merci."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 nɔ̃](_Audio/non-14b8f0.m4a) 농
+[🔊 nɔ̃](_Audio/non-14b8f0.m4a)
 
 **non** · *부사*
 

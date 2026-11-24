@@ -9,38 +9,51 @@ aliases: [서류 작성]
 
 | 단어 | 발음 | 뜻 |
 |---|---|---|
-| [[abonnement\|l'abonnement]] | [🔊 abɔnmɑ̃](_Audio/l-abonnement-0653b0.m4a) 아본느멍 | 정기 회원권, 구독 |
-| [[actuel]] · actuelle | [🔊 aktɥɛl](_Audio/actuel-d04fe4.m4a) 악뛰엘 | 현재의 |
-| [[adresse\|l'adresse]] | [🔊 adʁɛs](_Audio/l-adresse-85a4ec.m4a) 아드헤스 | 주소 |
-| [[âge\|l'âge]] | [🔊 ɑʒ](_Audio/l-age-88a520.m4a) 아쥬 | 나이 |
-| [[an\|l'an]] | [🔊 ɑ̃](_Audio/l-an-215650.m4a) 앙 | 해, 살 (나이) |
-| [[appartement\|l'appartement]] | [🔊 apaʁtəmɑ̃](_Audio/l-appartement-1c91e0.m4a) 아빠흐뜨멍 | 아파트 (한 세대), 집 호수 |
-| [[avenue\|l'avenue]] | [🔊 avny](_Audio/l-avenue-2e4cb4.m4a) 아브뉘 | 대로, ~가(街) |
-| [[boulevard\|le boulevard]] | [🔊 bulvaʁ](_Audio/le-boulevard-3743b7.m4a) 불바흐 | 대로, 큰길 |
-| [[cellulaire\|le cellulaire]] | [🔊 selylɛʁ](_Audio/le-cellulaire-43994c.m4a) 쎌륄레흐 | 휴대전화 |
-| [[citoyenneté\|la citoyenneté]] | [🔊 sitwajɛnte](_Audio/la-citoyennete-103ecd.m4a) 씨뚜아옌떼 | 시민권 |
-| [[code postal\|le code postal]] | [🔊 kɔd pɔstal](_Audio/le-code-postal-7b95b7.m4a) 꼬드 뽀스딸 | 우편번호 |
-| [[courriel\|le courriel]] | [🔊 kuʁjɛl](_Audio/le-courriel-41f315.m4a) 꾸히엘 | 이메일 |
-| [[date\|la date]] | [🔊 dat](_Audio/la-date-53a318.m4a) 다뜨 | 날짜 |
-| [[domicile\|le domicile]] | [🔊 dɔmisil](_Audio/le-domicile-6fe644.m4a) 도미씰 | 집, 주거지 |
-| [[école\|l'école]] | [🔊 ekɔl](_Audio/l-ecole-883194.m4a) 에꼴 | 학교 |
-| [[élève\|l'élève]] | [🔊 elɛv](_Audio/l-eleve-bef501.m4a) 엘레브 | 학생 (수업 듣는 사람) |
-| [[état civil\|l'état civil]] | [🔊 eta sivil](_Audio/l-etat-civil-a2c0f9.m4a) 에따 씨빌 | 혼인 상태 (결혼 여부) |
-| [[famille\|la famille]] | [🔊 famij](_Audio/la-famille-f4c078.m4a) 파미으 | 가족 |
-| [[fiche\|la fiche]] | [🔊 fiʃ](_Audio/la-fiche-09a801.m4a) 피슈 | 카드, 서식 |
-| [[formulaire\|le formulaire]] | [🔊 fɔʁmylɛʁ](_Audio/le-formulaire-0f6ad6.m4a) 포흐뮐레흐 | 서식, 신청서 |
-| [[identité\|l'identité]] | [🔊 idɑ̃tite](_Audio/l-identite-aa43f7.m4a) 이덩띠떼 | 신원, 정체 |
-| [[inscription\|l'inscription]] | [🔊 ɛ̃skʁipsjɔ̃](_Audio/l-inscription-0c029a.m4a) 앵스크힙씨옹 | 등록 |
-| [[langue\|la langue]] | [🔊 lɑ̃ɡ](_Audio/la-langue-41112b.m4a) 랑그 | 언어 |
-| [[naissance\|la naissance]] | [🔊 nɛsɑ̃s](_Audio/la-naissance-8493f9.m4a) 네쌍스 | 출생, 탄생 |
-| [[nationalité\|la nationalité]] | [🔊 nasjɔnalite](_Audio/la-nationalite-600e87.m4a) 나씨오날리떼 | 국적 |
-| [[numéro\|le numéro]] | [🔊 nymeʁo](_Audio/le-numero-695404.m4a) 뉘메호 | 번호 |
-| [[origine\|l'origine]] | [🔊 ɔʁiʒin](_Audio/l-origine-39dc38.m4a) 오히진 | 출신 |
-| [[prénom\|le prénom]] | [🔊 pʁenɔ̃](_Audio/le-prenom-b27c0a.m4a) 프헤농 | 이름 (성을 뺀 이름) |
-| [[renseignement\|le renseignement]] | [🔊 ʁɑ̃sɛɲmɑ̃](_Audio/le-renseignement-9cdf8f.m4a) 헝센느멍 | 정보, 안내 |
-| [[s'inscrire]] | [🔊 sɛ̃skʁiʁ](_Audio/s-inscrire-2acd87.m4a) 쌩스크히흐 | 등록하다 |
-| [[secrétaire\|le/la secrétaire]] | [🔊 səkʁetɛʁ](_Audio/le-la-secretaire-b63979.m4a) 스크헤떼흐 | 비서, 사무 직원 |
-| [[sexe\|le sexe]] | [🔊 sɛks](_Audio/le-sexe-cf145e.m4a) 섹스 | 성별 |
-| [[signature\|la signature]] | [🔊 siɲatyʁ](_Audio/la-signature-08256d.m4a) 씨냐뛰흐 | 서명 |
-| [[téléphone\|le téléphone]] | [🔊 telefɔn](_Audio/le-telephone-bfdbc2.m4a) 뗄레폰 | 전화 |
-| [[ville\|la ville]] | [🔊 vil](_Audio/la-ville-b4cf80.m4a) 빌 | 도시 |
+| [[abonnement\|un abonnement]] | [🔊 œ̃n‿abɔnmɑ̃](_Audio/un-abonnement-64f5f5.m4a) | 정기 회원권, 구독 |
+| [[actuel]] · actuelle | [🔊 aktɥɛl](_Audio/actuel-d04fe4.m4a) | 현재의 |
+| [[adresse\|une adresse]] | [🔊 ynadʁɛs](_Audio/une-adresse-9f738b.m4a) | 주소 |
+| [[âge\|l'âge]] (m.) | [🔊 lɑʒ](_Audio/l-age-88a520.m4a) | 나이 |
+| [[an\|un an]] | [🔊 œ̃n‿ɑ̃](_Audio/un-an-4e5605.m4a) | 해, 살 (나이) |
+| [[appartement\|un appartement]] | [🔊 œ̃n‿apaʁtəmɑ̃](_Audio/un-appartement-464654.m4a) | 아파트 (한 세대), 집 호수 |
+| [[avenue\|une avenue]] | [🔊 ynavny](_Audio/une-avenue-6dc1b6.m4a) | 대로, ~가(街) |
+| [[boulevard\|un boulevard]] | [🔊 œ̃ bulvaʁ](_Audio/un-boulevard-ab4bb8.m4a) | 대로, 큰길 |
+| [[bureau\|un bureau]] | [🔊 œ̃ byʁo](_Audio/un-bureau-8520ea.m4a) | 사무실, 책상 |
+| [[cellulaire\|un cellulaire]] | [🔊 œ̃ selylɛʁ](_Audio/un-cellulaire-cbbe76.m4a) | 휴대전화 |
+| [[citoyenneté\|la citoyenneté]] | [🔊 la sitwajɛnte](_Audio/la-citoyennete-103ecd.m4a) | 시민권 |
+| [[code postal\|un code postal]] | [🔊 œ̃ kɔd pɔstal](_Audio/un-code-postal-cc1d22.m4a) | 우편번호 |
+| [[coordonnées\|des coordonnées]] (f.) | [🔊 de kɔɔʁdɔne](_Audio/des-coordonnees-44e178.m4a) | 연락처 (주소 · 전화번호 · 이메일) |
+| [[courriel\|un courriel]] | [🔊 œ̃ kuʁjɛl](_Audio/un-courriel-72d3b9.m4a) | 이메일 |
+| [[date\|une date]] | [🔊 yn dat](_Audio/une-date-ff5be7.m4a) | 날짜 |
+| [[domicile\|le domicile]] | [🔊 lə dɔmisil](_Audio/le-domicile-6fe644.m4a) | 집, 주거지 |
+| [[école\|une école]] | [🔊 ynekɔl](_Audio/une-ecole-761192.m4a) | 학교 |
+| [[élève\|un/une élève]] | [🔊 œ̃n‿elɛv](_Audio/un-eleve-eeed2f.m4a) | 학생 (수업 듣는 사람) |
+| [[état civil\|l'état civil]] (m.) | [🔊 leta sivil](_Audio/l-etat-civil-a2c0f9.m4a) | 혼인 상태 (결혼 여부) |
+| [[famille\|une famille]] | [🔊 yn famij](_Audio/une-famille-3fadf8.m4a) | 가족 |
+| [[fiche\|une fiche]] | [🔊 yn fiʃ](_Audio/une-fiche-307514.m4a) | 카드, 서식 |
+| [[formulaire\|un formulaire]] | [🔊 œ̃ fɔʁmylɛʁ](_Audio/un-formulaire-21b53a.m4a) | 서식, 신청서 |
+| [[habitation\|une habitation]] | [🔊 ynabitasjɔ̃](_Audio/une-habitation-5194e9.m4a) | 주거, 사는 곳 |
+| [[identité\|l'identité]] (f.) | [🔊 lidɑ̃tite](_Audio/l-identite-aa43f7.m4a) | 신원, 정체 |
+| [[immeuble\|un immeuble]] | [🔊 œ̃n‿imœbl](_Audio/un-immeuble-5d3d02.m4a) | 건물 |
+| [[indicatif régional\|un indicatif régional]] | [🔊 œ̃n‿ɛ̃dikatif ʁeʒjɔnal](_Audio/un-indicatif-regional-af7790.m4a) | 지역 번호 |
+| [[inscription\|une inscription]] | [🔊 ynɛ̃skʁipsjɔ̃](_Audio/une-inscription-47da0d.m4a) | 등록 |
+| [[langue\|une langue]] | [🔊 yn lɑ̃ɡ](_Audio/une-langue-882f02.m4a) | 언어 |
+| [[logement\|un logement]] | [🔊 œ̃ lɔʒmɑ̃](_Audio/un-logement-d4da5e.m4a) | 집, 주택 (한 세대) |
+| [[naissance\|la naissance]] | [🔊 la nɛsɑ̃s](_Audio/la-naissance-8493f9.m4a) | 출생, 탄생 |
+| [[nationalité\|une nationalité]] | [🔊 yn nasjɔnalite](_Audio/une-nationalite-6da5ef.m4a) | 국적 |
+| [[numéro\|un numéro]] | [🔊 œ̃ nymeʁo](_Audio/un-numero-51f314.m4a) | 번호 |
+| [[origine\|l'origine]] (f.) | [🔊 lɔʁiʒin](_Audio/l-origine-39dc38.m4a) | 출신 |
+| [[ouest\|l'ouest]] (m.) | [🔊 lwɛst](_Audio/l-ouest-0153db.m4a) | 서쪽 |
+| [[porte\|une porte]] | [🔊 yn pɔʁt](_Audio/une-porte-c9f5ae.m4a) | 문 |
+| [[poste\|un poste]] | [🔊 œ̃ pɔst](_Audio/un-poste-8b4fbd.m4a) | (전화) 내선 번호 |
+| [[prénom\|un prénom]] | [🔊 œ̃ pʁenɔ̃](_Audio/un-prenom-a205eb.m4a) | 이름 (성을 뺀 이름) |
+| [[promenade\|une promenade]] | [🔊 yn pʁɔmnad](_Audio/une-promenade-699377.m4a) | 산책로 (길 이름), 산책 |
+| [[province\|une province]] | [🔊 yn pʁɔvɛ̃s](_Audio/une-province-8c89d7.m4a) | 주 (캐나다) |
+| [[renseignement\|un renseignement]] | [🔊 œ̃ ʁɑ̃sɛɲmɑ̃](_Audio/un-renseignement-d3d80e.m4a) | 정보, 안내 |
+| [[route\|une route]] | [🔊 yn ʁut](_Audio/une-route-89b952.m4a) | 도로, 길 |
+| [[s'inscrire]] | [🔊 sɛ̃skʁiʁ](_Audio/s-inscrire-2acd87.m4a) | 등록하다 |
+| [[secrétaire\|un/une secrétaire]] | [🔊 œ̃ səkʁetɛʁ](_Audio/un-secretaire-973b77.m4a) | 비서, 사무 직원 |
+| [[secrétariat\|le secrétariat]] | [🔊 lə səkʁetaʁja](_Audio/le-secretariat-186062.m4a) | 사무실 (학교 · 기관), 교무실 |
+| [[sexe\|le sexe]] | [🔊 lə sɛks](_Audio/le-sexe-cf145e.m4a) | 성별 |
+| [[signature\|une signature]] | [🔊 yn siɲatyʁ](_Audio/une-signature-10e468.m4a) | 서명 |
+| [[téléphone\|un téléphone]] | [🔊 œ̃ telefɔn](_Audio/un-telephone-bdd741.m4a) | 전화 |
+| [[ville\|une ville]] | [🔊 yn vil](_Audio/une-ville-5b2815.m4a) | 도시 |

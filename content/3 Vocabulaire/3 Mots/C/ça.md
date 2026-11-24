@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sa"
 pron_native: "싸"
 meaning: ["그것", "이것"]
+display: "ça"
+display_ipa: "sa"
+display_say: "ça"
 forms: []
 examples:
   - text: "Ça va ?"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["ca"]
 ---
-[🔊 sa](_Audio/ca-25596d.m4a) 싸
+[🔊 sa](_Audio/ca-25596d.m4a)
 
 **ça** · *대명사*
 

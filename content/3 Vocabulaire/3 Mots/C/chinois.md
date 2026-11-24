@@ -12,6 +12,9 @@ feminine: "chinoise"
 ipa: "ʃinwa"
 pron_native: "시누아"
 meaning: ["중국 사람", "중국어"]
+display: "chinois"
+display_ipa: "ʃinwa"
+display_say: "chinois"
 forms:
   - text: "chinoise"
     meaning: "여성형"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 ʃinwa](_Audio/chinois-237864.m4a) 시누아
+[🔊 ʃinwa](_Audio/chinois-237864.m4a)
 
 **chinois** · *형용사 · 남성* · 여성형 **chinoise**
 
@@ -34,7 +37,7 @@ aliases: []
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| chinoise | [🔊 ʃinwaz](_Audio/chinoise-a81bd6.m4a) 시누아즈 | 여성형 |
+| chinoise | [🔊 ʃinwaz](_Audio/chinoise-a81bd6.m4a) | 여성형 |
 
 ## 발음 · 쓰임
 국적 남성형 → 여성형 규칙: [[01 Nationalités|Nationalités]]

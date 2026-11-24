@@ -12,6 +12,9 @@ feminine: ""
 ipa: "blɔ̃d"
 pron_native: "블롱드"
 meaning: ["여자친구 (퀘벡)"]
+display: "une blonde"
+display_ipa: "yn blɔ̃d"
+display_say: "une blonde"
 forms: []
 examples:
   - text: "J'ai une blonde."
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la blonde"]
 ---
-[🔊 blɔ̃d](_Audio/la-blonde-bb1481.m4a) 블롱드
+une blonde [🔊 yn blɔ̃d](_Audio/une-blonde-9935e2.m4a) · les blondes [🔊 le blɔ̃d](_Audio/les-blondes-c99795.m4a)
 
 **la blonde** · *명사 · 여성*
 

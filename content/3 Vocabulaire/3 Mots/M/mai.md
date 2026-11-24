@@ -12,6 +12,9 @@ feminine: ""
 ipa: "mɛ"
 pron_native: "메"
 meaning: ["5월"]
+display: "mai"
+display_ipa: "mɛ"
+display_say: "mai"
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 mɛ](_Audio/mai-2b2858.m4a) 메
+[🔊 mɛ](_Audio/mai-2b2858.m4a)
 
 **mai** · *명사 · 남성*
 

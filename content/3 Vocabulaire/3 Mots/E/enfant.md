@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɑ̃fɑ̃"
 pron_native: "엉펑"
 meaning: ["아이", "자녀"]
+display: "un/une enfant"
+display_ipa: "œ̃n‿ɑ̃fɑ̃"
+display_say: "un enfant"
 forms: []
 examples:
   - text: "Vous avez des enfants ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'enfant"]
 ---
-[🔊 ɑ̃fɑ̃](_Audio/l-enfant-6e5b94.m4a) 엉펑
+l'enfant [🔊 lɑ̃fɑ̃](_Audio/l-enfant-6e5b94.m4a) · un enfant [🔊 œ̃n‿ɑ̃fɑ̃](_Audio/un-enfant-11181b.m4a) · une enfant [🔊 ynɑ̃fɑ̃](_Audio/une-enfant-fab90b.m4a) · les enfants [🔊 lez‿ɑ̃fɑ̃](_Audio/les-enfants-6ebb09.m4a)
 
 **l'enfant** · *명사 · 남녀 공통*
 

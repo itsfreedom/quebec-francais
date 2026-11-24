@@ -12,6 +12,9 @@ feminine: ""
 ipa: "fɔ̃"
 pron_native: "퐁"
 meaning: ["바닥", "깊은 곳"]
+display: "le fond"
+display_ipa: "lə fɔ̃"
+display_say: "le fond"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le fond"]
 ---
-[🔊 fɔ̃](_Audio/le-fond-f1d527.m4a) 퐁
+[🔊 lə fɔ̃](_Audio/le-fond-f1d527.m4a)
 
 **le fond** · *명사 · 남성*
 

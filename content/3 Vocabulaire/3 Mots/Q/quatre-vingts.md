@@ -12,6 +12,9 @@ feminine: ""
 ipa: "katʁə vɛ̃"
 pron_native: "까트흐 뱅"
 meaning: ["80"]
+display: "quatre-vingts"
+display_ipa: "katʁə vɛ̃"
+display_say: "quatre-vingts"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 katʁə vɛ̃](_Audio/quatre-vingts-3f2199.m4a) 까트흐 뱅
+[🔊 katʁə vɛ̃](_Audio/quatre-vingts-3f2199.m4a)
 
 **quatre-vingts** · *숫자*
 

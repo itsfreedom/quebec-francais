@@ -12,6 +12,9 @@ feminine: ""
 ipa: "ɛ̃skʁipsjɔ̃"
 pron_native: "앵스크힙씨옹"
 meaning: ["등록"]
+display: "une inscription"
+display_ipa: "ynɛ̃skʁipsjɔ̃"
+display_say: "une inscription"
 forms: []
 examples:
   - text: "C'est pour l'inscription ?"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'inscription"]
 ---
-[🔊 ɛ̃skʁipsjɔ̃](_Audio/l-inscription-0c029a.m4a) 앵스크힙씨옹
+l'inscription [🔊 lɛ̃skʁipsjɔ̃](_Audio/l-inscription-0c029a.m4a) · une inscription [🔊 ynɛ̃skʁipsjɔ̃](_Audio/une-inscription-47da0d.m4a) · les inscriptions [🔊 lez‿ɛ̃skʁipsjɔ̃](_Audio/les-inscriptions-9833b2.m4a)
 
 **l'inscription** · *명사 · 여성*
 

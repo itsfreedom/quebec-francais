@@ -12,6 +12,9 @@ feminine: ""
 ipa: "miljɔ̃"
 pron_native: "밀리옹"
 meaning: ["1 000 000"]
+display: "million"
+display_ipa: "miljɔ̃"
+display_say: "million"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 miljɔ̃](_Audio/million-bafd00.m4a) 밀리옹
+[🔊 miljɔ̃](_Audio/million-bafd00.m4a)
 
 **million** · *숫자*
 

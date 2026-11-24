@@ -12,6 +12,9 @@ feminine: ""
 ipa: "zeʁo"
 pron_native: "제호"
 meaning: ["0"]
+display: "zéro"
+display_ipa: "zeʁo"
+display_say: "zéro"
 forms: []
 examples: []
 theme: "Nombres"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["zero"]
 ---
-[🔊 zeʁo](_Audio/zero-9b9a02.m4a) 제호
+[🔊 zeʁo](_Audio/zero-9b9a02.m4a)
 
 **zéro** · *숫자*
 

@@ -12,6 +12,9 @@ feminine: "quelle"
 ipa: "kɛl"
 pron_native: "껠"
 meaning: ["어느", "무슨"]
+display: "quel"
+display_ipa: "kɛl"
+display_say: "quel"
 forms: []
 examples:
   - text: "De quel pays tu viens ?"
@@ -23,7 +26,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: []
 ---
-[🔊 kɛl](_Audio/quel-4e1555.m4a) 껠
+[🔊 kɛl](_Audio/quel-4e1555.m4a)
 
 **quel** · *한정사 · 남성* · 여성형 **quelle**
 

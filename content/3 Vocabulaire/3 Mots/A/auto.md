@@ -12,6 +12,9 @@ feminine: ""
 ipa: "oto"
 pron_native: "오또"
 meaning: ["자동차"]
+display: "une auto"
+display_ipa: "ynoto"
+display_say: "une auto"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["l'auto"]
 ---
-[🔊 oto](_Audio/l-auto-e473b1.m4a) 오또
+l'auto [🔊 loto](_Audio/l-auto-e473b1.m4a) · une auto [🔊 ynoto](_Audio/une-auto-4e897b.m4a) · les autos [🔊 lez‿oto](_Audio/les-autos-9b79fe.m4a)
 
 **l'auto** · *명사 · 여성*
 

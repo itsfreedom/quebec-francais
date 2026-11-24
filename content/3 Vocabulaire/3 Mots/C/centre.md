@@ -12,6 +12,9 @@ feminine: ""
 ipa: "sɑ̃tʁ"
 pron_native: "썽트흐"
 meaning: ["센터", "중심"]
+display: "un centre"
+display_ipa: "œ̃ sɑ̃tʁ"
+display_say: "un centre"
 forms: []
 examples:
   - text: "le centre sportif"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le centre"]
 ---
-[🔊 sɑ̃tʁ](_Audio/le-centre-f02460.m4a) 썽트흐
+un centre [🔊 œ̃ sɑ̃tʁ](_Audio/un-centre-e26118.m4a) · les centres [🔊 le sɑ̃tʁ](_Audio/les-centres-e73942.m4a)
 
 **le centre** · *명사 · 남성*
 

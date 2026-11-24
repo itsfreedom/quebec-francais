@@ -12,6 +12,9 @@ feminine: ""
 ipa: "li"
 pron_native: "리"
 meaning: ["침대"]
+display: "un lit"
+display_ipa: "œ̃ li"
+display_say: "un lit"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["le lit"]
 ---
-[🔊 li](_Audio/le-lit-eb4618.m4a) 리
+un lit [🔊 œ̃ li](_Audio/un-lit-3ed318.m4a) · les lits [🔊 le li](_Audio/les-lits-4feec0.m4a)
 
 **le lit** · *명사 · 남성*
 

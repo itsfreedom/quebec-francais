@@ -12,6 +12,9 @@ feminine: ""
 ipa: "mɛzɔ̃"
 pron_native: "메종"
 meaning: ["집"]
+display: "une maison"
+display_ipa: "yn mɛzɔ̃"
+display_say: "une maison"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la maison"]
 ---
-[🔊 mɛzɔ̃](_Audio/la-maison-4af588.m4a) 메종
+une maison [🔊 yn mɛzɔ̃](_Audio/une-maison-770823.m4a) · les maisons [🔊 le mɛzɔ̃](_Audio/les-maisons-c8c0c4.m4a)
 
 **la maison** · *명사 · 여성*
 

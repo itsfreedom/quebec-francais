@@ -12,6 +12,9 @@ feminine: ""
 ipa: "fij"
 pron_native: "피으"
 meaning: ["딸", "소녀"]
+display: "une fille"
+display_ipa: "yn fij"
+display_say: "une fille"
 forms: []
 examples: []
 theme: "Personnes"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la fille"]
 ---
-[🔊 fij](_Audio/la-fille-4f272a.m4a) 피으
+une fille [🔊 yn fij](_Audio/une-fille-c7829a.m4a) · les filles [🔊 le fij](_Audio/les-filles-ed9949.m4a)
 
 **la fille** · *명사 · 여성*
 

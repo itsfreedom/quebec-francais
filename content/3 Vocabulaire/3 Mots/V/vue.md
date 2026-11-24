@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vy"
 pron_native: "뷔"
 meaning: ["시야", "경치"]
+display: "la vue"
+display_ipa: "la vy"
+display_say: "la vue"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -19,7 +22,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["la vue"]
 ---
-[🔊 vy](_Audio/la-vue-797002.m4a) 뷔
+[🔊 la vy](_Audio/la-vue-797002.m4a)
 
 **la vue** · *명사 · 여성*
 

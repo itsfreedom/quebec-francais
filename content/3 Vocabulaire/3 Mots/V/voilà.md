@@ -12,6 +12,9 @@ feminine: ""
 ipa: "vwala"
 pron_native: "부알라"
 meaning: ["자, 여기 있어요", "바로 그거예요"]
+display: "voilà"
+display_ipa: "vwala"
+display_say: "voilà"
 forms: []
 examples:
   - text: "Voilà votre café !"
@@ -21,7 +24,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["voila"]
 ---
-[🔊 vwala](_Audio/voila-957c44.m4a) 부알라
+[🔊 vwala](_Audio/voila-957c44.m4a)
 
 **voilà** · *부사*
 

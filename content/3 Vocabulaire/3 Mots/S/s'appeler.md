@@ -12,6 +12,9 @@ feminine: ""
 ipa: "saple"
 pron_native: "싸쁠레"
 meaning: ["이름이 ~이다"]
+display: "s'appeler"
+display_ipa: "saple"
+display_say: "s'appeler"
 forms:
   - text: "je m'appelle"
     meaning: "내 이름은 ~이다"
@@ -27,7 +30,7 @@ origin: "class"
 tags: [francisation, word]
 aliases: ["sappeler"]
 ---
-[🔊 saple](_Audio/s-appeler-c5a4b3.m4a) 싸쁠레
+[🔊 saple](_Audio/s-appeler-c5a4b3.m4a)
 
 **s'appeler** · *동사*
 
@@ -37,8 +40,8 @@ aliases: ["sappeler"]
 ## 형태
 | 형태 | 발음 | 뜻 |
 |---|---|---|
-| je m'appelle | [🔊 ʒə mapɛl](_Audio/je-m-appelle-644147.m4a) 즈 마뻴 | 내 이름은 ~이다 |
-| tu t'appelles | [🔊 ty tapɛl](_Audio/tu-t-appelles-468081.m4a) 뛰 따뻴 | 네 이름은 ~이다 |
+| je m'appelle | [🔊 ʒə mapɛl](_Audio/je-m-appelle-644147.m4a) | 내 이름은 ~이다 |
+| tu t'appelles | [🔊 ty tapɛl](_Audio/tu-t-appelles-468081.m4a) | 네 이름은 ~이다 |
 
 ## 발음 · 쓰임
 me, te + 모음 → m', t' ([[02 Élision|Élision]])
