@@ -193,25 +193,56 @@ def transform(t):
     body = re.sub(r'(?m)^(>.*)\n(?=> 📖 \*\*번역\*\*)', r'\1\n\n', body)
     body = re.sub(r'(?m)^> (?:💡 \*\*발음\*\*|\[!tip\][-+]? 발음)[ \t]*\n(?=> \*\*[^*\n]+\*\* : )(?:>.*(?:\n|$))*\n?', '', body)
     body = re.sub(r'(?m)^(>[^\n]*)\n\n(?=\| 단어 \| 발음 \| 뜻 \|)', r'\1\n\n**📝 단어**\n\n', body)
+    # 대화 노트: 제목 단어(Au centre sportif → centre, sportif)도 단어 표에
+    if fval(fm, 'type') == 'dialogue':
+        tbl = re.search(r'(?m)^> \[!note\][-+]? 단어\n> \| 단어 \| 발음 \| 뜻 \|\n> \|---\|---\|---\|\n((?:> \|.*\n?)*)', body)
+        if tbl:
+            have = set(re.findall(r'\[\[([^\]|\\]+)', tbl.group(1))) | set(re.findall(r'/([^/>#]+)\.md', tbl.group(1)))
+            add = []
+            ttl = fval(fm, 'title') or ''
+            cands = [ttl] + [t for t in re.findall(r"[A-Za-zÀ-ÿ'-]+", ttl) if norm(t) not in ('au', 'aux', 'le', 'la', 'les', 'se', "l'", 'un', 'une', 'du', 'des', 'de')]
+            for c in cands:
+                sid = PHRASE.get(norm(c)) or (lookup(c) if ' ' not in c else None)
+                if not sid or os.path.basename(WORDS[sid]['path'])[:-3] in have: continue
+                w = WORDS[sid]; have.add(os.path.basename(w['path'])[:-3])
+                mean = ', '.join(w['meaning'][:2]) if isinstance(w['meaning'], list) else w['meaning']
+                ipa = re.search(r'(?m)^ipa:\s*"?([^"\n]*)', open(os.path.join(ROOT, w['path']), encoding='utf-8').read())
+                snd = f"[🔊 {ipa.group(1) if ipa else ''}](_Audio/{w['audio']})" if w['audio'] in HAVE else f"[{ipa.group(1) if ipa else ''}]"
+                add.append(f"> | [[{os.path.basename(w['path'])[:-3]}]] | {snd} | {mean} |")
+            if add:
+                e = tbl.end(1); body = body[:e] + ('' if body[e-1:e] == '\n' or e == tbl.start(1) else '\n') + '\n'.join(add) + '\n' + body[e:]
     def row(m):
         pre, w, ipa, rest = m.group(1), m.group(2), m.group(3), m.group(4)
         a = re.search(r'\s*\[🔊\]\(_Audio/([^)\s]+)\)\s*$', w)
         name = re.sub(r'\[\[(?:[^\]|]*\\?\|)?([^\]]+)\]\]', r'\1', re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', w)).split(' (')[0].replace('🔊', '').strip()
-        sid = PHRASE.get(norm(name)) or (lookup(name.split()[-1]) if name else None)
+        tm = re.search(r'\[\[([^\]|\\]+)', w) or re.search(r'<[^>]*/([^/>#]+)\.md', w)
+        sid = (lookup(tm.group(1)) if tm else None) or PHRASE.get(norm(name)) or (lookup(name.split()[-1]) if name else None)
         if a: w, f = w[:a.start()], a.group(1)
         else: f = WORDS[sid]['audio'] if sid and WORDS[sid]['audio'] in HAVE else None
         if not f: return m.group(0)
         if sid and '[' not in w: w = f'[{w.strip()}](<{WORDS[sid]["path"]}>)'   # 단어 칸: 마우스 올리면 단어 팝업
         return f'{pre}{w.strip()} | [🔊 {ipa}](_Audio/{f}){rest}'
-    body = re.sub(r'(?m)^((?:> )?\| )(.+?) \| `?\[(?!🔊)([^\]\n]+)\]`?((?: [^|\n]*)? \|[^\n]*)$', row, body)
+
     def plain(m):
         name = m.group(2).split(' (')[0].strip(); sid = PHRASE.get(norm(name)) or (lookup(name.split()[-1]) if name else None)
         if not sid or norm(WORDS[sid]['text']).split()[-1] != norm(name).split()[-1]: return m.group(0)
         return f'{m.group(1)}[{m.group(2)}](<{WORDS[sid]["path"]}>) | [🔊 '
-    body = re.sub(r'(?m)^((?:> )?\| )([^|\[\]\n*]+?) \| \[🔊 ', plain, body)   # 표의 단어 칸 → 단어 팝업
+    def wtable(m):
+        t = re.sub(r'(?m)^((?:> )?\| )(.+?) \| `?\[(?!🔊)([^\]\n]+)\]`?((?: [^|\n]*)? \|[^\n]*)$', row, m.group(0))
+        return re.sub(r'(?m)^((?:> )?\| )([^|\[\]\n*]+?) \| \[🔊 ', plain, t)   # 단어 칸 → 단어 팝업
+    WT = r'(?m)^(?:> )?\| 단어 \| 발음 \| 뜻 \|\n(?:(?:> )?\|.*\|[ \t]*(?:\n|$))+'
+    body = re.sub(WT, wtable, body)
     body = re.sub(r'(?m)^ · (대화문 노트: )(\d+ [^\n\]]+?)[ \t]*$', lambda m: f"{m.group(1)}[[{m.group(2)}|{re.sub(r'^\d+ ', '', m.group(2))}]]", body)
     body = re.sub(r'( · 대화문 노트: )(\d+ [^\n\]]+?)[ \t]*$', lambda m: f"{m.group(1)}[[{m.group(2)}|{re.sub(r'^\d+ ', '', m.group(2))}]]", body, flags=re.M)
     body = body.replace('발음은 IPA와 한글 발음을 같이 적었어요. 한글 발음은 대략적인 참고용이에요.', '단어와 문장은 누르면 소리가 나요.')
+    body = re.sub(r'\[▶ 이어서 듣기[^\]]*\]\(([^)]+)\)(?: · 문장을 누르면 그 문장만 들려요)?', r'[▶ 따라 해 보기](\1)', body)
+    # 홈의 책 순서: 발음 → 대화 → 단어 → 문법
+    if '## 📚 책' in body:
+        def books(m):
+            items = re.findall(r'(?m)^\d+\. (.*)$', m.group(1)); rank = ['4 Phonétique', '2 Dialogues', '3 Vocabulaire', '1 Grammaire']
+            items.sort(key=lambda x: next((i for i, r in enumerate(rank) if r in x), 9))
+            return '## 📚 책\n' + ''.join(f'{i}. {x}\n' for i, x in enumerate(items, 1))
+        body = re.sub(r'## 📚 책\n((?:\d+\. .*\n?)+)', books, body)
     # 1) 문장 노트: "[🔊 듣기](소리) · 👉 뜻" → "**문장** 🔊" + "👉 뜻"
     if fval(fm, 'type') == 'sentence' and fval(fm, 'text'):
         body = re.sub(r'(?m)^\[🔊 듣기\]' + LINK + r' · 👉 (.*)$',

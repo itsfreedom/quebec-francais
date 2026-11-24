@@ -5,6 +5,11 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 componentRegistry.setOptionOverrides("@quartz-community/explorer", {
   sortFn: (a: any, b: any) => {
     if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
+    // 맨 위 책 순서: 발음 → 대화 → 단어 → 문법 → 수업
+    const top = ["4-phonétique", "2-dialogues", "3-vocabulaire", "1-grammaire", "수업"]
+    const ra = top.indexOf((a.slugSegment || "").normalize("NFC").toLowerCase())
+    const rb = top.indexOf((b.slugSegment || "").normalize("NFC").toLowerCase())
+    if (ra >= 0 && rb >= 0) return ra - rb
     return (a.slugSegment || "").localeCompare(b.slugSegment || "", undefined, {
       numeric: true,
       sensitivity: "base",
