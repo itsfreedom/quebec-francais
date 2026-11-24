@@ -251,7 +251,6 @@ def transform(t):
     body = re.sub(r'(?m)^(> \[!abstract\][-+]? 번역) · 발음 기호', r'\1', body)
     body = re.sub(r'(?m)^(> .*?→.*?)\s*·\s*`\[[^`\n]+\]`[ \t]*$', r'\1', body)
     body = re.sub(r'(?m)^> `\[[^`\n]+\]`[ \t]*\n', '', body)   # 상자 속 발음 기호만 있는 줄
-    body = re.sub(r'(\[\[[^\]\n]+\]\]) \[🔊 [^\]\n]+\]\((_Audio/[^)\s]+)\)(?=(?: · |\s*$))', r'\1 [🔊](\2)', body, flags=re.M) if not fval(fm, 'type') else body   # 예시 줄 six 🔊 (날짜 페이지)
     # 1) 문장 노트: "[🔊 듣기](소리) · 👉 뜻" → "**문장** 🔊" + "👉 뜻"
     if fval(fm, 'type') == 'sentence' and fval(fm, 'text'):
         body = re.sub(r'(?m)^\[🔊 듣기\]' + LINK + r' · 👉 (.*)$',
