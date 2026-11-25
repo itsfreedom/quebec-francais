@@ -15,6 +15,9 @@ meaning: ["여자친구 (퀘벡)"]
 display: "une blonde"
 display_ipa: "yn blɔ̃d"
 display_say: "une blonde"
+meaning_en: "girlfriend (Québec)"
+cognate: ""
+faux_ami: "blonde"
 forms: []
 examples:
   - text: "J'ai une blonde."
@@ -30,6 +33,11 @@ une blonde [🔊 yn blɔ̃d](_Audio/une-blonde-9935e2.m4a) · les blondes [🔊 
 
 ## 뜻
 1. 여자친구 (퀘벡)
+
+**English** · girlfriend (Québec)
+
+> [!warning] 가짜 친구 (faux ami) · ≠ blonde
+> 퀘벡에서는 금발이 아니라 **여자친구** (ma blonde)
 
 ## 예문
 - **J'ai une blonde.** — 나는 여자친구가 있어요.

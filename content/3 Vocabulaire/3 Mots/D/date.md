@@ -15,6 +15,9 @@ meaning: ["날짜"]
 display: "une date"
 display_ipa: "yn dat"
 display_say: "une date"
+meaning_en: "date"
+cognate: "date"
+faux_ami: ""
 forms: []
 examples:
   - text: "la date de naissance"
@@ -30,6 +33,8 @@ une date [🔊 yn dat](_Audio/une-date-ff5be7.m4a) · les dates [🔊 le dat](_A
 
 ## 뜻
 1. 날짜
+
+**English** · date · ≈ *date* (비슷한 영어 단어)
 
 ## 예문
 - **la date de naissance** — 생년월일

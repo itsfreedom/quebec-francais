@@ -15,6 +15,9 @@ meaning: ["나 (강조할 때)"]
 display: "moi"
 display_ipa: "mwa"
 display_say: "moi"
+meaning_en: "me"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pronoms"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 나 (강조할 때)
+
+**English** · me
 
 ## 발음 · 쓰임
 oi = [wa]. 🍁 구어에서 '모에'로 들리기도 해요 ([[05 Accent québécois|Accent québécois]])

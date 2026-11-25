@@ -15,6 +15,9 @@ meaning: ["일요일"]
 display: "le dimanche"
 display_ipa: "lə dimɑ̃ʃ"
 display_say: "le dimanche"
+meaning_en: "Sunday"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["le dimanche"]
 
 ## 뜻
 1. 일요일
+
+**English** · Sunday
 
 ## 발음 · 쓰임
 an = [ɑ̃] ([[02 Voyelles nasales|Voyelles nasales]]), ch = [ʃ]

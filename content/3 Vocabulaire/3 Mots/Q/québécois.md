@@ -15,6 +15,9 @@ meaning: ["퀘벡 사람", "퀘벡의"]
 display: "québécois(e)"
 display_ipa: "kebekwa"
 display_say: "québécois"
+meaning_en: "Quebecer, Québécois"
+cognate: "Quebecer"
+faux_ami: ""
 forms:
   - text: "québécoise"
     meaning: "여성형"
@@ -33,6 +36,8 @@ aliases: ["quebecois"]
 ## 뜻
 1. 퀘벡 사람
 2. 퀘벡의
+
+**English** · Quebecer, Québécois · ≈ *Quebecer* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

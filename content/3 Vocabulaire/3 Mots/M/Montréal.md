@@ -15,6 +15,9 @@ meaning: ["몬트리올 (도시)"]
 display: "Montréal"
 display_ipa: "mɔ̃ʁeal"
 display_say: "Montréal"
+meaning_en: "Montreal"
+cognate: "Montreal"
+faux_ami: ""
 forms: []
 examples:
   - text: "Je suis à Montréal."
@@ -30,6 +33,8 @@ aliases: ["montreal"]
 
 ## 뜻
 1. 몬트리올 (도시)
+
+**English** · Montreal · ≈ *Montreal* (비슷한 영어 단어)
 
 ## 예문
 - **Je suis à Montréal.** — 몬트리올에 있어요.

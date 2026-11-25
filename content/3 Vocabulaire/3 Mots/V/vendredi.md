@@ -15,6 +15,9 @@ meaning: ["금요일"]
 display: "le vendredi"
 display_ipa: "lə vɑ̃dʁədi"
 display_say: "le vendredi"
+meaning_en: "Friday"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["le vendredi"]
 
 ## 뜻
 1. 금요일
+
+**English** · Friday
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

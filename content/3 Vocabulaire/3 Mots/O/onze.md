@@ -15,6 +15,9 @@ meaning: ["11"]
 display: "onze"
 display_ipa: "ɔ̃z"
 display_say: "onze"
+meaning_en: "eleven"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 11
+
+**English** · eleven
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

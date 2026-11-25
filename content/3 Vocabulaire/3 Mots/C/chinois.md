@@ -15,6 +15,9 @@ meaning: ["중국 사람", "중국어"]
 display: "chinois(e)"
 display_ipa: "ʃinwa"
 display_say: "chinois"
+meaning_en: "Chinese"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "chinoise"
     meaning: "여성형"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 중국 사람
 2. 중국어
+
+**English** · Chinese
 
 ## 형태
 | 형태 | 발음 | 뜻 |

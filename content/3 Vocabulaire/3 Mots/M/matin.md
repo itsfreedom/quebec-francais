@@ -15,6 +15,9 @@ meaning: ["아침"]
 display: "le matin"
 display_ipa: "lə matɛ̃"
 display_say: "le matin"
+meaning_en: "morning"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["le matin"]
 
 ## 뜻
 1. 아침
+
+**English** · morning
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

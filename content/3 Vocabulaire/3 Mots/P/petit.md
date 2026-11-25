@@ -15,6 +15,9 @@ meaning: ["작은"]
 display: "petit(e)"
 display_ipa: "pəti"
 display_say: "petit"
+meaning_en: "small"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 작은
+
+**English** · small
 
 ## 발음 · 쓰임
 끝 t는 읽지 않아요. 여성형 petite [pətit]은 t를 읽어요 ([[02 Lettres muettes|Lettres muettes]])

@@ -15,6 +15,9 @@ meaning: ["건물"]
 display: "un immeuble"
 display_ipa: "œ̃n‿imœbl"
 display_say: "un immeuble"
+meaning_en: "building"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "un immeuble à logements"
@@ -32,6 +35,8 @@ l'immeuble [🔊 limœbl](_Audio/l-immeuble-b957b3.m4a) · un immeuble [🔊 œ�
 
 ## 뜻
 1. 건물
+
+**English** · building
 
 ## 예문
 - **un immeuble à logements** — 아파트 건물

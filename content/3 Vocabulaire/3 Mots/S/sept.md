@@ -15,6 +15,9 @@ meaning: ["7"]
 display: "sept"
 display_ipa: "sɛt"
 display_say: "sept"
+meaning_en: "seven"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 7
+
+**English** · seven
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

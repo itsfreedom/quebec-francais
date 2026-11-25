@@ -15,6 +15,9 @@ meaning: ["형광펜으로 칠하다"]
 display: "surligner"
 display_ipa: "syʁliɲe"
 display_say: "surligner"
+meaning_en: "to highlight"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "surlignez"
     meaning: "칠하세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 형광펜으로 칠하다
+
+**English** · to highlight
 
 ## 형태
 | 형태 | 발음 | 뜻 |

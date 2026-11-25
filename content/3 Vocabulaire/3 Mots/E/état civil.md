@@ -15,6 +15,9 @@ meaning: ["혼인 상태 (결혼 여부)"]
 display: "l'état civil (m.)"
 display_ipa: "leta sivil"
 display_say: "l'état civil"
+meaning_en: "marital status"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "marié, célibataire, divorcé…"
@@ -30,6 +33,8 @@ aliases: ["etat-civil", "l'état civil"]
 
 ## 뜻
 1. 혼인 상태 (결혼 여부)
+
+**English** · marital status
 
 ## 예문
 - **marié, célibataire, divorcé…** — 기혼, 미혼, 이혼…

@@ -15,6 +15,9 @@ meaning: ["(영상을) 보다"]
 display: "visionner"
 display_ipa: "vizjɔne"
 display_say: "visionner"
+meaning_en: "to view, to watch"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "visionnez"
     meaning: "(영상을) 보세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. (영상을) 보다
+
+**English** · to view, to watch
 
 ## 형태
 | 형태 | 발음 | 뜻 |

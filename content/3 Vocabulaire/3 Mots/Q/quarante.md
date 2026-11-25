@@ -15,6 +15,9 @@ meaning: ["40"]
 display: "quarante"
 display_ipa: "kaʁɑ̃t"
 display_say: "quarante"
+meaning_en: "forty"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 40
+
+**English** · forty
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#Q|사전 Q]]

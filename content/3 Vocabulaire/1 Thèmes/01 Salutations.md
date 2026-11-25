@@ -16,7 +16,7 @@ aliases: [인사]
 | [[coucou]] | [🔊 kuku](_Audio/coucou-721a9b.m4a) | 안녕! (아주 친한 사이) |
 | [[enchanté\|enchanté(e)]] | [🔊 ɑ̃ʃɑ̃te](_Audio/enchante-fd4027.m4a) | 만나서 반가워요 |
 | [[journée\|une journée]] | [🔊 yn ʒuʁne](_Audio/une-journee-430ef4.m4a) | 하루, 낮 |
-| [[madame]] | [🔊 madam](_Audio/madame-43ee1d.m4a) | ~씨, 부인 (여성 존칭) |
+| [[madame]] | [🔊 madam](_Audio/madame-43ee1d.m4a) | ~씨, 부인 (여성 존칭) · *madam* |
 | [[mademoiselle]] | [🔊 madmwazɛl](_Audio/mademoiselle-b7d84e.m4a) | 아가씨 (젊은 여성 존칭) |
 | [[merci]] | [🔊 mɛʁsi](_Audio/merci-8e105c.m4a) | 고마워요 |
 | [[monsieur]] | [🔊 məsjø](_Audio/monsieur-d8187c.m4a) | ~씨, 선생님 (남성 존칭) |

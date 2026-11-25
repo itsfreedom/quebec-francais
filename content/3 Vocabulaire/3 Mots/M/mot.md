@@ -15,6 +15,9 @@ meaning: ["단어", "낱말"]
 display: "un mot"
 display_ipa: "œ̃ mo"
 display_say: "un mot"
+meaning_en: "word"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -29,6 +32,8 @@ un mot [🔊 œ̃ mo](_Audio/un-mot-2a774c.m4a) · les mots [🔊 le mo](_Audio/
 ## 뜻
 1. 단어
 2. 낱말
+
+**English** · word
 
 ## 발음 · 쓰임
 끝 t 묵음 ([[02 Lettres muettes|Lettres muettes]])

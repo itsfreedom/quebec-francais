@@ -15,6 +15,9 @@ meaning: ["~에(서)", "~로 (언어 · 달)"]
 display: "en"
 display_ipa: "ɑ̃"
 display_say: "en"
+meaning_en: "in, to (languages, months)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "en français"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. ~에(서)
 2. ~로 (언어 · 달)
+
+**English** · in, to (languages, months)
 
 ## 예문
 - **en français** — 불어로

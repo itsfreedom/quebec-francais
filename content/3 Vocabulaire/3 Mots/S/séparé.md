@@ -15,6 +15,9 @@ meaning: ["별거 중인"]
 display: "séparé(e)"
 display_ipa: "sepaʁe"
 display_say: "séparé"
+meaning_en: "separated"
+cognate: "separated"
+faux_ami: ""
 forms: []
 examples: []
 theme: "État civil et famille"
@@ -28,6 +31,8 @@ aliases: ["separe"]
 
 ## 뜻
 1. 별거 중인
+
+**English** · separated · ≈ *separated* (비슷한 영어 단어)
 
 ---
 📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

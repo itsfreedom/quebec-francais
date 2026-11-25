@@ -15,6 +15,9 @@ meaning: ["영어를 쓰는 (사람)"]
 display: "anglophone"
 display_ipa: "ɑ̃glɔfɔn"
 display_say: "anglophone"
+meaning_en: "English-speaking"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Personnes"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 영어를 쓰는 (사람)
+
+**English** · English-speaking
 
 ---
 📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

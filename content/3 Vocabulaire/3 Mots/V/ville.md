@@ -15,6 +15,9 @@ meaning: ["도시"]
 display: "une ville"
 display_ipa: "yn vil"
 display_say: "une ville"
+meaning_en: "city"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -28,6 +31,8 @@ une ville [🔊 yn vil](_Audio/une-ville-5b2815.m4a) · les villes [🔊 le vil]
 
 ## 뜻
 1. 도시
+
+**English** · city
 
 ## 발음 · 쓰임
 ille 예외: [il] ([[03 Voyelles composées|Voyelles composées]])

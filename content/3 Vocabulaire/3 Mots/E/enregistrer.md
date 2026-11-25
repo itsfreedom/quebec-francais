@@ -15,6 +15,9 @@ meaning: ["녹음하다", "저장하다"]
 display: "enregistrer"
 display_ipa: "ɑ̃ʁəʒistʁe"
 display_say: "enregistrer"
+meaning_en: "to record, to save"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "enregistrez"
     meaning: "녹음하세요"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 녹음하다
 2. 저장하다
+
+**English** · to record, to save
 
 ## 형태
 | 형태 | 발음 | 뜻 |

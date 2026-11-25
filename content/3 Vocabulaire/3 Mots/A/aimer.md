@@ -15,6 +15,9 @@ meaning: ["좋아하다", "사랑하다"]
 display: "aimer"
 display_ipa: "eme"
 display_say: "aimer"
+meaning_en: "to like, to love"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "j'aime"
     meaning: "나는 좋아한다"
@@ -43,6 +46,8 @@ aliases: []
 ## 뜻
 1. 좋아하다
 2. 사랑하다
+
+**English** · to like, to love
 
 ## 형태
 | 형태 | 발음 | 뜻 |

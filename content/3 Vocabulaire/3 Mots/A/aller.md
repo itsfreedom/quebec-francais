@@ -15,6 +15,9 @@ meaning: ["가다"]
 display: "aller"
 display_ipa: "ale"
 display_say: "aller"
+meaning_en: "to go"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "il va"
     meaning: "그가 가다"
@@ -44,6 +47,8 @@ aliases: []
 
 ## 뜻
 1. 가다
+
+**English** · to go
 
 ## 형태
 | 형태 | 발음 | 뜻 |

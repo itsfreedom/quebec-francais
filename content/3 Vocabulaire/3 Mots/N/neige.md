@@ -15,6 +15,9 @@ meaning: ["눈 (날씨)"]
 display: "la neige"
 display_ipa: "la nɛʒ"
 display_say: "la neige"
+meaning_en: "snow"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Il neige."
@@ -30,6 +33,8 @@ aliases: ["la neige"]
 
 ## 뜻
 1. 눈 (날씨)
+
+**English** · snow
 
 ## 예문
 - **Il neige.** — 눈이 와요.

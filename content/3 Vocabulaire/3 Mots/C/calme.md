@@ -15,6 +15,9 @@ meaning: ["차분한", "조용한"]
 display: "calme"
 display_ipa: "kalm"
 display_say: "calme"
+meaning_en: "calm, quiet"
+cognate: "calm"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 차분한
 2. 조용한
+
+**English** · calm, quiet · ≈ *calm* (비슷한 영어 단어)
 
 ---
 📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

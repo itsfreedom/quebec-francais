@@ -15,6 +15,9 @@ meaning: ["수요일"]
 display: "le mercredi"
 display_ipa: "lə mɛʁkʁədi"
 display_say: "le mercredi"
+meaning_en: "Wednesday"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["le mercredi"]
 
 ## 뜻
 1. 수요일
+
+**English** · Wednesday
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

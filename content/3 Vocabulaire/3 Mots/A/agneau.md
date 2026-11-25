@@ -15,6 +15,9 @@ meaning: ["어린 양", "양고기"]
 display: "l'agneau (m.)"
 display_ipa: "laɲo"
 display_say: "l'agneau"
+meaning_en: "lamb"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nourriture"
@@ -29,6 +32,8 @@ aliases: ["l'agneau"]
 ## 뜻
 1. 어린 양
 2. 양고기
+
+**English** · lamb
 
 ---
 📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

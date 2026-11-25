@@ -15,6 +15,9 @@ meaning: ["아파트 (한 세대)", "집 호수"]
 display: "un appartement"
 display_ipa: "œ̃n‿apaʁtəmɑ̃"
 display_say: "un appartement"
+meaning_en: "apartment"
+cognate: "apartment"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -29,6 +32,8 @@ l'appartement [🔊 lapaʁtəmɑ̃](_Audio/l-appartement-1c91e0.m4a) · un appar
 ## 뜻
 1. 아파트 (한 세대)
 2. 집 호수
+
+**English** · apartment · ≈ *apartment* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 줄임말 **app.**

@@ -15,6 +15,9 @@ meaning: ["시간", "~시"]
 display: "une heure"
 display_ipa: "ynœʁ"
 display_say: "une heure"
+meaning_en: "hour, o'clock"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Vous avez l'heure ?"
@@ -31,6 +34,8 @@ l'heure [🔊 lœʁ](_Audio/l-heure-fb1db1.m4a) · une heure [🔊 ynœʁ](_Audi
 ## 뜻
 1. 시간
 2. ~시
+
+**English** · hour, o'clock
 
 ## 예문
 - **Vous avez l'heure ?** — 지금 몇 시인지 아세요?

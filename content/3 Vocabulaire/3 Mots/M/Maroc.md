@@ -15,6 +15,9 @@ meaning: ["모로코"]
 display: "le Maroc"
 display_ipa: "lə maʁɔk"
 display_say: "le Maroc"
+meaning_en: "Morocco"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Je viens du Maroc."
@@ -30,6 +33,8 @@ aliases: ["maroc", "le Maroc"]
 
 ## 뜻
 1. 모로코
+
+**English** · Morocco
 
 ## 예문
 - **Je viens du Maroc.** — 나는 모로코에서 왔어요.

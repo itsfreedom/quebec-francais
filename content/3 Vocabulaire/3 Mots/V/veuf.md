@@ -15,6 +15,9 @@ meaning: ["배우자를 잃은 (사별한)"]
 display: "veuf / veuve"
 display_ipa: "vœf"
 display_say: "veuf"
+meaning_en: "widowed"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "État civil et famille"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 배우자를 잃은 (사별한)
+
+**English** · widowed
 
 ## 발음 · 쓰임
 여성형 veuve [vœv]

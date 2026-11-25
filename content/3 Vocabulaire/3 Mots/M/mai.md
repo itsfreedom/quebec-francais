@@ -15,6 +15,9 @@ meaning: ["5월"]
 display: "mai"
 display_ipa: "mɛ"
 display_say: "mai"
+meaning_en: "May"
+cognate: "May"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 5월
+
+**English** · May · ≈ *May* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 ai = [ɛ] ([[03 Voyelles composées|Voyelles composées]])

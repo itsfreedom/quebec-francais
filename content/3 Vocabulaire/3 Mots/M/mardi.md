@@ -15,6 +15,9 @@ meaning: ["화요일"]
 display: "le mardi"
 display_ipa: "lə maʁdi"
 display_say: "le mardi"
+meaning_en: "Tuesday"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["le mardi"]
 
 ## 뜻
 1. 화요일
+
+**English** · Tuesday
 
 ## 발음 · 쓰임
 🍁 퀘벡에서는 '마르지' ([[05 Accent québécois|Accent québécois]])

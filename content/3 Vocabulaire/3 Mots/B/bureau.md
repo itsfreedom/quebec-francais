@@ -15,6 +15,9 @@ meaning: ["사무실", "책상"]
 display: "un bureau"
 display_ipa: "œ̃ byʁo"
 display_say: "un bureau"
+meaning_en: "office, desk"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "bureau 330"
@@ -31,6 +34,8 @@ un bureau [🔊 œ̃ byʁo](_Audio/un-bureau-8520ea.m4a) · les bureaux [🔊 le
 ## 뜻
 1. 사무실
 2. 책상
+
+**English** · office, desk
 
 ## 예문
 - **bureau 330** — 330호 사무실

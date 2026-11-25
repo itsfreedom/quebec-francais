@@ -15,6 +15,9 @@ meaning: ["알다"]
 display: "savoir"
 display_ipa: "savwaʁ"
 display_say: "savoir"
+meaning_en: "to know"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "je sais"
     meaning: "나는 안다"
@@ -34,6 +37,8 @@ aliases: []
 
 ## 뜻
 1. 알다
+
+**English** · to know
 
 ## 형태
 | 형태 | 발음 | 뜻 |

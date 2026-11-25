@@ -15,6 +15,9 @@ meaning: ["아무것도 (없다)"]
 display: "rien"
 display_ipa: "ʁjɛ̃"
 display_say: "rien"
+meaning_en: "nothing"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 아무것도 (없다)
+
+**English** · nothing
 
 ---
 📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#R|사전 R]]

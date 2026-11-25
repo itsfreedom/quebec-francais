@@ -15,6 +15,9 @@ meaning: ["똑같은"]
 display: "identique"
 display_ipa: "idɑ̃tik"
 display_say: "identique"
+meaning_en: "identical"
+cognate: "identical"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 똑같은
+
+**English** · identical · ≈ *identical* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 en = [ɑ̃] ([[02 Voyelles nasales|Voyelles nasales]]), qu = [k]

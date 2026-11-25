@@ -15,6 +15,9 @@ meaning: ["6월"]
 display: "juin"
 display_ipa: "ʒɥɛ̃"
 display_say: "juin"
+meaning_en: "June"
+cognate: "June"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 6월
+
+**English** · June · ≈ *June* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 ui = [ɥi]의 반자음 + in [ɛ̃] ([[04 Semi-consonnes|Semi-consonnes]])

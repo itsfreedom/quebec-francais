@@ -15,6 +15,9 @@ meaning: ["헬스장"]
 display: "le gym"
 display_ipa: "lə dʒim"
 display_say: "le gym"
+meaning_en: "gym"
+cognate: "gym"
+faux_ami: ""
 forms: []
 examples:
   - text: "m'abonner au gym"
@@ -30,6 +33,8 @@ aliases: ["le gym"]
 
 ## 뜻
 1. 헬스장
+
+**English** · gym · ≈ *gym* (비슷한 영어 단어)
 
 ## 예문
 - **m'abonner au gym** — 헬스장 등록하기

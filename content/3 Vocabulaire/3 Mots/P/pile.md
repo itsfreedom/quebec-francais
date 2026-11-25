@@ -15,6 +15,9 @@ meaning: ["건전지", "더미"]
 display: "une pile"
 display_ipa: "yn pil"
 display_say: "une pile"
+meaning_en: "battery, pile"
+cognate: ""
+faux_ami: "pile"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -29,6 +32,11 @@ une pile [🔊 yn pil](_Audio/une-pile-0b9ed0.m4a) · les piles [🔊 le pil](_A
 ## 뜻
 1. 건전지
 2. 더미
+
+**English** · battery, pile
+
+> [!warning] 가짜 친구 (faux ami) · ≠ pile
+> '더미'라는 뜻도 있지만 보통 **건전지**
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

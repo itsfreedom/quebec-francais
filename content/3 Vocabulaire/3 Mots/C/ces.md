@@ -15,6 +15,9 @@ meaning: ["이, 그 (복수)"]
 display: "ces"
 display_ipa: "se"
 display_say: "ces"
+meaning_en: "these, those"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 이, 그 (복수)
+
+**English** · these, those
 
 ---
 📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

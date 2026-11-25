@@ -15,6 +15,9 @@ meaning: ["바닥", "깊은 곳"]
 display: "le fond"
 display_ipa: "lə fɔ̃"
 display_say: "le fond"
+meaning_en: "bottom, back"
+cognate: ""
+faux_ami: "fond"
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -29,6 +32,11 @@ aliases: ["le fond"]
 ## 뜻
 1. 바닥
 2. 깊은 곳
+
+**English** · bottom, back
+
+> [!warning] 가짜 친구 (faux ami) · ≠ fond
+> 영어 fond(좋아하는)가 아니라 **바닥, 안쪽** (au fond = 안쪽에)
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

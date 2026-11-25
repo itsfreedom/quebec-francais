@@ -15,6 +15,9 @@ meaning: ["매달의", "월간"]
 display: "mensuel(le)"
 display_ipa: "mɑ̃sɥɛl"
 display_say: "mensuel"
+meaning_en: "monthly"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 매달의
 2. 월간
+
+**English** · monthly
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

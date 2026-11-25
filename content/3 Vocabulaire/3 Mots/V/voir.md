@@ -15,6 +15,9 @@ meaning: ["보다"]
 display: "voir"
 display_ipa: "vwaʁ"
 display_say: "voir"
+meaning_en: "to see"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "vous voyez"
     meaning: "당신이 보다 / 보세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 보다
+
+**English** · to see
 
 ## 형태
 | 형태 | 발음 | 뜻 |

@@ -15,6 +15,9 @@ meaning: ["6"]
 display: "six"
 display_ipa: "sis"
 display_say: "six"
+meaning_en: "six"
+cognate: "six"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 6
+
+**English** · six · ≈ *six* (비슷한 영어 단어)
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

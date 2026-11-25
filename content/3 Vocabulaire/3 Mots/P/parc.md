@@ -15,6 +15,9 @@ meaning: ["공원"]
 display: "un parc"
 display_ipa: "œ̃ paʁk"
 display_say: "un parc"
+meaning_en: "park"
+cognate: "park"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ un parc [🔊 œ̃ paʁk](_Audio/un-parc-24e515.m4a) · les parcs [🔊 le paʁk
 
 ## 뜻
 1. 공원
+
+**English** · park · ≈ *park* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 끝 c를 읽어요 (CaReFuL · [[02 Lettres muettes|Lettres muettes]])

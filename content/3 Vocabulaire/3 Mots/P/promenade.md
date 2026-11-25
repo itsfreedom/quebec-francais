@@ -15,6 +15,9 @@ meaning: ["산책로 (길 이름)", "산책"]
 display: "une promenade"
 display_ipa: "yn pʁɔmnad"
 display_say: "une promenade"
+meaning_en: "promenade, walk"
+cognate: "promenade"
+faux_ami: ""
 forms: []
 examples:
   - text: "24, promenade Sussex"
@@ -31,6 +34,8 @@ une promenade [🔊 yn pʁɔmnad](_Audio/une-promenade-699377.m4a) · les promen
 ## 뜻
 1. 산책로 (길 이름)
 2. 산책
+
+**English** · promenade, walk · ≈ *promenade* (비슷한 영어 단어)
 
 ## 예문
 - **24, promenade Sussex** — 서섹스 길 24번지

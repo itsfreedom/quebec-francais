@@ -15,6 +15,9 @@ meaning: ["학생 (대학생)"]
 display: "un(e) étudiant(e)"
 display_ipa: "œ̃n‿etydjɑ̃"
 display_say: "un étudiant"
+meaning_en: "student"
+cognate: "student"
+faux_ami: ""
 forms: []
 examples: []
 theme: "État civil et famille"
@@ -28,6 +31,8 @@ l'étudiant [🔊 letydjɑ̃](_Audio/l-etudiant-c2d9e8.m4a) · un étudiant [�
 
 ## 뜻
 1. 학생 (대학생)
+
+**English** · student · ≈ *student* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 여성형 étudiante [etydjɑ̃t]

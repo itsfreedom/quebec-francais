@@ -15,6 +15,9 @@ meaning: ["그 (남성 정관사)"]
 display: "le / la"
 display_ipa: "lə"
 display_say: "le"
+meaning_en: "the (masc.)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 그 (남성 정관사)
+
+**English** · the (masc.)
 
 ## 발음 · 쓰임
 모음 앞에서 l' ([[02 Élision|Élision]])

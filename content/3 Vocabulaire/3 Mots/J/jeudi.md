@@ -15,6 +15,9 @@ meaning: ["목요일"]
 display: "le jeudi"
 display_ipa: "lə ʒødi"
 display_say: "le jeudi"
+meaning_en: "Thursday"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["le jeudi"]
 
 ## 뜻
 1. 목요일
+
+**English** · Thursday
 
 ## 발음 · 쓰임
 eu = [ø] ([[03 Voyelles composées|Voyelles composées]])

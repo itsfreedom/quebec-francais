@@ -15,6 +15,9 @@ meaning: ["도로", "길"]
 display: "une route"
 display_ipa: "yn ʁut"
 display_say: "une route"
+meaning_en: "road, route"
+cognate: "route"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -29,6 +32,8 @@ une route [🔊 yn ʁut](_Audio/une-route-89b952.m4a) · les routes [🔊 le ʁu
 ## 뜻
 1. 도로
 2. 길
+
+**English** · road, route · ≈ *route* (비슷한 영어 단어)
 
 ---
 📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#R|사전 R]]

@@ -15,6 +15,9 @@ meaning: ["주소"]
 display: "une adresse"
 display_ipa: "ynadʁɛs"
 display_say: "une adresse"
+meaning_en: "address"
+cognate: "address"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -28,6 +31,8 @@ l'adresse [🔊 ladʁɛs](_Audio/l-adresse-85a4ec.m4a) · une adresse [🔊 ynad
 
 ## 뜻
 1. 주소
+
+**English** · address · ≈ *address* (비슷한 영어 단어)
 
 ---
 📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

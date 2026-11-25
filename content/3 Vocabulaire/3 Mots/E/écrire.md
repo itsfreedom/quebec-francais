@@ -15,6 +15,9 @@ meaning: ["쓰다"]
 display: "écrire"
 display_ipa: "ekʁiʁ"
 display_say: "écrire"
+meaning_en: "to write"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "écrivez"
     meaning: "쓰세요"
@@ -38,6 +41,8 @@ aliases: ["ecrire"]
 
 ## 뜻
 1. 쓰다
+
+**English** · to write
 
 ## 형태
 | 형태 | 발음 | 뜻 |

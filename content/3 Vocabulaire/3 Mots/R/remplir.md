@@ -15,6 +15,9 @@ meaning: ["채우다", "작성하다"]
 display: "remplir"
 display_ipa: "ʁɑ̃pliʁ"
 display_say: "remplir"
+meaning_en: "to fill in"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "remplissez"
     meaning: "작성하세요"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 채우다
 2. 작성하다
+
+**English** · to fill in
 
 ## 형태
 | 형태 | 발음 | 뜻 |

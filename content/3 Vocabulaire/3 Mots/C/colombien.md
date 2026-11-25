@@ -15,6 +15,9 @@ meaning: ["콜롬비아 사람"]
 display: "colombien(ne)"
 display_ipa: "kɔlɔ̃bjɛ̃"
 display_say: "colombien"
+meaning_en: "Colombian"
+cognate: "Colombian"
+faux_ami: ""
 forms:
   - text: "colombienne"
     meaning: "여성형"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 콜롬비아 사람
+
+**English** · Colombian · ≈ *Colombian* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

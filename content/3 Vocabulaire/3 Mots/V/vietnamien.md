@@ -15,6 +15,9 @@ meaning: ["베트남 사람", "베트남어"]
 display: "vietnamien(ne)"
 display_ipa: "vjɛtnamjɛ̃"
 display_say: "vietnamien"
+meaning_en: "Vietnamese"
+cognate: "Vietnamese"
+faux_ami: ""
 forms:
   - text: "vietnamienne"
     meaning: "여성형"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 베트남 사람
 2. 베트남어
+
+**English** · Vietnamese · ≈ *Vietnamese* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

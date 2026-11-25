@@ -15,6 +15,9 @@ meaning: ["1월"]
 display: "janvier"
 display_ipa: "ʒɑ̃vje"
 display_say: "janvier"
+meaning_en: "January"
+cognate: "January"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 1월
+
+**English** · January · ≈ *January* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 달 이름은 소문자로 써요 ([[06 Temps et jours#📌 날짜 말하는 법|날짜 말하는 법]])

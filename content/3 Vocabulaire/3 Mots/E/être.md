@@ -15,6 +15,9 @@ meaning: ["~이다", "있다"]
 display: "être"
 display_ipa: "ɛtʁ"
 display_say: "être"
+meaning_en: "to be"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "je suis"
     meaning: "나는 ~이다"
@@ -57,6 +60,8 @@ aliases: ["etre"]
 ## 뜻
 1. ~이다
 2. 있다
+
+**English** · to be
 
 ## 형태
 | 형태 | 발음 | 뜻 |

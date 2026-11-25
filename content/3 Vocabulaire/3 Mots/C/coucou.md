@@ -15,6 +15,9 @@ meaning: ["안녕! (아주 친한 사이)"]
 display: "coucou"
 display_ipa: "kuku"
 display_say: "coucou"
+meaning_en: "hi! (very informal)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Salutations"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 안녕! (아주 친한 사이)
+
+**English** · hi! (very informal)
 
 ## 발음 · 쓰임
 가족·친구끼리만 써요 (informel)

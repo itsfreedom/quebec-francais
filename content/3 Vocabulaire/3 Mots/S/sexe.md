@@ -15,6 +15,9 @@ meaning: ["성별"]
 display: "le sexe"
 display_ipa: "lə sɛks"
 display_say: "le sexe"
+meaning_en: "sex (gender)"
+cognate: "sex"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -28,6 +31,8 @@ aliases: ["le sexe"]
 
 ## 뜻
 1. 성별
+
+**English** · sex (gender) · ≈ *sex* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 서류의 성별 칸: M (masculin) / F (féminin)

@@ -15,6 +15,9 @@ meaning: ["선생님", "교수"]
 display: "un(e) professeur(e)"
 display_ipa: "œ̃ pʁɔfesœʁ"
 display_say: "un professeur"
+meaning_en: "teacher, professor"
+cognate: "professor"
+faux_ami: ""
 forms: []
 examples: []
 theme: "État civil et famille"
@@ -29,6 +32,8 @@ un professeur [🔊 œ̃ pʁɔfesœʁ](_Audio/un-professeur-87a7e0.m4a) · les p
 ## 뜻
 1. 선생님
 2. 교수
+
+**English** · teacher, professor · ≈ *professor* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 🍁 퀘벡에서는 여성형 professeure를 써요. 발음은 같아요

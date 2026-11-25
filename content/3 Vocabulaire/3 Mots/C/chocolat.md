@@ -15,6 +15,9 @@ meaning: ["초콜릿"]
 display: "le chocolat"
 display_ipa: "lə ʃɔkɔla"
 display_say: "le chocolat"
+meaning_en: "chocolate"
+cognate: "chocolate"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nourriture"
@@ -28,6 +31,8 @@ aliases: ["le chocolat"]
 
 ## 뜻
 1. 초콜릿
+
+**English** · chocolate · ≈ *chocolate* (비슷한 영어 단어)
 
 ---
 📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

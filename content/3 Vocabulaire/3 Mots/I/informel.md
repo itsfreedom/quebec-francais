@@ -15,6 +15,9 @@ meaning: ["편한 (반말)"]
 display: "informel(le)"
 display_ipa: "ɛ̃fɔʁmɛl"
 display_say: "informel"
+meaning_en: "informal"
+cognate: "informal"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 편한 (반말)
+
+**English** · informal · ≈ *informal* (비슷한 영어 단어)
 
 ---
 📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

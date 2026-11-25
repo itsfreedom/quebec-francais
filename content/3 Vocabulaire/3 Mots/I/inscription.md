@@ -15,6 +15,9 @@ meaning: ["등록"]
 display: "une inscription"
 display_ipa: "ynɛ̃skʁipsjɔ̃"
 display_say: "une inscription"
+meaning_en: "registration"
+cognate: "inscription"
+faux_ami: ""
 forms: []
 examples:
   - text: "C'est pour l'inscription ?"
@@ -30,6 +33,8 @@ l'inscription [🔊 lɛ̃skʁipsjɔ̃](_Audio/l-inscription-0c029a.m4a) · une i
 
 ## 뜻
 1. 등록
+
+**English** · registration · ≈ *inscription* (비슷한 영어 단어)
 
 ## 예문
 - **C'est pour l'inscription ?** — 등록하러 오셨어요?

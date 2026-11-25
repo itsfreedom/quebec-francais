@@ -15,6 +15,9 @@ meaning: ["카드", "서식"]
 display: "une fiche"
 display_ipa: "yn fiʃ"
 display_say: "une fiche"
+meaning_en: "card, form"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "la fiche d'identité"
@@ -31,6 +34,8 @@ une fiche [🔊 yn fiʃ](_Audio/une-fiche-307514.m4a) · les fiches [🔊 le fi�
 ## 뜻
 1. 카드
 2. 서식
+
+**English** · card, form
 
 ## 예문
 - **la fiche d'identité** — 신상 카드

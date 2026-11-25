@@ -15,6 +15,9 @@ meaning: ["부인", "여성 (공손한 말)"]
 display: "une dame"
 display_ipa: "yn dam"
 display_say: "une dame"
+meaning_en: "lady"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "État civil et famille"
@@ -29,6 +32,8 @@ une dame [🔊 yn dam](_Audio/une-dame-807bfc.m4a) · les dames [🔊 le dam](_A
 ## 뜻
 1. 부인
 2. 여성 (공손한 말)
+
+**English** · lady
 
 ---
 📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

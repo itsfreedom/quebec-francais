@@ -15,6 +15,9 @@ meaning: ["내일"]
 display: "demain"
 display_ipa: "dəmɛ̃"
 display_say: "demain"
+meaning_en: "tomorrow"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 내일
+
+**English** · tomorrow
 
 ## 발음 · 쓰임
 ain = [ɛ̃] ([[02 Voyelles nasales|Voyelles nasales]])

@@ -15,6 +15,9 @@ meaning: ["날", "일"]
 display: "un jour"
 display_ipa: "œ̃ ʒuʁ"
 display_say: "un jour"
+meaning_en: "day"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -29,6 +32,8 @@ un jour [🔊 œ̃ ʒuʁ](_Audio/un-jour-e950cd.m4a) · les jours [🔊 le ʒuʁ
 ## 뜻
 1. 날
 2. 일
+
+**English** · day
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#J|사전 J]]

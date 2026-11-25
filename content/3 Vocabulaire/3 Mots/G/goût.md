@@ -15,6 +15,9 @@ meaning: ["맛"]
 display: "le goût"
 display_ipa: "lə gu"
 display_say: "le goût"
+meaning_en: "taste"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nourriture"
@@ -28,6 +31,8 @@ aliases: ["gout", "le goût"]
 
 ## 뜻
 1. 맛
+
+**English** · taste
 
 ---
 📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#G|사전 G]]

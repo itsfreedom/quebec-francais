@@ -15,6 +15,9 @@ meaning: ["철자를 말하다"]
 display: "épeler"
 display_ipa: "eple"
 display_say: "épeler"
+meaning_en: "to spell"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "épeler votre prénom"
     meaning: "이름 철자 말하기"
@@ -32,6 +35,8 @@ aliases: ["epeler"]
 
 ## 뜻
 1. 철자를 말하다
+
+**English** · to spell
 
 ## 형태
 | 형태 | 발음 | 뜻 |

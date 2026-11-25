@@ -15,6 +15,9 @@ meaning: ["이런!", "아이참! (가벼운 감탄)"]
 display: "zut"
 display_ipa: "zyt"
 display_say: "zut"
+meaning_en: "darn!"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Salutations"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 이런!
 2. 아이참! (가벼운 감탄)
+
+**English** · darn!
 
 ---
 📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#Z|사전 Z]]

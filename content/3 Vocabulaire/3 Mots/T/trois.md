@@ -15,6 +15,9 @@ meaning: ["3"]
 display: "trois"
 display_ipa: "tʁwa"
 display_say: "trois"
+meaning_en: "three"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 3
+
+**English** · three
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#T|사전 T]]

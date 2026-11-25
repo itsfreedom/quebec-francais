@@ -15,6 +15,9 @@ meaning: ["인도 사람"]
 display: "indien(ne)"
 display_ipa: "ɛ̃djɛ̃"
 display_say: "indien"
+meaning_en: "Indian"
+cognate: "Indian"
+faux_ami: ""
 forms:
   - text: "indienne"
     meaning: "여성형"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 인도 사람
+
+**English** · Indian · ≈ *Indian* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

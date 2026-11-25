@@ -15,6 +15,9 @@ meaning: ["벤치"]
 display: "un banc"
 display_ipa: "œ̃ bɑ̃"
 display_say: "un banc"
+meaning_en: "bench"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ un banc [🔊 œ̃ bɑ̃](_Audio/un-banc-ef0508.m4a) · les bancs [🔊 le bɑ̃
 
 ## 뜻
 1. 벤치
+
+**English** · bench
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

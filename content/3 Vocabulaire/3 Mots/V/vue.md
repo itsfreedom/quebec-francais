@@ -15,6 +15,9 @@ meaning: ["시야", "경치"]
 display: "la vue"
 display_ipa: "la vy"
 display_say: "la vue"
+meaning_en: "view, sight"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -29,6 +32,8 @@ aliases: ["la vue"]
 ## 뜻
 1. 시야
 2. 경치
+
+**English** · view, sight
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

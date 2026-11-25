@@ -15,6 +15,9 @@ meaning: ["언어"]
 display: "une langue"
 display_ipa: "yn lɑ̃ɡ"
 display_say: "une langue"
+meaning_en: "language"
+cognate: "language"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -28,6 +31,8 @@ une langue [🔊 yn lɑ̃ɡ](_Audio/une-langue-882f02.m4a) · les langues [🔊 
 
 ## 뜻
 1. 언어
+
+**English** · language · ≈ *language* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 an = [ɑ̃], gue = [ɡ]

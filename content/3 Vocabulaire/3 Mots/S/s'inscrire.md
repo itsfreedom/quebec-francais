@@ -15,6 +15,9 @@ meaning: ["등록하다"]
 display: "s'inscrire"
 display_ipa: "sɛ̃skʁiʁ"
 display_say: "s'inscrire"
+meaning_en: "to register, to sign up"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Vous souhaitez vous inscrire à un cours."
@@ -30,6 +33,8 @@ aliases: ["sinscrire"]
 
 ## 뜻
 1. 등록하다
+
+**English** · to register, to sign up
 
 ## 예문
 - **Vous souhaitez vous inscrire à un cours.** — 당신은 수업에 등록하고 싶어요.

@@ -15,6 +15,9 @@ meaning: ["파란"]
 display: "bleu(e)"
 display_ipa: "blø"
 display_say: "bleu"
+meaning_en: "blue"
+cognate: "blue"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 파란
+
+**English** · blue · ≈ *blue* (비슷한 영어 단어)
 
 ---
 📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

@@ -15,6 +15,9 @@ meaning: ["수"]
 display: "un nombre"
 display_ipa: "œ̃ nɔ̃bʁ"
 display_say: "un nombre"
+meaning_en: "number"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ un nombre [🔊 œ̃ nɔ̃bʁ](_Audio/un-nombre-cb0865.m4a) · les nombres [🔊
 
 ## 뜻
 1. 수
+
+**English** · number
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

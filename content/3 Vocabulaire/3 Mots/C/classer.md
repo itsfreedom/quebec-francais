@@ -15,6 +15,9 @@ meaning: ["분류하다", "나누다"]
 display: "classer"
 display_ipa: "klase"
 display_say: "classer"
+meaning_en: "to classify, to sort"
+cognate: "classify"
+faux_ami: ""
 forms:
   - text: "classez"
     meaning: "분류하세요 (명령)"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 분류하다
 2. 나누다
+
+**English** · to classify, to sort · ≈ *classify* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

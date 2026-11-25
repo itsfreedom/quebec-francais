@@ -15,6 +15,9 @@ meaning: ["4월"]
 display: "avril"
 display_ipa: "avʁil"
 display_say: "avril"
+meaning_en: "April"
+cognate: "April"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 4월
+
+**English** · April · ≈ *April* (비슷한 영어 단어)
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

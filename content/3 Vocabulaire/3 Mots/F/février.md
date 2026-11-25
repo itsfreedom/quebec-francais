@@ -15,6 +15,9 @@ meaning: ["2월"]
 display: "février"
 display_ipa: "fevʁije"
 display_say: "février"
+meaning_en: "February"
+cognate: "February"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["fevrier"]
 
 ## 뜻
 1. 2월
+
+**English** · February · ≈ *February* (비슷한 영어 단어)
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

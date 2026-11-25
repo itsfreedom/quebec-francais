@@ -15,6 +15,9 @@ meaning: ["타밀어"]
 display: "le tamoul"
 display_ipa: "lə tamul"
 display_say: "le tamoul"
+meaning_en: "Tamil"
+cognate: "Tamil"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -28,6 +31,8 @@ aliases: ["le tamoul"]
 
 ## 뜻
 1. 타밀어
+
+**English** · Tamil · ≈ *Tamil* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 언어 이름은 남성 명사, 소문자: Je parle tamoul.

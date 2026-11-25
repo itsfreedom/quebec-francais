@@ -15,6 +15,9 @@ meaning: ["이메일"]
 display: "un courriel"
 display_ipa: "œ̃ kuʁjɛl"
 display_say: "un courriel"
+meaning_en: "email"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -28,6 +31,8 @@ un courriel [🔊 œ̃ kuʁjɛl](_Audio/un-courriel-72d3b9.m4a) · les courriels
 
 ## 뜻
 1. 이메일
+
+**English** · email
 
 ## 발음 · 쓰임
 🍁 퀘벡에서 e-mail 대신 쓰는 말

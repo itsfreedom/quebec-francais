@@ -15,6 +15,9 @@ meaning: ["필리핀"]
 display: "les Philippines (f.)"
 display_ipa: "le filipin"
 display_say: "les Philippines"
+meaning_en: "the Philippines"
+cognate: "the Philippines"
+faux_ami: ""
 forms: []
 examples:
   - text: "Je viens des Philippines."
@@ -30,6 +33,8 @@ aliases: ["philippines", "les Philippines"]
 
 ## 뜻
 1. 필리핀
+
+**English** · the Philippines · ≈ *the Philippines* (비슷한 영어 단어)
 
 ## 예문
 - **Je viens des Philippines.** — 나는 필리핀에서 왔어요.

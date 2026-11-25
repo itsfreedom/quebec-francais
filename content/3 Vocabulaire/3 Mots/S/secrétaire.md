@@ -15,6 +15,9 @@ meaning: ["비서", "사무 직원"]
 display: "un/une secrétaire"
 display_ipa: "œ̃ səkʁetɛʁ"
 display_say: "un secrétaire"
+meaning_en: "secretary"
+cognate: "secretary"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -29,6 +32,8 @@ un secrétaire [🔊 œ̃ səkʁetɛʁ](_Audio/un-secretaire-973b77.m4a) · une 
 ## 뜻
 1. 비서
 2. 사무 직원
+
+**English** · secretary · ≈ *secretary* (비슷한 영어 단어)
 
 ---
 📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

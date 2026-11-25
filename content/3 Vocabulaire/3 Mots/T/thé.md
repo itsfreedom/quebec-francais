@@ -15,6 +15,9 @@ meaning: ["차 (마시는 차)"]
 display: "le thé"
 display_ipa: "lə te"
 display_say: "le thé"
+meaning_en: "tea"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nourriture"
@@ -28,6 +31,8 @@ aliases: ["the", "le thé"]
 
 ## 뜻
 1. 차 (마시는 차)
+
+**English** · tea
 
 ## 발음 · 쓰임
 th = [t] ([[01 Consonnes|Consonnes]])

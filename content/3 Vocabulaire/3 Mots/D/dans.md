@@ -15,6 +15,9 @@ meaning: ["~안에", "~에"]
 display: "dans"
 display_ipa: "dɑ̃"
 display_say: "dans"
+meaning_en: "in"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. ~안에
 2. ~에
+
+**English** · in
 
 ---
 📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

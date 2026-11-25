@@ -15,6 +15,9 @@ meaning: ["집", "주거지"]
 display: "le domicile"
 display_ipa: "lə dɔmisil"
 display_say: "le domicile"
+meaning_en: "home, residence"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "le téléphone (domicile)"
@@ -31,6 +34,8 @@ aliases: ["le domicile"]
 ## 뜻
 1. 집
 2. 주거지
+
+**English** · home, residence
 
 ## 예문
 - **le téléphone (domicile)** — 집 전화

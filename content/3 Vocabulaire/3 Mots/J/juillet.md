@@ -15,6 +15,9 @@ meaning: ["7월"]
 display: "juillet"
 display_ipa: "ʒɥijɛ"
 display_say: "juillet"
+meaning_en: "July"
+cognate: "July"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 7월
+
+**English** · July · ≈ *July* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 ill = [ij] ([[03 Voyelles composées|Voyelles composées]])

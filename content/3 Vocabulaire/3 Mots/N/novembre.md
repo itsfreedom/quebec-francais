@@ -15,6 +15,9 @@ meaning: ["11월"]
 display: "novembre"
 display_ipa: "nɔvɑ̃bʁ"
 display_say: "novembre"
+meaning_en: "November"
+cognate: "November"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 11월
+
+**English** · November · ≈ *November* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 달 이름은 소문자로 써요 ([[06 Temps et jours#📌 날짜 말하는 법|날짜 말하는 법]])

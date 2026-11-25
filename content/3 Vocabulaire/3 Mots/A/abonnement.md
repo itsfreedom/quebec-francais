@@ -15,6 +15,9 @@ meaning: ["정기 회원권", "구독"]
 display: "un abonnement"
 display_ipa: "œ̃n‿abɔnmɑ̃"
 display_say: "un abonnement"
+meaning_en: "membership, subscription"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "un abonnement annuel"
@@ -31,6 +34,8 @@ l'abonnement [🔊 labɔnmɑ̃](_Audio/l-abonnement-0653b0.m4a) · un abonnement
 ## 뜻
 1. 정기 회원권
 2. 구독
+
+**English** · membership, subscription
 
 ## 예문
 - **un abonnement annuel** — 연간 회원권

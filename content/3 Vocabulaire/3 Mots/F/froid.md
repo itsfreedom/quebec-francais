@@ -15,6 +15,9 @@ meaning: ["추위"]
 display: "le froid"
 display_ipa: "lə fʁwa"
 display_say: "le froid"
+meaning_en: "cold"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Tu as froid ?"
@@ -30,6 +33,8 @@ aliases: ["le froid"]
 
 ## 뜻
 1. 추위
+
+**English** · cold
 
 ## 예문
 - **Tu as froid ?** — 추워?

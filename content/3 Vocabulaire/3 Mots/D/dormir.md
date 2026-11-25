@@ -15,6 +15,9 @@ meaning: ["자다"]
 display: "dormir"
 display_ipa: "dɔʁmiʁ"
 display_say: "dormir"
+meaning_en: "to sleep"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "il dort"
     meaning: "그가 자다"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 자다
+
+**English** · to sleep
 
 ## 형태
 | 형태 | 발음 | 뜻 |

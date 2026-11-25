@@ -15,6 +15,9 @@ meaning: ["사회", "회사"]
 display: "une société"
 display_ipa: "yn sɔsjete"
 display_say: "une société"
+meaning_en: "society, company"
+cognate: "society"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -29,6 +32,8 @@ une société [🔊 yn sɔsjete](_Audio/une-societe-4c9982.m4a) · les société
 ## 뜻
 1. 사회
 2. 회사
+
+**English** · society, company · ≈ *society* (비슷한 영어 단어)
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

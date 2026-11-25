@@ -15,6 +15,9 @@ meaning: ["호텔"]
 display: "un hôtel"
 display_ipa: "œ̃n‿otɛl"
 display_say: "un hôtel"
+meaning_en: "hotel"
+cognate: "hotel"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ l'hôtel [🔊 lotɛl](_Audio/l-hotel-a5bcc7.m4a) · un hôtel [🔊 œ̃n‿ot�
 
 ## 뜻
 1. 호텔
+
+**English** · hotel · ≈ *hotel* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 h는 소리 없어요 ([[02 Lettres muettes|Lettres muettes]])

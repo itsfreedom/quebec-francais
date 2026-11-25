@@ -15,6 +15,9 @@ meaning: ["운동", "스포츠"]
 display: "le sport"
 display_ipa: "lə spɔʁ"
 display_say: "le sport"
+meaning_en: "sport"
+cognate: "sport"
+faux_ami: ""
 forms: []
 examples:
   - text: "Quel sport tu aimes ?"
@@ -31,6 +34,8 @@ aliases: ["le sport"]
 ## 뜻
 1. 운동
 2. 스포츠
+
+**English** · sport · ≈ *sport* (비슷한 영어 단어)
 
 ## 예문
 - **Quel sport tu aimes ?** — 무슨 운동 좋아해?

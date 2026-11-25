@@ -15,6 +15,9 @@ meaning: ["이탈리아의", "이탈리아 사람"]
 display: "italien(ne)"
 display_ipa: "italjɛ̃"
 display_say: "italien"
+meaning_en: "Italian"
+cognate: "Italian"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Personnes"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 이탈리아의
 2. 이탈리아 사람
+
+**English** · Italian · ≈ *Italian* (비슷한 영어 단어)
 
 ---
 📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

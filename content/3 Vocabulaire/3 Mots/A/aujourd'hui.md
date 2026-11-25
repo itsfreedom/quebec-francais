@@ -15,6 +15,9 @@ meaning: ["오늘"]
 display: "aujourd'hui"
 display_ipa: "oʒuʁdɥi"
 display_say: "aujourd'hui"
+meaning_en: "today"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["aujourdhui"]
 
 ## 뜻
 1. 오늘
+
+**English** · today
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

@@ -15,6 +15,9 @@ meaning: ["탁자, 테이블"]
 display: "une table"
 display_ipa: "yn tabl"
 display_say: "une table"
+meaning_en: "table"
+cognate: "table"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ une table [🔊 yn tabl](_Audio/une-table-2d17f6.m4a) · les tables [🔊 le tab
 
 ## 뜻
 1. 탁자, 테이블
+
+**English** · table · ≈ *table* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 끝 e는 읽지 않아요 ([[02 Lettres muettes|Lettres muettes]])

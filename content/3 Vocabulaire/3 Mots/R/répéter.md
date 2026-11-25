@@ -15,6 +15,9 @@ meaning: ["따라 하다", "반복하다"]
 display: "répéter"
 display_ipa: "ʁepete"
 display_say: "répéter"
+meaning_en: "to repeat"
+cognate: "repeat"
+faux_ami: ""
 forms:
   - text: "répétez"
     meaning: "따라 하세요"
@@ -33,6 +36,8 @@ aliases: ["repeter"]
 ## 뜻
 1. 따라 하다
 2. 반복하다
+
+**English** · to repeat · ≈ *repeat* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

@@ -15,6 +15,9 @@ meaning: ["웃긴", "재미있는"]
 display: "drôle"
 display_ipa: "dʁol"
 display_say: "drôle"
+meaning_en: "funny"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -29,6 +32,8 @@ aliases: ["drole"]
 ## 뜻
 1. 웃긴
 2. 재미있는
+
+**English** · funny
 
 ---
 📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

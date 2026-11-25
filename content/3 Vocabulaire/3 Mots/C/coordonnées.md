@@ -15,6 +15,9 @@ meaning: ["연락처 (주소 · 전화번호 · 이메일)"]
 display: "des coordonnées (f.)"
 display_ipa: "de kɔɔʁdɔne"
 display_say: "des coordonnées"
+meaning_en: "contact details"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Donner ses coordonnées"
@@ -30,6 +33,8 @@ les coordonnées [🔊 le kɔɔʁdɔne](_Audio/les-coordonnees-52504b.m4a) · de
 
 ## 뜻
 1. 연락처 (주소 · 전화번호 · 이메일)
+
+**English** · contact details
 
 ## 예문
 - **Donner ses coordonnées** — 내 연락처 말하기

@@ -15,6 +15,9 @@ meaning: ["행복한"]
 display: "heureux / heureuse"
 display_ipa: "øʁø"
 display_say: "heureux"
+meaning_en: "happy"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 행복한
+
+**English** · happy
 
 ---
 📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#H|사전 H]]

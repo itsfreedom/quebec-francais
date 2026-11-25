@@ -15,6 +15,9 @@ meaning: ["우리는"]
 display: "nous"
 display_ipa: "nu"
 display_say: "nous"
+meaning_en: "we"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pronoms"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 우리는
+
+**English** · we
 
 ## 발음 · 쓰임
 끝 s 묵음, 모음 앞에서 [z] ([[01 Liaison|Liaison]])

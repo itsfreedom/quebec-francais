@@ -15,6 +15,9 @@ meaning: ["캐나다"]
 display: "le Canada"
 display_ipa: "lə kanada"
 display_say: "le Canada"
+meaning_en: "Canada"
+cognate: "Canada"
+faux_ami: ""
 forms: []
 examples:
   - text: "Je viens du Canada."
@@ -30,6 +33,8 @@ aliases: ["canada", "le Canada"]
 
 ## 뜻
 1. 캐나다
+
+**English** · Canada · ≈ *Canada* (비슷한 영어 단어)
 
 ## 예문
 - **Je viens du Canada.** — 나는 캐나다에서 왔어요.

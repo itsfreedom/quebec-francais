@@ -15,6 +15,9 @@ meaning: ["이란 사람"]
 display: "iranien(ne)"
 display_ipa: "iʁanjɛ̃"
 display_say: "iranien"
+meaning_en: "Iranian"
+cognate: "Iranian"
+faux_ami: ""
 forms:
   - text: "iranienne"
     meaning: "여성형"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 이란 사람
+
+**English** · Iranian · ≈ *Iranian* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

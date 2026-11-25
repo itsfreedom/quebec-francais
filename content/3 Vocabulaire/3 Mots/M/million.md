@@ -15,6 +15,9 @@ meaning: ["1 000 000"]
 display: "million"
 display_ipa: "miljɔ̃"
 display_say: "million"
+meaning_en: "million"
+cognate: "million"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 1 000 000
+
+**English** · million · ≈ *million* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 un million

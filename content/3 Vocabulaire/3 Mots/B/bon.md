@@ -15,6 +15,9 @@ meaning: ["좋은", "맛있는"]
 display: "bon(ne)"
 display_ipa: "bɔ̃"
 display_say: "bon"
+meaning_en: "good"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 좋은
 2. 맛있는
+
+**English** · good
 
 ---
 📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

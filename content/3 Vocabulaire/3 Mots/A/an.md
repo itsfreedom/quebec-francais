@@ -15,6 +15,9 @@ meaning: ["해", "살 (나이)"]
 display: "un an"
 display_ipa: "œ̃n‿ɑ̃"
 display_say: "un an"
+meaning_en: "year (of age)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "J'ai 7 ans."
@@ -31,6 +34,8 @@ l'an [🔊 lɑ̃](_Audio/l-an-215650.m4a) · un an [🔊 œ̃n‿ɑ̃](_Audio/un
 ## 뜻
 1. 해
 2. 살 (나이)
+
+**English** · year (of age)
 
 ## 예문
 - **J'ai 7 ans.** — 나는 7살이에요.

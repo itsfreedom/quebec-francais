@@ -15,6 +15,9 @@ meaning: ["서식", "신청서"]
 display: "un formulaire"
 display_ipa: "œ̃ fɔʁmylɛʁ"
 display_say: "un formulaire"
+meaning_en: "form"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "le formulaire d'inscription"
@@ -31,6 +34,8 @@ un formulaire [🔊 œ̃ fɔʁmylɛʁ](_Audio/un-formulaire-21b53a.m4a) · les f
 ## 뜻
 1. 서식
 2. 신청서
+
+**English** · form
 
 ## 예문
 - **le formulaire d'inscription** — 등록 신청서

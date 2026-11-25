@@ -15,6 +15,9 @@ meaning: ["매우", "아주"]
 display: "très"
 display_ipa: "tʁɛ"
 display_say: "très"
+meaning_en: "very"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Ça va très bien."
@@ -31,6 +34,8 @@ aliases: ["tres"]
 ## 뜻
 1. 매우
 2. 아주
+
+**English** · very
 
 ## 예문
 - **Ça va très bien.** — 아주 잘 지내요.

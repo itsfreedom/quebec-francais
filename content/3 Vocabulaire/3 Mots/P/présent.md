@@ -15,6 +15,9 @@ meaning: ["출석한, 있는", "현재의"]
 display: "présent(e)"
 display_ipa: "pʁezɑ̃"
 display_say: "présent"
+meaning_en: "present"
+cognate: "present"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Classe"
@@ -29,6 +32,8 @@ aliases: ["present"]
 ## 뜻
 1. 출석한, 있는
 2. 현재의
+
+**English** · present · ≈ *present* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 출석 부를 때 남자는 présent, 여자는 présente ([[01 Genre des noms|Genre des noms]])

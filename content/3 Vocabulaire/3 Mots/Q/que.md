@@ -15,6 +15,9 @@ meaning: ["~라는 것", "무엇"]
 display: "que"
 display_ipa: "kə"
 display_say: "que"
+meaning_en: "that, what"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. ~라는 것
 2. 무엇
+
+**English** · that, what
 
 ## 발음 · 쓰임
 모음 앞에서 qu' ([[02 Élision|Élision]])

@@ -15,6 +15,9 @@ meaning: ["예", "보기"]
 display: "un exemple"
 display_ipa: "œ̃n‿ɛɡzɑ̃pl"
 display_say: "un exemple"
+meaning_en: "example"
+cognate: "example"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -29,6 +32,8 @@ l'exemple [🔊 lɛɡzɑ̃pl](_Audio/l-exemple-3a059d.m4a) · un exemple [🔊 �
 ## 뜻
 1. 예
 2. 보기
+
+**English** · example · ≈ *example* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 ex = [ɛɡz], em = [ɑ̃]

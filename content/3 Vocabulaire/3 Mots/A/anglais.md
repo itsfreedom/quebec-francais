@@ -15,6 +15,9 @@ meaning: ["영어", "영국 사람"]
 display: "le anglais"
 display_ipa: "lə ɑ̃ɡlɛ"
 display_say: "le anglais"
+meaning_en: "English"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -29,6 +32,8 @@ aliases: ["le anglais"]
 ## 뜻
 1. 영어
 2. 영국 사람
+
+**English** · English
 
 ## 발음 · 쓰임
 언어 이름은 남성 명사, 소문자: Je parle anglais.

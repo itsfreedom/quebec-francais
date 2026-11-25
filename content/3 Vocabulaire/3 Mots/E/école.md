@@ -15,6 +15,9 @@ meaning: ["학교"]
 display: "une école"
 display_ipa: "ynekɔl"
 display_say: "une école"
+meaning_en: "school"
+cognate: "school"
+faux_ami: ""
 forms: []
 examples:
   - text: "une école de langue"
@@ -30,6 +33,8 @@ l'école [🔊 lekɔl](_Audio/l-ecole-883194.m4a) · une école [🔊 ynekɔl](_
 
 ## 뜻
 1. 학교
+
+**English** · school · ≈ *school* (비슷한 영어 단어)
 
 ## 예문
 - **une école de langue** — 어학원

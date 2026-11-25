@@ -15,6 +15,9 @@ meaning: ["채우다", "완성하다"]
 display: "compléter"
 display_ipa: "kɔ̃plete"
 display_say: "compléter"
+meaning_en: "to complete, to fill in"
+cognate: "complete"
+faux_ami: ""
 forms:
   - text: "complétez"
     meaning: "채우세요"
@@ -33,6 +36,8 @@ aliases: ["completer"]
 ## 뜻
 1. 채우다
 2. 완성하다
+
+**English** · to complete, to fill in · ≈ *complete* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

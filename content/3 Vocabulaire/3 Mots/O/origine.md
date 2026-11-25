@@ -15,6 +15,9 @@ meaning: ["출신"]
 display: "l'origine (f.)"
 display_ipa: "lɔʁiʒin"
 display_say: "l'origine"
+meaning_en: "origin"
+cognate: "origin"
+faux_ami: ""
 forms: []
 examples:
   - text: "le pays d'origine"
@@ -30,6 +33,8 @@ aliases: ["l'origine"]
 
 ## 뜻
 1. 출신
+
+**English** · origin · ≈ *origin* (비슷한 영어 단어)
 
 ## 예문
 - **le pays d'origine** — 출신 국가

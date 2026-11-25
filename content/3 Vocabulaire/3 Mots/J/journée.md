@@ -15,6 +15,9 @@ meaning: ["하루", "낮"]
 display: "une journée"
 display_ipa: "yn ʒuʁne"
 display_say: "une journée"
+meaning_en: "day (daytime)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Bonne journée !"
@@ -31,6 +34,8 @@ une journée [🔊 yn ʒuʁne](_Audio/une-journee-430ef4.m4a) · les journées [
 ## 뜻
 1. 하루
 2. 낮
+
+**English** · day (daytime)
 
 ## 예문
 - **Bonne journée !** — 좋은 하루 보내세요!

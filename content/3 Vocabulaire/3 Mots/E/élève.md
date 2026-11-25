@@ -15,6 +15,9 @@ meaning: ["학생 (수업 듣는 사람)"]
 display: "un/une élève"
 display_ipa: "œ̃n‿elɛv"
 display_say: "un élève"
+meaning_en: "student, pupil"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Nom de l'élève"
@@ -30,6 +33,8 @@ l'élève [🔊 lelɛv](_Audio/l-eleve-bef501.m4a) · un élève [🔊 œ̃n‿e
 
 ## 뜻
 1. 학생 (수업 듣는 사람)
+
+**English** · student, pupil
 
 ## 예문
 - **Nom de l'élève** — 학생 이름

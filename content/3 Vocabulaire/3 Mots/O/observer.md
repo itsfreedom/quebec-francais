@@ -15,6 +15,9 @@ meaning: ["관찰하다", "잘 보다"]
 display: "observer"
 display_ipa: "ɔpsɛʁve"
 display_say: "observer"
+meaning_en: "to observe"
+cognate: "observe"
+faux_ami: ""
 forms:
   - text: "observez"
     meaning: "잘 보세요"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 관찰하다
 2. 잘 보다
+
+**English** · to observe · ≈ *observe* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

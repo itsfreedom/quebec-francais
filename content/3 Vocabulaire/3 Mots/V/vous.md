@@ -15,6 +15,9 @@ meaning: ["당신 (존댓말)", "너희"]
 display: "vous"
 display_ipa: "vu"
 display_say: "vous"
+meaning_en: "you (formal, plural)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Et vous ?"
@@ -31,6 +34,8 @@ aliases: []
 ## 뜻
 1. 당신 (존댓말)
 2. 너희
+
+**English** · you (formal, plural)
 
 ## 예문
 - **Et vous ?** — 당신은요?

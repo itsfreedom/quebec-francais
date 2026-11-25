@@ -15,6 +15,9 @@ meaning: ["어제"]
 display: "hier"
 display_ipa: "jɛʁ"
 display_say: "hier"
+meaning_en: "yesterday"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 어제
+
+**English** · yesterday
 
 ## 발음 · 쓰임
 h 묵음 ([[02 Lettres muettes|Lettres muettes]])

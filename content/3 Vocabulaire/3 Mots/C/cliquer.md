@@ -15,6 +15,9 @@ meaning: ["클릭하다"]
 display: "cliquer"
 display_ipa: "klike"
 display_say: "cliquer"
+meaning_en: "to click"
+cognate: "click"
+faux_ami: ""
 forms:
   - text: "cliquez ici"
     meaning: "여기를 클릭하세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 클릭하다
+
+**English** · to click · ≈ *click* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

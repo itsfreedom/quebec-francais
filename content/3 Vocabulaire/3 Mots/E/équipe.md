@@ -15,6 +15,9 @@ meaning: ["팀", "조"]
 display: "une équipe"
 display_ipa: "ynekip"
 display_say: "une équipe"
+meaning_en: "team"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "en équipe de deux"
@@ -31,6 +34,8 @@ l'équipe [🔊 lekip](_Audio/l-equipe-ad6655.m4a) · une équipe [🔊 ynekip](
 ## 뜻
 1. 팀
 2. 조
+
+**English** · team
 
 ## 예문
 - **en équipe de deux** — 두 명씩 짝지어

@@ -51,22 +51,22 @@ aliases: ["어학원 등록"]
 > [!note]- 단어
 > | 단어 | 발음 | 뜻 |
 > |---|---|---|
-> | [[secrétariat\|le secrétariat]] | [🔊 lə səkʁetaʁja](_Audio/le-secretariat-186062.m4a) | 사무실 (학교 · 기관), 교무실 |
+> | [[secrétariat\|le secrétariat]] | [🔊 lə səkʁetaʁja](_Audio/le-secretariat-186062.m4a) | 사무실 (학교 · 기관), 교무실 · *secretariat* |
 > | [[à]] | [🔊 a](_Audio/a-c9759c.m4a) | ~에, ~에서, ~로 |
-> | [[inscription\|une inscription]] | [🔊 ynɛ̃skʁipsjɔ̃](_Audio/une-inscription-47da0d.m4a) | 등록 |
-> | [[secrétaire\|un/une secrétaire]] | [🔊 œ̃ səkʁetɛʁ](_Audio/un-secretaire-973b77.m4a) | 비서, 사무 직원 |
+> | [[inscription\|une inscription]] | [🔊 ynɛ̃skʁipsjɔ̃](_Audio/une-inscription-47da0d.m4a) | 등록 · *inscription* |
+> | [[secrétaire\|un/une secrétaire]] | [🔊 œ̃ səkʁetɛʁ](_Audio/un-secretaire-973b77.m4a) | 비서, 사무 직원 · *secretary* |
 > | [[oui]] | [🔊 wi](_Audio/oui-b2a5ab.m4a) | 네 |
 > | [[quel\|quel(le)]] | [🔊 kɛl](_Audio/quel-4e1555.m4a) | 어느, 무슨 |
 > | [[nom\|un nom]] | [🔊 œ̃ nɔ̃](_Audio/un-nom-3fe218.m4a) | 이름 |
 > | [[pays\|un pays]] | [🔊 œ̃ pei](_Audio/un-pays-0a3c21.m4a) | 나라 |
 > | [[venir]] | [🔊 vəniʁ](_Audio/venir-2108a7.m4a) | 오다 |
 > | [[Corée\|la Corée]] | [🔊 la kɔʁe](_Audio/la-coree-6b5d33.m4a) | 한국 |
-> | [[âge\|l'âge]] (m.) | [🔊 lɑʒ](_Audio/l-age-88a520.m4a) | 나이 |
+> | [[âge\|l'âge]] (m.) | [🔊 lɑʒ](_Audio/l-age-88a520.m4a) | 나이 · *age* |
 > | [[avoir]] | [🔊 avwaʁ](_Audio/avoir-f6d928.m4a) | 가지다, 있다 |
 > | [[an\|un an]] | [🔊 œ̃n‿ɑ̃](_Audio/un-an-4e5605.m4a) | 해, 살 (나이) |
-> | [[adresse\|une adresse]] | [🔊 ynadʁɛs](_Audio/une-adresse-9f738b.m4a) | 주소 |
+> | [[adresse\|une adresse]] | [🔊 ynadʁɛs](_Audio/une-adresse-9f738b.m4a) | 주소 · *address* |
 > | [[rue\|une rue]] | [🔊 yn ʁy](_Audio/une-rue-ae1aaa.m4a) | 길, 거리 |
 > | [[numéro\|un numéro]] | [🔊 œ̃ nymeʁo](_Audio/un-numero-51f314.m4a) | 번호 |
-> | [[téléphone\|un téléphone]] | [🔊 œ̃ telefɔn](_Audio/un-telephone-bdd741.m4a) | 전화 |
+> | [[téléphone\|un téléphone]] | [🔊 œ̃ telefɔn](_Audio/un-telephone-bdd741.m4a) | 전화 · *telephone* |
 
 <small>🎙 음성 · La secrétaire: 여성 · Moi: 남성</small>

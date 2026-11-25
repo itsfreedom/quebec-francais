@@ -15,6 +15,9 @@ meaning: ["타갈로그어 (필리핀)"]
 display: "le tagalog"
 display_ipa: "lə taɡalɔɡ"
 display_say: "le tagalog"
+meaning_en: "Tagalog"
+cognate: "Tagalog"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -28,6 +31,8 @@ aliases: ["le tagalog"]
 
 ## 뜻
 1. 타갈로그어 (필리핀)
+
+**English** · Tagalog · ≈ *Tagalog* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 언어 이름은 남성 명사, 소문자: Je parle tagalog.

@@ -15,6 +15,9 @@ meaning: ["스페인어"]
 display: "l'espagnol (m.)"
 display_ipa: "lɛspaɲɔl"
 display_say: "l'espagnol"
+meaning_en: "Spanish"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -28,6 +31,8 @@ aliases: ["l'espagnol"]
 
 ## 뜻
 1. 스페인어
+
+**English** · Spanish
 
 ---
 📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

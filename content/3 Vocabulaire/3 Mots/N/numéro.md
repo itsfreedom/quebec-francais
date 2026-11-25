@@ -15,6 +15,9 @@ meaning: ["번호"]
 display: "un numéro"
 display_ipa: "œ̃ nymeʁo"
 display_say: "un numéro"
+meaning_en: "number"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "le numéro de téléphone"
@@ -30,6 +33,8 @@ un numéro [🔊 œ̃ nymeʁo](_Audio/un-numero-51f314.m4a) · les numéros [�
 
 ## 뜻
 1. 번호
+
+**English** · number
 
 ## 예문
 - **le numéro de téléphone** — 전화번호

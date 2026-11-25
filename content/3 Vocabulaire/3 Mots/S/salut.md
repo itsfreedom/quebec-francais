@@ -15,6 +15,9 @@ meaning: ["안녕 (친한 사이, 만날 때·헤어질 때)"]
 display: "salut"
 display_ipa: "saly"
 display_say: "salut"
+meaning_en: "hi, bye"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Salut, ça va ?"
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 안녕 (친한 사이, 만날 때·헤어질 때)
+
+**English** · hi, bye
 
 ## 예문
 - **Salut, ça va ?** — 안녕, 잘 지내?

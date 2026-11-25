@@ -15,6 +15,9 @@ meaning: ["자, 여기 있어요", "바로 그거예요"]
 display: "voilà"
 display_ipa: "vwala"
 display_say: "voilà"
+meaning_en: "there you go, here it is"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Voilà votre café !"
@@ -31,6 +34,8 @@ aliases: ["voila"]
 ## 뜻
 1. 자, 여기 있어요
 2. 바로 그거예요
+
+**English** · there you go, here it is
 
 ## 예문
 - **Voilà votre café !** — 여기 커피 나왔어요!

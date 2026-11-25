@@ -15,6 +15,9 @@ meaning: ["이, 그 (여성)"]
 display: "cette"
 display_ipa: "sɛt"
 display_say: "cette"
+meaning_en: "this, that (fem.)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 이, 그 (여성)
+
+**English** · this, that (fem.)
 
 ---
 📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

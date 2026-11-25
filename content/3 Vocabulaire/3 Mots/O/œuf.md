@@ -15,6 +15,9 @@ meaning: ["달걀"]
 display: "un œuf"
 display_ipa: "œ̃n‿œf"
 display_say: "un œuf"
+meaning_en: "egg"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nourriture"
@@ -28,6 +31,8 @@ l'œuf [🔊 lœf](_Audio/l-uf-ece0fa.m4a) · un œuf [🔊 œ̃n‿œf](_Audio/
 
 ## 뜻
 1. 달걀
+
+**English** · egg
 
 ---
 📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

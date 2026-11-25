@@ -15,6 +15,9 @@ meaning: ["나는"]
 display: "je"
 display_ipa: "ʒə"
 display_say: "je"
+meaning_en: "I"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pronoms"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 나는
+
+**English** · I
 
 ## 발음 · 쓰임
 모음 앞에서 j' ([[02 Élision|Élision]])

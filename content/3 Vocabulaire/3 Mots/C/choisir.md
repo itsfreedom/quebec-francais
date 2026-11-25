@@ -15,6 +15,9 @@ meaning: ["고르다"]
 display: "choisir"
 display_ipa: "ʃwaziʁ"
 display_say: "choisir"
+meaning_en: "to choose"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "choisissez"
     meaning: "고르세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 고르다
+
+**English** · to choose
 
 ## 형태
 | 형태 | 발음 | 뜻 |

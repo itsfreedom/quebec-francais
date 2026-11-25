@@ -15,6 +15,9 @@ meaning: ["말하다"]
 display: "parler"
 display_ipa: "paʁle"
 display_say: "parler"
+meaning_en: "to speak"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "vous parlez"
     meaning: "당신이 말하다 / 말하세요"
@@ -40,6 +43,8 @@ aliases: []
 
 ## 뜻
 1. 말하다
+
+**English** · to speak
 
 ## 형태
 | 형태 | 발음 | 뜻 |

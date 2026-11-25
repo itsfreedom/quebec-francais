@@ -15,6 +15,9 @@ meaning: ["달러"]
 display: "un dollar"
 display_ipa: "œ̃ dɔlaʁ"
 display_say: "un dollar"
+meaning_en: "dollar"
+cognate: "dollar"
+faux_ami: ""
 forms: []
 examples:
   - text: "25 dollars par mois"
@@ -30,6 +33,8 @@ un dollar [🔊 œ̃ dɔlaʁ](_Audio/un-dollar-aa01a2.m4a) · les dollars [🔊 
 
 ## 뜻
 1. 달러
+
+**English** · dollar · ≈ *dollar* (비슷한 영어 단어)
 
 ## 예문
 - **25 dollars par mois** — 한 달에 25달러

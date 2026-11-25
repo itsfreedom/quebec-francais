@@ -15,6 +15,9 @@ meaning: ["부모 (한 사람)"]
 display: "un parent"
 display_ipa: "œ̃ paʁɑ̃"
 display_say: "un parent"
+meaning_en: "parent"
+cognate: "parent"
+faux_ami: ""
 forms: []
 examples:
   - text: "mes parents"
@@ -30,6 +33,8 @@ un parent [🔊 œ̃ paʁɑ̃](_Audio/un-parent-bbeafc.m4a) · les parents [🔊
 
 ## 뜻
 1. 부모 (한 사람)
+
+**English** · parent · ≈ *parent* (비슷한 영어 단어)
 
 ## 예문
 - **mes parents** — 내 부모님

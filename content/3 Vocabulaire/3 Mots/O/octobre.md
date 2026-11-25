@@ -15,6 +15,9 @@ meaning: ["10월"]
 display: "octobre"
 display_ipa: "ɔktɔbʁ"
 display_say: "octobre"
+meaning_en: "October"
+cognate: "October"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 10월
+
+**English** · October · ≈ *October* (비슷한 영어 단어)
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

@@ -15,6 +15,9 @@ meaning: ["칠레"]
 display: "le Chili"
 display_ipa: "lə ʃili"
 display_say: "le Chili"
+meaning_en: "Chile"
+cognate: "Chile"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -28,6 +31,8 @@ aliases: ["chili", "le Chili"]
 
 ## 뜻
 1. 칠레
+
+**English** · Chile · ≈ *Chile* (비슷한 영어 단어)
 
 ---
 📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

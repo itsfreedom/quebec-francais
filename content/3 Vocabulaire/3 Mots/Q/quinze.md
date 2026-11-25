@@ -15,6 +15,9 @@ meaning: ["15"]
 display: "quinze"
 display_ipa: "kɛ̃z"
 display_say: "quinze"
+meaning_en: "fifteen"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 15
+
+**English** · fifteen
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#Q|사전 Q]]

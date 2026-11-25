@@ -15,6 +15,9 @@ meaning: ["지난", "과거의"]
 display: "passé(e)"
 display_ipa: "pɑse"
 display_say: "passé"
+meaning_en: "past, last"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -29,6 +32,8 @@ aliases: ["passe"]
 ## 뜻
 1. 지난
 2. 과거의
+
+**English** · past, last
 
 ---
 📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

@@ -15,6 +15,9 @@ meaning: ["자음"]
 display: "une consonne"
 display_ipa: "yn kɔ̃sɔn"
 display_say: "une consonne"
+meaning_en: "consonant"
+cognate: "consonant"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Classe"
@@ -28,6 +31,8 @@ une consonne [🔊 yn kɔ̃sɔn](_Audio/une-consonne-74f671.m4a) · les consonne
 
 ## 뜻
 1. 자음
+
+**English** · consonant · ≈ *consonant* (비슷한 영어 단어)
 
 ---
 📂 주제: [[17 Classe|Classe]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

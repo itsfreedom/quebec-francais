@@ -15,6 +15,9 @@ meaning: ["무료의"]
 display: "gratuit(e)"
 display_ipa: "ɡʁatɥi"
 display_say: "gratuit"
+meaning_en: "free (no cost)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "deux mois gratuits"
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 무료의
+
+**English** · free (no cost)
 
 ## 예문
 - **deux mois gratuits** — 두 달 무료

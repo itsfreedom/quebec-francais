@@ -15,6 +15,9 @@ meaning: ["느린"]
 display: "lent(e)"
 display_ipa: "lɑ̃"
 display_say: "lent"
+meaning_en: "slow"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 느린
+
+**English** · slow
 
 ---
 📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#L|사전 L]]

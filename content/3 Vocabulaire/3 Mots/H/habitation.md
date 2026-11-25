@@ -15,6 +15,9 @@ meaning: ["주거", "사는 곳"]
 display: "une habitation"
 display_ipa: "ynabitasjɔ̃"
 display_say: "une habitation"
+meaning_en: "dwelling, housing"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "le type d'habitation"
@@ -31,6 +34,8 @@ l'habitation [🔊 labitasjɔ̃](_Audio/l-habitation-7e3dba.m4a) · une habitati
 ## 뜻
 1. 주거
 2. 사는 곳
+
+**English** · dwelling, housing
 
 ## 예문
 - **le type d'habitation** — 주거 형태

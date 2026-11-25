@@ -15,6 +15,9 @@ meaning: ["레바논 사람"]
 display: "libanais(e)"
 display_ipa: "libanɛ"
 display_say: "libanais"
+meaning_en: "Lebanese"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "libanaise"
     meaning: "여성형"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 레바논 사람
+
+**English** · Lebanese
 
 ## 형태
 | 형태 | 발음 | 뜻 |

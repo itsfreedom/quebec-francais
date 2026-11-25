@@ -15,6 +15,9 @@ meaning: ["그것", "이것"]
 display: "ça"
 display_ipa: "sa"
 display_say: "ça"
+meaning_en: "that, it"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Ça va ?"
@@ -33,6 +36,8 @@ aliases: ["ca"]
 ## 뜻
 1. 그것
 2. 이것
+
+**English** · that, it
 
 ## 예문
 - **Ça va ?** — 잘 지내?

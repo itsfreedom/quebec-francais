@@ -15,6 +15,9 @@ meaning: ["캐나다 사람", "캐나다의"]
 display: "canadien(ne)"
 display_ipa: "kanadjɛ̃"
 display_say: "canadien"
+meaning_en: "Canadian"
+cognate: "Canadian"
+faux_ami: ""
 forms:
   - text: "canadienne"
     meaning: "여성형"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 캐나다 사람
 2. 캐나다의
+
+**English** · Canadian · ≈ *Canadian* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

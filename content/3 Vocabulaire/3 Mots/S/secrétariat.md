@@ -15,6 +15,9 @@ meaning: ["사무실 (학교 · 기관)", "교무실"]
 display: "le secrétariat"
 display_ipa: "lə səkʁetaʁja"
 display_say: "le secrétariat"
+meaning_en: "office (school), secretariat"
+cognate: "secretariat"
+faux_ami: ""
 forms: []
 examples:
   - text: "Au secrétariat"
@@ -31,6 +34,8 @@ aliases: ["secretariat", "le secrétariat"]
 ## 뜻
 1. 사무실 (학교 · 기관)
 2. 교무실
+
+**English** · office (school), secretariat · ≈ *secretariat* (비슷한 영어 단어)
 
 ## 예문
 - **Au secrétariat** — 사무실에서 (11/19 대화 제목)

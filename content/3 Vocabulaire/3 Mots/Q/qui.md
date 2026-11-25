@@ -15,6 +15,9 @@ meaning: ["누구", "~하는 (사람)"]
 display: "qui"
 display_ipa: "ki"
 display_say: "qui"
+meaning_en: "who"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 누구
 2. ~하는 (사람)
+
+**English** · who
 
 ---
 📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#Q|사전 Q]]

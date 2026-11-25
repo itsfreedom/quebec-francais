@@ -15,6 +15,9 @@ meaning: ["가족"]
 display: "une famille"
 display_ipa: "yn famij"
 display_say: "une famille"
+meaning_en: "family"
+cognate: "family"
+faux_ami: ""
 forms: []
 examples:
   - text: "le nom de famille"
@@ -30,6 +33,8 @@ une famille [🔊 yn famij](_Audio/une-famille-3fadf8.m4a) · les familles [🔊
 
 ## 뜻
 1. 가족
+
+**English** · family · ≈ *family* (비슷한 영어 단어)
 
 ## 예문
 - **le nom de famille** — 성

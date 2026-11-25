@@ -15,6 +15,9 @@ meaning: ["얼마", "몇"]
 display: "combien"
 display_ipa: "kɔ̃bjɛ̃"
 display_say: "combien"
+meaning_en: "how much, how many"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "C'est combien ?"
@@ -31,6 +34,8 @@ aliases: []
 ## 뜻
 1. 얼마
 2. 몇
+
+**English** · how much, how many
 
 ## 예문
 - **C'est combien ?** — 얼마예요?

@@ -15,6 +15,9 @@ meaning: ["딱딱한", "어려운"]
 display: "dur(e)"
 display_ipa: "dyʁ"
 display_say: "dur"
+meaning_en: "hard"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 딱딱한
 2. 어려운
+
+**English** · hard
 
 ## 발음 · 쓰임
 퀘벡에서는 d + u가 [dz]에 가깝게 들려요 ([[05 Accent québécois|Accent québécois]])

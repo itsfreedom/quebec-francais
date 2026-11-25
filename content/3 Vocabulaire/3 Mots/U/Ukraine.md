@@ -15,6 +15,9 @@ meaning: ["우크라이나"]
 display: "l'Ukraine (f.)"
 display_ipa: "lykʁɛn"
 display_say: "l'Ukraine"
+meaning_en: "Ukraine"
+cognate: "Ukraine"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -28,6 +31,8 @@ aliases: ["ukraine", "l'Ukraine"]
 
 ## 뜻
 1. 우크라이나
+
+**English** · Ukraine · ≈ *Ukraine* (비슷한 영어 단어)
 
 ---
 📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#U|사전 U]]

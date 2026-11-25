@@ -15,6 +15,9 @@ meaning: ["사이트", "장소"]
 display: "un site"
 display_ipa: "œ̃ sit"
 display_say: "un site"
+meaning_en: "site, website"
+cognate: "site"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -29,6 +32,8 @@ un site [🔊 œ̃ sit](_Audio/un-site-cd9073.m4a) · les sites [🔊 le sit](_A
 ## 뜻
 1. 사이트
 2. 장소
+
+**English** · site, website · ≈ *site* (비슷한 영어 단어)
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

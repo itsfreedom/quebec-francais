@@ -15,6 +15,9 @@ meaning: ["오다"]
 display: "venir"
 display_ipa: "vəniʁ"
 display_say: "venir"
+meaning_en: "to come"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "je viens"
     meaning: "나는 온다"
@@ -44,6 +47,8 @@ aliases: []
 
 ## 뜻
 1. 오다
+
+**English** · to come
 
 ## 형태
 | 형태 | 발음 | 뜻 |

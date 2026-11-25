@@ -15,6 +15,9 @@ meaning: ["잘", "좋게"]
 display: "bien"
 display_ipa: "bjɛ̃"
 display_say: "bien"
+meaning_en: "well"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Ça va bien."
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 잘
 2. 좋게
+
+**English** · well
 
 ## 예문
 - **Ça va bien.** — 잘 지내요.

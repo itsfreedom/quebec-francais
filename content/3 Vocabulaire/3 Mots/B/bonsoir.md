@@ -15,6 +15,9 @@ meaning: ["안녕하세요 (저녁 인사)"]
 display: "bonsoir"
 display_ipa: "bɔ̃swaʁ"
 display_say: "bonsoir"
+meaning_en: "good evening"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Bonsoir, tout le monde !"
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 안녕하세요 (저녁 인사)
+
+**English** · good evening
 
 ## 예문
 - **Bonsoir, tout le monde !** — 모두들 안녕하세요

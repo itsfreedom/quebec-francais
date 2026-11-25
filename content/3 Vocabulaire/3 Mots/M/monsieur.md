@@ -15,6 +15,9 @@ meaning: ["~씨, 선생님 (남성 존칭)"]
 display: "monsieur"
 display_ipa: "məsjø"
 display_say: "monsieur"
+meaning_en: "Mr., sir"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Salutations"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. ~씨, 선생님 (남성 존칭)
+
+**English** · Mr., sir
 
 ## 발음 · 쓰임
 줄임말 **M.** · on은 [ə]로 읽어요 (예외)

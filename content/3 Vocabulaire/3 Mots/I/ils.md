@@ -15,6 +15,9 @@ meaning: ["그들은"]
 display: "ils"
 display_ipa: "il"
 display_say: "ils"
+meaning_en: "they"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pronoms"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 그들은
+
+**English** · they
 
 ## 발음 · 쓰임
 끝 s 묵음 ([[02 Lettres muettes|Lettres muettes]])

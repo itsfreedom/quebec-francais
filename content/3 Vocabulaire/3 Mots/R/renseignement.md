@@ -15,6 +15,9 @@ meaning: ["정보", "안내"]
 display: "un renseignement"
 display_ipa: "œ̃ ʁɑ̃sɛɲmɑ̃"
 display_say: "un renseignement"
+meaning_en: "information"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "les renseignements personnels"
@@ -31,6 +34,8 @@ un renseignement [🔊 œ̃ ʁɑ̃sɛɲmɑ̃](_Audio/un-renseignement-d3d80e.m4a
 ## 뜻
 1. 정보
 2. 안내
+
+**English** · information
 
 ## 예문
 - **les renseignements personnels** — 개인 정보

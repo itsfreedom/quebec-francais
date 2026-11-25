@@ -15,6 +15,9 @@ meaning: ["목마름"]
 display: "la soif"
 display_ipa: "la swaf"
 display_say: "la soif"
+meaning_en: "thirst"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Tu as soif ?"
@@ -30,6 +33,8 @@ aliases: ["la soif"]
 
 ## 뜻
 1. 목마름
+
+**English** · thirst
 
 ## 예문
 - **Tu as soif ?** — 목말라?

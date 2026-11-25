@@ -15,6 +15,9 @@ meaning: ["필리핀 사람"]
 display: "philippin(e)"
 display_ipa: "filipɛ̃"
 display_say: "philippin"
+meaning_en: "Filipino"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "philippine"
     meaning: "여성형"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 필리핀 사람
+
+**English** · Filipino
 
 ## 형태
 | 형태 | 발음 | 뜻 |

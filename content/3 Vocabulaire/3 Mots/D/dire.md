@@ -15,6 +15,9 @@ meaning: ["말하다"]
 display: "dire"
 display_ipa: "diʁ"
 display_say: "dire"
+meaning_en: "to say"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "on dit"
     meaning: "(사람들이) ~라고 말한다"
@@ -38,6 +41,8 @@ aliases: []
 
 ## 뜻
 1. 말하다
+
+**English** · to say
 
 ## 형태
 | 형태 | 발음 | 뜻 |

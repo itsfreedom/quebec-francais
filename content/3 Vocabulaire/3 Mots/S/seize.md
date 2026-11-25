@@ -15,6 +15,9 @@ meaning: ["16"]
 display: "seize"
 display_ipa: "sɛz"
 display_say: "seize"
+meaning_en: "sixteen"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 16
+
+**English** · sixteen
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

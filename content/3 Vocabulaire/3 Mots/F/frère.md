@@ -15,6 +15,9 @@ meaning: ["형제 (형·오빠·남동생)"]
 display: "un frère"
 display_ipa: "œ̃ fʁɛʁ"
 display_say: "un frère"
+meaning_en: "brother"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "vos frères et vos sœurs"
@@ -30,6 +33,8 @@ un frère [🔊 œ̃ fʁɛʁ](_Audio/un-frere-619283.m4a) · les frères [🔊 l
 
 ## 뜻
 1. 형제 (형·오빠·남동생)
+
+**English** · brother
 
 ## 예문
 - **vos frères et vos sœurs** — 당신의 형제자매

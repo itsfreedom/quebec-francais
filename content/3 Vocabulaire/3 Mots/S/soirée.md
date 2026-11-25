@@ -15,6 +15,9 @@ meaning: ["저녁 (시간)"]
 display: "une soirée"
 display_ipa: "yn swaʁe"
 display_say: "une soirée"
+meaning_en: "evening"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Bonne soirée !"
@@ -30,6 +33,8 @@ une soirée [🔊 yn swaʁe](_Audio/une-soiree-e2a3cf.m4a) · les soirées [🔊
 
 ## 뜻
 1. 저녁 (시간)
+
+**English** · evening
 
 ## 예문
 - **Bonne soirée !** — 좋은 저녁 보내세요!

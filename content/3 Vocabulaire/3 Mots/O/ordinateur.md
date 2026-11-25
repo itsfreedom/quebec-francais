@@ -15,6 +15,9 @@ meaning: ["컴퓨터"]
 display: "un ordinateur"
 display_ipa: "œ̃n‿ɔʁdinatœʁ"
 display_say: "un ordinateur"
+meaning_en: "computer"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ l'ordinateur [🔊 lɔʁdinatœʁ](_Audio/l-ordinateur-c12ec3.m4a) · un ordinat
 
 ## 뜻
 1. 컴퓨터
+
+**English** · computer
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

@@ -15,6 +15,9 @@ meaning: ["미친"]
 display: "fou / folle"
 display_ipa: "fu"
 display_say: "fou"
+meaning_en: "crazy"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 미친
+
+**English** · crazy
 
 ---
 📂 주제: [[14 Adjectifs|Adjectifs]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

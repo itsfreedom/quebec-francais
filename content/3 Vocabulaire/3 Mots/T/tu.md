@@ -15,6 +15,9 @@ meaning: ["너는"]
 display: "tu"
 display_ipa: "ty"
 display_say: "tu"
+meaning_en: "you"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pronoms"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 너는
+
+**English** · you
 
 ## 발음 · 쓰임
 🍁 퀘벡에서는 '츄'에 가깝게 ([[05 Accent québécois|Accent québécois]])

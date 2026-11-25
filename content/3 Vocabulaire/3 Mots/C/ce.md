@@ -15,6 +15,9 @@ meaning: ["이것, 그것"]
 display: "ce"
 display_ipa: "sə"
 display_say: "ce"
+meaning_en: "this, that, it"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "c'est"
     meaning: "이것은 ~이다"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 이것, 그것
+
+**English** · this, that, it
 
 ## 형태
 | 형태 | 발음 | 뜻 |

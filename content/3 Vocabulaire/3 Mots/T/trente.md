@@ -15,6 +15,9 @@ meaning: ["30"]
 display: "trente"
 display_ipa: "tʁɑ̃t"
 display_say: "trente"
+meaning_en: "thirty"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 30
+
+**English** · thirty
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#T|사전 T]]

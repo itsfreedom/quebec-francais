@@ -15,6 +15,9 @@ meaning: ["3월"]
 display: "mars"
 display_ipa: "maʁs"
 display_say: "mars"
+meaning_en: "March"
+cognate: "March"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 3월
+
+**English** · March · ≈ *March* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 끝 s를 읽어요 (예외)

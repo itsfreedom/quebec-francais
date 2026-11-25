@@ -15,6 +15,9 @@ meaning: ["기쁨"]
 display: "le plaisir"
 display_ipa: "lə plɛziʁ"
 display_say: "le plaisir"
+meaning_en: "pleasure"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Avec plaisir !"
@@ -30,6 +33,8 @@ aliases: ["le plaisir"]
 
 ## 뜻
 1. 기쁨
+
+**English** · pleasure
 
 ## 예문
 - **Avec plaisir !** — 기꺼이요!

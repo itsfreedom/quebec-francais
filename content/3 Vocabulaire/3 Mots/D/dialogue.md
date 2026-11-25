@@ -15,6 +15,9 @@ meaning: ["대화", "대화문"]
 display: "un dialogue"
 display_ipa: "œ̃ djalɔɡ"
 display_say: "un dialogue"
+meaning_en: "dialogue"
+cognate: "dialogue"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -29,6 +32,8 @@ un dialogue [🔊 œ̃ djalɔɡ](_Audio/un-dialogue-e8ebdb.m4a) · les dialogues
 ## 뜻
 1. 대화
 2. 대화문
+
+**English** · dialogue · ≈ *dialogue* (비슷한 영어 단어)
 
 ---
 📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

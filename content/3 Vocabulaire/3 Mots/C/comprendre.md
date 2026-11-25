@@ -15,6 +15,9 @@ meaning: ["이해하다"]
 display: "comprendre"
 display_ipa: "kɔ̃pʁɑ̃dʁ"
 display_say: "comprendre"
+meaning_en: "to understand"
+cognate: "comprehend"
+faux_ami: ""
 forms:
   - text: "je ne comprends pas"
     meaning: "이해가 안 돼요"
@@ -34,6 +37,8 @@ aliases: []
 
 ## 뜻
 1. 이해하다
+
+**English** · to understand · ≈ *comprehend* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

@@ -15,6 +15,9 @@ meaning: ["대로", "큰길"]
 display: "un boulevard"
 display_ipa: "œ̃ bulvaʁ"
 display_say: "un boulevard"
+meaning_en: "boulevard"
+cognate: "boulevard"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -29,6 +32,8 @@ un boulevard [🔊 œ̃ bulvaʁ](_Audio/un-boulevard-ab4bb8.m4a) · les boulevar
 ## 뜻
 1. 대로
 2. 큰길
+
+**English** · boulevard · ≈ *boulevard* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 줄임말 **boul.** · 끝 d 묵음 ([[02 Lettres muettes|Lettres muettes]])

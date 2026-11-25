@@ -15,6 +15,9 @@ meaning: ["물"]
 display: "l'eau (f.)"
 display_ipa: "lo"
 display_say: "l'eau"
+meaning_en: "water"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nourriture"
@@ -28,6 +31,8 @@ aliases: ["l'eau"]
 
 ## 뜻
 1. 물
+
+**English** · water
 
 ---
 📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

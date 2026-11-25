@@ -15,6 +15,9 @@ meaning: ["~씨, 부인 (여성 존칭)"]
 display: "madame"
 display_ipa: "madam"
 display_say: "madame"
+meaning_en: "Mrs., madam"
+cognate: "madam"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Salutations"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. ~씨, 부인 (여성 존칭)
+
+**English** · Mrs., madam · ≈ *madam* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 줄임말 **Mme**

@@ -15,6 +15,9 @@ meaning: ["생선, 물고기"]
 display: "un poisson"
 display_ipa: "œ̃ pwasɔ̃"
 display_say: "un poisson"
+meaning_en: "fish"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nourriture"
@@ -28,6 +31,8 @@ un poisson [🔊 œ̃ pwasɔ̃](_Audio/un-poisson-9bfa5c.m4a) · les poissons [�
 
 ## 뜻
 1. 생선, 물고기
+
+**English** · fish
 
 ## 발음 · 쓰임
 ss = [s] · 모음 사이 s 하나는 [z] (poison [pwazɔ̃] 독)

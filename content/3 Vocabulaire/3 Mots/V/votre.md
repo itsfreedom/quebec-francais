@@ -15,6 +15,9 @@ meaning: ["당신의"]
 display: "votre"
 display_ipa: "vɔtʁ"
 display_say: "votre"
+meaning_en: "your (formal)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pronoms"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 당신의
+
+**English** · your (formal)
 
 ---
 📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

@@ -15,6 +15,9 @@ meaning: ["파키스탄 사람"]
 display: "pakistanais(e)"
 display_ipa: "pakistanɛ"
 display_say: "pakistanais"
+meaning_en: "Pakistani"
+cognate: "Pakistani"
+faux_ami: ""
 forms:
   - text: "pakistanaise"
     meaning: "여성형"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 파키스탄 사람
+
+**English** · Pakistani · ≈ *Pakistani* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

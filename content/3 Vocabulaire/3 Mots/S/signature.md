@@ -15,6 +15,9 @@ meaning: ["서명"]
 display: "une signature"
 display_ipa: "yn siɲatyʁ"
 display_say: "une signature"
+meaning_en: "signature"
+cognate: "signature"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -28,6 +31,8 @@ une signature [🔊 yn siɲatyʁ](_Audio/une-signature-10e468.m4a) · les signat
 
 ## 뜻
 1. 서명
+
+**English** · signature · ≈ *signature* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 gn = [ɲ] ([[01 Consonnes|Consonnes]])

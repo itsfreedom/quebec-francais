@@ -15,6 +15,9 @@ meaning: ["읽다"]
 display: "lire"
 display_ipa: "liʁ"
 display_say: "lire"
+meaning_en: "to read"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "lisez"
     meaning: "읽으세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 읽다
+
+**English** · to read
 
 ## 형태
 | 형태 | 발음 | 뜻 |

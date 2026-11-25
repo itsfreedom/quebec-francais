@@ -15,6 +15,9 @@ meaning: ["국적"]
 display: "une nationalité"
 display_ipa: "yn nasjɔnalite"
 display_say: "une nationalité"
+meaning_en: "nationality"
+cognate: "nationality"
+faux_ami: ""
 forms: []
 examples:
   - text: "Quelle est votre nationalité ?"
@@ -30,6 +33,8 @@ une nationalité [🔊 yn nasjɔnalite](_Audio/une-nationalite-6da5ef.m4a) · le
 
 ## 뜻
 1. 국적
+
+**English** · nationality · ≈ *nationality* (비슷한 영어 단어)
 
 ## 예문
 - **Quelle est votre nationalité ?** — 국적이 어떻게 되세요?

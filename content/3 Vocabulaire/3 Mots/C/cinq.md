@@ -15,6 +15,9 @@ meaning: ["5"]
 display: "cinq"
 display_ipa: "sɛ̃k"
 display_say: "cinq"
+meaning_en: "five"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 5
+
+**English** · five
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

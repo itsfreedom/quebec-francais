@@ -15,6 +15,9 @@ meaning: ["~에 따라"]
 display: "selon"
 display_ipa: "səlɔ̃"
 display_say: "selon"
+meaning_en: "according to"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. ~에 따라
+
+**English** · according to
 
 ---
 📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

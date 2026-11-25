@@ -15,6 +15,9 @@ meaning: ["고마워요"]
 display: "merci"
 display_ipa: "mɛʁsi"
 display_say: "merci"
+meaning_en: "thank you"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Ça va bien, merci."
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 고마워요
+
+**English** · thank you
 
 ## 예문
 - **Ça va bien, merci.** — 잘 지내요, 고마워요.

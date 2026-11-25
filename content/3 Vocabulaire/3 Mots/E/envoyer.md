@@ -15,6 +15,9 @@ meaning: ["보내다"]
 display: "envoyer"
 display_ipa: "ɑ̃vwaje"
 display_say: "envoyer"
+meaning_en: "to send"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "envoyez"
     meaning: "보내세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 보내다
+
+**English** · to send
 
 ## 형태
 | 형태 | 발음 | 뜻 |

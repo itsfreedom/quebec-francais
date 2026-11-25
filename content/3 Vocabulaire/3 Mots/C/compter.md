@@ -15,6 +15,9 @@ meaning: ["세다", "숫자를 세다"]
 display: "compter"
 display_ipa: "kɔ̃te"
 display_say: "compter"
+meaning_en: "to count"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Vous pouvez compter en français ?"
@@ -31,6 +34,8 @@ aliases: []
 ## 뜻
 1. 세다
 2. 숫자를 세다
+
+**English** · to count
 
 ## 예문
 - **Vous pouvez compter en français ?** — 불어로 숫자를 셀 수 있어요?

@@ -15,6 +15,9 @@ meaning: ["너 (강조)"]
 display: "toi"
 display_ipa: "twa"
 display_say: "toi"
+meaning_en: "you"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Et toi ?"
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 너 (강조)
+
+**English** · you
 
 ## 예문
 - **Et toi ?** — 너는?

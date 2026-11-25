@@ -15,6 +15,9 @@ meaning: ["~와 함께"]
 display: "avec"
 display_ipa: "avɛk"
 display_say: "avec"
+meaning_en: "with"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Avec plaisir."
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. ~와 함께
+
+**English** · with
 
 ## 예문
 - **Avec plaisir.** — 기꺼이요.

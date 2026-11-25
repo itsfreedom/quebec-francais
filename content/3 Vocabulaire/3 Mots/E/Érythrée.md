@@ -15,6 +15,9 @@ meaning: ["에리트레아"]
 display: "l'Érythrée (f.)"
 display_ipa: "leʁitʁe"
 display_say: "l'Érythrée"
+meaning_en: "Eritrea"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -28,6 +31,8 @@ aliases: ["erythree", "l'Érythrée"]
 
 ## 뜻
 1. 에리트레아
+
+**English** · Eritrea
 
 ---
 📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

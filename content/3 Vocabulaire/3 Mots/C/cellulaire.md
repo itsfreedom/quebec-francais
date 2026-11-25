@@ -15,6 +15,9 @@ meaning: ["휴대전화"]
 display: "un cellulaire"
 display_ipa: "œ̃ selylɛʁ"
 display_say: "un cellulaire"
+meaning_en: "cell phone"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -28,6 +31,8 @@ un cellulaire [🔊 œ̃ selylɛʁ](_Audio/un-cellulaire-cbbe76.m4a) · les cell
 
 ## 뜻
 1. 휴대전화
+
+**English** · cell phone
 
 ## 발음 · 쓰임
 🍁 퀘벡에서는 cell [sɛl]이라고도 해요

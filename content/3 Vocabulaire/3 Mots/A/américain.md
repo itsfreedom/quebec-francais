@@ -15,6 +15,9 @@ meaning: ["미국 사람"]
 display: "américain(e)"
 display_ipa: "ameʁikɛ̃"
 display_say: "américain"
+meaning_en: "American"
+cognate: "American"
+faux_ami: ""
 forms:
   - text: "américaine"
     meaning: "여성형"
@@ -32,6 +35,8 @@ aliases: ["americain"]
 
 ## 뜻
 1. 미국 사람
+
+**English** · American · ≈ *American* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

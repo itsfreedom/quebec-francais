@@ -15,6 +15,9 @@ meaning: ["~해야 한다"]
 display: "devoir"
 display_ipa: "dəvwaʁ"
 display_say: "devoir"
+meaning_en: "must, to have to"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "vous devez"
     meaning: "당신은 ~해야 한다"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. ~해야 한다
+
+**English** · must, to have to
 
 ## 형태
 | 형태 | 발음 | 뜻 |

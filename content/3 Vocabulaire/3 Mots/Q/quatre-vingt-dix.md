@@ -15,6 +15,9 @@ meaning: ["90"]
 display: "quatre-vingt-dix"
 display_ipa: "katʁə vɛ̃ dis"
 display_say: "quatre-vingt-dix"
+meaning_en: "ninety"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 90
+
+**English** · ninety
 
 ## 발음 · 쓰임
 4 × 20 + 10

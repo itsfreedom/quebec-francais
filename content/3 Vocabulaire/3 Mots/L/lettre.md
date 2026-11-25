@@ -15,6 +15,9 @@ meaning: ["글자", "편지"]
 display: "une lettre"
 display_ipa: "yn lɛtʁ"
 display_say: "une lettre"
+meaning_en: "letter"
+cognate: "letter"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Classe"
@@ -29,6 +32,8 @@ une lettre [🔊 yn lɛtʁ](_Audio/une-lettre-708d48.m4a) · les lettres [🔊 l
 ## 뜻
 1. 글자
 2. 편지
+
+**English** · letter · ≈ *letter* (비슷한 영어 단어)
 
 ---
 📂 주제: [[17 Classe|Classe]] · 🔤 [[3 Vocabulaire/3 Mots/index#L|사전 L]]

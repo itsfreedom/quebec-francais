@@ -15,6 +15,9 @@ meaning: ["배"]
 display: "un bateau"
 display_ipa: "œ̃ bato"
 display_say: "un bateau"
+meaning_en: "boat"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ un bateau [🔊 œ̃ bato](_Audio/un-bateau-e4252f.m4a) · les bateaux [🔊 le 
 
 ## 뜻
 1. 배
+
+**English** · boat
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

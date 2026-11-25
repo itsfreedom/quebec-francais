@@ -15,6 +15,9 @@ meaning: ["페르시아어 (이란어)"]
 display: "le persan"
 display_ipa: "lə pɛʁsɑ̃"
 display_say: "le persan"
+meaning_en: "Persian"
+cognate: "Persian"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -28,6 +31,8 @@ aliases: ["le persan"]
 
 ## 뜻
 1. 페르시아어 (이란어)
+
+**English** · Persian · ≈ *Persian* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 언어 이름은 남성 명사, 소문자: Je parle persan.

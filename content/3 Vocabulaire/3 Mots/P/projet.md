@@ -15,6 +15,9 @@ meaning: ["프로젝트", "계획"]
 display: "un projet"
 display_ipa: "œ̃ pʁɔʒɛ"
 display_say: "un projet"
+meaning_en: "project, plan"
+cognate: "project"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -29,6 +32,8 @@ un projet [🔊 œ̃ pʁɔʒɛ](_Audio/un-projet-14b93f.m4a) · les projets [�
 ## 뜻
 1. 프로젝트
 2. 계획
+
+**English** · project, plan · ≈ *project* (비슷한 영어 단어)
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

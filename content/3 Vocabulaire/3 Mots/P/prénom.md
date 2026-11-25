@@ -15,6 +15,9 @@ meaning: ["이름 (성을 뺀 이름)"]
 display: "un prénom"
 display_ipa: "œ̃ pʁenɔ̃"
 display_say: "un prénom"
+meaning_en: "first name"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -28,6 +31,8 @@ un prénom [🔊 œ̃ pʁenɔ̃](_Audio/un-prenom-a205eb.m4a) · les prénoms [�
 
 ## 뜻
 1. 이름 (성을 뺀 이름)
+
+**English** · first name
 
 ## 발음 · 쓰임
 nom de famille = 성. 질문의 nom은 보통 전체 이름 ([[nom]])

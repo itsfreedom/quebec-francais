@@ -15,6 +15,9 @@ meaning: ["8월"]
 display: "août"
 display_ipa: "u"
 display_say: "août"
+meaning_en: "August"
+cognate: "August"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["aout"]
 
 ## 뜻
 1. 8월
+
+**English** · August · ≈ *August* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 [u] 또는 [ut]. 퀘벡에서는 [ut]가 흔해요

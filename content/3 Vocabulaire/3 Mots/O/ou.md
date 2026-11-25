@@ -15,6 +15,9 @@ meaning: ["또는", "아니면"]
 display: "ou"
 display_ipa: "u"
 display_say: "ou"
+meaning_en: "or"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 또는
 2. 아니면
+
+**English** · or
 
 ## 발음 · 쓰임
 où(어디)와 소리가 같아요

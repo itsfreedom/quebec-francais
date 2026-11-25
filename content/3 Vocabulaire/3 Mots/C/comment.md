@@ -15,6 +15,9 @@ meaning: ["어떻게"]
 display: "comment"
 display_ipa: "kɔmɑ̃"
 display_say: "comment"
+meaning_en: "how"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Comment ça va ?"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 어떻게
+
+**English** · how
 
 ## 예문
 - **Comment ça va ?** — 어떻게 지내요?

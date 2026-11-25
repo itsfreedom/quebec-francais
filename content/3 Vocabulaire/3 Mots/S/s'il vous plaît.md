@@ -15,6 +15,9 @@ meaning: ["부탁합니다", "~해 주세요"]
 display: "s'il vous plaît"
 display_ipa: "sil vu plɛ"
 display_say: "s'il vous plaît"
+meaning_en: "please"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Salutations"
@@ -29,6 +32,8 @@ aliases: ["sil-vous-plait"]
 ## 뜻
 1. 부탁합니다
 2. ~해 주세요
+
+**English** · please
 
 ## 발음 · 쓰임
 친한 사이에는 s'il te plaît

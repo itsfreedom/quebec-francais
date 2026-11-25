@@ -15,6 +15,9 @@ meaning: ["프랑스어", "프랑스의"]
 display: "français(e)"
 display_ipa: "fʁɑ̃sɛ"
 display_say: "français"
+meaning_en: "French"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Personnes"
@@ -29,6 +32,8 @@ aliases: ["francais"]
 ## 뜻
 1. 프랑스어
 2. 프랑스의
+
+**English** · French
 
 ---
 📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

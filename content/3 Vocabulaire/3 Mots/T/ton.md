@@ -15,6 +15,9 @@ meaning: ["너의"]
 display: "ton / ta"
 display_ipa: "tɔ̃"
 display_say: "ton"
+meaning_en: "your"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Quel est ton nom ?"
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 너의
+
+**English** · your
 
 ## 예문
 - **Quel est ton nom ?** — 네 이름이 뭐야?

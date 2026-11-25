@@ -15,6 +15,9 @@ meaning: ["그녀는"]
 display: "elle"
 display_ipa: "ɛl"
 display_say: "elle"
+meaning_en: "she"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pronoms"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 그녀는
+
+**English** · she
 
 ---
 📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[3 Vocabulaire/3 Mots/index#E|사전 E]]

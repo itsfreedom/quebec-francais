@@ -15,6 +15,9 @@ meaning: ["놓다", "배치하다"]
 display: "placer"
 display_ipa: "plase"
 display_say: "placer"
+meaning_en: "to place"
+cognate: "place"
+faux_ami: ""
 forms:
   - text: "placez"
     meaning: "놓으세요"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 놓다
 2. 배치하다
+
+**English** · to place · ≈ *place* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

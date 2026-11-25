@@ -15,6 +15,9 @@ meaning: ["언제"]
 display: "quand"
 display_ipa: "kɑ̃"
 display_say: "quand"
+meaning_en: "when"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 언제
+
+**English** · when
 
 ---
 📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#Q|사전 Q]]

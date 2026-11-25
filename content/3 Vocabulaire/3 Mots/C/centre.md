@@ -15,6 +15,9 @@ meaning: ["센터", "중심"]
 display: "un centre"
 display_ipa: "œ̃ sɑ̃tʁ"
 display_say: "un centre"
+meaning_en: "centre"
+cognate: "centre"
+faux_ami: ""
 forms: []
 examples:
   - text: "le centre sportif"
@@ -31,6 +34,8 @@ un centre [🔊 œ̃ sɑ̃tʁ](_Audio/un-centre-e26118.m4a) · les centres [🔊
 ## 뜻
 1. 센터
 2. 중심
+
+**English** · centre · ≈ *centre* (비슷한 영어 단어)
 
 ## 예문
 - **le centre sportif** — 스포츠 센터

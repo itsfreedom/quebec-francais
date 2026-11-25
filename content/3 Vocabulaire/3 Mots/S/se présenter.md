@@ -15,6 +15,9 @@ meaning: ["자기소개하다"]
 display: "se présenter"
 display_ipa: "sə pʁezɑ̃te"
 display_say: "se présenter"
+meaning_en: "to introduce oneself"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "je me présente"
     meaning: "나를 소개할게요"
@@ -44,6 +47,8 @@ aliases: ["se-presenter"]
 
 ## 뜻
 1. 자기소개하다
+
+**English** · to introduce oneself
 
 ## 형태
 | 형태 | 발음 | 뜻 |

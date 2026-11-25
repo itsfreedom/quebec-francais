@@ -15,6 +15,9 @@ meaning: ["여성의"]
 display: "féminin(e)"
 display_ipa: "feminɛ̃"
 display_say: "féminin"
+meaning_en: "feminine"
+cognate: "feminine"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Classe"
@@ -28,6 +31,8 @@ aliases: ["feminin"]
 
 ## 뜻
 1. 여성의
+
+**English** · feminine · ≈ *feminine* (비슷한 영어 단어)
 
 ---
 📂 주제: [[17 Classe|Classe]] · 🔤 [[3 Vocabulaire/3 Mots/index#F|사전 F]]

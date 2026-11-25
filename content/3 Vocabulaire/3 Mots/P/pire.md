@@ -15,6 +15,9 @@ meaning: ["더 나쁜"]
 display: "pire"
 display_ipa: "piʁ"
 display_say: "pire"
+meaning_en: "worse"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Pas pire !"
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 더 나쁜
+
+**English** · worse
 
 ## 예문
 - **Pas pire !** — 괜찮아, 나쁘지 않아 (퀘벡)

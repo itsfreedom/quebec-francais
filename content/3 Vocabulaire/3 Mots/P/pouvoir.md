@@ -15,6 +15,9 @@ meaning: ["~할 수 있다"]
 display: "pouvoir"
 display_ipa: "puvwaʁ"
 display_say: "pouvoir"
+meaning_en: "can, to be able to"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "je peux"
     meaning: "나는 할 수 있다"
@@ -36,6 +39,8 @@ aliases: []
 
 ## 뜻
 1. ~할 수 있다
+
+**English** · can, to be able to
 
 ## 형태
 | 형태 | 발음 | 뜻 |

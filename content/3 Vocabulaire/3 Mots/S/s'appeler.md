@@ -15,6 +15,9 @@ meaning: ["이름이 ~이다"]
 display: "s'appeler"
 display_ipa: "saple"
 display_say: "s'appeler"
+meaning_en: "to be called"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "je m'appelle"
     meaning: "내 이름은 ~이다"
@@ -36,6 +39,8 @@ aliases: ["sappeler"]
 
 ## 뜻
 1. 이름이 ~이다
+
+**English** · to be called
 
 ## 형태
 | 형태 | 발음 | 뜻 |

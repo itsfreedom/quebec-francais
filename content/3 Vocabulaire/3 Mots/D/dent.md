@@ -15,6 +15,9 @@ meaning: ["이", "치아"]
 display: "une dent"
 display_ipa: "yn dɑ̃"
 display_say: "une dent"
+meaning_en: "tooth"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Corps"
@@ -29,6 +32,8 @@ une dent [🔊 yn dɑ̃](_Audio/une-dent-fcf8c6.m4a) · les dents [🔊 le dɑ̃
 ## 뜻
 1. 이
 2. 치아
+
+**English** · tooth
 
 ---
 📂 주제: [[15 Corps|Corps]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

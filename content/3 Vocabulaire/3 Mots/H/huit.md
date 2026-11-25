@@ -15,6 +15,9 @@ meaning: ["8"]
 display: "huit"
 display_ipa: "ɥit"
 display_say: "huit"
+meaning_en: "eight"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 8
+
+**English** · eight
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#H|사전 H]]

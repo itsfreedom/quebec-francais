@@ -15,6 +15,9 @@ meaning: ["아름다운", "멋진"]
 display: "beau / belle"
 display_ipa: "bo"
 display_say: "beau"
+meaning_en: "beautiful, handsome"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "une belle maison"
@@ -31,6 +34,8 @@ aliases: []
 ## 뜻
 1. 아름다운
 2. 멋진
+
+**English** · beautiful, handsome
 
 ## 예문
 - **une belle maison** — 예쁜 집

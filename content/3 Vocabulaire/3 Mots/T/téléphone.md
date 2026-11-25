@@ -15,6 +15,9 @@ meaning: ["전화"]
 display: "un téléphone"
 display_ipa: "œ̃ telefɔn"
 display_say: "un téléphone"
+meaning_en: "telephone"
+cognate: "telephone"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -28,6 +31,8 @@ un téléphone [🔊 œ̃ telefɔn](_Audio/un-telephone-bdd741.m4a) · les tél�
 
 ## 뜻
 1. 전화
+
+**English** · telephone · ≈ *telephone* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 ph = [f]

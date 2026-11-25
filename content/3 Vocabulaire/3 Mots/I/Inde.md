@@ -15,6 +15,9 @@ meaning: ["인도"]
 display: "l'Inde (f.)"
 display_ipa: "lɛ̃d"
 display_say: "l'Inde"
+meaning_en: "India"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -28,6 +31,8 @@ aliases: ["inde", "l'Inde"]
 
 ## 뜻
 1. 인도
+
+**English** · India
 
 ---
 📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

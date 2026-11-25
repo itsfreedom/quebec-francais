@@ -15,6 +15,9 @@ meaning: ["아니요"]
 display: "non"
 display_ipa: "nɔ̃"
 display_say: "non"
+meaning_en: "no"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Non, merci."
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 아니요
+
+**English** · no
 
 ## 예문
 - **Non, merci.** — 아니요, 괜찮아요.

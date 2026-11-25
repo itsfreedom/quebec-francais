@@ -15,6 +15,9 @@ meaning: ["어느", "무슨"]
 display: "quel(le)"
 display_ipa: "kɛl"
 display_say: "quel"
+meaning_en: "which, what"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "De quel pays tu viens ?"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 어느
 2. 무슨
+
+**English** · which, what
 
 ## 예문
 - **De quel pays tu viens ?** — 어느 나라에서 왔어?

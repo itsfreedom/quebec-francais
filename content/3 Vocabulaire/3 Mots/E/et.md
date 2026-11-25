@@ -15,6 +15,9 @@ meaning: ["그리고"]
 display: "et"
 display_ipa: "e"
 display_say: "et"
+meaning_en: "and"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "toi et moi"
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 그리고
+
+**English** · and
 
 ## 예문
 - **toi et moi** — 너와 나

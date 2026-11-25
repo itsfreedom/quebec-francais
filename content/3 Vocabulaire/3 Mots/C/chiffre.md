@@ -15,6 +15,9 @@ meaning: ["숫자 (0~9 한 자리)"]
 display: "un chiffre"
 display_ipa: "œ̃ ʃifʁ"
 display_say: "un chiffre"
+meaning_en: "digit"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ un chiffre [🔊 œ̃ ʃifʁ](_Audio/un-chiffre-982cbb.m4a) · les chiffres [�
 
 ## 뜻
 1. 숫자 (0~9 한 자리)
+
+**English** · digit
 
 ## 발음 · 쓰임
 chiffre = 0~9, nombre = 수 전체

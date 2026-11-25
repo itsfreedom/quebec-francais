@@ -15,6 +15,9 @@ meaning: ["원하다"]
 display: "vouloir"
 display_ipa: "vulwaʁ"
 display_say: "vouloir"
+meaning_en: "to want"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "vous voulez"
     meaning: "당신은 원한다"
@@ -36,6 +39,8 @@ aliases: []
 
 ## 뜻
 1. 원하다
+
+**English** · to want
 
 ## 형태
 | 형태 | 발음 | 뜻 |

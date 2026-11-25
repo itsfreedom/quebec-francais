@@ -15,6 +15,9 @@ meaning: ["주차장"]
 display: "un parking"
 display_ipa: "œ̃ paʁkiŋ"
 display_say: "un parking"
+meaning_en: "parking lot"
+cognate: "parking lot"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ un parking [🔊 œ̃ paʁkiŋ](_Audio/un-parking-9f38cb.m4a) · les parkings [�
 
 ## 뜻
 1. 주차장
+
+**English** · parking lot · ≈ *parking lot* (비슷한 영어 단어)
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

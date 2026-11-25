@@ -15,6 +15,9 @@ meaning: ["메이크업 아티스트"]
 display: "un maquilleur / une maquilleuse"
 display_ipa: "œ̃ makijœʁ"
 display_say: "un maquilleur"
+meaning_en: "makeup artist"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Personnes"
@@ -28,6 +31,8 @@ un maquilleur [🔊 œ̃ makijœʁ](_Audio/un-maquilleur-3316a1.m4a) · les maqu
 
 ## 뜻
 1. 메이크업 아티스트
+
+**English** · makeup artist
 
 ---
 📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

@@ -15,6 +15,9 @@ meaning: ["9"]
 display: "neuf"
 display_ipa: "nœf"
 display_say: "neuf"
+meaning_en: "nine"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 9
+
+**English** · nine
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

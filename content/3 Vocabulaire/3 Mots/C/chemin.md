@@ -15,6 +15,9 @@ meaning: ["길", "경로"]
 display: "un chemin"
 display_ipa: "œ̃ ʃəmɛ̃"
 display_say: "un chemin"
+meaning_en: "path, road"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -29,6 +32,8 @@ un chemin [🔊 œ̃ ʃəmɛ̃](_Audio/un-chemin-fdc8bb.m4a) · les chemins [�
 ## 뜻
 1. 길
 2. 경로
+
+**English** · path, road
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

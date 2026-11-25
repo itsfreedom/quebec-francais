@@ -15,6 +15,9 @@ meaning: ["현재의"]
 display: "actuel(le)"
 display_ipa: "aktɥɛl"
 display_say: "actuel"
+meaning_en: "current, present"
+cognate: ""
+faux_ami: "actual"
 forms: []
 examples:
   - text: "l'adresse actuelle"
@@ -30,6 +33,11 @@ aliases: []
 
 ## 뜻
 1. 현재의
+
+**English** · current, present
+
+> [!warning] 가짜 친구 (faux ami) · ≠ actual
+> 영어 actual(실제의)이 아니라 **현재의**. '실제로'는 en fait / réellement
 
 ## 예문
 - **l'adresse actuelle** — 현재 주소

@@ -15,6 +15,9 @@ meaning: ["한국"]
 display: "la Corée"
 display_ipa: "la kɔʁe"
 display_say: "la Corée"
+meaning_en: "Korea"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Je viens de la Corée."
@@ -30,6 +33,8 @@ aliases: ["coree", "la Corée"]
 
 ## 뜻
 1. 한국
+
+**English** · Korea
 
 ## 예문
 - **Je viens de la Corée.** — 나는 한국에서 왔어요.

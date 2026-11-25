@@ -15,6 +15,9 @@ meaning: ["리비아"]
 display: "la Libye"
 display_ipa: "la libi"
 display_say: "la Libye"
+meaning_en: "Libya"
+cognate: "Libya"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pays du monde"
@@ -28,6 +31,8 @@ aliases: ["libye", "la Libye"]
 
 ## 뜻
 1. 리비아
+
+**English** · Libya · ≈ *Libya* (비슷한 영어 단어)
 
 ---
 📂 주제: [[09 Pays du monde|Pays du monde]] · 🔤 [[3 Vocabulaire/3 Mots/index#L|사전 L]]

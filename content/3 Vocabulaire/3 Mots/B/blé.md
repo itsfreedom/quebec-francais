@@ -15,6 +15,9 @@ meaning: ["밀"]
 display: "le blé"
 display_ipa: "lə ble"
 display_say: "le blé"
+meaning_en: "wheat"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nourriture"
@@ -28,6 +31,8 @@ aliases: ["ble", "le blé"]
 
 ## 뜻
 1. 밀
+
+**English** · wheat
 
 ---
 📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#B|사전 B]]

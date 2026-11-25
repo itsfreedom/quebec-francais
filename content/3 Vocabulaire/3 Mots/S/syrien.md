@@ -15,6 +15,9 @@ meaning: ["시리아 사람"]
 display: "syrien(ne)"
 display_ipa: "siʁjɛ̃"
 display_say: "syrien"
+meaning_en: "Syrian"
+cognate: "Syrian"
+faux_ami: ""
 forms:
   - text: "syrienne"
     meaning: "여성형"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 시리아 사람
+
+**English** · Syrian · ≈ *Syrian* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

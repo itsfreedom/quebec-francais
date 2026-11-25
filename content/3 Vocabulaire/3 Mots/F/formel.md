@@ -15,6 +15,9 @@ meaning: ["격식 있는 (존댓말)"]
 display: "formel(le)"
 display_ipa: "fɔʁmɛl"
 display_say: "formel"
+meaning_en: "formal"
+cognate: "formal"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 격식 있는 (존댓말)
+
+**English** · formal · ≈ *formal* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 반대말 informel → [[02 Tu et vous|Tu et vous]]

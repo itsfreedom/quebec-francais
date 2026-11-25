@@ -15,6 +15,9 @@ meaning: ["2"]
 display: "deux"
 display_ipa: "dø"
 display_say: "deux"
+meaning_en: "two"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 2
+
+**English** · two
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

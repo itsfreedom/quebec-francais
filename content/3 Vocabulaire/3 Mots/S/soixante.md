@@ -15,6 +15,9 @@ meaning: ["60"]
 display: "soixante"
 display_ipa: "swasɑ̃t"
 display_say: "soixante"
+meaning_en: "sixty"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 60
+
+**English** · sixty
 
 ## 발음 · 쓰임
 x = [s]

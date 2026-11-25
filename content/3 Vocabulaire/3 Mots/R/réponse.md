@@ -15,6 +15,9 @@ meaning: ["대답"]
 display: "une réponse"
 display_ipa: "yn ʁepɔ̃s"
 display_say: "une réponse"
+meaning_en: "answer"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -28,6 +31,8 @@ une réponse [🔊 yn ʁepɔ̃s](_Audio/une-reponse-d891ae.m4a) · les réponses
 
 ## 뜻
 1. 대답
+
+**English** · answer
 
 ---
 📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#R|사전 R]]

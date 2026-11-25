@@ -15,6 +15,9 @@ meaning: ["물론이죠"]
 display: "bien sûr"
 display_ipa: "bjɛ̃ syʁ"
 display_say: "bien sûr"
+meaning_en: "of course"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Mais bien sûr !"
@@ -30,6 +33,8 @@ aliases: ["bien-sur"]
 
 ## 뜻
 1. 물론이죠
+
+**English** · of course
 
 ## 예문
 - **Mais bien sûr !** — 물론이죠!

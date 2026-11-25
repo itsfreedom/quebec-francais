@@ -15,6 +15,9 @@ meaning: ["20"]
 display: "vingt"
 display_ipa: "vɛ̃"
 display_say: "vingt"
+meaning_en: "twenty"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 20
+
+**English** · twenty
 
 ## 발음 · 쓰임
 g와 t 묵음. 21은 vingt et un

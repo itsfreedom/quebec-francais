@@ -15,6 +15,9 @@ meaning: ["월요일"]
 display: "le lundi"
 display_ipa: "lə lœ̃di"
 display_say: "le lundi"
+meaning_en: "Monday"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["le lundi"]
 
 ## 뜻
 1. 월요일
+
+**English** · Monday
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#L|사전 L]]

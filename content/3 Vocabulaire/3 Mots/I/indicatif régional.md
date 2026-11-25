@@ -15,6 +15,9 @@ meaning: ["지역 번호"]
 display: "un indicatif régional"
 display_ipa: "œ̃n‿ɛ̃dikatif ʁeʒjɔnal"
 display_say: "un indicatif régional"
+meaning_en: "area code"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "514, 438 (Montréal)"
@@ -30,6 +33,8 @@ l'indicatif régional [🔊 lɛ̃dikatif ʁeʒjɔnal](_Audio/l-indicatif-regiona
 
 ## 뜻
 1. 지역 번호
+
+**English** · area code
 
 ## 예문
 - **514, 438 (Montréal)** — 몬트리올 지역 번호

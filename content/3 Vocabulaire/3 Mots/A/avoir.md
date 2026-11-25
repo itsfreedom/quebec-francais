@@ -15,6 +15,9 @@ meaning: ["가지다", "있다"]
 display: "avoir"
 display_ipa: "avwaʁ"
 display_say: "avoir"
+meaning_en: "to have"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "nous avons"
     meaning: "우리는 가지고 있다"
@@ -61,6 +64,8 @@ aliases: []
 ## 뜻
 1. 가지다
 2. 있다
+
+**English** · to have
 
 ## 형태
 | 형태 | 발음 | 뜻 |

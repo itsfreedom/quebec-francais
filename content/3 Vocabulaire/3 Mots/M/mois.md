@@ -15,6 +15,9 @@ meaning: ["달", "월"]
 display: "un mois"
 display_ipa: "œ̃ mwa"
 display_say: "un mois"
+meaning_en: "month"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "par mois"
@@ -31,6 +34,8 @@ un mois [🔊 œ̃ mwa](_Audio/un-mois-8376b3.m4a) · les mois [🔊 le mwa](_Au
 ## 뜻
 1. 달
 2. 월
+
+**English** · month
 
 ## 예문
 - **par mois** — 한 달에

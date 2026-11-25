@@ -15,6 +15,9 @@ meaning: ["아이", "자녀"]
 display: "un/une enfant"
 display_ipa: "œ̃n‿ɑ̃fɑ̃"
 display_say: "un enfant"
+meaning_en: "child"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Vous avez des enfants ?"
@@ -31,6 +34,8 @@ l'enfant [🔊 lɑ̃fɑ̃](_Audio/l-enfant-6e5b94.m4a) · un enfant [🔊 œ̃n�
 ## 뜻
 1. 아이
 2. 자녀
+
+**English** · child
 
 ## 예문
 - **Vous avez des enfants ?** — 자녀가 있으세요?

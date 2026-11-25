@@ -44,8 +44,14 @@ jobs:
         run: npx quartz plugin install
       - name: Make sentences interactive (문장 끝 🔊 · 단어 뜻 말풍선)
         run: python3 scripts/fr_interactive.py content
-      - name: Build Quartz
+      - name: Make English site (영문판 · 번역 캐시 i18n/ko-en.json)
+        run: python3 scripts/en_site.py content content-en
+      - name: Build Quartz (한글판)
         run: npx quartz build
+      - name: Build Quartz (English → /en/)
+        run: |
+          cp quartz.config.en.yaml quartz.config.yaml
+          npx quartz build -d content-en -o public/en
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

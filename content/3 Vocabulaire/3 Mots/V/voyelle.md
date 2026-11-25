@@ -15,6 +15,9 @@ meaning: ["모음"]
 display: "une voyelle"
 display_ipa: "yn vwajɛl"
 display_say: "une voyelle"
+meaning_en: "vowel"
+cognate: "vowel"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Classe"
@@ -28,6 +31,8 @@ une voyelle [🔊 yn vwajɛl](_Audio/une-voyelle-02bdef.m4a) · les voyelles [�
 
 ## 뜻
 1. 모음
+
+**English** · vowel · ≈ *vowel* (비슷한 영어 단어)
 
 ---
 📂 주제: [[17 Classe|Classe]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

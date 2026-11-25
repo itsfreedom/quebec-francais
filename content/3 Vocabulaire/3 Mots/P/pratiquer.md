@@ -15,6 +15,9 @@ meaning: ["연습하다"]
 display: "pratiquer"
 display_ipa: "pʁatike"
 display_say: "pratiquer"
+meaning_en: "to practise"
+cognate: "practise"
+faux_ami: ""
 forms:
   - text: "pratiquez"
     meaning: "연습하세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 연습하다
+
+**English** · to practise · ≈ *practise* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

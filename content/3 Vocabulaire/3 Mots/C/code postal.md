@@ -15,6 +15,9 @@ meaning: ["우편번호"]
 display: "un code postal"
 display_ipa: "œ̃ kɔd pɔstal"
 display_say: "un code postal"
+meaning_en: "postal code"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "H2T 2V4"
@@ -30,6 +33,8 @@ aliases: ["code-postal", "le code postal"]
 
 ## 뜻
 1. 우편번호
+
+**English** · postal code
 
 ## 예문
 - **H2T 2V4** — 캐나다 우편번호: 글자·숫자 6자리

@@ -15,6 +15,9 @@ meaning: ["도움"]
 display: "l'aide (f.)"
 display_ipa: "lɛd"
 display_say: "l'aide"
+meaning_en: "help"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "à l'aide d'une flèche"
@@ -30,6 +33,8 @@ aliases: ["l'aide"]
 
 ## 뜻
 1. 도움
+
+**English** · help
 
 ## 예문
 - **à l'aide d'une flèche** — 화살표를 이용해서

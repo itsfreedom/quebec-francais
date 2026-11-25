@@ -15,6 +15,9 @@ meaning: ["70"]
 display: "soixante-dix"
 display_ipa: "swasɑ̃t dis"
 display_say: "soixante-dix"
+meaning_en: "seventy"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 70
+
+**English** · seventy
 
 ## 발음 · 쓰임
 60 + 10

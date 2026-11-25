@@ -15,6 +15,9 @@ meaning: ["조용한, 평온한"]
 display: "tranquille"
 display_ipa: "tʁɑ̃kil"
 display_say: "tranquille"
+meaning_en: "quiet, calm"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Adjectifs"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 조용한, 평온한
+
+**English** · quiet, calm
 
 ## 발음 · 쓰임
 ille인데 [il]로 읽는 예외 (ville, mille와 같이)

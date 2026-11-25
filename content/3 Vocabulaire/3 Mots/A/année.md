@@ -15,6 +15,9 @@ meaning: ["해", "년"]
 display: "une année"
 display_ipa: "ynane"
 display_say: "une année"
+meaning_en: "year"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -29,6 +32,8 @@ l'année [🔊 lane](_Audio/l-annee-12e824.m4a) · une année [🔊 ynane](_Audi
 ## 뜻
 1. 해
 2. 년
+
+**English** · year
 
 ## 발음 · 쓰임
 [[an]]과 같은 뜻 (기간을 강조할 때 année)

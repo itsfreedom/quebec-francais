@@ -15,6 +15,9 @@ meaning: ["안녕하세요 (낮 인사)"]
 display: "bonjour"
 display_ipa: "bɔ̃ʒuʁ"
 display_say: "bonjour"
+meaning_en: "hello, good morning"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Bonjour, madame !"
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. 안녕하세요 (낮 인사)
+
+**English** · hello, good morning
 
 ## 예문
 - **Bonjour, madame !** — 안녕하세요 (여성에게)

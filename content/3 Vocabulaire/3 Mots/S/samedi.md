@@ -15,6 +15,9 @@ meaning: ["토요일"]
 display: "le samedi"
 display_ipa: "lə samdi"
 display_say: "le samedi"
+meaning_en: "Saturday"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["le samedi"]
 
 ## 뜻
 1. 토요일
+
+**English** · Saturday
 
 ## 발음 · 쓰임
 e는 소리 내지 않아요 ([[02 Lettres muettes|Lettres muettes]])

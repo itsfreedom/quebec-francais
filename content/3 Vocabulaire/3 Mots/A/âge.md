@@ -15,6 +15,9 @@ meaning: ["나이"]
 display: "l'âge (m.)"
 display_ipa: "lɑʒ"
 display_say: "l'âge"
+meaning_en: "age"
+cognate: "age"
+faux_ami: ""
 forms: []
 examples:
   - text: "Quel âge avez-vous ?"
@@ -30,6 +33,8 @@ aliases: ["age", "l'âge"]
 
 ## 뜻
 1. 나이
+
+**English** · age · ≈ *age* (비슷한 영어 단어)
 
 ## 예문
 - **Quel âge avez-vous ?** — 몇 살이에요?

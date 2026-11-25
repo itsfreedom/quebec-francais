@@ -15,6 +15,9 @@ meaning: ["네"]
 display: "oui"
 display_ipa: "wi"
 display_say: "oui"
+meaning_en: "yes"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Salutations"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 네
+
+**English** · yes
 
 ---
 📂 주제: [[01 Salutations|Salutations]] · 🔤 [[3 Vocabulaire/3 Mots/index#O|사전 O]]

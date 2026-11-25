@@ -15,6 +15,9 @@ meaning: ["바람"]
 display: "le vent"
 display_ipa: "lə vɑ̃"
 display_say: "le vent"
+meaning_en: "wind"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ aliases: ["le vent"]
 
 ## 뜻
 1. 바람
+
+**English** · wind
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#V|사전 V]]

@@ -15,6 +15,9 @@ meaning: ["듣다"]
 display: "écouter"
 display_ipa: "ekute"
 display_say: "écouter"
+meaning_en: "to listen"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "écoutez"
     meaning: "들으세요"
@@ -32,6 +35,8 @@ aliases: ["ecouter"]
 
 ## 뜻
 1. 듣다
+
+**English** · to listen
 
 ## 형태
 | 형태 | 발음 | 뜻 |

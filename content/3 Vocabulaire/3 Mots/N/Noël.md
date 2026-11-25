@@ -15,6 +15,9 @@ meaning: ["크리스마스"]
 display: "Noël"
 display_ipa: "nɔɛl"
 display_say: "Noël"
+meaning_en: "Christmas"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["noel"]
 
 ## 뜻
 1. 크리스마스
+
+**English** · Christmas
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

@@ -12,3 +12,6 @@ aliases: [표현, 문장, 상황별 표현]
 5. [[3 Vocabulaire/2 Expressions/05 Le jour et la date/index|Le jour et la date]] — 오늘 · 어제 · 내일 (3개)
 6. [[3 Vocabulaire/2 Expressions/06 Au gym/index|Au gym]] — 헬스장 등록 · 가격 묻기 (9개)
 7. [[3 Vocabulaire/2 Expressions/07 Expressions utiles/index|Expressions utiles]] — 자주 쓰는 짧은 표현 (6개)
+8. [[3 Vocabulaire/2 Expressions/08 Pays d'origine/index|Pays d'origine]] — 출신 나라 (du · de · d' · des) (4개)
+9. [[3 Vocabulaire/2 Expressions/09 Langues parlées/index|Langues parlées]] — 할 줄 아는 언어 · 수준 (5개)
+10. [[3 Vocabulaire/2 Expressions/10 La famille/index|La famille]] — 가족 · 결혼 상태 묻기 (3개)

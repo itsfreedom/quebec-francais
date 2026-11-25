@@ -15,6 +15,9 @@ meaning: ["운동의", "운동을 좋아하는"]
 display: "sportif / sportive"
 display_ipa: "spɔʁtif"
 display_say: "sportif"
+meaning_en: "athletic, sporty"
+cognate: "sporty"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 운동의
 2. 운동을 좋아하는
+
+**English** · athletic, sporty · ≈ *sporty* (비슷한 영어 단어)
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

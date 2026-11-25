@@ -15,6 +15,9 @@ meaning: ["기타 (악기)"]
 display: "une guitare"
 display_ipa: "yn ɡitaʁ"
 display_say: "une guitare"
+meaning_en: "guitar"
+cognate: "guitar"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ une guitare [🔊 yn ɡitaʁ](_Audio/une-guitare-4a8b4b.m4a) · les guitares [�
 
 ## 뜻
 1. 기타 (악기)
+
+**English** · guitar · ≈ *guitar* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 gu + i = [ɡ] (u는 읽지 않아요)

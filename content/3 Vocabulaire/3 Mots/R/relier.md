@@ -15,6 +15,9 @@ meaning: ["잇다", "연결하다"]
 display: "relier"
 display_ipa: "ʁəlje"
 display_say: "relier"
+meaning_en: "to link, to connect"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "reliez"
     meaning: "이으세요 (명령)"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 잇다
 2. 연결하다
+
+**English** · to link, to connect
 
 ## 형태
 | 형태 | 발음 | 뜻 |

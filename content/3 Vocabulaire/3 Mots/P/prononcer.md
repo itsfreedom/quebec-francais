@@ -15,6 +15,9 @@ meaning: ["발음하다"]
 display: "prononcer"
 display_ipa: "pʁɔnɔ̃se"
 display_say: "prononcer"
+meaning_en: "to pronounce"
+cognate: "pronounce"
+faux_ami: ""
 forms:
   - text: "prononcez"
     meaning: "발음하세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 발음하다
+
+**English** · to pronounce · ≈ *pronounce* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

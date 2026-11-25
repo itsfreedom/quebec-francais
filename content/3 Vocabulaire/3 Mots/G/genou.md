@@ -15,6 +15,9 @@ meaning: ["무릎"]
 display: "un genou"
 display_ipa: "œ̃ ʒənu"
 display_say: "un genou"
+meaning_en: "knee"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Corps"
@@ -28,6 +31,8 @@ un genou [🔊 œ̃ ʒənu](_Audio/un-genou-6cd528.m4a) · les genous [🔊 le �
 
 ## 뜻
 1. 무릎
+
+**English** · knee
 
 ---
 📂 주제: [[15 Corps|Corps]] · 🔤 [[3 Vocabulaire/3 Mots/index#G|사전 G]]

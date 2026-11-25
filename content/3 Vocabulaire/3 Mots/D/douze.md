@@ -15,6 +15,9 @@ meaning: ["12"]
 display: "douze"
 display_ipa: "duz"
 display_say: "douze"
+meaning_en: "twelve"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 12
+
+**English** · twelve
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

@@ -15,6 +15,9 @@ meaning: ["서쪽"]
 display: "l'ouest (m.)"
 display_ipa: "lwɛst"
 display_say: "l'ouest"
+meaning_en: "west"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "avenue Laurier Ouest"
@@ -30,6 +33,8 @@ aliases: ["l'ouest"]
 
 ## 뜻
 1. 서쪽
+
+**English** · west
 
 ## 예문
 - **avenue Laurier Ouest** — 로리에 서쪽 길

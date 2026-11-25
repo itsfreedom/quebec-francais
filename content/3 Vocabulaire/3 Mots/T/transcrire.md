@@ -15,6 +15,9 @@ meaning: ["옮겨 적다"]
 display: "transcrire"
 display_ipa: "tʁɑ̃skʁiʁ"
 display_say: "transcrire"
+meaning_en: "to transcribe"
+cognate: "transcribe"
+faux_ami: ""
 forms:
   - text: "transcrivez"
     meaning: "옮겨 적으세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 옮겨 적다
+
+**English** · to transcribe · ≈ *transcribe* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

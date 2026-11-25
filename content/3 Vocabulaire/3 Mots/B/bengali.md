@@ -15,6 +15,9 @@ meaning: ["벵골어"]
 display: "le bengali"
 display_ipa: "lə bɛ̃ɡali"
 display_say: "le bengali"
+meaning_en: "Bengali"
+cognate: "Bengali"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nationalités et langues"
@@ -28,6 +31,8 @@ aliases: ["le bengali"]
 
 ## 뜻
 1. 벵골어
+
+**English** · Bengali · ≈ *Bengali* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 언어 이름은 남성 명사, 소문자: Je parle bengali.

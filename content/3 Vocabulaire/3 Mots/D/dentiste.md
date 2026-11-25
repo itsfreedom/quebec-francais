@@ -15,6 +15,9 @@ meaning: ["치과의사"]
 display: "un/une dentiste"
 display_ipa: "œ̃ dɑ̃tist"
 display_say: "un dentiste"
+meaning_en: "dentist"
+cognate: "dentist"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Personnes"
@@ -28,6 +31,8 @@ un dentiste [🔊 œ̃ dɑ̃tist](_Audio/un-dentiste-ce74b3.m4a) · une dentiste
 
 ## 뜻
 1. 치과의사
+
+**English** · dentist · ≈ *dentist* (비슷한 영어 단어)
 
 ---
 📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

@@ -15,6 +15,9 @@ meaning: ["12월"]
 display: "décembre"
 display_ipa: "desɑ̃bʁ"
 display_say: "décembre"
+meaning_en: "December"
+cognate: "December"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -28,6 +31,8 @@ aliases: ["decembre"]
 
 ## 뜻
 1. 12월
+
+**English** · December · ≈ *December* (비슷한 영어 단어)
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

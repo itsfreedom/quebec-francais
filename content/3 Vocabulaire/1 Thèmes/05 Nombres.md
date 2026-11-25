@@ -10,13 +10,13 @@ aliases: [숫자]
 
 | 단어 | 발음 | 뜻 |
 |---|---|---|
-| [[zéro]] | [🔊 zeʁo](_Audio/zero-9b9a02.m4a) | 0 |
+| [[zéro]] | [🔊 zeʁo](_Audio/zero-9b9a02.m4a) | 0 · *zero* |
 | [[un]] | [🔊 œ̃](_Audio/un-067427.m4a) | 1 |
 | [[deux]] | [🔊 dø](_Audio/deux-f83815.m4a) | 2 |
 | [[trois]] | [🔊 tʁwa](_Audio/trois-df8091.m4a) | 3 |
 | [[quatre]] | [🔊 katʁ](_Audio/quatre-2c862e.m4a) | 4 |
 | [[cinq]] | [🔊 sɛ̃k](_Audio/cinq-bfe30f.m4a) | 5 |
-| [[six]] | [🔊 sis](_Audio/six-f52b5e.m4a) | 6 |
+| [[six]] | [🔊 sis](_Audio/six-f52b5e.m4a) | 6 · *six* |
 | [[sept]] | [🔊 sɛt](_Audio/sept-abd0df.m4a) | 7 |
 | [[huit]] | [🔊 ɥit](_Audio/huit-0a753c.m4a) | 8 |
 | [[neuf]] | [🔊 nœf](_Audio/neuf-dc0b8b.m4a) | 9 |
@@ -37,6 +37,6 @@ aliases: [숫자]
 | [[quatre-vingt-dix]] | [🔊 katʁə vɛ̃ dis](_Audio/quatre-vingt-dix-4e532d.m4a) | 90 |
 | [[cent]] | [🔊 sɑ̃](_Audio/cent-2d95b1.m4a) | 100 |
 | [[mille]] | [🔊 mil](_Audio/mille-cd827c.m4a) | 1000 |
-| [[million]] | [🔊 miljɔ̃](_Audio/million-bafd00.m4a) | 1 000 000 |
+| [[million]] | [🔊 miljɔ̃](_Audio/million-bafd00.m4a) | 1 000 000 · *million* |
 | [[chiffre\|un chiffre]] | [🔊 œ̃ ʃifʁ](_Audio/un-chiffre-982cbb.m4a) | 숫자 (0~9 한 자리) |
 | [[nombre\|un nombre]] | [🔊 œ̃ nɔ̃bʁ](_Audio/un-nombre-cb0865.m4a) | 수 |

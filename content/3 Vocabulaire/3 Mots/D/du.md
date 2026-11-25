@@ -15,6 +15,9 @@ meaning: ["~의, ~에서 (de + le)"]
 display: "du"
 display_ipa: "dy"
 display_say: "du"
+meaning_en: "of the, from the (de + le)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Je viens du Maroc."
@@ -30,6 +33,8 @@ aliases: []
 
 ## 뜻
 1. ~의, ~에서 (de + le)
+
+**English** · of the, from the (de + le)
 
 ## 예문
 - **Je viens du Maroc.** — 모로코에서 왔어요.

@@ -15,6 +15,9 @@ meaning: ["한국 사람", "한국어"]
 display: "coréen(ne)"
 display_ipa: "kɔʁeɛ̃"
 display_say: "coréen"
+meaning_en: "Korean"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "coréenne"
     meaning: "여성형"
@@ -33,6 +36,8 @@ aliases: ["coreen"]
 ## 뜻
 1. 한국 사람
 2. 한국어
+
+**English** · Korean
 
 ## 형태
 | 형태 | 발음 | 뜻 |

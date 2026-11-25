@@ -15,6 +15,9 @@ meaning: ["코"]
 display: "un nez"
 display_ipa: "œ̃ ne"
 display_say: "un nez"
+meaning_en: "nose"
+cognate: "nose"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Corps"
@@ -28,6 +31,8 @@ un nez [🔊 œ̃ ne](_Audio/un-nez-4dd2cd.m4a) · les nez [🔊 le ne](_Audio/l
 
 ## 뜻
 1. 코
+
+**English** · nose · ≈ *nose* (비슷한 영어 단어)
 
 ---
 📂 주제: [[15 Corps|Corps]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

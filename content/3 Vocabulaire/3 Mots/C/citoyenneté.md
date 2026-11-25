@@ -15,6 +15,9 @@ meaning: ["시민권"]
 display: "la citoyenneté"
 display_ipa: "la sitwajɛnte"
 display_say: "la citoyenneté"
+meaning_en: "citizenship"
+cognate: "citizen"
+faux_ami: ""
 forms: []
 examples:
   - text: "J'ai la citoyenneté canadienne."
@@ -30,6 +33,8 @@ aliases: ["citoyennete", "la citoyenneté"]
 
 ## 뜻
 1. 시민권
+
+**English** · citizenship · ≈ *citizen* (비슷한 영어 단어)
 
 ## 예문
 - **J'ai la citoyenneté canadienne.** — 나는 캐나다 시민권이 있어요.

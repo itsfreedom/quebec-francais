@@ -15,6 +15,9 @@ meaning: ["대답하다"]
 display: "répondre"
 display_ipa: "ʁepɔ̃dʁ"
 display_say: "répondre"
+meaning_en: "to answer"
+cognate: "respond"
+faux_ami: ""
 forms:
   - text: "répondez"
     meaning: "대답하세요"
@@ -32,6 +35,8 @@ aliases: ["repondre"]
 
 ## 뜻
 1. 대답하다
+
+**English** · to answer · ≈ *respond* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

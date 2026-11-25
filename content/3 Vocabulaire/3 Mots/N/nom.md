@@ -15,6 +15,9 @@ meaning: ["이름"]
 display: "un nom"
 display_ipa: "œ̃ nɔ̃"
 display_say: "un nom"
+meaning_en: "name, last name"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ un nom [🔊 œ̃ nɔ̃](_Audio/un-nom-3fe218.m4a) · les noms [🔊 le nɔ̃](_
 
 ## 뜻
 1. 이름
+
+**English** · name, last name
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#N|사전 N]]

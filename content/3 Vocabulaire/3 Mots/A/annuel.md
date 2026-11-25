@@ -15,6 +15,9 @@ meaning: ["매년의", "연간"]
 display: "annuel(le)"
 display_ipa: "anɥɛl"
 display_say: "annuel"
+meaning_en: "annual, yearly"
+cognate: "annual"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Temps et jours"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. 매년의
 2. 연간
+
+**English** · annual, yearly · ≈ *annual* (비슷한 영어 단어)
 
 ---
 📂 주제: [[06 Temps et jours|Temps et jours]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

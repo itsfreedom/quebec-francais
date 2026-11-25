@@ -15,6 +15,9 @@ meaning: ["(ne … pas) ~아니다"]
 display: "ne"
 display_ipa: "nə"
 display_say: "ne"
+meaning_en: "not (ne … pas)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. (ne … pas) ~아니다
+
+**English** · not (ne … pas)
 
 ## 발음 · 쓰임
 모음 앞에서 n' ([[02 Élision|Élision]]) · [[01 Négation|Négation]]

@@ -15,6 +15,9 @@ meaning: ["결혼한 (기혼)"]
 display: "marié(e)"
 display_ipa: "maʁje"
 display_say: "marié"
+meaning_en: "married"
+cognate: "married"
+faux_ami: ""
 forms: []
 examples:
   - text: "Êtes-vous marié ?"
@@ -30,6 +33,8 @@ aliases: ["marie"]
 
 ## 뜻
 1. 결혼한 (기혼)
+
+**English** · married · ≈ *married* (비슷한 영어 단어)
 
 ## 예문
 - **Êtes-vous marié ?** — 결혼하셨어요?

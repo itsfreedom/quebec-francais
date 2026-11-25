@@ -15,6 +15,9 @@ meaning: ["커플", "부부"]
 display: "un couple"
 display_ipa: "œ̃ kupl"
 display_say: "un couple"
+meaning_en: "couple"
+cognate: "couple"
+faux_ami: ""
 forms: []
 examples:
   - text: "Je suis en couple."
@@ -31,6 +34,8 @@ un couple [🔊 œ̃ kupl](_Audio/un-couple-c7b7c2.m4a) · les couples [🔊 le 
 ## 뜻
 1. 커플
 2. 부부
+
+**English** · couple · ≈ *couple* (비슷한 영어 단어)
 
 ## 예문
 - **Je suis en couple.** — 나는 사귀는 사람이 있어요.

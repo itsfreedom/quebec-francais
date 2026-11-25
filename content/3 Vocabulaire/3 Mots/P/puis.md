@@ -15,6 +15,9 @@ meaning: ["그 다음에"]
 display: "puis"
 display_ipa: "pɥi"
 display_say: "puis"
+meaning_en: "then"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 그 다음에
+
+**English** · then
 
 ---
 📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

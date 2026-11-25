@@ -15,6 +15,9 @@ meaning: ["친구"]
 display: "un(e) ami(e)"
 display_ipa: "œ̃n‿ami"
 display_say: "un ami"
+meaning_en: "friend"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Personnes"
@@ -28,6 +31,8 @@ l'ami [🔊 lami](_Audio/l-ami-7a34fa.m4a) · un ami [🔊 œ̃n‿ami](_Audio/u
 
 ## 뜻
 1. 친구
+
+**English** · friend
 
 ---
 📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#A|사전 A]]

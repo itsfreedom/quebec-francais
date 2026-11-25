@@ -15,6 +15,9 @@ meaning: ["문"]
 display: "une porte"
 display_ipa: "yn pɔʁt"
 display_say: "une porte"
+meaning_en: "door"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "le numéro de porte"
@@ -30,6 +33,8 @@ une porte [🔊 yn pɔʁt](_Audio/une-porte-c9f5ae.m4a) · les portes [🔊 le p
 
 ## 뜻
 1. 문
+
+**English** · door
 
 ## 예문
 - **le numéro de porte** — 번지 (건물 번호)

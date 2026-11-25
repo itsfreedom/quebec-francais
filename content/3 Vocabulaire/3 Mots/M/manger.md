@@ -15,6 +15,9 @@ meaning: ["먹다"]
 display: "manger"
 display_ipa: "mɑ̃ʒe"
 display_say: "manger"
+meaning_en: "to eat"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "nous mangeons"
     meaning: "우리는 먹어요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 먹다
+
+**English** · to eat
 
 ## 형태
 | 형태 | 발음 | 뜻 |

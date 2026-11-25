@@ -15,6 +15,9 @@ meaning: ["80"]
 display: "quatre-vingts"
 display_ipa: "katʁə vɛ̃"
 display_say: "quatre-vingts"
+meaning_en: "eighty"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 80
+
+**English** · eighty
 
 ## 발음 · 쓰임
 4 × 20

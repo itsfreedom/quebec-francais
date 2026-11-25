@@ -15,6 +15,9 @@ meaning: ["1000"]
 display: "mille"
 display_ipa: "mil"
 display_say: "mille"
+meaning_en: "thousand"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 1000
+
+**English** · thousand
 
 ## 발음 · 쓰임
 ll = [l] (예외)

@@ -15,6 +15,9 @@ meaning: ["목소리"]
 display: "une voix"
 display_ipa: "yn vwa"
 display_say: "une voix"
+meaning_en: "voice"
+cognate: "voice"
+faux_ami: ""
 forms: []
 examples:
   - text: "à voix haute"
@@ -30,6 +33,8 @@ une voix [🔊 yn vwa](_Audio/une-voix-e08ed1.m4a) · les voix [🔊 le vwa](_Au
 
 ## 뜻
 1. 목소리
+
+**English** · voice · ≈ *voice* (비슷한 영어 단어)
 
 ## 예문
 - **à voix haute** — 소리 내어

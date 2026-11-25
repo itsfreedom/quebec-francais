@@ -15,6 +15,9 @@ meaning: ["두려움"]
 display: "la peur"
 display_ipa: "la pœʁ"
 display_say: "la peur"
+meaning_en: "fear"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "J'ai peur."
@@ -30,6 +33,8 @@ aliases: ["la peur"]
 
 ## 뜻
 1. 두려움
+
+**English** · fear
 
 ## 예문
 - **J'ai peur.** — 무서워요.

@@ -15,6 +15,9 @@ meaning: ["배고픔"]
 display: "la faim"
 display_ipa: "la fɛ̃"
 display_say: "la faim"
+meaning_en: "hunger"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Il a faim."
@@ -30,6 +33,8 @@ aliases: ["la faim"]
 
 ## 뜻
 1. 배고픔
+
+**English** · hunger
 
 ## 예문
 - **Il a faim.** — 그는 배고파요.

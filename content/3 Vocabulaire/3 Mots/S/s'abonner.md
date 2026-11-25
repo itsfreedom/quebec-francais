@@ -15,6 +15,9 @@ meaning: ["회원 가입하다", "구독하다"]
 display: "s'abonner"
 display_ipa: "sabɔne"
 display_say: "s'abonner"
+meaning_en: "to subscribe, to sign up"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "je m'abonne"
     meaning: "나는 가입한다"
@@ -35,6 +38,8 @@ aliases: ["sabonner"]
 ## 뜻
 1. 회원 가입하다
 2. 구독하다
+
+**English** · to subscribe, to sign up
 
 ## 형태
 | 형태 | 발음 | 뜻 |

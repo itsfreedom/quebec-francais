@@ -15,6 +15,9 @@ meaning: ["화살표"]
 display: "une flèche"
 display_ipa: "yn flɛʃ"
 display_say: "une flèche"
+meaning_en: "arrow"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -28,6 +31,8 @@ une flèche [🔊 yn flɛʃ](_Audio/une-fleche-d866e0.m4a) · les flèches [🔊
 
 ## 뜻
 1. 화살표
+
+**English** · arrow
 
 ## 발음 · 쓰임
 è = [ɛ] ([[02 Accents|Accents]]), ch = [ʃ]

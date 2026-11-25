@@ -15,6 +15,9 @@ meaning: ["~을 위해", "~동안", "~로"]
 display: "pour"
 display_ipa: "puʁ"
 display_say: "pour"
+meaning_en: "for"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "pour un an"
@@ -32,6 +35,8 @@ aliases: []
 1. ~을 위해
 2. ~동안
 3. ~로
+
+**English** · for
 
 ## 예문
 - **pour un an** — 1년 동안

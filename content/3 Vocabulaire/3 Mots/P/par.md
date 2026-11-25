@@ -15,6 +15,9 @@ meaning: ["~마다", "~으로"]
 display: "par"
 display_ipa: "paʁ"
 display_say: "par"
+meaning_en: "by, per"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "25 dollars par mois"
@@ -31,6 +34,8 @@ aliases: []
 ## 뜻
 1. ~마다
 2. ~으로
+
+**English** · by, per
 
 ## 예문
 - **25 dollars par mois** — 한 달에 25달러

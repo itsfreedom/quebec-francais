@@ -15,6 +15,9 @@ meaning: ["엔지니어"]
 display: "un(e) ingénieur(e)"
 display_ipa: "œ̃n‿ɛ̃ʒenjœʁ"
 display_say: "un ingénieur"
+meaning_en: "engineer"
+cognate: "engineer"
+faux_ami: ""
 forms: []
 examples: []
 theme: "État civil et famille"
@@ -28,6 +31,8 @@ l'ingénieur [🔊 lɛ̃ʒenjœʁ](_Audio/l-ingenieur-2370d6.m4a) · un ingénie
 
 ## 뜻
 1. 엔지니어
+
+**English** · engineer · ≈ *engineer* (비슷한 영어 단어)
 
 ---
 📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

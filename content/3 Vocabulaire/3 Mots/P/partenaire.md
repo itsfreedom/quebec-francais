@@ -15,6 +15,9 @@ meaning: ["짝", "파트너"]
 display: "un/une partenaire"
 display_ipa: "œ̃ paʁtənɛʁ"
 display_say: "un partenaire"
+meaning_en: "partner"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Demandez à votre partenaire."
@@ -31,6 +34,8 @@ un partenaire [🔊 œ̃ paʁtənɛʁ](_Audio/un-partenaire-f4c7ab.m4a) · une p
 ## 뜻
 1. 짝
 2. 파트너
+
+**English** · partner
 
 ## 예문
 - **Demandez à votre partenaire.** — 짝에게 물어보세요.

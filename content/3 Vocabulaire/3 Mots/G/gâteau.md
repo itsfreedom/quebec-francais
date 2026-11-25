@@ -15,6 +15,9 @@ meaning: ["케이크"]
 display: "un gâteau"
 display_ipa: "œ̃ gɑto"
 display_say: "un gâteau"
+meaning_en: "cake"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nourriture"
@@ -28,6 +31,8 @@ un gâteau [🔊 œ̃ gɑto](_Audio/un-gateau-9e34dd.m4a) · les gâteaux [🔊 
 
 ## 뜻
 1. 케이크
+
+**English** · cake
 
 ---
 📂 주제: [[16 Nourriture|Nourriture]] · 🔤 [[3 Vocabulaire/3 Mots/index#G|사전 G]]

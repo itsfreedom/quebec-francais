@@ -15,6 +15,9 @@ meaning: ["헤어스타일", "미용"]
 display: "la coiffure"
 display_ipa: "la kwafyʁ"
 display_say: "la coiffure"
+meaning_en: "hairstyle, hairdressing"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -29,6 +32,8 @@ aliases: ["la coiffure"]
 ## 뜻
 1. 헤어스타일
 2. 미용
+
+**English** · hairstyle, hairdressing
 
 ---
 📂 주제: [[13 Lieux et objets|Lieux et objets]] · 🔤 [[3 Vocabulaire/3 Mots/index#C|사전 C]]

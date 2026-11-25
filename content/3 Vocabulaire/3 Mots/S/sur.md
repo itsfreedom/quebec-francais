@@ -15,6 +15,9 @@ meaning: ["~위에", "~에 대해"]
 display: "sur"
 display_ipa: "syʁ"
 display_say: "sur"
+meaning_en: "on, about"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Mots-outils"
@@ -29,6 +32,8 @@ aliases: []
 ## 뜻
 1. ~위에
 2. ~에 대해
+
+**English** · on, about
 
 ---
 📂 주제: [[04 Mots-outils|Mots-outils]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

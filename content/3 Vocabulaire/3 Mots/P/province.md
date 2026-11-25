@@ -15,6 +15,9 @@ meaning: ["주 (캐나다)"]
 display: "une province"
 display_ipa: "yn pʁɔvɛ̃s"
 display_say: "une province"
+meaning_en: "province"
+cognate: "province"
+faux_ami: ""
 forms: []
 examples:
   - text: "Québec (Qc), Ontario (Ont.)"
@@ -30,6 +33,8 @@ une province [🔊 yn pʁɔvɛ̃s](_Audio/une-province-8c89d7.m4a) · les provin
 
 ## 뜻
 1. 주 (캐나다)
+
+**English** · province · ≈ *province* (비슷한 영어 단어)
 
 ## 예문
 - **Québec (Qc), Ontario (Ont.)** — 주 이름 줄임말

@@ -15,6 +15,9 @@ meaning: ["동네"]
 display: "un quartier"
 display_ipa: "œ̃ kaʁtje"
 display_say: "un quartier"
+meaning_en: "neighbourhood"
+cognate: "quarter"
+faux_ami: ""
 forms: []
 examples:
   - text: "le centre sportif de votre quartier"
@@ -30,6 +33,8 @@ un quartier [🔊 œ̃ kaʁtje](_Audio/un-quartier-5f2401.m4a) · les quartiers 
 
 ## 뜻
 1. 동네
+
+**English** · neighbourhood · ≈ *quarter* (비슷한 영어 단어)
 
 ## 예문
 - **le centre sportif de votre quartier** — 동네 스포츠 센터

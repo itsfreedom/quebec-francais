@@ -15,6 +15,9 @@ meaning: ["사진"]
 display: "une photo"
 display_ipa: "yn fɔto"
 display_say: "une photo"
+meaning_en: "photo"
+cognate: "photo"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ une photo [🔊 yn fɔto](_Audio/une-photo-d0aa8c.m4a) · les photos [🔊 le f�
 
 ## 뜻
 1. 사진
+
+**English** · photo · ≈ *photo* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 ph = [f] ([[01 Consonnes|Consonnes]])

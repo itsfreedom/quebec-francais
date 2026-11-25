@@ -15,6 +15,9 @@ meaning: ["하다", "만들다"]
 display: "faire"
 display_ipa: "fɛʁ"
 display_say: "faire"
+meaning_en: "to do, to make"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "il fait"
     meaning: "그가 하다"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 하다
 2. 만들다
+
+**English** · to do, to make
 
 ## 형태
 | 형태 | 발음 | 뜻 |

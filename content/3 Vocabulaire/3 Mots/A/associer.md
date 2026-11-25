@@ -15,6 +15,9 @@ meaning: ["연결하다", "짝짓다"]
 display: "associer"
 display_ipa: "asosje"
 display_say: "associer"
+meaning_en: "to associate, to match"
+cognate: "associate"
+faux_ami: ""
 forms:
   - text: "associez"
     meaning: "연결하세요 (명령)"
@@ -33,6 +36,8 @@ aliases: []
 ## 뜻
 1. 연결하다
 2. 짝짓다
+
+**English** · to associate, to match · ≈ *associate* (비슷한 영어 단어)
 
 ## 형태
 | 형태 | 발음 | 뜻 |

@@ -15,6 +15,9 @@ meaning: ["질문"]
 display: "une question"
 display_ipa: "yn kɛstjɔ̃"
 display_say: "une question"
+meaning_en: "question"
+cognate: "question"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -28,6 +31,8 @@ une question [🔊 yn kɛstjɔ̃](_Audio/une-question-672704.m4a) · les questio
 
 ## 뜻
 1. 질문
+
+**English** · question · ≈ *question* (비슷한 영어 단어)
 
 ---
 📂 주제: [[18 Consignes|Consignes]] · 🔤 [[3 Vocabulaire/3 Mots/index#Q|사전 Q]]

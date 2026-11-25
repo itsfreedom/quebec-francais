@@ -15,6 +15,9 @@ meaning: ["보다"]
 display: "regarder"
 display_ipa: "ʁəɡaʁde"
 display_say: "regarder"
+meaning_en: "to look at, to watch"
+cognate: ""
+faux_ami: ""
 forms:
   - text: "regardez"
     meaning: "보세요"
@@ -32,6 +35,8 @@ aliases: []
 
 ## 뜻
 1. 보다
+
+**English** · to look at, to watch
 
 ## 형태
 | 형태 | 발음 | 뜻 |

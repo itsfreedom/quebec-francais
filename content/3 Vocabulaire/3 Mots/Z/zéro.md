@@ -15,6 +15,9 @@ meaning: ["0"]
 display: "zéro"
 display_ipa: "zeʁo"
 display_say: "zéro"
+meaning_en: "zero"
+cognate: "zero"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: ["zero"]
 
 ## 뜻
 1. 0
+
+**English** · zero · ≈ *zero* (비슷한 영어 단어)
 
 ---
 📂 주제: [[05 Nombres|Nombres]] · 🔤 [[3 Vocabulaire/3 Mots/index#Z|사전 Z]]

@@ -15,6 +15,9 @@ meaning: ["자동차"]
 display: "une auto"
 display_ipa: "ynoto"
 display_say: "une auto"
+meaning_en: "car"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ l'auto [🔊 loto](_Audio/l-auto-e473b1.m4a) · une auto [🔊 ynoto](_Audio/une
 
 ## 뜻
 1. 자동차
+
+**English** · car
 
 ## 발음 · 쓰임
 🍁 퀘벡에서 voiture보다 자주 써요

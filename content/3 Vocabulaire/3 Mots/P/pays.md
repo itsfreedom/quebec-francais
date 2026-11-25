@@ -15,6 +15,9 @@ meaning: ["나라"]
 display: "un pays"
 display_ipa: "œ̃ pei"
 display_say: "un pays"
+meaning_en: "country"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "De quel pays tu viens ?"
@@ -30,6 +33,8 @@ un pays [🔊 œ̃ pei](_Audio/un-pays-0a3c21.m4a) · les pays [🔊 le pei](_Au
 
 ## 뜻
 1. 나라
+
+**English** · country
 
 ## 예문
 - **De quel pays tu viens ?** — 어느 나라에서 왔어?

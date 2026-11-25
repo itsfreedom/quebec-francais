@@ -15,6 +15,9 @@ meaning: ["나의 (남성 명사 앞)"]
 display: "mon / ma"
 display_ipa: "mɔ̃"
 display_say: "mon"
+meaning_en: "my"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Pronoms"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 나의 (남성 명사 앞)
+
+**English** · my
 
 ---
 📂 주제: [[02 Pronoms|Pronoms]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

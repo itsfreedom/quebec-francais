@@ -15,6 +15,9 @@ meaning: ["발음"]
 display: "la prononciation"
 display_ipa: "la pʁɔnɔ̃sjasjɔ̃"
 display_say: "la prononciation"
+meaning_en: "pronunciation"
+cognate: "pronunciation"
+faux_ami: ""
 forms: []
 examples: []
 theme: "Consignes"
@@ -28,6 +31,8 @@ aliases: ["la prononciation"]
 
 ## 뜻
 1. 발음
+
+**English** · pronunciation · ≈ *pronunciation* (비슷한 영어 단어)
 
 ## 발음 · 쓰임
 -tion = [sjɔ̃]

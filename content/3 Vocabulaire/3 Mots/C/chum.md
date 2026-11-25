@@ -15,6 +15,9 @@ meaning: ["남자친구 (퀘벡)", "친구"]
 display: "un chum"
 display_ipa: "œ̃ tʃɔm"
 display_say: "un chum"
+meaning_en: "boyfriend, buddy (Québec)"
+cognate: ""
+faux_ami: "chum"
 forms: []
 examples:
   - text: "J'ai un chum."
@@ -31,6 +34,11 @@ un chum [🔊 œ̃ tʃɔm](_Audio/un-chum-297b9c.m4a) · les chums [🔊 le tʃ�
 ## 뜻
 1. 남자친구 (퀘벡)
 2. 친구
+
+**English** · boyfriend, buddy (Québec)
+
+> [!warning] 가짜 친구 (faux ami) · ≠ chum
+> 퀘벡에서는 그냥 친구보다 **남자친구** (mon chum)
 
 ## 예문
 - **J'ai un chum.** — 나는 남자친구가 있어요.

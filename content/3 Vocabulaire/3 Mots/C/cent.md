@@ -15,6 +15,9 @@ meaning: ["100"]
 display: "cent"
 display_ipa: "sɑ̃"
 display_say: "cent"
+meaning_en: "hundred"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Nombres"
@@ -28,6 +31,8 @@ aliases: []
 
 ## 뜻
 1. 100
+
+**English** · hundred
 
 ## 발음 · 쓰임
 끝 t 묵음

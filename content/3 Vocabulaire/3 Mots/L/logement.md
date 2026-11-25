@@ -15,6 +15,9 @@ meaning: ["집", "주택 (한 세대)"]
 display: "un logement"
 display_ipa: "œ̃ lɔʒmɑ̃"
 display_say: "un logement"
+meaning_en: "housing, apartment"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Formulaires et papiers"
@@ -29,6 +32,8 @@ un logement [🔊 œ̃ lɔʒmɑ̃](_Audio/un-logement-d4da5e.m4a) · les logemen
 ## 뜻
 1. 집
 2. 주택 (한 세대)
+
+**English** · housing, apartment
 
 ---
 📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#L|사전 L]]

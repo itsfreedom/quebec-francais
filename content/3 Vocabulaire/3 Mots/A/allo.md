@@ -15,6 +15,9 @@ meaning: ["여보세요", "안녕 (퀘벡 일상 인사)"]
 display: "allo"
 display_ipa: "alo"
 display_say: "allo"
+meaning_en: "hello (Québec)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Allo ! Comment ça va ?"
@@ -31,6 +34,8 @@ aliases: []
 ## 뜻
 1. 여보세요
 2. 안녕 (퀘벡 일상 인사)
+
+**English** · hello (Québec)
 
 ## 예문
 - **Allo ! Comment ça va ?** — 안녕! 어떻게 지내?

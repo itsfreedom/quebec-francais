@@ -15,6 +15,9 @@ meaning: ["집"]
 display: "une maison"
 display_ipa: "yn mɛzɔ̃"
 display_say: "une maison"
+meaning_en: "house"
+cognate: ""
+faux_ami: ""
 forms: []
 examples: []
 theme: "Lieux et objets"
@@ -28,6 +31,8 @@ une maison [🔊 yn mɛzɔ̃](_Audio/une-maison-770823.m4a) · les maisons [🔊
 
 ## 뜻
 1. 집
+
+**English** · house
 
 ## 발음 · 쓰임
 모음 사이 s = [z] ([[01 Consonnes|Consonnes]])

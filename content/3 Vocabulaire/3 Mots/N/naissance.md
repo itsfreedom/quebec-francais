@@ -15,6 +15,9 @@ meaning: ["출생", "탄생"]
 display: "la naissance"
 display_ipa: "la nɛsɑ̃s"
 display_say: "la naissance"
+meaning_en: "birth"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "la date de naissance"
@@ -31,6 +34,8 @@ aliases: ["la naissance"]
 ## 뜻
 1. 출생
 2. 탄생
+
+**English** · birth
 
 ## 예문
 - **la date de naissance** — 생년월일

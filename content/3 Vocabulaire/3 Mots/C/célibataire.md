@@ -15,6 +15,9 @@ meaning: ["미혼의", "싱글"]
 display: "célibataire"
 display_ipa: "selibatɛʁ"
 display_say: "célibataire"
+meaning_en: "single (unmarried)"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Je suis célibataire."
@@ -31,6 +34,8 @@ aliases: ["celibataire"]
 ## 뜻
 1. 미혼의
 2. 싱글
+
+**English** · single (unmarried)
 
 ## 예문
 - **Je suis célibataire.** — 나는 미혼이에요.

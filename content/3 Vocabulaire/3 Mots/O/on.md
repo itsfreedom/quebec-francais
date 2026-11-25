@@ -15,6 +15,9 @@ meaning: ["우리는 (말할 때)", "사람들은"]
 display: "on"
 display_ipa: "ɔ̃"
 display_say: "on"
+meaning_en: "we, one, people"
+cognate: ""
+faux_ami: ""
 forms: []
 examples:
   - text: "Comment on dit … en français ?"
@@ -31,6 +34,8 @@ aliases: []
 ## 뜻
 1. 우리는 (말할 때)
 2. 사람들은
+
+**English** · we, one, people
 
 ## 예문
 - **Comment on dit … en français ?** — …를 불어로 어떻게 말해요?
