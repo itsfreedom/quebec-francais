@@ -4,6 +4,7 @@ title: "J"
 - [[3 Vocabulaire/3 Mots/J/janvier|janvier]]
 - [[3 Vocabulaire/3 Mots/J/japonais|japonais]]
 - [[3 Vocabulaire/3 Mots/J/je|je]]
+- [[3 Vocabulaire/3 Mots/J/jeu|jeu]]
 - [[3 Vocabulaire/3 Mots/J/jeudi|jeudi]]
 - [[3 Vocabulaire/3 Mots/J/Jordanie|Jordanie]]
 - [[3 Vocabulaire/3 Mots/J/jour|jour]]

@@ -15,6 +15,7 @@ aliases: [서류 작성]
 | [[âge\|l'âge]] (m.) | [🔊 lɑʒ](_Audio/l-age-88a520.m4a) | 나이 · *age* |
 | [[an\|un an]] | [🔊 œ̃n‿ɑ̃](_Audio/un-an-4e5605.m4a) | 해, 살 (나이) |
 | [[appartement\|un appartement]] | [🔊 œ̃n‿apaʁtəmɑ̃](_Audio/un-appartement-464654.m4a) | 아파트 (한 세대), 집 호수 · *apartment* |
+| [[arrondissement\|un arrondissement]] | [🔊 œ̃n‿aʁɔ̃dismɑ̃](_Audio/un-arrondissement-205e13.m4a) | (도시의) 구, 행정 구역 |
 | [[avenue\|une avenue]] | [🔊 ynavny](_Audio/une-avenue-6dc1b6.m4a) | 대로, ~가(街) · *avenue* |
 | [[boulevard\|un boulevard]] | [🔊 œ̃ bulvaʁ](_Audio/un-boulevard-ab4bb8.m4a) | 대로, 큰길 · *boulevard* |
 | [[bureau\|un bureau]] | [🔊 œ̃ byʁo](_Audio/un-bureau-8520ea.m4a) | 사무실, 책상 |
@@ -51,7 +52,6 @@ aliases: [서류 작성]
 | [[renseignement\|un renseignement]] | [🔊 œ̃ ʁɑ̃sɛɲmɑ̃](_Audio/un-renseignement-d3d80e.m4a) | 정보, 안내 |
 | [[route\|une route]] | [🔊 yn ʁut](_Audio/une-route-89b952.m4a) | 도로, 길 · *route* |
 | [[s'inscrire]] | [🔊 sɛ̃skʁiʁ](_Audio/s-inscrire-2acd87.m4a) | 등록하다 |
-| [[secrétaire\|un/une secrétaire]] | [🔊 œ̃ səkʁetɛʁ](_Audio/un-secretaire-973b77.m4a) | 비서, 사무 직원 · *secretary* |
 | [[secrétariat\|le secrétariat]] | [🔊 lə səkʁetaʁja](_Audio/le-secretariat-186062.m4a) | 사무실 (학교 · 기관), 교무실 · *secretariat* |
 | [[sexe\|le sexe]] | [🔊 lə sɛks](_Audio/le-sexe-cf145e.m4a) | 성별 · *sex* |
 | [[signature\|une signature]] | [🔊 yn siɲatyʁ](_Audio/une-signature-10e468.m4a) | 서명 · *signature* |

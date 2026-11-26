@@ -39,4 +39,9 @@ aliases: [숫자]
 | [[mille]] | [🔊 mil](_Audio/mille-cd827c.m4a) | 1000 |
 | [[million]] | [🔊 miljɔ̃](_Audio/million-bafd00.m4a) | 1 000 000 · *million* |
 | [[chiffre\|un chiffre]] | [🔊 œ̃ ʃifʁ](_Audio/un-chiffre-982cbb.m4a) | 숫자 (0~9 한 자리) |
+| [[dernier\|dernier / dernière]] | [🔊 dɛʁnje](_Audio/dernier-048c5f.m4a) | 마지막의 |
+| [[deuxième]] | [🔊 døzjɛm](_Audio/deuxieme-0d69c6.m4a) | 두 번째의 |
 | [[nombre\|un nombre]] | [🔊 œ̃ nɔ̃bʁ](_Audio/un-nombre-cb0865.m4a) | 수 |
+| [[premier\|premier / première]] | [🔊 pʁəmje](_Audio/premier-7168f8.m4a) | 첫 번째의 |
+| [[quatrième]] | [🔊 katʁijɛm](_Audio/quatrieme-4519c5.m4a) | 네 번째의 |
+| [[troisième]] | [🔊 tʁwazjɛm](_Audio/troisieme-659349.m4a) | 세 번째의 |

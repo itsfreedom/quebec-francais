@@ -3,8 +3,10 @@ title: "G"
 ---
 - [[3 Vocabulaire/3 Mots/G/garçon|garçon]]
 - [[3 Vocabulaire/3 Mots/G/genou|genou]]
+- [[3 Vocabulaire/3 Mots/G/gestionnaire|gestionnaire]]
 - [[3 Vocabulaire/3 Mots/G/goût|goût]]
 - [[3 Vocabulaire/3 Mots/G/gratuit|gratuit]]
+- [[3 Vocabulaire/3 Mots/G/groupe|groupe]]
 - [[3 Vocabulaire/3 Mots/G/guinéen|guinéen]]
 - [[3 Vocabulaire/3 Mots/G/guitare|guitare]]
 - [[3 Vocabulaire/3 Mots/G/gym|gym]]

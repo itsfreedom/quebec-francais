@@ -21,9 +21,11 @@ aliases: [동사]
 | [[écrire]] | [🔊 ekʁiʁ](_Audio/ecrire-91ceb2.m4a) | 쓰다 |
 | [[être]] | [🔊 ɛtʁ](_Audio/etre-1e529d.m4a) | ~이다, 있다 |
 | [[faire]] | [🔊 fɛʁ](_Audio/faire-85be86.m4a) | 하다, 만들다 |
+| [[habiter]] | [🔊 abite](_Audio/habiter-ed9477.m4a) | 살다, 거주하다 |
 | [[indiquer]] | [🔊 ɛ̃dike](_Audio/indiquer-841bdd.m4a) | 표시하다, 알려 주다 |
 | [[manger]] | [🔊 mɑ̃ʒe](_Audio/manger-cea28c.m4a) | 먹다 |
 | [[parler]] | [🔊 paʁle](_Audio/parler-4cecc2.m4a) | 말하다 |
+| [[poser]] | [🔊 poze](_Audio/poser-f7370f.m4a) | (질문을) 하다, 놓다 |
 | [[pouvoir]] | [🔊 puvwaʁ](_Audio/pouvoir-a7675d.m4a) | ~할 수 있다 |
 | [[rencontrer]] | [🔊 ʁɑ̃kɔ̃tʁe](_Audio/rencontrer-5e5f65.m4a) | 만나다 |
 | [[s'abonner]] | [🔊 sabɔne](_Audio/s-abonner-72e617.m4a) | 회원 가입하다, 구독하다 |

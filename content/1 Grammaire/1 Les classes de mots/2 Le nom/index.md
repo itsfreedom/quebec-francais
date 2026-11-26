@@ -13,5 +13,6 @@ aliases: [명사, nom (품사)]
 
 ## 이 챕터의 순서
 1. [[01 Genre des noms|명사의 성 (남성 · 여성)]]
+2. [[02 Féminin des métiers|직업 이름의 남성 · 여성]]
 
 함께 볼 것: [[1 Grammaire/1 Les classes de mots/3 Le déterminant/index|한정사]] (le, la, l') · [[1 Grammaire/1 Les classes de mots/5 L'adjectif/index|형용사]] (명사의 성을 따라가요)

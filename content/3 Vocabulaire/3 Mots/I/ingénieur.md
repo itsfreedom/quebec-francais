@@ -20,7 +20,7 @@ cognate: "engineer"
 faux_ami: ""
 forms: []
 examples: []
-theme: "État civil et famille"
+theme: "Professions"
 origin: "class"
 tags: [francisation, word]
 aliases: ["ingenieur", "l'ingénieur"]
@@ -35,4 +35,4 @@ l'ingénieur [🔊 lɛ̃ʒenjœʁ](_Audio/l-ingenieur-2370d6.m4a) · un ingénie
 **English** · engineer · ≈ *engineer* (비슷한 영어 단어)
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]
+📂 주제: [[19 Professions|Professions]] · 🔤 [[3 Vocabulaire/3 Mots/index#I|사전 I]]

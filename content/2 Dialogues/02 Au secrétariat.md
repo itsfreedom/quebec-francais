@@ -21,10 +21,10 @@ aliases: ["어학원 등록"]
 > **Moi** : J'ai quarante-cinq ans. [🔊](_Audio/j-ai-quarante-cinq-ans-485d56.m4a)
 > **La secrétaire** : Quelle est votre adresse ? [🔊](_Audio/quelle-est-votre-adresse-8b7de9.m4a)
 > **Moi** : C'est le 22, rue Sainte-Catherine, à Montréal. [🔊](_Audio/c-est-le-22-rue-sainte-catherine-a-montr-592f49.m4a)
-> 🔢 Moi : C'est le vingt-deux, rue Sainte-Catherine, à Montréal.
+> 🔢 C'est le vingt-deux, rue Sainte-Catherine, à Montréal.
 > **La secrétaire** : Quel est votre numéro de téléphone ? [🔊](_Audio/quel-est-votre-numero-de-telephone-0c4a4c.m4a)
 > **Moi** : C'est le 514 872-1242. [🔊](_Audio/c-est-le-514-872-1242-d8e2a8.m4a)
-> 🔢 Moi : C'est le cinq un quatre, huit sept deux, un deux quatre deux.
+> 🔢 C'est le cinq un quatre, huit sept deux, un deux quatre deux.
 
 ## 포인트
 - 사무실에서는 존댓말 **vous** → [[02 Tu et vous|Tu et vous]]

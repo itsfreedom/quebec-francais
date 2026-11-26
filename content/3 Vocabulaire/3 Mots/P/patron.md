@@ -20,7 +20,7 @@ cognate: ""
 faux_ami: "patron"
 forms: []
 examples: []
-theme: "Personnes"
+theme: "Professions"
 origin: "class"
 tags: [francisation, word]
 aliases: ["le patron"]
@@ -39,4 +39,4 @@ un patron [🔊 œ̃ patʁɔ̃](_Audio/un-patron-37b5e1.m4a) · les patrons [�
 > 영어 patron(후원자 · 단골)이 아니라 **사장, 상사**
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]
+📂 주제: [[19 Professions|Professions]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

@@ -19,6 +19,16 @@ aliases: [Quel et quelle, Adjectifs interrogatifs, 의문형용사, quel quelle]
 
 발음은 둘 다 [kɛl]로 같아요. 쓸 때만 달라요.
 
+## 복수: quels · quelles (11/26 [[2026-11-26|이링]])
+| | 단수 | 복수 |
+|---|---|---|
+| 남성 | quel | **quels** |
+| 여성 | quelle | **quelles** |
+
+- Vous parlez **quelles** [[langue|langues]] ? (les langues, 여성 복수)
+- **Quelle** est ta [[profession]] ? · **Quelle** est ta [[nationalité]] ?
+- 넷 다 소리는 [kɛl]. 모음 앞 복수만 [kɛlz]: quels‿amis
+
 ## 신상 질문에서
 | 질문 | 명사 성 |
 |---|---|

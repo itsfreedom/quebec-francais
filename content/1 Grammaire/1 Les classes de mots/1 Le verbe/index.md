@@ -17,5 +17,6 @@ aliases: [동사, verbe]
 3. [[03 Temps verbaux|시제]]: 과거 · 현재 · 가까운 미래
 4. [[04 Impératif|명령법]]: 지시문 (Écoutez, Répétez)
 5. [[05 Conditionnel de politesse|공손하게 말하기]]: je voudrais, j'aimerais
+6. [[06 Verbes en -er|-er 동사 (1군 · 규칙)]]: parler, habiter
 
 단어 목록: [[03 Verbes|동사 단어]]

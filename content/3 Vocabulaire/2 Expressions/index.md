@@ -15,3 +15,4 @@ aliases: [표현, 문장, 상황별 표현]
 8. [[3 Vocabulaire/2 Expressions/08 Pays d'origine/index|Pays d'origine]] — 출신 나라 (du · de · d' · des) (4개)
 9. [[3 Vocabulaire/2 Expressions/09 Langues parlées/index|Langues parlées]] — 할 줄 아는 언어 · 수준 (5개)
 10. [[3 Vocabulaire/2 Expressions/10 La famille/index|La famille]] — 가족 · 결혼 상태 묻기 (3개)
+11. [[3 Vocabulaire/2 Expressions/11 Recevoir des invités/index|Recevoir des invités]] — 손님 맞이하기 · 파티에서 인사 (4개)

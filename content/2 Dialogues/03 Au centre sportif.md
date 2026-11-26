@@ -15,9 +15,9 @@ aliases: ["헬스장 등록"]
 > **L'employé** : Mais bien sûr ! Voulez-vous un abonnement annuel ou mensuel ? [🔊](_Audio/mais-bien-sur-voulez-vous-un-abonnement--dd7bc5.m4a)
 > **La dame** : J'aimerais m'abonner pour un an, c'est combien ? [🔊](_Audio/j-aimerais-m-abonner-pour-un-an-c-est-co-dfa046.m4a)
 > **L'employé** : C'est 25 dollars par mois ou 250 dollars pour un an. [🔊](_Audio/c-est-25-dollars-par-mois-ou-250-dollars-971d19.m4a)
-> 🔢 L'employé : C'est vingt-cinq dollars par mois ou deux cent cinquante dollars pour un an.
+> 🔢 C'est vingt-cinq dollars par mois ou deux cent cinquante dollars pour un an.
 > **La dame** : 250 dollars pour un an ? Ça veut dire que j'ai deux mois gratuits ? [🔊](_Audio/250-dollars-pour-un-an-ca-veut-dire-que--3a59c7.m4a)
-> 🔢 La dame : deux cent cinquante dollars pour un an ? Ça veut dire que j'ai deux mois gratuits ?
+> 🔢 deux cent cinquante dollars pour un an ? Ça veut dire que j'ai deux mois gratuits ?
 > **L'employé** : Oui, exactement. [🔊](_Audio/oui-exactement-61699a.m4a)
 > **La dame** : C'est bon ! Est-ce que je peux avoir le formulaire d'inscription ? [🔊](_Audio/c-est-bon-est-ce-que-je-peux-avoir-le-fo-4df1bd.m4a)
 > **L'employé** : Avec plaisir, madame. [🔊](_Audio/avec-plaisir-madame-dda709.m4a)

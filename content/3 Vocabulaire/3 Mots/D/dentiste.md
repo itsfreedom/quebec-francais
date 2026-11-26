@@ -20,7 +20,7 @@ cognate: "dentist"
 faux_ami: ""
 forms: []
 examples: []
-theme: "Personnes"
+theme: "Professions"
 origin: "class"
 tags: [francisation, word]
 aliases: ["le/la dentiste"]
@@ -35,4 +35,4 @@ un dentiste [🔊 œ̃ dɑ̃tist](_Audio/un-dentiste-ce74b3.m4a) · une dentiste
 **English** · dentist · ≈ *dentist* (비슷한 영어 단어)
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]
+📂 주제: [[19 Professions|Professions]] · 🔤 [[3 Vocabulaire/3 Mots/index#D|사전 D]]

@@ -20,7 +20,7 @@ cognate: "professor"
 faux_ami: ""
 forms: []
 examples: []
-theme: "État civil et famille"
+theme: "Professions"
 origin: "class"
 tags: [francisation, word]
 aliases: ["le professeur"]
@@ -39,4 +39,4 @@ un professeur [🔊 œ̃ pʁɔfesœʁ](_Audio/un-professeur-87a7e0.m4a) · les p
 🍁 퀘벡에서는 여성형 professeure를 써요. 발음은 같아요
 
 ---
-📂 주제: [[08 État civil et famille|État civil et famille]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]
+📂 주제: [[19 Professions|Professions]] · 🔤 [[3 Vocabulaire/3 Mots/index#P|사전 P]]

@@ -2,11 +2,15 @@
 title: "H"
 ---
 - [[3 Vocabulaire/3 Mots/H/habitation|habitation]]
+- [[3 Vocabulaire/3 Mots/H/habiter|habiter]]
 - [[3 Vocabulaire/3 Mots/H/Haïti|Haïti]]
 - [[3 Vocabulaire/3 Mots/H/haïtien|haïtien]]
 - [[3 Vocabulaire/3 Mots/H/heure|heure]]
 - [[3 Vocabulaire/3 Mots/H/heureux|heureux]]
 - [[3 Vocabulaire/3 Mots/H/hier|hier]]
 - [[3 Vocabulaire/3 Mots/H/hindi|hindi]]
+- [[3 Vocabulaire/3 Mots/H/horloge|horloge]]
 - [[3 Vocabulaire/3 Mots/H/huit|huit]]
+- [[3 Vocabulaire/3 Mots/H/hôte de l'air|hôte de l'air]]
+- [[3 Vocabulaire/3 Mots/H/hôte|hôte]]
 - [[3 Vocabulaire/3 Mots/H/hôtel|hôtel]]

@@ -21,11 +21,11 @@ aliases: [결혼 상태·가족·직업]
 | [[femme\|une femme]] | [🔊 yn fam](_Audio/une-femme-be4ffc.m4a) | 여자, 아내 |
 | [[frère\|un frère]] | [🔊 œ̃ fʁɛʁ](_Audio/un-frere-619283.m4a) | 형제 (형·오빠·남동생) |
 | [[garçon\|un garçon]] | [🔊 œ̃ ɡaʁsɔ̃](_Audio/un-garcon-bcf8ae.m4a) | 소년, 남자아이, 아들 |
-| [[ingénieur\|un(e) ingénieur(e)]] | [🔊 œ̃n‿ɛ̃ʒenjœʁ](_Audio/un-ingenieur-52b320.m4a) | 엔지니어 · *engineer* |
 | [[mariage\|un mariage]] | [🔊 œ̃ maʁjaʒ](_Audio/un-mariage-686b11.m4a) | 결혼, 결혼식 · *marriage* |
 | [[marié\|marié(e)]] | [🔊 maʁje](_Audio/marie-e49c65.m4a) | 결혼한 (기혼) · *married* |
+| [[mère\|une mère]] | [🔊 yn mɛʁ](_Audio/une-mere-cb74c0.m4a) | 어머니 |
 | [[parent\|un parent]] | [🔊 œ̃ paʁɑ̃](_Audio/un-parent-bbeafc.m4a) | 부모 (한 사람) · *parent* |
-| [[professeur\|un(e) professeur(e)]] | [🔊 œ̃ pʁɔfesœʁ](_Audio/un-professeur-87a7e0.m4a) | 선생님, 교수 · *professor* |
+| [[père\|un père]] | [🔊 œ̃ pɛʁ](_Audio/un-pere-4f37cc.m4a) | 아버지 |
 | [[séparé\|séparé(e)]] | [🔊 sepaʁe](_Audio/separe-faa761.m4a) | 별거 중인 · *separated* |
 | [[union\|une union]] | [🔊 ynynjɔ̃](_Audio/une-union-9ace71.m4a) | 결합 · *union* |
 | [[veuf\|veuf / veuve]] | [🔊 vœf](_Audio/veuf-f90b2f.m4a) | 배우자를 잃은 (사별한) |

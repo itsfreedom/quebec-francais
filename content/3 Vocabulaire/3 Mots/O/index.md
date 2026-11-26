@@ -11,4 +11,6 @@ title: "O"
 - [[3 Vocabulaire/3 Mots/O/ouest|ouest]]
 - [[3 Vocabulaire/3 Mots/O/Ouganda|Ouganda]]
 - [[3 Vocabulaire/3 Mots/O/oui|oui]]
+- [[3 Vocabulaire/3 Mots/O/ouvrier|ouvrier]]
+- [[3 Vocabulaire/3 Mots/O/où|où]]
 - [[3 Vocabulaire/3 Mots/O/œuf|œuf]]

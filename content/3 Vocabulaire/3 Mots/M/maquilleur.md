@@ -20,7 +20,7 @@ cognate: ""
 faux_ami: ""
 forms: []
 examples: []
-theme: "Personnes"
+theme: "Professions"
 origin: "class"
 tags: [francisation, word]
 aliases: ["le maquilleur"]
@@ -35,4 +35,4 @@ un maquilleur [🔊 œ̃ makijœʁ](_Audio/un-maquilleur-3316a1.m4a) · les maqu
 **English** · makeup artist
 
 ---
-📂 주제: [[07 Personnes|Personnes]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]
+📂 주제: [[19 Professions|Professions]] · 🔤 [[3 Vocabulaire/3 Mots/index#M|사전 M]]

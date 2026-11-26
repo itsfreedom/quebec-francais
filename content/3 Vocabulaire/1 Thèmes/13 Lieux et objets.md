@@ -20,6 +20,7 @@ aliases: [장소·물건]
 | [[gratuit\|gratuit(e)]] | [🔊 ɡʁatɥi](_Audio/gratuit-59a8c7.m4a) | 무료의 |
 | [[guitare\|une guitare]] | [🔊 yn ɡitaʁ](_Audio/une-guitare-4a8b4b.m4a) | 기타 (악기) · *guitar* |
 | [[gym\|le gym]] | [🔊 lə dʒim](_Audio/le-gym-c3b734.m4a) | 헬스장 · *gym* |
+| [[horloge\|une horloge]] | [🔊 ynɔʁlɔʒ](_Audio/une-horloge-a1125a.m4a) | (벽)시계 |
 | [[hôtel\|un hôtel]] | [🔊 œ̃n‿otɛl](_Audio/un-hotel-0716b9.m4a) | 호텔 · *hotel* |
 | [[lit\|un lit]] | [🔊 œ̃ li](_Audio/un-lit-3ed318.m4a) | 침대 |
 | [[maison\|une maison]] | [🔊 yn mɛzɔ̃](_Audio/une-maison-770823.m4a) | 집 |

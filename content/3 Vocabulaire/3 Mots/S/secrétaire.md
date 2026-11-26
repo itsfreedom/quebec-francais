@@ -20,7 +20,7 @@ cognate: "secretary"
 faux_ami: ""
 forms: []
 examples: []
-theme: "Formulaires et papiers"
+theme: "Professions"
 origin: "class"
 tags: [francisation, word]
 aliases: ["secretaire", "le/la secrétaire"]
@@ -36,4 +36,4 @@ un secrétaire [🔊 œ̃ səkʁetɛʁ](_Audio/un-secretaire-973b77.m4a) · une 
 **English** · secretary · ≈ *secretary* (비슷한 영어 단어)
 
 ---
-📂 주제: [[11 Formulaires et papiers|Formulaires et papiers]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]
+📂 주제: [[19 Professions|Professions]] · 🔤 [[3 Vocabulaire/3 Mots/index#S|사전 S]]

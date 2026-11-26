@@ -10,11 +10,14 @@ aliases: [사전, 단어 색인, 알파벳순]
 ## A
 - [[à]] — ~에, ~에서, ~로
 - [[abonnement|l'abonnement]] — 정기 회원권, 구독
+- [[accueillir]] — 맞이하다, 맞아들이다
+- [[acteur|l'acteur]] — 배우
 - [[actuel]] — 현재의
 - [[adorable]] — 사랑스러운, 귀여운
 - [[adresse|l'adresse]] — 주소
 - [[afghan]] — 아프가니스탄 사람
 - [[âge|l'âge]] — 나이
+- [[agent immobilier|l'agent immobilier]] — 부동산 중개인
 - [[agneau|l'agneau]] — 어린 양, 양고기
 - [[aide|l'aide]] — 도움
 - [[aimer]] — 좋아하다, 사랑하다
@@ -34,12 +37,17 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[appartement|l'appartement]] — 아파트 (한 세대), 집 호수
 - [[arabe|l'arabe]] — 아랍어
 - [[argentin]] — 아르헨티나 사람
+- [[arrondissement|l'arrondissement]] — (도시의) 구, 행정 구역
+- [[artiste|l'artiste]] — 예술가
 - [[associer]] — 연결하다, 짝짓다
+- [[au moins]] — 적어도, 최소한
 - [[aujourd'hui]] — 오늘
 - [[Australie|l'Australie]] — 호주
 - [[auto|l'auto]] — 자동차
+- [[autre]] — 다른
 - [[avec]] — ~와 함께
 - [[avenue|l'avenue]] — 대로, ~가(街)
+- [[avocat|l'avocat]] — 변호사
 - [[avoir]] — 가지다, 있다
 - [[avril]] — 4월
 
@@ -62,11 +70,13 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[bonjour]] — 안녕하세요 (낮 인사)
 - [[bonsoir]] — 안녕하세요 (저녁 인사)
 - [[bosniaque]] — 보스니아 사람
+- [[boulanger|le boulanger]] — 제빵사, 빵집 주인
 - [[boulevard|le boulevard]] — 대로, 큰길
 - [[bureau|le bureau]] — 사무실, 책상
 
 ## C
 - [[ça]] — 그것, 이것
+- [[caissier|le caissier]] — 계산원
 - [[calme]] — 차분한, 조용한
 - [[Canada|le Canada]] — 캐나다
 - [[canadien]] — 캐나다 사람, 캐나다의
@@ -77,11 +87,15 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[centre|le centre]] — 센터, 중심
 - [[ces]] — 이, 그 (복수)
 - [[cette]] — 이, 그 (여성)
+- [[changement|le changement]] — 변화, 바뀜
+- [[chanteur|le chanteur]] — 가수
 - [[chemin|le chemin]] — 길, 경로
+- [[chercheur|le chercheur]] — 연구원
 - [[chiffre|le chiffre]] — 숫자 (0~9 한 자리)
 - [[Chili|le Chili]] — 칠레
 - [[Chine|la Chine]] — 중국
 - [[chinois]] — 중국 사람, 중국어
+- [[chirurgien|le chirurgien]] — 외과 의사
 - [[chocolat|le chocolat]] — 초콜릿
 - [[choisir]] — 고르다
 - [[chum|le chum]] — 남자친구 (퀘벡), 친구
@@ -92,12 +106,15 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[cliquer]] — 클릭하다
 - [[cocher]] — 체크 표시하다 (✓)
 - [[code postal|le code postal]] — 우편번호
+- [[coiffeur|le coiffeur]] — 미용사
 - [[coiffure|la coiffure]] — 헤어스타일, 미용
+- [[collègue|le/la collègue]] — 동료, 같은 반 친구
 - [[colombien]] — 콜롬비아 사람
 - [[combien]] — 얼마, 몇
 - [[comment]] — 어떻게
 - [[compléter]] — 채우다, 완성하다
 - [[comprendre]] — 이해하다
+- [[comptable|le/la comptable]] — 회계사
 - [[compter]] — 세다, 숫자를 세다
 - [[congolais]] — 콩고 사람
 - [[conjoint|le conjoint]] — 배우자
@@ -110,22 +127,31 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[couramment]] — 유창하게
 - [[courriel|le courriel]] — 이메일
 - [[crayon|le crayon]] — 연필
+- [[créateur|le créateur]] — 창작자, 디자이너
 - [[cubain]] — 쿠바 사람
+- [[cuisinier|le cuisinier]] — 요리사
 
 ## D
+- [[dactylo|le/la dactylo]] — 타자수 (옛 직업)
 - [[dame|la dame]] — 부인, 여성 (공손한 말)
 - [[dans]] — ~안에, ~에
+- [[danseur|le danseur]] — 무용수, 댄서
 - [[date|la date]] — 날짜
 - [[de]] — ~에서 (출신), ~의
 - [[décembre]] — 12월
 - [[demain]] — 내일
 - [[dent|la dent]] — 이, 치아
 - [[dentiste|le/la dentiste]] — 치과의사
+- [[depuis]] — ~부터, ~ 이후로, ~ 전부터
+- [[dernier]] — 마지막의
 - [[deux]] — 2
+- [[deuxième]] — 두 번째의
+- [[développeur|le développeur]] — (웹·앱) 개발자
 - [[devoir]] — ~해야 한다
 - [[dialogue|le dialogue]] — 대화, 대화문
 - [[dimanche|le dimanche]] — 일요일
 - [[dire]] — 말하다
+- [[directeur|le directeur]] — (회사·학교) 원장, 책임자
 - [[divorcé]] — 이혼한
 - [[dix]] — 10
 - [[dollar|le dollar]] — 달러
@@ -141,15 +167,19 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[école|l'école]] — 학교
 - [[écouter]] — 듣다
 - [[écrire]] — 쓰다
+- [[écrivain|l'écrivain]] — 작가
 - [[Égypte|l'Égypte]] — 이집트
 - [[élève|l'élève]] — 학생 (수업 듣는 사람)
 - [[elle]] — 그녀는
+- [[elles]] — 그녀들은, 그것들은 (여성 복수)
 - [[en]] — ~에(서), ~로 (언어 · 달)
 - [[enchanté]] — 만나서 반가워요
 - [[enfant|l'enfant]] — 아이, 자녀
+- [[enquête|la enquête]] — 설문 조사, 조사
 - [[enregistrer]] — 녹음하다, 저장하다
 - [[envoyer]] — 보내다
 - [[épeler]] — 철자를 말하다
+- [[épicier|l'épicier]] — 식료품 가게 주인
 - [[équipe|l'équipe]] — 팀, 조
 - [[Érythrée|l'Érythrée]] — 에리트레아
 - [[espagnol|l'espagnol]] — 스페인어
@@ -160,9 +190,11 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[étudiant|l'étudiant]] — 학생 (대학생)
 - [[exactement]] — 정확히, 맞아요
 - [[excellent]] — 아주 뛰어난
+- [[exception|l'exception]] — 예외
 - [[exemple|l'exemple]] — 예, 보기
 
 ## F
+- [[facteur|le facteur]] — 우편집배원
 - [[faim|la faim]] — 배고픔
 - [[faire]] — 하다, 만들다
 - [[famille|la famille]] — 가족
@@ -171,7 +203,9 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[février]] — 2월
 - [[fiche|la fiche]] — 카드, 서식
 - [[fille|la fille]] — 딸, 소녀
+- [[finalement]] — 마침내, 결국
 - [[flèche|la flèche]] — 화살표
+- [[fleuriste|le/la fleuriste]] — 꽃집 주인, 플로리스트
 - [[fond|le fond]] — 바닥, 깊은 곳
 - [[formel]] — 격식 있는 (존댓말)
 - [[formulaire|le formulaire]] — 서식, 신청서
@@ -184,20 +218,26 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[garçon|le garçon]] — 소년, 남자아이, 아들
 - [[gâteau|le gâteau]] — 케이크
 - [[genou|le genou]] — 무릎
+- [[gestionnaire|le/la gestionnaire]] — 관리자, 매니저
 - [[goût|le goût]] — 맛
 - [[gratuit]] — 무료의
+- [[groupe|le groupe]] — 그룹, 무리
 - [[guinéen]] — 기니 사람
 - [[guitare|la guitare]] — 기타 (악기)
 - [[gym|le gym]] — 헬스장
 
 ## H
 - [[habitation|l'habitation]] — 주거, 사는 곳
+- [[habiter]] — 살다, 거주하다
 - [[Haïti]] — 아이티
 - [[haïtien]] — 아이티 사람
 - [[heure|l'heure]] — 시간, ~시
 - [[heureux]] — 행복한
 - [[hier]] — 어제
 - [[hindi|le hindi]] — 힌디어
+- [[horloge|l'horloge]] — (벽)시계
+- [[hôte|l'hôte]] — (손님을 맞는) 주인, 호스트
+- [[hôte de l'air|l'hôte de l'air]] — (비행기) 승무원
 - [[hôtel|l'hôtel]] — 호텔
 - [[huit]] — 8
 
@@ -212,9 +252,12 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[indicatif régional|l'indicatif régional]] — 지역 번호
 - [[indien]] — 인도 사람
 - [[indiquer]] — 표시하다, 알려 주다
+- [[infirmier|l'infirmier]] — 간호사
+- [[informaticien|l'informaticien]] — IT 전문가, 프로그래머
 - [[informel]] — 편한 (반말)
 - [[ingénieur|l'ingénieur]] — 엔지니어
 - [[inscription|l'inscription]] — 등록
+- [[invité|l'invité]] — 손님, 초대받은 사람
 - [[iranien]] — 이란 사람
 - [[italien]] — 이탈리아의, 이탈리아 사람
 
@@ -222,6 +265,7 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[janvier]] — 1월
 - [[japonais]] — 일본 사람, 일본어
 - [[je]] — 나는
+- [[jeu|le jeu]] — 놀이, 게임
 - [[jeudi|le jeudi]] — 목요일
 - [[Jordanie|la Jordanie]] — 요르단
 - [[jour|le jour]] — 날, 일
@@ -233,6 +277,7 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[kenyan]] — 케냐 사람
 
 ## L
+- [[laboratoire|le laboratoire]] — 실험실, 연구소
 - [[langue|la langue]] — 언어
 - [[laotien]] — 라오스 사람
 - [[le]] — 그 (남성 정관사)
@@ -240,11 +285,14 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[les]] — 그 (복수 정관사)
 - [[lettre|la lettre]] — 글자, 편지
 - [[leur]] — 그들의
+- [[leurs]] — 그들의 (복수 명사 앞)
 - [[Liban|le Liban]] — 레바논
 - [[libanais]] — 레바논 사람
 - [[Libye|la Libye]] — 리비아
+- [[lieu|le lieu]] — 장소
 - [[lire]] — 읽다
 - [[lit|le lit]] — 침대
+- [[livreur|le livreur]] — 배달원
 - [[logement|le logement]] — 집, 주택 (한 세대)
 - [[longtemps]] — 오래, 오랫동안
 - [[lundi|le lundi]] — 월요일
@@ -269,9 +317,14 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[masculin]] — 남성의
 - [[maternel]] — 어머니의
 - [[matin|le matin]] — 아침
+- [[mécanicien|le mécanicien]] — 정비사
+- [[médecin|le médecin]] — 의사
 - [[mensuel]] — 매달의, 월간
 - [[merci]] — 고마워요
 - [[mercredi|le mercredi]] — 수요일
+- [[mère|la mère]] — 어머니
+- [[mes]] — 나의 (복수 명사 앞)
+- [[métier|le métier]] — 직업, 일
 - [[mille]] — 1000
 - [[million]] — 1 000 000
 - [[mode|la mode]] — 패션, 유행
@@ -297,6 +350,8 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[nombre|le nombre]] — 수
 - [[non]] — 아니요
 - [[Norvège|la Norvège]] — 노르웨이
+- [[nos]] — 우리의 (복수 명사 앞)
+- [[notre]] — 우리의
 - [[nous]] — 우리는
 - [[novembre]] — 11월
 - [[numéro|le numéro]] — 번호
@@ -309,9 +364,11 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[ordinateur|l'ordinateur]] — 컴퓨터
 - [[origine|l'origine]] — 출신
 - [[ou]] — 또는, 아니면
+- [[où]] — 어디
 - [[ouest|l'ouest]] — 서쪽
 - [[Ouganda|l'Ouganda]] — 우간다
 - [[oui]] — 네
+- [[ouvrier|l'ouvrier]] — (공장) 노동자
 - [[œuf|l'œuf]] — 달걀
 
 ## P
@@ -322,34 +379,47 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[parking|le parking]] — 주차장
 - [[parler]] — 말하다
 - [[partenaire|le/la partenaire]] — 짝, 파트너
+- [[particulier]] — 특별한, 독특한
+- [[party|le party]] — 파티
 - [[pas]] — ~아니다 (부정)
 - [[passé]] — 지난, 과거의
 - [[patron|le patron]] — 사장, 상사
 - [[pays|le pays]] — 나라
 - [[Pays-Bas|les Pays-Bas]] — 네덜란드
+- [[père|le père]] — 아버지
 - [[persan|le persan]] — 페르시아어 (이란어)
+- [[personne|la personne]] — 사람, (문법) 인칭
 - [[petit]] — 작은
 - [[peu]] — 조금, 별로
 - [[peur|la peur]] — 두려움
 - [[philippin]] — 필리핀 사람
 - [[Philippines|les Philippines]] — 필리핀
 - [[photo|la photo]] — 사진
+- [[photographe|le/la photographe]] — 사진작가
+- [[pianiste|le/la pianiste]] — 피아니스트
 - [[pile|la pile]] — 건전지, 더미
 - [[pire]] — 더 나쁜
 - [[placer]] — 놓다, 배치하다
 - [[plaisir|le plaisir]] — 기쁨
+- [[pluriel|le pluriel]] — 복수
 - [[poisson|le poisson]] — 생선, 물고기
 - [[polonais]] — 폴란드 사람, 폴란드어
+- [[pompier|le pompier]] — 소방관
 - [[porte|la porte]] — 문
 - [[portugais]] — 포르투갈 사람, 포르투갈어
+- [[poser]] — (질문을) 하다, 놓다
 - [[poste|le poste]] — (전화) 내선 번호
 - [[pour]] — ~을 위해, ~동안, ~로
 - [[pouvoir]] — ~할 수 있다
 - [[pratiquer]] — 연습하다
+- [[premier]] — 첫 번째의
 - [[prénom|le prénom]] — 이름 (성을 뺀 이름)
 - [[présent]] — 출석한, 있는, 현재의
+- [[présentation|la présentation]] — 소개, 발표
+- [[présenter]] — 소개하다
 - [[produit|le produit]] — 제품
 - [[professeur|le professeur]] — 선생님, 교수
+- [[profession|la profession]] — 직업
 - [[projet|le projet]] — 프로젝트, 계획
 - [[promenade|la promenade]] — 산책로 (길 이름), 산책
 - [[prononcer]] — 발음하다
@@ -365,6 +435,7 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[quatre]] — 4
 - [[quatre-vingt-dix]] — 90
 - [[quatre-vingts]] — 80
+- [[quatrième]] — 네 번째의
 - [[que]] — ~라는 것, 무엇
 - [[québécois]] — 퀘벡 사람, 퀘벡의
 - [[quel]] — 어느, 무슨
@@ -374,7 +445,9 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[quoi]] — 무엇
 
 ## R
+- [[réalisateur|le réalisateur]] — (영화) 감독
 - [[regarder]] — 보다
+- [[régulier]] — 규칙적인
 - [[relier]] — 잇다, 연결하다
 - [[remplir]] — 채우다, 작성하다
 - [[rencontrer]] — 만나다
@@ -383,6 +456,7 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[répondre]] — 대답하다
 - [[réponse|la réponse]] — 대답
 - [[rien]] — 아무것도 (없다)
+- [[rôle|le rôle]] — 역할
 - [[route|la route]] — 도로, 길
 - [[rue|la rue]] — 길, 거리
 - [[russe]] — 러시아 사람, 러시아어
@@ -391,13 +465,17 @@ aliases: [사전, 단어 색인, 알파벳순]
 ## S
 - [[s'abonner]] — 회원 가입하다, 구독하다
 - [[s'appeler]] — 이름이 ~이다
+- [[s'asseoir]] — 앉다
 - [[s'il vous plaît]] — 부탁합니다, ~해 주세요
 - [[s'inscrire]] — 등록하다
+- [[saluer]] — 인사하다
 - [[salut]] — 안녕 (친한 사이, 만날 때·헤어질 때)
 - [[samedi|le samedi]] — 토요일
 - [[sans]] — ~없이
+- [[santé|la santé]] — 건강, 건배! (Santé !)
 - [[savoir]] — 알다
 - [[se débrouiller]] — (그럭저럭) 해내다, 꽤 하다
+- [[se joindre]] — 합류하다, 함께하다
 - [[se présenter]] — 자기소개하다
 - [[secrétaire|le/la secrétaire]] — 비서, 사무 직원
 - [[secrétariat|le secrétariat]] — 사무실 (학교 · 기관), 교무실
@@ -407,8 +485,11 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[sept]] — 7
 - [[septembre]] — 9월
 - [[Serbie|la Serbie]] — 세르비아
+- [[ses]] — 그의, 그녀의 (복수 명사 앞)
+- [[seulement]] — ~만, 오직
 - [[sexe|le sexe]] — 성별
 - [[signature|la signature]] — 서명
+- [[singulier|le singulier]] — 단수
 - [[site|le site]] — 사이트, 장소
 - [[six]] — 6
 - [[slovaque]] — 슬로바키아 사람
@@ -419,6 +500,8 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[soixante]] — 60
 - [[soixante-dix]] — 70
 - [[somalien]] — 소말리아 사람
+- [[son]] — 그의, 그녀의 (남성 명사 앞)
+- [[sonner]] — (초인종을) 누르다, 울리다
 - [[sport|le sport]] — 운동, 스포츠
 - [[sportif]] — 운동의, 운동을 좋아하는
 - [[sud-africain]] — 남아프리카 사람
@@ -433,21 +516,28 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[tâche|la tâche]] — 일, 과제
 - [[tagalog|le tagalog]] — 타갈로그어 (필리핀)
 - [[tamoul|le tamoul]] — 타밀어
+- [[technicien|le technicien]] — 기술자
 - [[téléphone|le téléphone]] — 전화
 - [[temps|le temps]] — 시간, 날씨
+- [[terminaison|la terminaison]] — (단어의) 끝 모양, 어미
+- [[terrasse|la terrasse]] — 테라스
+- [[tes]] — 너의 (복수 명사 앞)
 - [[Thaïlande|la Thaïlande]] — 태국
 - [[thé|le thé]] — 차 (마시는 차)
 - [[Togo|le Togo]] — 토고
 - [[togolais]] — 토고 사람
 - [[toi]] — 너 (강조)
 - [[ton]] — 너의
+- [[tour|le tour]] — 차례, 순서
 - [[tout]] — 모두, 전부
+- [[tout le monde]] — 모두, 모든 사람
 - [[tranquille]] — 조용한, 평온한
 - [[transcrire]] — 옮겨 적다
 - [[treize]] — 13
 - [[trente]] — 30
 - [[très]] — 매우, 아주
 - [[trois]] — 3
+- [[troisième]] — 세 번째의
 - [[tu]] — 너는
 
 ## U
@@ -457,16 +547,22 @@ aliases: [사전, 단어 색인, 알파벳순]
 - [[Uruguay|l'Uruguay]] — 우루과이
 
 ## V
+- [[vendeur|le vendeur]] — 판매원, 점원
 - [[vendredi|le vendredi]] — 금요일
 - [[Venezuela|le Venezuela]] — 베네수엘라
 - [[venir]] — 오다
 - [[vent|le vent]] — 바람
+- [[verbe|le verbe]] — 동사
+- [[verre|le verre]] — (유리)잔, 유리
+- [[vers]] — ~ 쪽으로, ~에게
+- [[vétérinaire|le/la vétérinaire]] — 수의사
 - [[veuf]] — 배우자를 잃은 (사별한)
 - [[Vietnam|le Vietnam]] — 베트남
 - [[vietnamien]] — 베트남 사람, 베트남어
 - [[ville|la ville]] — 도시
 - [[vingt]] — 20
 - [[visionner]] — (영상을) 보다
+- [[voici]] — 여기 ~이 있어요, 이분이 ~예요
 - [[voilà]] — 자, 여기 있어요, 바로 그거예요
 - [[voir]] — 보다
 - [[voix|la voix]] — 목소리
