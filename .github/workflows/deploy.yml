@@ -45,10 +45,12 @@ jobs:
       - name: Make sentences interactive (문장 끝 🔊 · 단어 뜻 말풍선)
         run: python3 scripts/fr_interactive.py content
       - name: Make English site (영문판 · 번역 캐시 i18n/ko-en.json)
+        if: false   # 영문판 당분간 정지 (다시 켤 때 이 줄과 아래 if 줄 삭제 + Head.tsx LANG_ON=true)
         run: python3 scripts/en_site.py content content-en
       - name: Build Quartz (한글판)
         run: npx quartz build
       - name: Build Quartz (English → /en/)
+        if: false
         run: |
           cp quartz.config.en.yaml quartz.config.yaml
           npx quartz build -d content-en -o public/en
