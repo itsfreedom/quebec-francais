@@ -2,3 +2,4 @@ node_modules/
 public/
 quartz/.quartz-cache/
 i18n/missing.json
+__pycache__/
