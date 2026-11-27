@@ -13,7 +13,7 @@ IMAGES = {('20261118', 'Les voyelles orales'): 'voyelles-orales.png',
           ('20261118', 'Les semi-consonnes'): 'semi-consonnes.png'}
 # 이링 수업 칸을 이사벨 수업의 어느 칸 뒤에 붙일지 (없으면 이사벨 칸 다음에 전부)
 AFTER = {'20261118': "Les lettres de l'alphabet", '20261120': 'Les nombres'}
-NOREVIEW = {'20261120'}   # 생년월일 문장이 들어 있어 사용자 확인 전까지 안 올림
+NOREVIEW = set()   # 11/20 생년월일은 교재 문장이라 공개 OK (사용자 확인)
 GROUPS = ['👋 인사', '📅 요일', '🗓 달', '🔢 숫자', '🌍 나라 · 언어', '명사', '동사', '형용사', '그 밖']
 
 def split(path):
